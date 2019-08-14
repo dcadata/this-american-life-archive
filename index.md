@@ -1,5 +1,4 @@
 ---
-layout: nosidebar
 redirect_from: "/tal/"
 ---
 
