@@ -6,6 +6,3 @@ description: Link Archive and Unofficial RSS Feed for This American Life Podcast
 show_downloads: false
 
 email: devon@ankar.io
-
-plugins:
-  - jekyll-redirect-from

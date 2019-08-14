@@ -1,7 +1,3 @@
----
-redirect_from: "/tal/"
----
-
 # Link Archive and Unofficial RSS Feed for *This American Life* Podcast Episodes 1 through Current
 
 * ### [Unofficial RSS Feed](http://dcadata.github.io/this-american-life-archive/TALArchive.xml)
