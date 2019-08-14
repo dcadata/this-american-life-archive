@@ -67,7 +67,3 @@ Yes, I plan to post it in the near future.
 ***
 
 **Last Updated:** July 31, 2019 (Project)
-
-***
-
-[Home](/) > [Back to Data Science Projects](/data-science/) >
