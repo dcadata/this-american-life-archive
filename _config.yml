@@ -1,1 +1,11 @@
 theme: jekyll-theme-merlot
+
+title: Devon Ankar
+author: Devon Ankar
+description: Link Archive and Unofficial RSS Feed for This American Life Podcast
+show_downloads: false
+
+email: devon@ankar.io
+
+plugins:
+  - jekyll-redirect-from
