@@ -10,11 +10,11 @@ redirect_from: "/tal/"
 * ### [Unofficial RSS Feed](http://dcadata.github.io/this-american-life-archive/TALArchive.xml)
   * **This is a valid RSS feed that you can subscribe to with your podcatcher of choice!**
   * Unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit [ThisAmericanLife.org](http://www.thisamericanlife.org) for more information about the podcast.
-  * **[View XML on GitHub](https://github.com/dcadata/dcadata.github.io/blob/master/this-american-life-archive/TALArchive.xml)**
+  * **[View XML on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.xml)**
 
-* ### [Index/table of all episodes](https://github.com/dcadata/dcadata.github.io/blob/master/this-american-life-archive/TALArchive.md)
+* ### [Index/table of all episodes](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.md)
 
-* ### CSV - [view on GitHub](https://github.com/dcadata/dcadata.github.io/blob/master/this-american-life-archive/TALArchive.csv) or [download](TALArchive.csv)
+* ### CSV - [view on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.csv) or [download](TALArchive.csv)
 
 ***
 
