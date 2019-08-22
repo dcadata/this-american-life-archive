@@ -45,10 +45,6 @@ As of 7/31/2019, each episode now only has one URL. If that URL goes down, it wi
 
 This is a possibility. For now, I have a script that checks back through old file URLs each week to make sure they are still accessible. If not, it will check the other 13 possible URLs until it finds a copy of the file.
 
-### Can you post the code?
-
-Yes, I plan to post it in the near future.
-
 ***
 
 **Tools Used:** Python - requests, Beautiful Soup, Pandas
