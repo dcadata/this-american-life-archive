@@ -29,23 +29,30 @@
   <atom:link href="http://dcadata.github.io/this-american-life-archive/TALArchive.xml" rel="self" type="application/rss+xml" />
 
     <item>
+    <title>388: Rest Stop</title>
+    <link>http://tal.fm/388</link>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/388.mp3" length="5000" type="audio/mpeg" />
+    <description>Nine radio reporters. Two days. One rest stop on the New York State Thruway. Stories of people who are just passing through, and the ones who can’t leave, because this is where their jobs are. http://tal.fm/388</description>
+    <pubDate>Sun, 01 Sep 2019 18:00:00 -0400</pubDate>
+  </item>
+  <item>
     <title>682: Ten Sessions</title>
     <link>http://tal.fm/682</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/682.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/682.mp3" length="5000" type="audio/mpeg" />
     <description>What if someone told you about a type of therapy that could help you work through unhealed trauma in just ten sessions? Some people knock through it in two weeks. Jaime Lowe tried the therapy—and recorded it. http://tal.fm/682</description>
     <pubDate>Sun, 25 Aug 2019 18:00:00 -0400</pubDate>
   </item>
   <item>
     <title>681: Escape From the Lab</title>
     <link>http://tal.fm/681</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/681.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/681.mp3" length="5000" type="audio/mpeg" />
     <description>What happens when our most ingenious creations actually make it out into the world. http://tal.fm/681</description>
     <pubDate>Sun, 18 Aug 2019 18:00:00 -0400</pubDate>
   </item>
   <item>
     <title>409: Held Hostage</title>
     <link>http://tal.fm/409</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/409.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/409.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope. http://tal.fm/409</description>
     <pubDate>Sun, 11 Aug 2019 18:00:00 -0400</pubDate>
   </item>
@@ -73,7 +80,7 @@
   <item>
     <title>679: Save the Girl</title>
     <link>http://tal.fm/679</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/679.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/2b146764-3f2d-4757-982e-3b30cc1cd52f/679.mp3" length="5000" type="audio/mpeg" />
     <description>People go on missions to save young girls from danger. But sometimes they get so caught up in the mission that it overshadows the girl herself. http://tal.fm/679</description>
     <pubDate>Sun, 14 Jul 2019 18:00:00 -0400</pubDate>
   </item>
@@ -94,7 +101,7 @@
   <item>
     <title>644: Random Acts of History</title>
     <link>http://tal.fm/644</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/644.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/644.mp3" length="5000" type="audio/mpeg" />
     <description>Stories about people who accidentally bump into unsettling facts of history in settings meant to teach them history. What they end up learning is very different from what they’re supposed to. http://tal.fm/644</description>
     <pubDate>Sun, 23 Jun 2019 18:00:00 -0400</pubDate>
   </item>
@@ -115,7 +122,7 @@
   <item>
     <title>676: Here’s Looking at You, Kid</title>
     <link>http://tal.fm/676</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/3d81439e-3159-401f-b19c-83c9c40789cc/676.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/676.mp3" length="5000" type="audio/mpeg" />
     <description>Adults telling kids who they are, and kids wondering — are they right? http://tal.fm/676</description>
     <pubDate>Sun, 02 Jun 2019 18:00:00 -0400</pubDate>
   </item>
@@ -178,7 +185,7 @@
   <item>
     <title>671: Anything Can Be Anything</title>
     <link>http://tal.fm/671</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/671.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/bdb0ab46-b60e-4801-a1fd-7deb15c3155c/671.mp3" length="5000" type="audio/mpeg" />
     <description>People connecting the dots that maybe should not be connected. http://tal.fm/671</description>
     <pubDate>Sun, 31 Mar 2019 18:00:00 -0400</pubDate>
   </item>
@@ -234,7 +241,7 @@
   <item>
     <title>667: Wartime Radio</title>
     <link>http://tal.fm/667</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/93080455-e91d-40b8-92cd-22d12833b169/667.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/667.mp3" length="5000" type="audio/mpeg" />
     <description>Intimate and personal dispatches from two very different battlefields: A small town in the Syrian war. And the U.S. opioid epidemic. Each came from a DIY radio outfit. (Okay, one’s a podcast.) http://tal.fm/667</description>
     <pubDate>Sun, 03 Feb 2019 18:00:00 -0500</pubDate>
   </item>
@@ -276,7 +283,7 @@
   <item>
     <title>662: Where There Is a Will</title>
     <link>http://tal.fm/662</link>
-    <enclosure url="https://dovetail.prxu.org/188/9ec5b74e-942c-4f13-9e29-7637840c0452/662.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/9ec5b74e-942c-4f13-9e29-7637840c0452/662.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of people who believe there is always a way. And also those who don’t. http://tal.fm/662</description>
     <pubDate>Sun, 18 Nov 2018 18:00:00 -0500</pubDate>
   </item>
@@ -2127,13 +2134,6 @@
     <enclosure url="http://stream.thisamericanlife.org/389/389.mp3" length="5000" type="audio/mpeg" />
     <description>This week we bring you stories about friends. Or wait, enemies? How about both? Tales of estranged sisters, BFFs breaking up and making up and breaking up, and how reality stars walk the fine line between making friends and making a name for themselves. Including a story from David Rakoff, whose new book Half Empty is available now. http://tal.fm/389</description>
     <pubDate>Fri, 11 Sep 2009 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>388: Rest Stop</title>
-    <link>http://tal.fm/388</link>
-    <enclosure url="http://stream.thisamericanlife.org/388/388.mp3" length="5000" type="audio/mpeg" />
-    <description>Nine radio producers. Two days. One rest stop on the New York State Thruway. In this show, we'll bring you stories of people who are just passing through, and people who are at the rest stop every day—working. One of them has worked there since 1969. A bunch of others came from Asia and eastern Europe to pour coffee for travelers. http://tal.fm/388</description>
-    <pubDate>Fri, 04 Sep 2009 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>387: Arms Trader 2009</title>
