@@ -12,7 +12,7 @@
   <copyright>Copyright 1995-2019 Ira Glass</copyright>
   <atom:link href="http://dcadata.github.io/this-american-life-archive/TALArchive.xml" rel="self" type="application/rss+xml" />
 
-    <item>
+  <item>
     <title>477: Getting Away With It</title>
     <link>http://tal.fm/477</link>
     <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/477.mp3" length="5000" type="audio/mpeg" />
