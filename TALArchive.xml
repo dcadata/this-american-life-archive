@@ -10,22 +10,6 @@
   <webMaster>devon@ankar.io</webMaster>
   <managingEditor>devon@ankar.io</managingEditor>
   <copyright>Copyright 1995-2019 Ira Glass</copyright>
-
-  <itunes:owner>
-  <itunes:name>Devon Ankar</itunes:name>
-  <itunes:email>devon@ankar.io</itunes:email>
-  </itunes:owner>
-  <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">WBEZ Chicago Public Radio/Ira Glass</itunes:author>
-  <itunes:category text="Society &amp; Culture">
-  <itunes:category text="Arts" />
-  <itunes:category text="News &amp; Politics" />
-  <itunes:category text="News" />
-  <itunes:category text="Politics" />
-  </itunes:category>
-  <itunes:keywords>
-    this american life, this, american, life, news, politics, society, culture, WBEZ Chicago Public Radio, WBEZ, NPR, archive, episodes, old episodes, archived episodes, this american life archive, this american life old episodes
-  </itunes:keywords>
-  <itunes:explicit>no</itunes:explicit>
   <atom:link href="http://dcadata.github.io/this-american-life-archive/TALArchive.xml" rel="self" type="application/rss+xml" />
 
     <item>
@@ -235,7 +219,9 @@
     <title>419: Petty Tyrant</title>
     <link>http://tal.fm/419</link>
     <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/419.mp3" length="5000" type="audio/mpeg" />
-    <description>In Schenectady, New York, a school mainte-ce man named Steve Raucci works his way up the ranks for 30 years, until finally he's in charge of the mainte-ce department. That's when he starts messing with his employees. Teasing them at meetings. Punishing them with crummy work assignments. Or worse things, like secretly slashing their tires in the middle of the night.  Ten years after his arrest, Steve Raucci broke his silence and gave an interview to Paul Nelson at the Times Union in Albany. http://tal.fm/419</description>
+    <description>In Schenectady, New York, a school mainte-ce man named Steve Raucci works his way up the ranks for 30 years, until finally he's in charge of the mainte-ce department. That's when he starts messing with his employees. Teasing them at meetings. Punishing them with crummy work assignments. Or worse things, like secretly slashing their tires in the middle of the night.
+ 
+ Ten years after his arrest, Steve Raucci broke his silence and gave an interview to Paul Nelson at the Times Union in Albany. http://tal.fm/419</description>
     <pubDate>Sun, 24 Feb 2019 18:00:00 -0500</pubDate>
   </item>
   <item>
