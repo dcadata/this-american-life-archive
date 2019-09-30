@@ -18,6 +18,13 @@
     <atom:link href="http://dcadata.github.io/this-american-life-archive/TALArchive.xml" rel="self" type="application/rss+xml" />
 
     <item>
+    <title>684: Burn It Down</title>
+    <link>http://tal.fm/684</link>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/684.mp3" length="5000" type="audio/mpeg" />
+    <description>Stories of people who decide the only way forward — for real change — is to burn everything to the ground. We go to Amsterdam where the boss of the city’s fire department sets off a war with his own firefighters. http://tal.fm/684</description>
+    <pubDate>Sun, 29 Sep 2019 18:00:00 -0400</pubDate>
+</item>
+<item>
     <title>683: Beer Summit</title>
     <link>http://tal.fm/683</link>
     <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/683.mp3" length="5000" type="audio/mpeg" />
@@ -27,7 +34,7 @@
 <item>
     <title>477: Getting Away With It</title>
     <link>http://tal.fm/477</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/477.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/477.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of people breaking the rules fully, completely and with no bad consequences. Some justify this by saying they’re doing it for others, or for a greater good. Some really don’t care. And, unlike the mealy weaklings you usually hear on this program: None of these wrongdoers seem regretful about what they’ve done in the slightest. http://tal.fm/477</description>
     <pubDate>Sun, 15 Sep 2019 18:00:00 -0400</pubDate>
 </item>
@@ -41,14 +48,14 @@
 <item>
     <title>388: Rest Stop</title>
     <link>http://tal.fm/388</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/388.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/388.mp3" length="5000" type="audio/mpeg" />
     <description>Nine radio reporters. Two days. One rest stop on the New York State Thruway. Stories of people who are just passing through, and the ones who can’t leave, because this is where their jobs are. http://tal.fm/388</description>
     <pubDate>Sun, 01 Sep 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
     <title>682: Ten Sessions</title>
     <link>http://tal.fm/682</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/682.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/682.mp3" length="5000" type="audio/mpeg" />
     <description>What if someone told you about a type of therapy that could help you work through unhealed trauma in just ten sessions? Some people knock through it in two weeks. Jaime Lowe tried the therapy—and recorded it. http://tal.fm/682</description>
     <pubDate>Sun, 25 Aug 2019 18:00:00 -0400</pubDate>
 </item>
@@ -90,7 +97,7 @@
 <item>
     <title>679: Save the Girl</title>
     <link>http://tal.fm/679</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/679.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/2b146764-3f2d-4757-982e-3b30cc1cd52f/679.mp3" length="5000" type="audio/mpeg" />
     <description>People go on missions to save young girls from danger. But sometimes they get so caught up in the mission that it overshadows the girl herself. http://tal.fm/679</description>
     <pubDate>Sun, 14 Jul 2019 18:00:00 -0400</pubDate>
 </item>
@@ -118,7 +125,7 @@
 <item>
     <title>677: Seeing Yourself In the Wild</title>
     <link>http://tal.fm/677</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/2fb54647-3727-419f-9ce0-478abe3d4643/677.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/677.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of those unexpected moments when we see who we really are. http://tal.fm/677</description>
     <pubDate>Sun, 16 Jun 2019 18:00:00 -0400</pubDate>
 </item>
@@ -174,7 +181,7 @@
 <item>
     <title>673: Left Behind</title>
     <link>http://tal.fm/673</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/4ce99385-4ecc-4156-b73d-a7c3ae6aba93/673.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/673.mp3" length="5000" type="audio/mpeg" />
     <description>People figuring out how to move through a world in which something important has disappeared. http://tal.fm/673</description>
     <pubDate>Sun, 21 Apr 2019 18:00:00 -0400</pubDate>
 </item>
@@ -293,7 +300,7 @@
 <item>
     <title>662: Where There Is a Will</title>
     <link>http://tal.fm/662</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/9ec5b74e-942c-4f13-9e29-7637840c0452/662.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://dovetail.prxu.org/188/9ec5b74e-942c-4f13-9e29-7637840c0452/662.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of people who believe there is always a way. And also those who don’t. http://tal.fm/662</description>
     <pubDate>Sun, 18 Nov 2018 18:00:00 -0500</pubDate>
 </item>
