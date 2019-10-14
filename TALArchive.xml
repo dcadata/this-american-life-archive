@@ -18,10 +18,17 @@
     <atom:link href="http://dcadata.github.io/this-american-life-archive/TALArchive.xml" rel="self" type="application/rss+xml" />
 
     <item>
+    <title>685: We Come From Small Places</title>
+    <link>http://tal.fm/685</link>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/685.mp3" length="5000" type="audio/mpeg" />
+    <description>The staff goes to one of the biggest parties in New York City, the Labor Day Carnival and the West Indian American Day Parade in Brooklyn. http://tal.fm/685</description>
+    <pubDate>Sun, 13 Oct 2019 18:00:00 -0400</pubDate>
+</item>
+<item>
     <title>581: Anatomy of Doubt</title>
     <link>http://tal.fm/581</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/581.mp3" length="5000" type="audio/mpeg" />
-    <description>This week, a story about doubt: how it germinated, spread, and eventually took hold of an entire community, with terrible consequences. A collaboration with The Marshall Project and ProPublica. http://tal.fm/581</description>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/581.mp3" length="5000" type="audio/mpeg" />
+    <description>This week, a story about doubt: how it germinated, spread, and eventually took hold of an entire community, with terrible consequences. A collaboration with The Marshall Project and ProPublica, the print version of the story was written by Ken Armstrong and T. Christian Miller. http://tal.fm/581</description>
     <pubDate>Sun, 06 Oct 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
@@ -34,7 +41,7 @@
 <item>
     <title>683: Beer Summit</title>
     <link>http://tal.fm/683</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/683.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/683.mp3" length="5000" type="audio/mpeg" />
     <description>Two people, sitting down over a beer, hashing out their differences and understanding where the other guy is coming from. Hard to imagine these days, right? It's so rare right now that someone is curious enough to actually see the other person's point of view. This week on the show, beer summits. Including going behind the scenes of the most famous one ever. http://tal.fm/683</description>
     <pubDate>Sun, 22 Sep 2019 18:00:00 -0400</pubDate>
 </item>
@@ -69,7 +76,7 @@
 <item>
     <title>681: Escape From the Lab</title>
     <link>http://tal.fm/681</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/942c019f-5342-4408-b144-62485ff28e48/681.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/681.mp3" length="5000" type="audio/mpeg" />
     <description>What happens when our most ingenious creations actually make it out into the world. http://tal.fm/681</description>
     <pubDate>Sun, 18 Aug 2019 18:00:00 -0400</pubDate>
 </item>
@@ -160,7 +167,7 @@
 <item>
     <title>675: I’m on TV??</title>
     <link>http://tal.fm/675</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/675.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/675.mp3" length="5000" type="audio/mpeg" />
     <description>What it's like to be momentarily big on the small screen. http://tal.fm/675</description>
     <pubDate>Sun, 19 May 2019 18:00:00 -0400</pubDate>
 </item>
@@ -279,7 +286,7 @@
 <item>
     <title>666: The Theme That Shall Not Be Named</title>
     <link>http://tal.fm/666</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/621dc3cb-6d0e-4052-85eb-6616a9255ec0/666.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://podcast.thisamericanlife.org/podcast/666.mp3" length="5000" type="audio/mpeg" />
     <description>Satan! In his many surprising manifestations, all around us. http://tal.fm/666</description>
     <pubDate>Sun, 20 Jan 2019 18:00:00 -0500</pubDate>
 </item>
@@ -300,7 +307,7 @@
 <item>
     <title>663: How I Read It</title>
     <link>http://tal.fm/663</link>
-    <enclosure url="http://stream.thisamericanlife.org/podcast/663.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/81e498cf-28b9-493d-8d8c-4d04626c7a52/663.mp3" length="5000" type="audio/mpeg" />
     <description>Documents you don't normally think of, showing you things you didn't expect. http://tal.fm/663</description>
     <pubDate>Sun, 09 Dec 2018 18:00:00 -0500</pubDate>
 </item>
