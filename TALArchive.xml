@@ -104,7 +104,7 @@
 <item>
     <title>680: The Weight Of Words</title>
     <link>http://tal.fm/680</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/680.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/680.mp3" length="5000" type="audio/mpeg" />
     <description>Words mean things, but some words are especially meaningful — whether in a survival manual, a song lyric, or a slur. http://tal.fm/680</description>
     <pubDate>Sun, 28 Jul 2019 18:00:00 -0400</pubDate>
 </item>
@@ -216,7 +216,7 @@
 <item>
     <title>672: No Fair!</title>
     <link>http://tal.fm/672</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/672.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/672.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of very small injustices and also one very big one. http://tal.fm/672</description>
     <pubDate>Sun, 07 Apr 2019 18:00:00 -0400</pubDate>
 </item>
@@ -279,7 +279,7 @@
 <item>
     <title>667: Wartime Radio</title>
     <link>http://tal.fm/667</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/93080455-e91d-40b8-92cd-22d12833b169/667.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://podcast.thisamericanlife.org/extended/667.mp3" length="5000" type="audio/mpeg" />
     <description>Intimate and personal dispatches from two very different battlefields: A small town in the Syrian war. And the U.S. opioid epidemic. Each came from a DIY radio outfit. (Okay, one’s a podcast.) http://tal.fm/667</description>
     <pubDate>Sun, 03 Feb 2019 18:00:00 -0500</pubDate>
 </item>
@@ -321,7 +321,7 @@
 <item>
     <title>662: Where There Is a Will</title>
     <link>http://tal.fm/662</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/9ec5b74e-942c-4f13-9e29-7637840c0452/662.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://dovetail.prxu.org/188/9ec5b74e-942c-4f13-9e29-7637840c0452/662.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of people who believe there is always a way. And also those who don’t. http://tal.fm/662</description>
     <pubDate>Sun, 18 Nov 2018 18:00:00 -0500</pubDate>
 </item>
