@@ -5,9 +5,11 @@
   * Unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit [ThisAmericanLife.org](http://www.thisamericanlife.org) for more information about the podcast.
   * **[View XML on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.xml)**
 
-* ### [Index/table of all episodes](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.md)
+* [Index/table of all episodes](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.md)
 
-* ### CSV - [view on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.csv) or [download](TALArchive.csv)
+* CSV - [view on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.csv) or [download](TALArchive.csv)
+
+* [View repo on GitHub](https://github.com/dcadata/this-american-life-archive/)
 
 ***
 
@@ -31,9 +33,11 @@ I also used the official short URL (`tal.fm/{episode number}`) to scrape informa
 
 ### Why are some episodes missing?
 
-~~Audio files couldn't be located for 7 episodes, so those 7 episodes are missing audio files. If they are ever republished in the RSS feed, they will be added at that time.~~
+[A list of missing episodes is here.](https://github.com/dcadata/this-american-life-archive/blob/master/ref_missing_eps_list.txt)
 
-As of 7/31/2019, there are no missing episodes.
+Each week, the script attempts to automatically clear the missing episodes by finding audio file URLs for them.
+
+11/11/2019- An error was previously made in identifying missing episodes. Missing episodes have now been identified and will attempt to be cleared each week.
 
 ### Why are there multiple entries for some episodes?
 
@@ -55,4 +59,4 @@ This is a possibility. For now, I have a script that checks back through old fil
 
 ***
 
-**Last Updated:** July 31, 2019 (Project)
+**Last Updated:** Nov. 11, 2019
