@@ -37,7 +37,7 @@ I also used the official short URL (`tal.fm/{episode number}`) to scrape informa
 
 Each week, the script attempts to automatically clear the missing episodes by finding audio file URLs for them.
 
-11/11/2019- An error was previously made in identifying missing episodes. Missing episodes have now been identified and will attempt to be cleared each week.
+11/11/2019- An error was previously made in identifying missing episodes. Missing episodes can now be identified (if they arise) and will attempt to be cleared each week.
 
 ### Why are there multiple entries for some episodes?
 
