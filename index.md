@@ -1,15 +1,13 @@
 # Link Archive and Unofficial RSS Feed for *This American Life* Podcast Episodes 1 through Current
 
-* ### [Unofficial RSS Feed](http://dcadata.github.io/this-american-life-archive/TALArchive.xml)
-  * **This is a valid RSS feed that you can subscribe to with your podcatcher of choice!**
+* ## [Unofficial RSS Feed](http://dcadata.github.io/this-american-life-archive/TALArchive.xml)
+  * ### This is a valid RSS feed that you can subscribe to with your podcatcher of choice!
   * Unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit [ThisAmericanLife.org](http://www.thisamericanlife.org) for more information about the podcast.
-  * **[View XML on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.xml)**
+  * [View XML on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.xml)
+
+* **CSV - [view on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.csv) or [download](TALArchive.csv)**
 
 * [Index/table of all episodes](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.md)
-
-* CSV - [view on GitHub](https://github.com/dcadata/this-american-life-archive/blob/master/TALArchive.csv) or [download](TALArchive.csv)
-
-* [View repo on GitHub](https://github.com/dcadata/this-american-life-archive/)
 
 ***
 
