@@ -18,38 +18,45 @@
     <atom:link href="https://dcadata.github.io/this-american-life-archive/TALArchive.xml" rel="self" type="application/rss+xml" />
 
     <item>
+    <title>252: Poultry Slam 2003</title>
+    <link>https://tal.fm/252</link>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/252.mp3" length="5000" type="audio/mpeg" />
+    <description>During the weeks between Thanksgiving and New Year's - the highest turkey consumption period of the year - we bring you an annual This American Life tradition: stories of turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us. https://tal.fm/252</description>
+    <pubDate>Sun, 01 Dec 2019 18:00:00 -0500</pubDate>
+</item>
+<item>
     <title>291: Reunited (And It Feels So Good)</title>
     <link>https://tal.fm/291</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/291.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/291.mp3" length="5000" type="audio/mpeg" />
     <description>Stories about getting back together with your parent, your spouse, your ... Brahman bull. And how it never goes the way you think it's going to. https://tal.fm/291</description>
     <pubDate>Sun, 24 Nov 2019 18:00:00 -0500</pubDate>
 </item>
 <item>
     <title>688: The Out Crowd</title>
     <link>https://tal.fm/688</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/688.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/688.mp3" length="5000" type="audio/mpeg" />
     <description>Reports from the frontlines of the Trump administration's "Remain in Mexico" asylum policy. We hear from asylum seekers waiting across the border in Mexico, in a makeshift refugee camp,  and from the officers who sent them there to wait in the first place. https://tal.fm/688</description>
     <pubDate>Sun, 17 Nov 2019 18:00:00 -0500</pubDate>
 </item>
 <item>
     <title>687: Small Things Considered</title>
     <link>https://tal.fm/687</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/687.mp3" length="5000" type="audio/mpeg" />
-    <description>Stories about being little. Secret writings in tiny letters. The power of a very small number. And one story from a not-so-tall writer. https://tal.fm/687</description>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/687.mp3" length="5000" type="audio/mpeg" />
+    <description>Stories about being little. Secret writings in tiny letters. The power of a very small number. And a medication that's supposed to cure shortness. https://tal.fm/687</description>
     <pubDate>Sun, 10 Nov 2019 18:00:00 -0500</pubDate>
 </item>
 <item>
     <title>239: Lost in America</title>
     <link>https://tal.fm/239</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/239.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/239.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of people who are lost, histories that are lost, and things that are lost. This show was recorded onstage in front of audiences on a five-city tour in May 2003. The cities: Boston, Washington DC, Portland Oregon, Denver and Chicago. Featuring house band OK Go. https://tal.fm/239</description>
     <pubDate>Sun, 03 Nov 2019 17:00:00 -0500</pubDate>
 </item>
 <item>
     <title>319: And the Call Was Coming from the Basement</title>
     <link>https://tal.fm/319</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/319.mp3" length="5000" type="audio/mpeg" />
-    <description>For the week leading up to Halloween, scary stories that are all true. Kidnappings, zombie raccoons, haunted houses—real haunted houses!—and things that go "EEEEK!!!" in the night. Plus, a story by David Sedaris, in which he walks among the dead. https://tal.fm/319</description>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/319.mp3" length="5000" type="audio/mpeg" />
+    <description>For the week leading up to Halloween, scary stories that are all true. Kidnappings, zombie raccoons, haunted houses—real haunted houses!—and things that go "EEEEK!!!" in the night. Plus a story by David Sedaris, in which he walks among the dead. https://tal.fm/319</description>
     <pubDate>Sun, 27 Oct 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
@@ -62,7 +69,7 @@
 <item>
     <title>685: We Come From Small Places</title>
     <link>https://tal.fm/685</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/685.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/12307147-2549-4537-96f6-068dd67832fa/685.mp3" length="5000" type="audio/mpeg" />
     <description>The staff goes to one of the biggest parties in New York City, the Labor Day Carnival and the West Indian American Day Parade in Brooklyn. https://tal.fm/685</description>
     <pubDate>Sun, 13 Oct 2019 18:00:00 -0400</pubDate>
 </item>
@@ -76,8 +83,8 @@
 <item>
     <title>684: Burn It Down</title>
     <link>https://tal.fm/684</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/684.mp3" length="5000" type="audio/mpeg" />
-    <description>Stories of people who decide the only way forward — for real change — is to burn everything to the ground. We go to Amsterdam where the boss of the city’s fire department sets off a war with his own firefighters. https://tal.fm/684</description>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/bcc0951d-57dc-43b6-98b2-91f0b3c32c8b/684.mp3" length="5000" type="audio/mpeg" />
+    <description>Stories of people who decide the only way forward — for real change — is to burn everything to the ground. https://tal.fm/684</description>
     <pubDate>Sun, 29 Sep 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
@@ -97,14 +104,14 @@
 <item>
     <title>205: Plan B</title>
     <link>https://tal.fm/205</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/205.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/205.mp3" length="5000" type="audio/mpeg" />
     <description>There's the thing you plan to do, and then there's the thing you end up doing. Most of us start off our lives with some Plan A, which we abandon...switching to a Plan B, which becomes our life. https://tal.fm/205</description>
     <pubDate>Sun, 08 Sep 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
     <title>388: Rest Stop</title>
     <link>https://tal.fm/388</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/388.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/388.mp3" length="5000" type="audio/mpeg" />
     <description>Nine radio reporters. Two days. One rest stop on the New York State Thruway. Stories of people who are just passing through, and the ones who can’t leave, because this is where their jobs are. https://tal.fm/388</description>
     <pubDate>Sun, 01 Sep 2019 18:00:00 -0400</pubDate>
 </item>
@@ -132,35 +139,35 @@
 <item>
     <title>585: In Defense of Ignorance</title>
     <link>https://tal.fm/585</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/585.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/585.mp3" length="5000" type="audio/mpeg" />
     <description>Exactly how incompetent you are. What your ex’s best friend really thinks of you. The approximate time that you will die. Some things in life are better not to know about. And sometimes there can be a benefit to not knowing. In this episode — examples of ignorance truly being bliss, or even being an asset. https://tal.fm/585</description>
     <pubDate>Sun, 04 Aug 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
     <title>680: The Weight Of Words</title>
     <link>https://tal.fm/680</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/680.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/ced5f3ed-9f30-41fa-8b98-85632f68c8d5/680.mp3" length="5000" type="audio/mpeg" />
     <description>Words mean things, but some words are especially meaningful — whether in a survival manual, a song lyric, or a slur. https://tal.fm/680</description>
     <pubDate>Sun, 28 Jul 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
     <title>165: Americans In Paris</title>
     <link>https://tal.fm/165</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/165.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/165.mp3" length="5000" type="audio/mpeg" />
     <description>Many Americans have dreamy and romantic ideas about Paris, notions which probably trace back to the 1920s vision of Paris created by the expatriate Americans there. But what's it actually like in Paris if you're an American, without rose-colored glasses? https://tal.fm/165</description>
     <pubDate>Sun, 21 Jul 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
     <title>679: Save the Girl</title>
     <link>https://tal.fm/679</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/679.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/2b146764-3f2d-4757-982e-3b30cc1cd52f/679.mp3" length="5000" type="audio/mpeg" />
     <description>People go on missions to save young girls from danger. But sometimes they get so caught up in the mission that it overshadows the girl herself. https://tal.fm/679</description>
     <pubDate>Sun, 14 Jul 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
     <title>678: The Wannabes</title>
     <link>https://tal.fm/678</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/678.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/78b47a85-ae53-41bb-aa45-42673109f693/678.mp3" length="5000" type="audio/mpeg" />
     <description>This country is crawling in presidential candidates right now and they're bumping into each other in Des Moines and yelling over each other in Miami. We hang out with them, in this weird early period of the election when they're easy to walk right up to. https://tal.fm/678</description>
     <pubDate>Sun, 07 Jul 2019 18:00:00 -0400</pubDate>
 </item>
@@ -181,14 +188,14 @@
 <item>
     <title>677: Seeing Yourself In the Wild</title>
     <link>https://tal.fm/677</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/677.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/677.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of those unexpected moments when we see who we really are. https://tal.fm/677</description>
     <pubDate>Sun, 16 Jun 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
     <title>647: LaDonna</title>
     <link>https://tal.fm/647</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/647.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/647.mp3" length="5000" type="audio/mpeg" />
     <description>A security guard at the airport notices something going wrong on the tarmac, and takes it upon herself to fix it. It’s way harder than she expects. https://tal.fm/647</description>
     <pubDate>Sun, 09 Jun 2019 18:00:00 -0400</pubDate>
 </item>
@@ -223,7 +230,7 @@
 <item>
     <title>172: 24 Hours at the Golden Apple</title>
     <link>https://tal.fm/172</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/172.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/172.mp3" length="5000" type="audio/mpeg" />
     <description>We document one day in a Chicago diner called the Golden Apple, starting at 5 a.m. and going until 5 a.m. the next morning. We hear from the waitress who has worked the graveyard shift for over two decades, the regular customers who come every day, the couples working out their problems, assorted drunks, and, of course, cops. https://tal.fm/172</description>
     <pubDate>Sun, 05 May 2019 18:00:00 -0400</pubDate>
 </item>
@@ -244,14 +251,14 @@
 <item>
     <title>589: Tell Me I’m Fat</title>
     <link>https://tal.fm/589</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/589.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/589.mp3" length="5000" type="audio/mpeg" />
     <description>The way people talk about being fat is shifting. With one-third of Americans classified as overweight, and another third as obese, and almost none of us losing weight and keeping it off, maybe it’s time to rethink the way we see being fat. A show inspired by Lindy West’s book Shrill. https://tal.fm/589</description>
     <pubDate>Sun, 14 Apr 2019 18:00:00 -0400</pubDate>
 </item>
 <item>
     <title>672: No Fair!</title>
     <link>https://tal.fm/672</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/03682047-45ac-4c76-b41f-75f90b6502be/672.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/672.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of very small injustices and also one very big one. https://tal.fm/672</description>
     <pubDate>Sun, 07 Apr 2019 18:00:00 -0400</pubDate>
 </item>
@@ -265,7 +272,7 @@
 <item>
     <title>616: I Am Not a Pirate</title>
     <link>https://tal.fm/616</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/616.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/616.mp3" length="5000" type="audio/mpeg" />
     <description>To be, or not to be a pirate? This week, that is the question. Hold fast, mateys! We have stories about both historical and modern-day swashbucklers who loot, pillage, and question their choices. https://tal.fm/616</description>
     <pubDate>Sun, 24 Mar 2019 18:00:00 -0400</pubDate>
 </item>
@@ -286,7 +293,7 @@
 <item>
     <title>669: Scrambling to Get Off the Ice</title>
     <link>https://tal.fm/669</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/669.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/669.mp3" length="5000" type="audio/mpeg" />
     <description>The Democrats on the House Judiciary Committee may have to fight to protect Mueller's investigation and make his report public. Now that they’re in the majority, they have new tools they can use. Our producer Zoe Chace spent weeks behind the scenes with them as they tried out their new powers for the first time. This and other stories of people scrambling to get their footing on some challenging terrain. https://tal.fm/669</description>
     <pubDate>Sun, 03 Mar 2019 18:00:00 -0500</pubDate>
 </item>
@@ -300,7 +307,7 @@
 <item>
     <title>668: The Long Fuse</title>
     <link>https://tal.fm/668</link>
-    <enclosure url="https://podcast.thisamericanlife.org/podcast/668.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/668.mp3" length="5000" type="audio/mpeg" />
     <description>People tossing words out into the world impulsively. And how they ignite and burn. Over decades. https://tal.fm/668</description>
     <pubDate>Sun, 17 Feb 2019 18:00:00 -0500</pubDate>
 </item>
@@ -314,7 +321,7 @@
 <item>
     <title>667: Wartime Radio</title>
     <link>https://tal.fm/667</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/667.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/93080455-e91d-40b8-92cd-22d12833b169/667.mp3" length="5000" type="audio/mpeg" />
     <description>Intimate and personal dispatches from two very different battlefields: A small town in the Syrian war. And the U.S. opioid epidemic. Each came from a DIY radio outfit. (Okay, one’s a podcast.) https://tal.fm/667</description>
     <pubDate>Sun, 03 Feb 2019 18:00:00 -0500</pubDate>
 </item>
@@ -328,14 +335,14 @@
 <item>
     <title>666: The Theme That Shall Not Be Named</title>
     <link>https://tal.fm/666</link>
-    <enclosure url="https://podcast.thisamericanlife.org/extended/666.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://podcast.thisamericanlife.org/podcast/666.mp3" length="5000" type="audio/mpeg" />
     <description>Satan! In his many surprising manifestations, all around us. https://tal.fm/666</description>
     <pubDate>Sun, 20 Jan 2019 18:00:00 -0500</pubDate>
 </item>
 <item>
     <title>665: Before Things Went to Hell</title>
     <link>https://tal.fm/665</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/f07f993c-de02-426b-b426-5328fe8eb950/665.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://podcast.thisamericanlife.org/podcast/665.mp3" length="5000" type="audio/mpeg" />
     <description>We revisit those moments of calm before the storm, when things could have gone very differently, but instead, they went to hell. https://tal.fm/665</description>
     <pubDate>Sun, 13 Jan 2019 18:00:00 -0500</pubDate>
 </item>
@@ -349,7 +356,7 @@
 <item>
     <title>663: How I Read It</title>
     <link>https://tal.fm/663</link>
-    <enclosure url="https://podcast.thisamericanlife.org/podcast/663.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/81e498cf-28b9-493d-8d8c-4d04626c7a52/663.mp3" length="5000" type="audio/mpeg" />
     <description>Documents you don't normally think of, showing you things you didn't expect. https://tal.fm/663</description>
     <pubDate>Sun, 09 Dec 2018 18:00:00 -0500</pubDate>
 </item>
@@ -363,7 +370,7 @@
 <item>
     <title>661: But That's What Happened</title>
     <link>https://tal.fm/661</link>
-    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/c1db3daf-308f-4a69-aff4-cb5ad4030c4d/661.mp3" length="5000" type="audio/mpeg" />
+    <enclosure url="https://dovetail.prxu.org/188/c1db3daf-308f-4a69-aff4-cb5ad4030c4d/661.mp3" length="5000" type="audio/mpeg" />
     <description>Stories of women in unsettling situations. When they try to explain what’s wrong, they’re told that they don’t understand—that there’s nothing unsettling about it. https://tal.fm/661</description>
     <pubDate>Sun, 11 Nov 2018 18:00:00 -0500</pubDate>
 </item>
@@ -3103,13 +3110,6 @@
     <enclosure url="https://stream.thisamericanlife.org/253/253.mp3" length="5000" type="audio/mpeg" />
     <description>Stories from faraway, hard-to-get-to places, where all rules are off, nefarious things happen because no one's looking, and there's no one to appeal to. https://tal.fm/253</description>
     <pubDate>Fri, 05 Dec 2003 00:00:00 +0000</pubDate>
-</item>
-<item>
-    <title>252: Poultry Slam 2003</title>
-    <link>https://tal.fm/252</link>
-    <enclosure url="https://stream.thisamericanlife.org/252/252.mp3" length="5000" type="audio/mpeg" />
-    <description>During the period of the year with the highest turkey consumption, we bring you an annual This American Life tradition: Stories of turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us. https://tal.fm/252</description>
-    <pubDate>Fri, 28 Nov 2003 00:00:00 +0000</pubDate>
 </item>
 <item>
     <title>251: Brother’s Keeper</title>
