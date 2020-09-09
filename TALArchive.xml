@@ -5,7 +5,7 @@
 
     <title>This American Life (Unofficial)</title>
     <link>https://www.thisamericanlife.org</link>
-    <description>***ANNOUNCEMENT*** As of 08 Sep 2020, this feed is no longer maintained. Please use the feed at <a href="https://static.awk.space/tal.xml">https://static.awk.space/tal.xml</a> (no affiliation). Thank you!
+    <description>***ANNOUNCEMENT*** As of 08 Sep 2020, this feed is no longer maintained. Please use the feed at https://static.awk.space/tal.xml (no affiliation). Thank you!
     
     This was an unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit https://www.thisamericanlife.org for more information about the podcast.</description>
     <image>
@@ -20,7 +20,7 @@
     <item>
     <title>***ANNOUNCEMENT*** Feed Is Closing</title>
     <link>https://static.awk.space/tal.xml</link>
-    <description>As of 08 Sep 2020, this feed is no longer maintained. Please use the feed at <a href="https://static.awk.space/tal.xml">https://static.awk.space/tal.xml</a> (no affiliation). Thank you!
+    <description>As of 08 Sep 2020, this feed is no longer maintained. Please use the feed at https://static.awk.space/tal.xml (no affiliation). Thank you!
     </description>
     <pubDate>Tue, 08 Sep 2020 22:00:00 -0400</pubDate>
 </item>
