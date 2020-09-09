@@ -1,5 +1,11 @@
 # Link Archive and Unofficial RSS Feed for *This American Life* Podcast Episodes 1 through Current
 
+## ***ANNOUNCEMENT***
+
+### As of 08 Sep 2020, THIS FEED IS NO LONGER MAINTAINED. PLEASE USE THE FEED AT (https://static.awk.space/tal.xml)[https://static.awk.space/tal.xml] (no affiliation). Thank you!
+
+***
+
 * ## [Unofficial RSS Feed](http://dcadata.github.io/this-american-life-archive/TALArchive.xml)
   * ### This is a valid RSS feed that you can subscribe to with your podcatcher of choice!
   * Unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit [ThisAmericanLife.org](http://www.thisamericanlife.org) for more information about the podcast.

@@ -5,18 +5,22 @@
 
     <title>This American Life (Unofficial)</title>
     <link>https://www.thisamericanlife.org</link>
-    <description>Unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit https://www.thisamericanlife.org for more information about the podcast. Feed URL: tal.ankar.io. Contact devon@ankar.io for any feed issues.</description>
+    <description>***ANNOUNCEMENT*** As of 08 Sep 2020, THIS FEED IS NO LONGER MAINTAINED. PLEASE USE THE FEED AT https://static.awk.space/tal.xml (no affiliation). Thank you!\n\nThis was an unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit https://www.thisamericanlife.org for more information about the podcast.</description>
     <image>
       <url>https://dcadata.github.io/this-american-life-archive/tal_official_image.png</url>
       <title>This American Life Image</title>
       <link>https://www.thisamericanlife.org/</link>
     </image>
     <language>en</language>
-    <webMaster>devon@ankar.io</webMaster>
-    <managingEditor>devon@ankar.io</managingEditor>
     <copyright>Copyright 1995-2019 Ira Glass</copyright>
-    <atom:link href="https://dcadata.github.io/this-american-life-archive/TALArchive.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://static.awk.space/tal.xml" rel="self" type="application/rss+xml" />
 
+    <item>
+    <title>***ANNOUNCEMENT*** Feed Is Closing</title>
+    <link>https://static.awk.space/tal.xml</link>
+    <description>As of 08 Sep 2020, THIS FEED IS NO LONGER MAINTAINED. PLEASE USE THE FEED AT https://static.awk.space/tal.xml (no affiliation). Thank you!</description>
+    <pubDate>Tue, 08 Sep 2020 22:00:00 -0400</pubDate>
+</item>
     <item>
     <title>716: Trail of Tears</title>
     <link>https://tal.fm/716</link>
@@ -574,7 +578,9 @@
     <title>419: Petty Tyrant</title>
     <link>https://tal.fm/419</link>
     <enclosure url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/419.mp3" length="5000" type="audio/mpeg" />
-    <description>In Schenectady, New York, a school mainte-ce man named Steve Raucci works his way up the ranks for 30 years, until finally he's in charge of the mainte-ce department. That's when he starts messing with his employees. Teasing them at meetings. Punishing them with crummy work assignments. Or worse things, like secretly slashing their tires in the middle of the night.  Ten years after his arrest, Steve Raucci broke his silence and gave an interview to Paul Nelson at the Times Union in Albany. https://tal.fm/419</description>
+    <description>In Schenectady, New York, a school mainte-ce man named Steve Raucci works his way up the ranks for 30 years, until finally he's in charge of the mainte-ce department. That's when he starts messing with his employees. Teasing them at meetings. Punishing them with crummy work assignments. Or worse things, like secretly slashing their tires in the middle of the night.
+ 
+ Ten years after his arrest, Steve Raucci broke his silence and gave an interview to Paul Nelson at the Times Union in Albany. https://tal.fm/419</description>
     <pubDate>Sun, 24 Feb 2019 18:00:00 -0500</pubDate>
 </item>
 <item>
