@@ -5,7 +5,9 @@
 
     <title>This American Life (Unofficial)</title>
     <link>https://www.thisamericanlife.org</link>
-    <description>***ANNOUNCEMENT*** As of 08 Sep 2020, THIS FEED IS NO LONGER MAINTAINED. PLEASE USE THE FEED AT https://static.awk.space/tal.xml (no affiliation). Thank you!\n\nThis was an unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit https://www.thisamericanlife.org for more information about the podcast.</description>
+    <description>***ANNOUNCEMENT*** As of 08 Sep 2020, THIS FEED IS NO LONGER MAINTAINED. PLEASE USE THE FEED AT https://static.awk.space/tal.xml (no affiliation). Thank you!
+    
+    This was an unofficial RSS feed for the "This American Life" podcast, going back to the very first episode! Updated Mondays in MP3 format. Visit https://www.thisamericanlife.org for more information about the podcast.</description>
     <image>
       <url>https://dcadata.github.io/this-american-life-archive/tal_official_image.png</url>
       <title>This American Life Image</title>
