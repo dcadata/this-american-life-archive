@@ -2,7 +2,7 @@
 
 ## ***ANNOUNCEMENT***
 
-### As of 08 Sep 2020, this feed is no longer maintained. Please use the feed at [https://static.awk.space/tal.xml](https://static.awk.space/tal.xml) (no affiliation). Thanks!
+### As of 08 Sep 2020, THIS FEED IS NO LONGER MAINTAINED. PLEASE USE THE FEED AT (https://static.awk.space/tal.xml)[https://static.awk.space/tal.xml] (no affiliation). Thank you!
 
 ***
 
