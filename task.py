@@ -1,5 +1,6 @@
 from datetime import datetime
 from time import sleep
+from xml.sax.saxutils import escape
 import pandas as pd
 from bs4 import BeautifulSoup as BS
 from requests import get
@@ -40,7 +41,7 @@ class Reader:
 
     @property
     def _str_fields(self):
-        return ['url', 'full_url', 'title', 'description', 'pubdate', 'download_url']
+        return ['url', 'full_url', 'title', 'description', 'download_url']
 
 
 class Requester(Reader):
@@ -104,8 +105,8 @@ class Writer(Requester):
     def _transform(self):
         df = self.raw.copy()
         for col in self._str_fields:
-            df[col] = df[col].fillna(' ').apply(lambda x: x.strip()).apply(
-                lambda x: x.replace('\u02bc', '').replace('&', '\&'))
+            df[col] = df[col].fillna(' ').apply(lambda x: x.strip()).apply(escape).apply(
+                lambda x: x.replace('\u02bc', ''))
         df.download_url = df.download_url.apply(lambda x: x.split('?', 1)[0])
         df['pubdate_timestamp'] = df.pubdate.apply(pd.to_datetime).apply(lambda x: x.timestamp()).apply(int)
         df = df.sort_values('pubdate_timestamp', ascending=False).drop_duplicates(subset=['num'])
