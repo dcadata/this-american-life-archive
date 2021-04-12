@@ -1,4 +1,3 @@
-from xml.etree.ElementTree import ElementTree
 from datetime import datetime
 from time import sleep
 from xml.sax.saxutils import escape
