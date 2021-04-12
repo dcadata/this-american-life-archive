@@ -62,7 +62,7 @@ class Requester(Reader):
         new = pd.DataFrame(self._new)
         df = new if overwrite else pd.concat((new, self.raw))
         df.to_csv(self._raw_fp, index=False)
-        pd.DataFrame(self._exc).to_csv(self._exceptions_fp, index=False)
+        pd.DataFrame(self._exc).sort_values('num').to_csv(self._exceptions_fp, index=False)
 
 
 class Episode:
@@ -117,7 +117,7 @@ class Writer(Requester):
         items_xml = '\n'.join((item_xml.format(**record) for record in df.to_dict('records')))
         xml_output = _read('feed').format(
             last_refresh=datetime.today().strftime('%Y-%m-%d %H:%M:%S'),
-            missing_nums=', '.join(self._exceptions.num),
+            missing_nums=', '.join(str(i) for i in self._exceptions.num),
             items=items_xml,
         )
         return xml_output
