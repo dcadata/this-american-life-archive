@@ -118,8 +118,7 @@ class Writer(Requester):
         _read = lambda x: open(f'templates/{x}.xml').read()
         item_xml = _read('item')
         items_xml = '\n'.join((item_xml.format(**record) for record in df.to_dict('records')))
-        xml_output = _read('feed').format(
-            items=items_xml, feed_last_updated=datetime.today().strftime('%Y-%m-%d %H:%M:%S'))
+        xml_output = _read('feed').format(items=items_xml, last_refresh=datetime.today().strftime('%Y-%m-%d %H:%M:%S'))
         return xml_output
 
 
