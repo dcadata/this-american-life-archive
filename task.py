@@ -144,9 +144,15 @@ def _get_latest_episode_number():
 
 
 def main():
+    raw = Reader().raw.copy()
+    nums = set(range(1, max(raw.num) + 1)) - set(raw.num)
     latest_num = _get_latest_episode_number()
-    writer = Writer(nums=(latest_num,))
-    if latest_num not in set(writer.raw.num):
+
+    if latest_num not in set(raw.num):
+        nums.add(latest_num)
+
+    writer = Writer(nums=nums)
+    if nums:
         writer.make_requests()
         writer.save_raw()
     writer.transform_and_write()
