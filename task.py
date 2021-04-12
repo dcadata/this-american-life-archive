@@ -14,9 +14,7 @@ class Reader:
 
     @property
     def raw(self):
-        dtypes = self._dtypes.copy()
-        del dtypes['pubdate_timestamp']
-        return pd.read_csv(self._raw_fp, dtype=dtypes)
+        return pd.read_csv(self._raw_fp, dtype=self._dtypes)
 
     @property
     def _transformed(self):
@@ -35,7 +33,6 @@ class Reader:
             'title': str,
             'description': str,
             'pubdate': str,
-            'pubdate_timestamp': int,
             'download_url': str,
         }
 
@@ -110,10 +107,9 @@ class Writer(Requester):
                 lambda x: x.replace('\u02bc', ''))
         df.download_url = df.download_url.apply(lambda x: x.split('?', 1)[0])
         df.pubdate = df.pubdate.apply(lambda x: f'{x} 18:00:00 -0400').apply(pd.to_datetime)
-        df['pubdate_timestamp'] = df.pubdate.apply(lambda x: x.timestamp()).apply(int)
+        df = df.sort_values('pubdate', ascending=False)
         df.pubdate = df.pubdate.apply(lambda x: x.strftime('%a, %d %b %Y %H:%M:%S %z'))
-        df = df.sort_values('pubdate_timestamp', ascending=False).drop_duplicates(subset=['num'])
-        return df[list(self._dtypes)]
+        return df.drop_duplicates(subset=['num'])[list(self._dtypes)]
 
     @staticmethod
     def _write_xml(df):
