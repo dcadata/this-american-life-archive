@@ -111,12 +111,15 @@ class Writer(Requester):
         df.pubdate = df.pubdate.apply(lambda x: x.strftime('%a, %d %b %Y %H:%M:%S %z'))
         return df.drop_duplicates(subset=['num'])[list(self._dtypes)]
 
-    @staticmethod
-    def _write_xml(df):
+    def _write_xml(self, df):
         _read = lambda x: open(f'templates/{x}.xml').read()
         item_xml = _read('item')
         items_xml = '\n'.join((item_xml.format(**record) for record in df.to_dict('records')))
-        xml_output = _read('feed').format(items=items_xml, last_refresh=datetime.today().strftime('%Y-%m-%d %H:%M:%S'))
+        xml_output = _read('feed').format(
+            last_refresh=datetime.today().strftime('%Y-%m-%d %H:%M:%S'),
+            missing_nums=', '.join(self._exceptions.num),
+            items=items_xml,
+        )
         return xml_output
 
 
