@@ -1,0 +1,7 @@
+        <item>
+            <title>{num}: {title}</title>
+            <link>{full_url}</link>
+            <enclosure url="{download_url}" length="5000" type="audio/mpeg"/>
+            <description>{description}</description>
+            <pubDate>{pubdate}</pubDate>
+        </item>

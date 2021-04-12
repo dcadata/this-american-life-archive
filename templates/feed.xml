@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd">
+
+    <channel>
+
+        <title>This American Life (Unofficial)</title>
+        <link>https://www.thisamericanlife.org</link>
+        <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast. Feed last updated {feed_last_updated}. Feed URL: tal.ankar.io. Contact devon@ankar.io for any feed issues.
+        </description>
+        <image>
+            <url>https://ankar.io/this-american-life-archive/templates/tal_official_image.png</url>
+            <title>This American Life Image</title>
+            <link>https://www.thisamericanlife.org/</link>
+        </image>
+        <language>en</language>
+        <copyright>Copyright 1995-2019 Ira Glass</copyright>
+        <atom:link href="http://tal.ankar.io" rel="self" type="application/rss+xml"/>
+
+{items}
+
+    </channel>
+
+</rss>
