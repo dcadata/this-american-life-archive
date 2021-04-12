@@ -5,7 +5,7 @@
 
         <title>This American Life (Unofficial)</title>
         <link>https://www.thisamericanlife.org</link>
-        <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast. Feed last updated 2021-04-12 03:27:12. Feed URL: tal.ankar.io. Contact devon@ankar.io for any feed issues.
+        <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast. Feed last updated 2021-04-12 03:31:36. Feed URL: tal.ankar.io. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1260,7 +1260,7 @@ An episode from last year, with one story swapped.</description>
             <pubDate>May 29, 2015</pubDate>
         </item>
         <item>
-            <title>557: Birds & Bees</title>
+            <title>557: Birds \& Bees</title>
             <link>https://www.thisamericanlife.org/557/birds-bees</link>
             <enclosure url="https://stream.thisamericanlife.org/557/cSrNrxZxmMwRDTaK03EHwDUjGQB217zgGMRWqxmQI6M/557.mp3" length="5000" type="audio/mpeg"/>
             <description>Some information is so big and so complicated that it seems impossible to talk to kids about. This week, stories about the vague and not-so-vague ways we teach children about race, death, and sex.</description>
