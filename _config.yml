@@ -1,8 +1,8 @@
 theme: jekyll-theme-merlot
 
 title: "This American Life" Podcast - Unofficial RSS Feed
-description: "This American Life" Podcast - Unofficial RSS Feed - Episodes 1 to Current
 author: Devon Ankar
+description: "This American Life" Podcast - Unofficial RSS Feed - Episodes 1 to Current
 show_downloads: false
 
 email: devon@ankar.io
