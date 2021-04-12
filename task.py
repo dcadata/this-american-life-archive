@@ -1,3 +1,4 @@
+from xml.etree.ElementTree import ElementTree
 from datetime import datetime
 from time import sleep
 from xml.sax.saxutils import escape
@@ -100,7 +101,8 @@ class Writer(Requester):
     def transform_and_write(self):
         df = self._transform()
         df.to_csv(self._transformed_fp, index=False)
-        open('TALArchive.xml', 'w').write(self._write_xml(df))
+        xml_output = self._write_xml(df)
+        open('TALArchive.xml', 'w').write(xml_output)
 
     def _transform(self):
         df = self.raw.copy()
