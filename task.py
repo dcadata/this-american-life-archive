@@ -28,12 +28,12 @@ class Reader:
     def _dtypes(self):
         return {
             'num': int,
-            'url': str,
-            'full_url': str,
             'title': str,
+            'download_url': str,
             'description': str,
             'pubdate': str,
-            'download_url': str,
+            'url': str,
+            'full_url': str,
         }
 
     @property
