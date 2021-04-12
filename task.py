@@ -104,7 +104,8 @@ class Writer(Requester):
     def _transform(self):
         df = self.raw.copy()
         for col in self._str_fields:
-            df[col] = df[col].fillna(' ').apply(lambda x: x.strip()).apply(lambda x: x.replace('\u02bc', ''))
+            df[col] = df[col].fillna(' ').apply(lambda x: x.strip()).apply(lambda x: x.replace('\u02bc', '')).replace(
+                '&', '\&')
         df.download_url = df.download_url.apply(lambda x: x.split('?', 1)[0])
         df['pubdate_timestamp'] = df.pubdate.apply(pd.to_datetime).apply(lambda x: x.timestamp()).apply(int)
         df = df.sort_values('pubdate_timestamp', ascending=False).drop_duplicates(subset=['num'])
