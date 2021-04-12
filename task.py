@@ -109,7 +109,8 @@ class Writer(Requester):
             df[col] = df[col].fillna(' ').apply(lambda x: x.strip()).apply(escape).apply(
                 lambda x: x.replace('\u02bc', ''))
         df.download_url = df.download_url.apply(lambda x: x.split('?', 1)[0])
-        df['pubdate_timestamp'] = df.pubdate.apply(pd.to_datetime).apply(lambda x: x.timestamp()).apply(int)
+        df.pubdate = df.pubdate.apply(pd.to_datetime)
+        df['pubdate_timestamp'] = df.pubdate.apply(lambda x: x.timestamp()).apply(int)
         df = df.sort_values('pubdate_timestamp', ascending=False).drop_duplicates(subset=['num'])
         return df[list(self._dtypes)]
 
