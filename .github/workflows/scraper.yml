@@ -2,6 +2,7 @@ name: Scraper
 
 on:
   workflow_dispatch:
+  push:
   schedule:
     - cron: '30 3 * * *'
 
