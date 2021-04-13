@@ -17,7 +17,7 @@ class Reader:
         return pd.read_csv(self._raw_fp, dtype=self._dtypes)
 
     @property
-    def _transformed(self):
+    def transformed(self):
         return pd.read_csv(self._transformed_fp, dtype=self._dtypes)
 
     @property
@@ -136,20 +136,21 @@ def _make_one_request(num):
     return data
 
 
-def _get_latest_episode_number():
+def _get_feed_episode_nums():
     r = get('http://feed.thisamericanlife.org/talpodcast')
     sleep(1)
     soup = BS(r.text, 'lxml')
-    return int(soup.find('item').find('title').text.split(':', 1)[0])
+    return {int(elem.find('title').text.split(':', 1)[0]) for elem in soup.find_all('item')}
 
 
 def main():
-    raw = Reader().raw.copy()
-    nums = set(range(1, max(raw.num) + 1)) - set(raw.num)
-    latest_num = _get_latest_episode_number()
+    completed = Reader().transformed.copy()
+    completed_nums = set(completed.num)
+    temp_url_nums = set(completed[~completed.download_url.str.contains('thisamericanlife.org')].num)
+    feed_nums = _get_feed_episode_nums()
 
-    if latest_num not in set(raw.num):
-        nums.add(latest_num)
+    nums = set(range(1, max(completed_nums.union(feed_nums)) + 1)) - completed_nums
+    nums = nums.union(temp_url_nums - feed_nums)
 
     writer = Writer(nums=nums)
     if nums:
