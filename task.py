@@ -150,7 +150,7 @@ def main():
     feed_nums = _get_feed_episode_nums()
 
     nums = set(range(1, max(completed_nums.union(feed_nums)) + 1)) - completed_nums
-    nums = nums.union(temp_url_nums - feed_nums)
+    nums.update(temp_url_nums - feed_nums)
 
     writer = Writer(nums=nums)
     if nums:
