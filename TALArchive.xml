@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-04-26 03:51:25. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-05-03 03:49:49. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -441,7 +441,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>676: Here’s Looking at You, Kid</title>
             <link>https://www.thisamericanlife.org/676/heres-looking-at-you-kid</link>
-            <enclosure url="https://stream.thisamericanlife.org/676/mlnjqys6Rxubdx9g8m_DwLz7NTWR4xsokLepGgj1p-s/676.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/177b5325-7b87-4f5f-9c2f-d41e5023f9a1/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Adults telling kids who they are, and kids wondering — are they right?</description>
             <pubDate>Fri, 31 May 2019 18:00:00 -0400</pubDate>
         </item>
