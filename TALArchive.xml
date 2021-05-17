@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-05-10 03:51:03. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-05-17 03:55:50. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-05-10 03:51:03. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>737: The Daily</title>
+            <link>https://www.thisamericanlife.org/737/the-daily</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/800352df-dd34-4831-ad8a-345eed4a89f2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>An ode to the daily practices and rituals of life—both mundane and special—and what you learn from simply doing a thing every single day.</description>
+            <pubDate>Fri, 14 May 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>736: The Herd</title>
             <link>https://www.thisamericanlife.org/736/the-herd</link>
