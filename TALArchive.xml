@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-05-24 04:02:33. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-05-31 05:26:47. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-05-24 04:02:33. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>738: Good Grief</title>
+            <link>https://www.thisamericanlife.org/738/good-grief</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e210e8b4-f7e0-4664-a837-b2ba85cdca97/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Grief gets a bad rap as something to avoid. But what happens when you confront it? At this moment of unimaginable loss, stories of people reckoning with grief, and what they learn.</description>
+            <pubDate>Fri, 28 May 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>737: The Daily</title>
             <link>https://www.thisamericanlife.org/737/the-daily</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-05-24 04:02:33. Known missing e
         <item>
             <title>729: Making the Cut</title>
             <link>https://www.thisamericanlife.org/729/making-the-cut</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3e5fb947-b661-49af-a0d4-b59fa401508f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/729/I5GLmKze7yxEGcslcD2038EW3n8WL6ppCPunMG6cFWE/729.mp3" length="5000" type="audio/mpeg"/>
             <description>There's always someone whose job it is to decide if you measure up.</description>
             <pubDate>Fri, 08 Jan 2021 18:00:00 -0400</pubDate>
         </item>
@@ -1340,7 +1347,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>549: Amateur Hour</title>
             <link>https://www.thisamericanlife.org/549/amateur-hour</link>
-            <enclosure url="https://stream.thisamericanlife.org/549/549.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/cfdbc488-8876-49ba-ae6e-0f07a812f4fc/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>People put in positions they’re completely unqualified to handle, but who try to make it work anyway. Including one story of a tough group of soldiers who attempt to save lives through the power of show tunes.</description>
             <pubDate>Fri, 27 Feb 2015 18:00:00 -0400</pubDate>
         </item>
