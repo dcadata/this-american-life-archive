@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-05-31 05:26:47. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-06-07 04:55:06. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-05-31 05:26:47. Known missing e
         <item>
             <title>730: The Empty Chair</title>
             <link>https://www.thisamericanlife.org/730/the-empty-chair</link>
-            <enclosure url="https://stream.thisamericanlife.org/730/WQJx6rf1pNIhCuXqiob9_fMBIhiHTHoO4D8It8q8-6Q/730.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04938406-a2b2-4707-94cb-7510b8c4b757/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Things we’ve lost in the past year — since the first American coronavirus case — that we haven’t talked about so much. Gossip. The chance to make new friends. And much larger stuff.</description>
             <pubDate>Fri, 22 Jan 2021 18:00:00 -0400</pubDate>
         </item>
@@ -90,7 +90,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-05-31 05:26:47. Known missing e
         <item>
             <title>728: Lights, Camera, Christmas!</title>
             <link>https://www.thisamericanlife.org/728/lights-camera-christmas</link>
-            <enclosure url="https://stream.thisamericanlife.org/728/s6OKmVQEQVZtC9RwJR28lEvUSTli3y7cCEKSJUFypus/728.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b077686f-1a6a-46e3-be3b-b2b72c1ecc88/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>This holiday season, we bring you a show filled with stories of people going to great lengths to throw a special Christmas for their families.</description>
             <pubDate>Fri, 25 Dec 2020 18:00:00 -0400</pubDate>
         </item>
