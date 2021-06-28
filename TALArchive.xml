@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-06-21 03:43:30. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-06-28 03:39:35. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,28 +76,28 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-06-21 03:43:30. Known missing e
         <item>
             <title>731: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/731/what-lies-beneath</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/42fab800-6cc7-41c4-a6a4-e251988ae1d5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 12 Feb 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>730: The Empty Chair</title>
             <link>https://www.thisamericanlife.org/730/the-empty-chair</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04938406-a2b2-4707-94cb-7510b8c4b757/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/730/WQJx6rf1pNIhCuXqiob9_fMBIhiHTHoO4D8It8q8-6Q/730.mp3" length="5000" type="audio/mpeg"/>
             <description>Things we’ve lost in the past year — since the first American coronavirus case — that we haven’t talked about so much. Gossip. The chance to make new friends. And much larger stuff.</description>
             <pubDate>Fri, 22 Jan 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>729: Making the Cut</title>
             <link>https://www.thisamericanlife.org/729/making-the-cut</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3e5fb947-b661-49af-a0d4-b59fa401508f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/729/I5GLmKze7yxEGcslcD2038EW3n8WL6ppCPunMG6cFWE/729.mp3" length="5000" type="audio/mpeg"/>
             <description>There's always someone whose job it is to decide if you measure up.</description>
             <pubDate>Fri, 08 Jan 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>728: Lights, Camera, Christmas!</title>
             <link>https://www.thisamericanlife.org/728/lights-camera-christmas</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b077686f-1a6a-46e3-be3b-b2b72c1ecc88/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/728/s6OKmVQEQVZtC9RwJR28lEvUSTli3y7cCEKSJUFypus/728.mp3" length="5000" type="audio/mpeg"/>
             <description>This holiday season, we bring you a show filled with stories of people going to great lengths to throw a special Christmas for their families.</description>
             <pubDate>Fri, 25 Dec 2020 18:00:00 -0400</pubDate>
         </item>
