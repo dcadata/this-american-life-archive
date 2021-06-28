@@ -116,7 +116,7 @@ class Writer(Requester):
         item_xml = _read('item')
         items_xml = '\n'.join((item_xml.format(**record) for record in df.to_dict('records')))
         xml_output = _read('feed').format(
-            last_refresh=datetime.today().strftime('%Y-%m-%d %H:%M:%S'),
+            last_refresh=datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'),
             missing_nums=', '.join(str(i) for i in self._exceptions.num),
             items=items_xml,
         )
