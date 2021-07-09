@@ -59,11 +59,13 @@ class Requester(DataReader):
                 })
             sleep(1)
 
-    def save_raw(self, overwrite=None):
-        new = pd.DataFrame(self._new)
-        df = new if overwrite else pd.concat((new, self.raw))
-        df.to_csv(self._raw_fp, index=False)
+    def save_raw(self):
+        pd.concat((self.new, self.raw)).to_csv(self._raw_fp, index=False)
         pd.DataFrame(self._exc).sort_values('num').to_csv(self._exceptions_fp, index=False)
+
+    @property
+    def new(self):
+        return pd.DataFrame(self._new)
 
 
 class Episode:
