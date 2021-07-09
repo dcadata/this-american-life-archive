@@ -8,7 +8,7 @@ from requests import get
 _DATA_DIR = 'data/'
 
 
-class Reader:
+class DataReader:
     _raw_fp = _DATA_DIR + 'raw.csv'
     _transformed_fp = _DATA_DIR + 'transformed.csv'
     _exceptions_fp = _DATA_DIR + 'missing.csv'
@@ -42,7 +42,7 @@ class Reader:
         return ['url', 'full_url', 'title', 'description', 'download_url']
 
 
-class Requester(Reader):
+class Requester(DataReader):
     def __init__(self, **kwargs):
         self._nums = kwargs.get('nums')
         self._new = []
@@ -145,7 +145,7 @@ def _get_feed_episode_nums():
 
 
 def main():
-    completed = Reader().transformed.copy()
+    completed = DataReader().transformed.copy()
     completed_nums = set(completed.num)
     temp_url_nums = set(completed[~completed.download_url.str.contains('thisamericanlife.org')].num)
     feed_nums = _get_feed_episode_nums()
