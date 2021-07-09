@@ -5,12 +5,13 @@ import pandas as pd
 from bs4 import BeautifulSoup as BS
 from requests import get
 
+_DATA_DIR = 'data/'
+
 
 class Reader:
-    _data_dir = 'data/'
-    _raw_fp = _data_dir + 'raw.csv'
-    _transformed_fp = _data_dir + 'transformed.csv'
-    _exceptions_fp = _data_dir + 'missing.csv'
+    _raw_fp = _DATA_DIR + 'raw.csv'
+    _transformed_fp = _DATA_DIR + 'transformed.csv'
+    _exceptions_fp = _DATA_DIR + 'missing.csv'
 
     @property
     def raw(self):
