@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-07-19 03:39:16. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-07-26 03:38:37. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-07-19 03:39:16. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>742: The Thing I'm Getting Over</title>
+            <link>https://www.thisamericanlife.org/742/the-thing-im-getting-over</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e5bdaa48-3cd4-4088-ad45-ac7c59fbf288/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>In this summer when we're trying to recover from everything at once, stories of people trying to define what recovery means for themselves.</description>
+            <pubDate>Fri, 23 Jul 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>741: The Weight of Words</title>
             <link>https://www.thisamericanlife.org/741/the-weight-of-words</link>
@@ -90,7 +97,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-07-19 03:39:16. Known missing e
         <item>
             <title>731: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/731/what-lies-beneath</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/42fab800-6cc7-41c4-a6a4-e251988ae1d5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 12 Feb 2021 18:00:00 -0400</pubDate>
         </item>
