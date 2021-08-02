@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-07-26 03:38:37. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-08-02 03:38:33. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-07-26 03:38:37. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>743: Don't You Be My Neighbor</title>
+            <link>https://www.thisamericanlife.org/743/dont-you-be-my-neighbor</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/91d7b375-835f-4433-928a-3f7cb58cb688/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Bad neighbors. What can you do about them?</description>
+            <pubDate>Fri, 30 Jul 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>742: The Thing I'm Getting Over</title>
             <link>https://www.thisamericanlife.org/742/the-thing-im-getting-over</link>
@@ -83,7 +90,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-07-26 03:38:37. Known missing e
         <item>
             <title>733: Warriors in the Garden</title>
             <link>https://www.thisamericanlife.org/733/warriors-in-the-garden</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4d881daf-2ac5-4003-85ca-fb9a27e07b01/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/733/_ZPnejDSwS8yR1KYUKGfd2BaJGkI4TaMtNwuDMxKn0Y/733.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, three men who came together to protest the murder of George Floyd. They were unified, loud, and impressive, but over time these three friends end up in three very different places.</description>
             <pubDate>Fri, 05 Mar 2021 18:00:00 -0400</pubDate>
         </item>
@@ -111,7 +118,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-07-26 03:38:37. Known missing e
         <item>
             <title>729: Making the Cut</title>
             <link>https://www.thisamericanlife.org/729/making-the-cut</link>
-            <enclosure url="https://stream.thisamericanlife.org/729/I5GLmKze7yxEGcslcD2038EW3n8WL6ppCPunMG6cFWE/729.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3e5fb947-b661-49af-a0d4-b59fa401508f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>There's always someone whose job it is to decide if you measure up.</description>
             <pubDate>Fri, 08 Jan 2021 18:00:00 -0400</pubDate>
         </item>
