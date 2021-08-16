@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-08-09 03:37:54. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-08-16 03:37:07. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-09 03:37:54. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>744: Essential</title>
+            <link>https://www.thisamericanlife.org/744/essential</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/591b3e1b-0a73-4825-b80e-731eef090766/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The pandemic forced jobs to change, but then the workers changed, too.</description>
+            <pubDate>Fri, 13 Aug 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>743: Don't You Be My Neighbor</title>
             <link>https://www.thisamericanlife.org/743/dont-you-be-my-neighbor</link>
@@ -76,21 +83,21 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-09 03:37:54. Known missing e
         <item>
             <title>735: Bloody Feelings</title>
             <link>https://www.thisamericanlife.org/735/bloody-feelings</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/91c7d654-84f6-4f7c-9439-aa6c9d46e15a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about the power of blood, and how the strong feelings it evokes push us to act in sometimes unexpected ways.</description>
+            <enclosure url="https://stream.thisamericanlife.org/735/sGqbgzTi6mioFCixhd864Q7qKQAA_H7QFv1UCI2pUuA/735.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories about the power of blood.</description>
             <pubDate>Fri, 09 Apr 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>734: The Campus Tour Has Been Cancelled</title>
             <link>https://www.thisamericanlife.org/734/the-campus-tour-has-been-cancelled</link>
-            <enclosure url="https://stream.thisamericanlife.org/734/BcOMgt2k77gI5ulH0RI5TsCuK9zmD9x2HAI3aBFzM54/734.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1d7caa2b-58a1-4194-8b09-0eeea5a9e457/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>How the pandemic has thrown college admissions process into a kind of slow-motion chaos. One of the biggest changes: most colleges have stopped requiring the SAT. For decades, there’s been a debate over whether schools should drop the test. What’s it mean that it finally happened?</description>
             <pubDate>Fri, 19 Mar 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>733: Warriors in the Garden</title>
             <link>https://www.thisamericanlife.org/733/warriors-in-the-garden</link>
-            <enclosure url="https://stream.thisamericanlife.org/733/_ZPnejDSwS8yR1KYUKGfd2BaJGkI4TaMtNwuDMxKn0Y/733.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4d881daf-2ac5-4003-85ca-fb9a27e07b01/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, three men who came together to protest the murder of George Floyd. They were unified, loud, and impressive, but over time these three friends end up in three very different places.</description>
             <pubDate>Fri, 05 Mar 2021 18:00:00 -0400</pubDate>
         </item>
@@ -104,7 +111,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-09 03:37:54. Known missing e
         <item>
             <title>731: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/731/what-lies-beneath</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/42fab800-6cc7-41c4-a6a4-e251988ae1d5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 12 Feb 2021 18:00:00 -0400</pubDate>
         </item>
@@ -118,14 +125,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-09 03:37:54. Known missing e
         <item>
             <title>729: Making the Cut</title>
             <link>https://www.thisamericanlife.org/729/making-the-cut</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3e5fb947-b661-49af-a0d4-b59fa401508f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/729/I5GLmKze7yxEGcslcD2038EW3n8WL6ppCPunMG6cFWE/729.mp3" length="5000" type="audio/mpeg"/>
             <description>There's always someone whose job it is to decide if you measure up.</description>
             <pubDate>Fri, 08 Jan 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>728: Lights, Camera, Christmas!</title>
             <link>https://www.thisamericanlife.org/728/lights-camera-christmas</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b077686f-1a6a-46e3-be3b-b2b72c1ecc88/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/728/s6OKmVQEQVZtC9RwJR28lEvUSTli3y7cCEKSJUFypus/728.mp3" length="5000" type="audio/mpeg"/>
             <description>This holiday season, we bring you a show filled with stories of people going to great lengths to throw a special Christmas for their families.</description>
             <pubDate>Fri, 25 Dec 2020 18:00:00 -0400</pubDate>
         </item>
