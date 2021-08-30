@@ -2,7 +2,7 @@ from datetime import datetime
 from time import sleep
 from xml.sax.saxutils import escape
 import pandas as pd
-from bs4 import BeautifulSoup as BS
+from bs4 import BeautifulSoup
 from requests import get
 
 _DATA_DIR = 'data/'
@@ -93,7 +93,7 @@ class Episode:
 
     @property
     def _soup(self):
-        return BS(self._text, 'lxml')
+        return BeautifulSoup(self._text, 'lxml')
 
 
 class Writer(Requester):
@@ -142,7 +142,7 @@ def _make_one_request(num):
 def _get_feed_episode_nums():
     r = get('http://feed.thisamericanlife.org/talpodcast')
     sleep(1)
-    soup = BS(r.text, 'lxml')
+    soup = BeautifulSoup(r.text, 'lxml')
     return {int(elem.find('title').text.split(':', 1)[0]) for elem in soup.find_all('item')}
 
 
