@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-08-23 03:36:01. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-08-30 03:35:52. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-23 03:36:01. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>745: Getting Out</title>
+            <link>https://www.thisamericanlife.org/745/getting-out</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/44ff1685-a22d-46af-8758-53c7fa4ca13e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People trying to escape all kinds of seemingly impossible situations.</description>
+            <pubDate>Fri, 27 Aug 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>744: Essential</title>
             <link>https://www.thisamericanlife.org/744/essential</link>
@@ -70,13 +77,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-23 03:36:01. Known missing e
             <title>737: The Daily</title>
             <link>https://www.thisamericanlife.org/737/the-daily</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/800352df-dd34-4831-ad8a-345eed4a89f2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>An ode to the daily practices and rituals of life—both mundane and special—and what you learn from simply doing a thing every single day.</description>
+            <description>An ode to life's daily practices, and what you learn from doing a thing every single day.</description>
             <pubDate>Fri, 14 May 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>736: The Herd</title>
             <link>https://www.thisamericanlife.org/736/the-herd</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/74c47595-aa61-4ba5-9c41-d57da2f4d124/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/736/HCVNHvdHL58jpMMjiAdr84yObxzpI-jquyXinzIsRYg/736.mp3" length="5000" type="audio/mpeg"/>
             <description>What happens when your own community suddenly turns on you?</description>
             <pubDate>Fri, 23 Apr 2021 18:00:00 -0400</pubDate>
         </item>
@@ -97,28 +104,28 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-23 03:36:01. Known missing e
         <item>
             <title>733: Warriors in the Garden</title>
             <link>https://www.thisamericanlife.org/733/warriors-in-the-garden</link>
-            <enclosure url="https://stream.thisamericanlife.org/733/_ZPnejDSwS8yR1KYUKGfd2BaJGkI4TaMtNwuDMxKn0Y/733.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4d881daf-2ac5-4003-85ca-fb9a27e07b01/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, three men who came together to protest the murder of George Floyd. They were unified, loud, and impressive, but over time these three friends end up in three very different places.</description>
             <pubDate>Fri, 05 Mar 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>732: Secrets</title>
             <link>https://www.thisamericanlife.org/732/secrets</link>
-            <enclosure url="https://stream.thisamericanlife.org/732/pjDJYeZuL-KRqA1PnIKOaAw4oEFMCmlShPQN7F7q1WM/732.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fcc546b4-abdc-4e0d-bf58-61b7138fc0b3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Why we tell them, and what happens after we do.</description>
             <pubDate>Fri, 19 Feb 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>731: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/731/what-lies-beneath</link>
-            <enclosure url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/42fab800-6cc7-41c4-a6a4-e251988ae1d5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 12 Feb 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>730: The Empty Chair</title>
             <link>https://www.thisamericanlife.org/730/the-empty-chair</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04938406-a2b2-4707-94cb-7510b8c4b757/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/730/WQJx6rf1pNIhCuXqiob9_fMBIhiHTHoO4D8It8q8-6Q/730.mp3" length="5000" type="audio/mpeg"/>
             <description>Things we’ve lost in the past year — since the first American coronavirus case — that we haven’t talked about so much. Gossip. The chance to make new friends. And much larger stuff.</description>
             <pubDate>Fri, 22 Jan 2021 18:00:00 -0400</pubDate>
         </item>
