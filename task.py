@@ -39,7 +39,7 @@ class DataReader:
 
     @property
     def _str_fields(self):
-        return ['url', 'full_url', 'title', 'description', 'download_url']
+        return [key for key, value in self._dtypes.items() if value == str]
 
 
 class Requester(DataReader):
@@ -59,13 +59,9 @@ class Requester(DataReader):
                 })
             sleep(1)
 
-    def save_raw(self):
-        pd.concat((self.new, self.raw)).to_csv(self._raw_fp, index=False)
+    def save_raw_and_exceptions(self):
+        pd.concat((pd.DataFrame(self._new), self.raw)).to_csv(self._raw_fp, index=False)
         pd.DataFrame(self._exc).sort_values('num').to_csv(self._exceptions_fp, index=False)
-
-    @property
-    def new(self):
-        return pd.DataFrame(self._new)
 
 
 class Episode:
@@ -158,7 +154,7 @@ def main():
     writer = Writer(nums=nums)
     if nums:
         writer.make_requests()
-        writer.save_raw()
+        writer.save_raw_and_exceptions()
     writer.transform_and_write()
 
 
