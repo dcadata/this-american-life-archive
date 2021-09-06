@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-08-30 03:35:52. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-09-06 03:35:49. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-30 03:35:52. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>746: This Is Just Some Songs</title>
+            <link>https://www.thisamericanlife.org/746/this-is-just-some-songs</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/0dbd0055-be0b-4c5a-af3a-54c530416ffd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>We made you a mixtape. Don't make a big deal out of it or anything.</description>
+            <pubDate>Fri, 03 Sep 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>745: Getting Out</title>
             <link>https://www.thisamericanlife.org/745/getting-out</link>
@@ -76,22 +83,22 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-30 03:35:52. Known missing e
         <item>
             <title>737: The Daily</title>
             <link>https://www.thisamericanlife.org/737/the-daily</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/800352df-dd34-4831-ad8a-345eed4a89f2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/737/ilsf41CRGTB2rowx9ABfmPP037aIN52FUsUGen-RNqs/737.mp3" length="5000" type="audio/mpeg"/>
             <description>An ode to life's daily practices, and what you learn from doing a thing every single day.</description>
             <pubDate>Fri, 14 May 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>736: The Herd</title>
             <link>https://www.thisamericanlife.org/736/the-herd</link>
-            <enclosure url="https://stream.thisamericanlife.org/736/HCVNHvdHL58jpMMjiAdr84yObxzpI-jquyXinzIsRYg/736.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/74c47595-aa61-4ba5-9c41-d57da2f4d124/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>What happens when your own community suddenly turns on you?</description>
             <pubDate>Fri, 23 Apr 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>735: Bloody Feelings</title>
             <link>https://www.thisamericanlife.org/735/bloody-feelings</link>
-            <enclosure url="https://stream.thisamericanlife.org/735/sGqbgzTi6mioFCixhd864Q7qKQAA_H7QFv1UCI2pUuA/735.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about the power of blood.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/91c7d654-84f6-4f7c-9439-aa6c9d46e15a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories about the power of blood, and how the strong feelings it evokes push us to act in sometimes unexpected ways.</description>
             <pubDate>Fri, 09 Apr 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -111,14 +118,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-30 03:35:52. Known missing e
         <item>
             <title>732: Secrets</title>
             <link>https://www.thisamericanlife.org/732/secrets</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fcc546b4-abdc-4e0d-bf58-61b7138fc0b3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/732/pjDJYeZuL-KRqA1PnIKOaAw4oEFMCmlShPQN7F7q1WM/732.mp3" length="5000" type="audio/mpeg"/>
             <description>Why we tell them, and what happens after we do.</description>
             <pubDate>Fri, 19 Feb 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>731: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/731/what-lies-beneath</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/42fab800-6cc7-41c4-a6a4-e251988ae1d5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 12 Feb 2021 18:00:00 -0400</pubDate>
         </item>
@@ -132,7 +139,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-08-30 03:35:52. Known missing e
         <item>
             <title>729: Making the Cut</title>
             <link>https://www.thisamericanlife.org/729/making-the-cut</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3e5fb947-b661-49af-a0d4-b59fa401508f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/729/I5GLmKze7yxEGcslcD2038EW3n8WL6ppCPunMG6cFWE/729.mp3" length="5000" type="audio/mpeg"/>
             <description>There's always someone whose job it is to decide if you measure up.</description>
             <pubDate>Fri, 08 Jan 2021 18:00:00 -0400</pubDate>
         </item>
