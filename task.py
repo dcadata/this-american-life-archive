@@ -3,7 +3,7 @@ from time import sleep
 from xml.sax.saxutils import escape
 import pandas as pd
 from bs4 import BeautifulSoup
-from requests import get
+from requests import get, Session
 
 _DATA_DIR = 'data/'
 
@@ -47,21 +47,33 @@ class Requester(DataReader):
         self._nums = kwargs.get('nums')
         self._new = []
         self._exc = []
+        self._session = None
 
     def make_requests(self):
+        self._session = Session()
         for num in self._nums:
             try:
-                self._new.append(_make_one_request(num))
+                self._new.append(self._make_one_request(num))
             except Exception as exc:
-                self._exc.append({
-                    'num': num,
-                    'exc': str(exc),
-                })
+                self._exc.append({'num': num, 'exc': str(exc)})
             sleep(1)
+        self._session.close()
 
     def save_raw_and_exceptions(self):
         pd.concat((pd.DataFrame(self._new), self.raw)).to_csv(self._raw_fp, index=False)
         pd.DataFrame(self._exc).sort_values('num').to_csv(self._exceptions_fp, index=False)
+
+    def _make_one_request(self, num):
+        url = f'https://www.thisamericanlife.org/episode/{num}'
+        r = self._session.get(url)
+        assert r.ok
+        data = {
+            'num': num,
+            'url': url,
+            'full_url': r.url,
+        }
+        data.update(Episode(text=r.text).data)
+        return data
 
 
 class Episode:
@@ -120,19 +132,6 @@ class Writer(Requester):
             items=items_xml,
         )
         return xml_output
-
-
-def _make_one_request(num):
-    url = f'https://www.thisamericanlife.org/episode/{num}'
-    r = get(url)
-    assert r.ok
-    data = {
-        'num': num,
-        'url': url,
-        'full_url': r.url,
-    }
-    data.update(Episode(text=r.text).data)
-    return data
 
 
 def _get_feed_episode_nums():
