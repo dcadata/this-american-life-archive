@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-09-20 03:35:43. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-09-27 03:35:57. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -88,10 +88,10 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-09-20 03:35:43. Known missing e
             <pubDate>Fri, 11 Jun 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>738: Good Grief</title>
+            <title>738: Good Grief!</title>
             <link>https://www.thisamericanlife.org/738/good-grief</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e210e8b4-f7e0-4664-a837-b2ba85cdca97/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Grief gets a bad rap as something to avoid. But what happens when you confront it? At this moment of unimaginable loss, stories of people reckoning with grief, and what they learn.</description>
+            <enclosure url="https://stream.thisamericanlife.org/738/luajU4wlKeEVoJF7pXpJjLjc_qV-dJexk9pyZE1v_PI/738.mp3" length="5000" type="audio/mpeg"/>
+            <description>So many of us, we don’t want to think about death. We avoid grieving when we lose someone, distract ourselves, look away. In this episode, at a moment when so many families are mourning, we have stories of people figuring out how they’ll grieve, and doing a pretty good job of it.</description>
             <pubDate>Fri, 28 May 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -104,28 +104,28 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-09-20 03:35:43. Known missing e
         <item>
             <title>736: The Herd</title>
             <link>https://www.thisamericanlife.org/736/the-herd</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/74c47595-aa61-4ba5-9c41-d57da2f4d124/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/736/HCVNHvdHL58jpMMjiAdr84yObxzpI-jquyXinzIsRYg/736.mp3" length="5000" type="audio/mpeg"/>
             <description>What happens when your own community suddenly turns on you?</description>
             <pubDate>Fri, 23 Apr 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>735: Bloody Feelings</title>
             <link>https://www.thisamericanlife.org/735/bloody-feelings</link>
-            <enclosure url="https://stream.thisamericanlife.org/735/sGqbgzTi6mioFCixhd864Q7qKQAA_H7QFv1UCI2pUuA/735.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/91c7d654-84f6-4f7c-9439-aa6c9d46e15a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about the power of blood.</description>
             <pubDate>Fri, 09 Apr 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>734: The Campus Tour Has Been Cancelled</title>
             <link>https://www.thisamericanlife.org/734/the-campus-tour-has-been-cancelled</link>
-            <enclosure url="https://stream.thisamericanlife.org/734/BcOMgt2k77gI5ulH0RI5TsCuK9zmD9x2HAI3aBFzM54/734.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1d7caa2b-58a1-4194-8b09-0eeea5a9e457/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>How the pandemic has thrown college admissions process into a kind of slow-motion chaos. One of the biggest changes: most colleges have stopped requiring the SAT. For decades, there’s been a debate over whether schools should drop the test. What’s it mean that it finally happened?</description>
             <pubDate>Fri, 19 Mar 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>733: Warriors in the Garden</title>
             <link>https://www.thisamericanlife.org/733/warriors-in-the-garden</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4d881daf-2ac5-4003-85ca-fb9a27e07b01/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/733/_ZPnejDSwS8yR1KYUKGfd2BaJGkI4TaMtNwuDMxKn0Y/733.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, three men who came together to protest the murder of George Floyd. They were unified, loud, and impressive, but over time these three friends end up in three very different places.</description>
             <pubDate>Fri, 05 Mar 2021 18:00:00 -0400</pubDate>
         </item>
@@ -153,7 +153,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-09-20 03:35:43. Known missing e
         <item>
             <title>729: Making the Cut</title>
             <link>https://www.thisamericanlife.org/729/making-the-cut</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3e5fb947-b661-49af-a0d4-b59fa401508f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/729/I5GLmKze7yxEGcslcD2038EW3n8WL6ppCPunMG6cFWE/729.mp3" length="5000" type="audio/mpeg"/>
             <description>There's always someone whose job it is to decide if you measure up.</description>
             <pubDate>Fri, 08 Jan 2021 18:00:00 -0400</pubDate>
         </item>
