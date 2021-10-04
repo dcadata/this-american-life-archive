@@ -147,12 +147,11 @@ class TALScraper:
 def main():
     self = TALScraper()
     self.session = Session()
-    self.get_nums_to_rsequest()
+    self.get_nums_to_request()
     if self.nums:
         self.make_requests()
         self.save_raw_and_exceptions()
     self.transform_and_write()
-
     self.session.close()
 
 
