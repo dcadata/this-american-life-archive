@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-09-27 03:35:57. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-10-04 03:35:53. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-09-27 03:35:57. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>749: My Bad</title>
+            <link>https://www.thisamericanlife.org/749/my-bad</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/28374335-f021-4c10-8427-7c2742316eab/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>An hour devoted to embarrassing stories. They’re always not just little moments – funny, daily stuff that we laugh about later. Some can change you for the rest of your life.</description>
+            <pubDate>Fri, 01 Oct 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>748: The End of the World as We Know It</title>
             <link>https://www.thisamericanlife.org/748/the-end-of-the-world-as-we-know-it</link>
@@ -88,10 +95,10 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-09-27 03:35:57. Known missing e
             <pubDate>Fri, 11 Jun 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>738: Good Grief!</title>
+            <title>738: Good Grief</title>
             <link>https://www.thisamericanlife.org/738/good-grief</link>
-            <enclosure url="https://stream.thisamericanlife.org/738/luajU4wlKeEVoJF7pXpJjLjc_qV-dJexk9pyZE1v_PI/738.mp3" length="5000" type="audio/mpeg"/>
-            <description>So many of us, we don’t want to think about death. We avoid grieving when we lose someone, distract ourselves, look away. In this episode, at a moment when so many families are mourning, we have stories of people figuring out how they’ll grieve, and doing a pretty good job of it.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e210e8b4-f7e0-4664-a837-b2ba85cdca97/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Grief gets a bad rap as something to avoid. But what happens when you confront it? At this moment of unimaginable loss, stories of people reckoning with grief, and what they learn.</description>
             <pubDate>Fri, 28 May 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -112,7 +119,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-09-27 03:35:57. Known missing e
             <title>735: Bloody Feelings</title>
             <link>https://www.thisamericanlife.org/735/bloody-feelings</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/91c7d654-84f6-4f7c-9439-aa6c9d46e15a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about the power of blood.</description>
+            <description>Stories about the power of blood, and how the strong feelings it evokes push us to act in sometimes unexpected ways.</description>
             <pubDate>Fri, 09 Apr 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -139,7 +146,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-09-27 03:35:57. Known missing e
         <item>
             <title>731: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/731/what-lies-beneath</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/42fab800-6cc7-41c4-a6a4-e251988ae1d5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 12 Feb 2021 18:00:00 -0400</pubDate>
         </item>
@@ -1417,7 +1424,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>549: Amateur Hour</title>
             <link>https://www.thisamericanlife.org/549/amateur-hour</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/cfdbc488-8876-49ba-ae6e-0f07a812f4fc/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/549/xB8x7WQefCcqKTI9cgbGUbu-L1584z9JU1QiNnHb8b8/549.mp3" length="5000" type="audio/mpeg"/>
             <description>People put in positions they’re completely unqualified to handle, but who try to make it work anyway. Including one story of a tough group of soldiers who attempt to save lives through the power of show tunes.</description>
             <pubDate>Fri, 27 Feb 2015 18:00:00 -0400</pubDate>
         </item>
