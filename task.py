@@ -145,14 +145,14 @@ class TALScraper:
 
 
 def main():
-    self = TALScraper()
-    self.session = Session()
-    self.get_nums_to_request()
-    if self.nums:
-        self.make_requests()
-        self.save_raw_and_exceptions()
-    self.transform_and_write()
-    self.session.close()
+    scraper = TALScraper()
+    scraper.session = Session()
+    scraper.get_nums_to_request()
+    if scraper.nums:
+        scraper.make_requests()
+        scraper.save_raw_and_exceptions()
+    scraper.transform_and_write()
+    scraper.session.close()
 
 
 if __name__ == '__main__':
