@@ -6,8 +6,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from requests import Session
 
-_DATA_DIR = 'data/'
-
 
 class Episode:
     def __init__(self, **kwargs):
@@ -38,9 +36,9 @@ class Episode:
 
 
 class TALScraper:
-    _raw_fp = _DATA_DIR + 'raw.csv'
-    _transformed_fp = _DATA_DIR + 'transformed.csv'
-    _exceptions_fp = _DATA_DIR + 'missing.csv'
+    _raw_fp = 'data/raw.csv'
+    _transformed_fp = 'data/transformed.csv'
+    _exceptions_fp = 'data/missing.csv'
 
     def __init__(self, **kwargs):
         self.session = kwargs.get('session')
