@@ -4,7 +4,7 @@ from xml.sax.saxutils import escape
 
 import pandas as pd
 from bs4 import BeautifulSoup
-from requests import get, Session
+from requests import Session
 
 _DATA_DIR = 'data/'
 
@@ -74,19 +74,17 @@ class DataReader:
 class Requester(DataReader):
     def __init__(self, **kwargs):
         self._nums = kwargs.get('nums')
+        self._session = kwargs.get('session')
         self._new = []
         self._exc = []
-        self._session = None
 
     def make_requests(self):
-        self._session = Session()
         for num in self._nums:
             try:
                 self._new.append(self._make_one_request(num))
             except Exception as exc:
                 self._exc.append({'num': num, 'exc': str(exc)})
             sleep(1)
-        self._session.close()
 
     def save_raw_and_exceptions(self):
         pd.concat((pd.DataFrame(self._new), self.raw)).to_csv(self._raw_fp, index=False)
@@ -135,27 +133,31 @@ class Writer(Requester):
         return xml_output
 
 
-def _get_feed_episode_nums():
-    r = get('http://feed.thisamericanlife.org/talpodcast')
+def _get_feed_episode_nums(session):
+    r = session.get('http://feed.thisamericanlife.org/talpodcast')
     sleep(1)
     soup = BeautifulSoup(r.text, 'lxml')
     return {int(elem.find('title').text.split(':', 1)[0]) for elem in soup.find_all('item')}
 
 
 def main():
+    session = Session()
+
     completed = DataReader().transformed.copy()
     completed_nums = set(completed.num)
     temp_url_nums = set(completed[~completed.download_url.str.contains('thisamericanlife.org')].num)
-    feed_nums = _get_feed_episode_nums()
+    feed_nums = _get_feed_episode_nums(session)
 
     nums = set(range(1, max(completed_nums.union(feed_nums)) + 1)) - completed_nums
     nums.update(temp_url_nums - feed_nums)
 
-    writer = Writer(nums=nums)
+    writer = Writer(nums=nums, session=session)
     if nums:
         writer.make_requests()
         writer.save_raw_and_exceptions()
     writer.transform_and_write()
+
+    session.close()
 
 
 if __name__ == '__main__':
