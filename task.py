@@ -43,13 +43,19 @@ class TALScraper:
     _exceptions_fp = _DATA_DIR + 'missing.csv'
 
     def __init__(self, **kwargs):
-        self._nums = kwargs.get('nums')
-        self._session = kwargs.get('session')
+        self.session = kwargs.get('session')
+        self.nums = kwargs.get('nums')
         self._new = []
         self._exc = []
 
+    def get_feed_episode_nums(self):
+        r = self.session.get('http://feed.thisamericanlife.org/talpodcast')
+        sleep(1)
+        soup = BeautifulSoup(r.text, 'lxml')
+        return {int(elem.find('title').text.split(':', 1)[0]) for elem in soup.find_all('item')}
+
     def make_requests(self):
-        for num in self._nums:
+        for num in self.nums:
             try:
                 self._new.append(self._make_one_request(num))
             except Exception as exc:
@@ -68,7 +74,7 @@ class TALScraper:
 
     def _make_one_request(self, num):
         url = f'https://www.thisamericanlife.org/episode/{num}'
-        r = self._session.get(url)
+        r = self.session.get(url)
         assert r.ok
         data = {
             'num': num,
@@ -129,31 +135,24 @@ class TALScraper:
         return [key for key, value in self._dtypes.items() if value == str]
 
 
-def _get_feed_episode_nums(session):
-    r = session.get('http://feed.thisamericanlife.org/talpodcast')
-    sleep(1)
-    soup = BeautifulSoup(r.text, 'lxml')
-    return {int(elem.find('title').text.split(':', 1)[0]) for elem in soup.find_all('item')}
-
-
 def main():
-    session = Session()
+    scraper = TALScraper()
+    scraper.session = Session()
 
-    completed = TALScraper().transformed.copy()
+    completed = scraper.transformed.copy()
     completed_nums = set(completed.num)
     temp_url_nums = set(completed[~completed.download_url.str.contains('thisamericanlife.org')].num)
-    feed_nums = _get_feed_episode_nums(session)
+    feed_nums = scraper.get_feed_episode_nums()
 
-    nums = set(range(1, max(completed_nums.union(feed_nums)) + 1)) - completed_nums
-    nums.update(temp_url_nums - feed_nums)
+    scraper.nums = set(range(1, max(completed_nums.union(feed_nums)) + 1)) - completed_nums
+    scraper.nums.update(temp_url_nums - feed_nums)
 
-    writer = TALScraper(nums=nums, session=session)
-    if nums:
-        writer.make_requests()
-        writer.save_raw_and_exceptions()
-    writer.transform_and_write()
+    if scraper.nums:
+        scraper.make_requests()
+        scraper.save_raw_and_exceptions()
+    scraper.transform_and_write()
 
-    session.close()
+    scraper.session.close()
 
 
 if __name__ == '__main__':
