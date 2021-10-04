@@ -1,11 +1,40 @@
 from datetime import datetime
 from time import sleep
 from xml.sax.saxutils import escape
+
 import pandas as pd
 from bs4 import BeautifulSoup
 from requests import get, Session
 
 _DATA_DIR = 'data/'
+
+
+class Episode:
+    def __init__(self, **kwargs):
+        self._text = kwargs.get('text')
+
+    @property
+    def data(self):
+        title_section = self._soup.find('div', class_='episode-title')
+        container = title_section.find_parent('div', class_='container')
+
+        try:
+            description = container.find('div', class_='field-name-body').text
+        except AttributeError:
+            description = ''
+
+        data = {
+            'pubdate': container.find('div', class_='meta').find('div', class_='field-name-field-radio-air-date').find(
+                'span', class_='date-display-single').text,
+            'title': title_section.find('h1').text,
+            'description': description,
+            'download_url': container.find('ul', class_='actions').find('li', class_='download').find('a').get('href'),
+        }
+        return data
+
+    @property
+    def _soup(self):
+        return BeautifulSoup(self._text, 'lxml')
 
 
 class DataReader:
@@ -74,34 +103,6 @@ class Requester(DataReader):
         }
         data.update(Episode(text=r.text).data)
         return data
-
-
-class Episode:
-    def __init__(self, **kwargs):
-        self._text = kwargs.get('text')
-
-    @property
-    def data(self):
-        title_section = self._soup.find('div', class_='episode-title')
-        container = title_section.find_parent('div', class_='container')
-
-        try:
-            description = container.find('div', class_='field-name-body').text
-        except AttributeError:
-            description = ''
-
-        data = {
-            'pubdate': container.find('div', class_='meta').find('div', class_='field-name-field-radio-air-date').find(
-                'span', class_='date-display-single').text,
-            'title': title_section.find('h1').text,
-            'description': description,
-            'download_url': container.find('ul', class_='actions').find('li', class_='download').find('a').get('href'),
-        }
-        return data
-
-    @property
-    def _soup(self):
-        return BeautifulSoup(self._text, 'lxml')
 
 
 class Writer(Requester):
