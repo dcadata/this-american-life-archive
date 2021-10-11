@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-10-04 03:35:53. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-10-11 03:35:51. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -90,21 +90,21 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-04 03:35:53. Known missing e
         <item>
             <title>739: Sisters</title>
             <link>https://www.thisamericanlife.org/739/sisters</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e57b5784-37ce-4e79-a45b-9ca742be634e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/739/d7QFYxUcHJJF4L5MYTDZCgb68MBnUE8zvGceS0I_Fhk/739.mp3" length="5000" type="audio/mpeg"/>
             <description>Sisters build worlds together, worlds that are just for them. Stories about the bonds between sisters and how they get broken and fixed—or not.</description>
             <pubDate>Fri, 11 Jun 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>738: Good Grief</title>
+            <title>738: Good Grief!</title>
             <link>https://www.thisamericanlife.org/738/good-grief</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e210e8b4-f7e0-4664-a837-b2ba85cdca97/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Grief gets a bad rap as something to avoid. But what happens when you confront it? At this moment of unimaginable loss, stories of people reckoning with grief, and what they learn.</description>
+            <enclosure url="https://stream.thisamericanlife.org/738/luajU4wlKeEVoJF7pXpJjLjc_qV-dJexk9pyZE1v_PI/738.mp3" length="5000" type="audio/mpeg"/>
+            <description>So many of us, we don’t want to think about death. We avoid grieving when we lose someone, distract ourselves, look away. In this episode, at a moment when so many families are mourning, we have stories of people figuring out how they’ll grieve, and doing a pretty good job of it.</description>
             <pubDate>Fri, 28 May 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>737: The Daily</title>
             <link>https://www.thisamericanlife.org/737/the-daily</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/800352df-dd34-4831-ad8a-345eed4a89f2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/737/ilsf41CRGTB2rowx9ABfmPP037aIN52FUsUGen-RNqs/737.mp3" length="5000" type="audio/mpeg"/>
             <description>An ode to life's daily practices, and what you learn from doing a thing every single day.</description>
             <pubDate>Fri, 14 May 2021 18:00:00 -0400</pubDate>
         </item>
@@ -125,7 +125,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-04 03:35:53. Known missing e
         <item>
             <title>734: The Campus Tour Has Been Cancelled</title>
             <link>https://www.thisamericanlife.org/734/the-campus-tour-has-been-cancelled</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1d7caa2b-58a1-4194-8b09-0eeea5a9e457/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/734/BcOMgt2k77gI5ulH0RI5TsCuK9zmD9x2HAI3aBFzM54/734.mp3" length="5000" type="audio/mpeg"/>
             <description>How the pandemic has thrown college admissions process into a kind of slow-motion chaos. One of the biggest changes: most colleges have stopped requiring the SAT. For decades, there’s been a debate over whether schools should drop the test. What’s it mean that it finally happened?</description>
             <pubDate>Fri, 19 Mar 2021 18:00:00 -0400</pubDate>
         </item>
