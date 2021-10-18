@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-10-11 03:35:51. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-10-18 03:36:13. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-11 03:35:51. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>750: The Ferryman</title>
+            <link>https://www.thisamericanlife.org/750/the-ferryman</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d1c38816-d10c-4741-a110-80653f969c00/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories about getting from Point A to Point B—with expert assistance.</description>
+            <pubDate>Fri, 15 Oct 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>749: My Bad</title>
             <link>https://www.thisamericanlife.org/749/my-bad</link>
@@ -70,7 +77,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-11 03:35:51. Known missing e
             <title>742: The Thing I'm Getting Over</title>
             <link>https://www.thisamericanlife.org/742/the-thing-im-getting-over</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e5bdaa48-3cd4-4088-ad45-ac7c59fbf288/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>In this summer when we're trying to recover from everything at once, stories of people trying to define what recovery means for themselves.</description>
+            <description>What’s recovery mean, anyway?</description>
             <pubDate>Fri, 23 Jul 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -90,15 +97,15 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-11 03:35:51. Known missing e
         <item>
             <title>739: Sisters</title>
             <link>https://www.thisamericanlife.org/739/sisters</link>
-            <enclosure url="https://stream.thisamericanlife.org/739/d7QFYxUcHJJF4L5MYTDZCgb68MBnUE8zvGceS0I_Fhk/739.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e57b5784-37ce-4e79-a45b-9ca742be634e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Sisters build worlds together, worlds that are just for them. Stories about the bonds between sisters and how they get broken and fixed—or not.</description>
             <pubDate>Fri, 11 Jun 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>738: Good Grief!</title>
+            <title>738: Good Grief</title>
             <link>https://www.thisamericanlife.org/738/good-grief</link>
-            <enclosure url="https://stream.thisamericanlife.org/738/luajU4wlKeEVoJF7pXpJjLjc_qV-dJexk9pyZE1v_PI/738.mp3" length="5000" type="audio/mpeg"/>
-            <description>So many of us, we don’t want to think about death. We avoid grieving when we lose someone, distract ourselves, look away. In this episode, at a moment when so many families are mourning, we have stories of people figuring out how they’ll grieve, and doing a pretty good job of it.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e210e8b4-f7e0-4664-a837-b2ba85cdca97/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Grief gets a bad rap as something to avoid. But what happens when you confront it? At this moment of unimaginable loss, stories of people reckoning with grief, and what they learn.</description>
             <pubDate>Fri, 28 May 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -118,8 +125,8 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-11 03:35:51. Known missing e
         <item>
             <title>735: Bloody Feelings</title>
             <link>https://www.thisamericanlife.org/735/bloody-feelings</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/91c7d654-84f6-4f7c-9439-aa6c9d46e15a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about the power of blood, and how the strong feelings it evokes push us to act in sometimes unexpected ways.</description>
+            <enclosure url="https://stream.thisamericanlife.org/735/sGqbgzTi6mioFCixhd864Q7qKQAA_H7QFv1UCI2pUuA/735.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories about the power of blood.</description>
             <pubDate>Fri, 09 Apr 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -132,7 +139,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-11 03:35:51. Known missing e
         <item>
             <title>733: Warriors in the Garden</title>
             <link>https://www.thisamericanlife.org/733/warriors-in-the-garden</link>
-            <enclosure url="https://stream.thisamericanlife.org/733/_ZPnejDSwS8yR1KYUKGfd2BaJGkI4TaMtNwuDMxKn0Y/733.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4d881daf-2ac5-4003-85ca-fb9a27e07b01/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, three men who came together to protest the murder of George Floyd. They were unified, loud, and impressive, but over time these three friends end up in three very different places.</description>
             <pubDate>Fri, 05 Mar 2021 18:00:00 -0400</pubDate>
         </item>
