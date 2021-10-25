@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-10-18 03:36:13. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-10-25 03:36:23. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-18 03:36:13. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>751: Audience of One</title>
+            <link>https://www.thisamericanlife.org/751/audience-of-one</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1571d4a9-8b42-4f96-9ea8-482561020c98/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>In a world where a virus spreads across the country and most people are not going to movie theaters, we bring the movies to you.</description>
+            <pubDate>Fri, 22 Oct 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>750: The Ferryman</title>
             <link>https://www.thisamericanlife.org/750/the-ferryman</link>
@@ -83,14 +90,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-18 03:36:13. Known missing e
         <item>
             <title>741: The Weight of Words</title>
             <link>https://www.thisamericanlife.org/741/the-weight-of-words</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8fcc4464-d4d9-4c44-8af2-99017a7b8ac4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/741/q5mc_ar0nUo2pV8MOGEDymbpn8D7rc6cpgbQ6Bs8LYc/741.mp3" length="5000" type="audio/mpeg"/>
             <description>Words mean things, but some words are especially meaningful.</description>
             <pubDate>Fri, 09 Jul 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>740: There. I Fixed It.</title>
             <link>https://www.thisamericanlife.org/740/there-i-fixed-it</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dd85ad74-1f93-4a69-89e0-c55b17862b73/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/740/ZXV-db4mnS9j7wkGAOxA3bDqey_FzQWGP7ainHpyIb8/740.mp3" length="5000" type="audio/mpeg"/>
             <description>Solving problems using very extreme measures.</description>
             <pubDate>Fri, 02 Jul 2021 18:00:00 -0400</pubDate>
         </item>
@@ -102,10 +109,10 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-18 03:36:13. Known missing e
             <pubDate>Fri, 11 Jun 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>738: Good Grief</title>
+            <title>738: Good Grief!</title>
             <link>https://www.thisamericanlife.org/738/good-grief</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e210e8b4-f7e0-4664-a837-b2ba85cdca97/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Grief gets a bad rap as something to avoid. But what happens when you confront it? At this moment of unimaginable loss, stories of people reckoning with grief, and what they learn.</description>
+            <enclosure url="https://stream.thisamericanlife.org/738/luajU4wlKeEVoJF7pXpJjLjc_qV-dJexk9pyZE1v_PI/738.mp3" length="5000" type="audio/mpeg"/>
+            <description>So many of us, we don’t want to think about death. We avoid grieving when we lose someone, distract ourselves, look away. In this episode, at a moment when so many families are mourning, we have stories of people figuring out how they’ll grieve, and doing a pretty good job of it.</description>
             <pubDate>Fri, 28 May 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -139,7 +146,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-18 03:36:13. Known missing e
         <item>
             <title>733: Warriors in the Garden</title>
             <link>https://www.thisamericanlife.org/733/warriors-in-the-garden</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4d881daf-2ac5-4003-85ca-fb9a27e07b01/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/733/_ZPnejDSwS8yR1KYUKGfd2BaJGkI4TaMtNwuDMxKn0Y/733.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, three men who came together to protest the murder of George Floyd. They were unified, loud, and impressive, but over time these three friends end up in three very different places.</description>
             <pubDate>Fri, 05 Mar 2021 18:00:00 -0400</pubDate>
         </item>
@@ -160,7 +167,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-10-18 03:36:13. Known missing e
         <item>
             <title>730: The Empty Chair</title>
             <link>https://www.thisamericanlife.org/730/the-empty-chair</link>
-            <enclosure url="https://stream.thisamericanlife.org/730/WQJx6rf1pNIhCuXqiob9_fMBIhiHTHoO4D8It8q8-6Q/730.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04938406-a2b2-4707-94cb-7510b8c4b757/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Things we’ve lost in the past year — since the first American coronavirus case — that we haven’t talked about so much. Gossip. The chance to make new friends. And much larger stuff.</description>
             <pubDate>Fri, 22 Jan 2021 18:00:00 -0400</pubDate>
         </item>
@@ -1431,7 +1438,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>549: Amateur Hour</title>
             <link>https://www.thisamericanlife.org/549/amateur-hour</link>
-            <enclosure url="https://stream.thisamericanlife.org/549/xB8x7WQefCcqKTI9cgbGUbu-L1584z9JU1QiNnHb8b8/549.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/cfdbc488-8876-49ba-ae6e-0f07a812f4fc/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>People put in positions they’re completely unqualified to handle, but who try to make it work anyway. Including one story of a tough group of soldiers who attempt to save lives through the power of show tunes.</description>
             <pubDate>Fri, 27 Feb 2015 18:00:00 -0400</pubDate>
         </item>
