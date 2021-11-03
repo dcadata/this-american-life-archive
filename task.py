@@ -38,7 +38,7 @@ class Episode:
 class TALScraper:
     _raw_fp = 'data/raw.csv'
     _transformed_fp = 'data/transformed.csv'
-    _exceptions_fp = 'data/missing.csv'
+    _missing_fp = 'data/missing.csv'
 
     def __init__(self, **kwargs):
         self.session = kwargs.get('session')
@@ -63,9 +63,9 @@ class TALScraper:
                 self._exc.append({'num': num, 'exc': str(exc)})
             sleep(1)
 
-    def save_raw_and_exceptions(self):
+    def save_raw_and_missing(self):
         pd.concat((pd.DataFrame(self._new), self.raw)).to_csv(self._raw_fp, index=False)
-        pd.DataFrame(self._exc).sort_values('num').to_csv(self._exceptions_fp, index=False)
+        pd.DataFrame(self._exc).sort_values('num').to_csv(self._missing_fp, index=False)
 
     def transform_and_write(self):
         df = self._transform()
@@ -108,7 +108,7 @@ class TALScraper:
         items_xml = '\n'.join((item_xml.format(**record) for record in df.to_dict('records')))
         xml_output = _read('feed').format(
             last_refresh=datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'),
-            missing_nums=', '.join(str(i) for i in self._exceptions.num),
+            missing_nums=', '.join(str(i) for i in self._missing.num),
             items=items_xml,
         )
         return xml_output
@@ -122,8 +122,8 @@ class TALScraper:
         return pd.read_csv(self._transformed_fp, dtype=self._dtypes)
 
     @property
-    def _exceptions(self):
-        return pd.read_csv(self._exceptions_fp, dtype={'num': int, 'exc': str})
+    def _missing(self):
+        return pd.read_csv(self._missing_fp, dtype={'num': int, 'exc': str})
 
     @property
     def _dtypes(self):
@@ -148,7 +148,7 @@ def main():
     scraper.get_nums_to_request()
     if scraper.nums:
         scraper.make_requests()
-        scraper.save_raw_and_exceptions()
+        scraper.save_raw_and_missing()
     scraper.transform_and_write()
     scraper.session.close()
 
