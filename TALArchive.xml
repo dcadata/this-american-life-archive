@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-11-01 03:36:52. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-11-08 04:45:30. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,15 +83,15 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-01 03:36:52. Known missing e
         <item>
             <title>743: Don't You Be My Neighbor</title>
             <link>https://www.thisamericanlife.org/743/dont-you-be-my-neighbor</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/91d7b375-835f-4433-928a-3f7cb58cb688/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/743/RxDKVmLtPvkmqRj6VFiMS2sQUsFggD90MhwEZFFIfWY/743.mp3" length="5000" type="audio/mpeg"/>
             <description>Bad neighbors. What can you do about them?</description>
             <pubDate>Fri, 30 Jul 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>742: The Thing I'm Getting Over</title>
             <link>https://www.thisamericanlife.org/742/the-thing-im-getting-over</link>
-            <enclosure url="https://stream.thisamericanlife.org/742/S00W2PHPqZbdeKn-Fzcf_TxVbDwZ7y98TwwQHVKRG08/742.mp3" length="5000" type="audio/mpeg"/>
-            <description>What’s recovery mean, anyway?</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e5bdaa48-3cd4-4088-ad45-ac7c59fbf288/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>In this summer when we're trying to recover from everything at once, stories of people trying to define what recovery means for themselves.</description>
             <pubDate>Fri, 23 Jul 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -104,7 +104,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-01 03:36:52. Known missing e
         <item>
             <title>740: There. I Fixed It.</title>
             <link>https://www.thisamericanlife.org/740/there-i-fixed-it</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dd85ad74-1f93-4a69-89e0-c55b17862b73/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/740/ZXV-db4mnS9j7wkGAOxA3bDqey_FzQWGP7ainHpyIb8/740.mp3" length="5000" type="audio/mpeg"/>
             <description>Solving problems using very extreme measures.</description>
             <pubDate>Fri, 02 Jul 2021 18:00:00 -0400</pubDate>
         </item>
@@ -126,7 +126,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-01 03:36:52. Known missing e
             <title>737: The Daily</title>
             <link>https://www.thisamericanlife.org/737/the-daily</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/800352df-dd34-4831-ad8a-345eed4a89f2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>An ode to the daily practices and rituals of life—both mundane and special—and what you learn from simply doing a thing every single day.</description>
+            <description>An ode to life's daily practices, and what you learn from doing a thing every single day.</description>
             <pubDate>Fri, 14 May 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -160,7 +160,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-01 03:36:52. Known missing e
         <item>
             <title>732: Secrets</title>
             <link>https://www.thisamericanlife.org/732/secrets</link>
-            <enclosure url="https://stream.thisamericanlife.org/732/pjDJYeZuL-KRqA1PnIKOaAw4oEFMCmlShPQN7F7q1WM/732.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fcc546b4-abdc-4e0d-bf58-61b7138fc0b3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Why we tell them, and what happens after we do.</description>
             <pubDate>Fri, 19 Feb 2021 18:00:00 -0400</pubDate>
         </item>
@@ -174,7 +174,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-01 03:36:52. Known missing e
         <item>
             <title>730: The Empty Chair</title>
             <link>https://www.thisamericanlife.org/730/the-empty-chair</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04938406-a2b2-4707-94cb-7510b8c4b757/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/730/WQJx6rf1pNIhCuXqiob9_fMBIhiHTHoO4D8It8q8-6Q/730.mp3" length="5000" type="audio/mpeg"/>
             <description>Things we’ve lost in the past year — since the first American coronavirus case — that we haven’t talked about so much. Gossip. The chance to make new friends. And much larger stuff.</description>
             <pubDate>Fri, 22 Jan 2021 18:00:00 -0400</pubDate>
         </item>
