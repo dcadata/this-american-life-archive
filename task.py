@@ -52,7 +52,7 @@ class TALScraper:
         temp_url_nums = set(completed[~completed.download_url.str.contains('thisamericanlife.org')].num)
         feed_nums = self._get_feed_episode_nums()
 
-        self.nums = set(range(1, max(completed_nums.union(feed_nums)) + 1)) - completed_nums
+        self.nums = set(range(1, max(completed_nums.union(feed_nums)) + 1))
         self.nums.update(temp_url_nums - feed_nums)
 
     def make_requests(self):
