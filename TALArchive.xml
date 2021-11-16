@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-11-15 04:45:37. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-11-16 01:03:35. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -49,7 +49,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-15 04:45:37. Known missing e
             <title>749: My Bad</title>
             <link>https://www.thisamericanlife.org/749/my-bad</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/28374335-f021-4c10-8427-7c2742316eab/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>An hour devoted to embarrassing stories. They’re always not just little moments – funny, daily stuff that we laugh about later. Some can change you for the rest of your life.</description>
+            <description>An hour devoted to embarrassing stories. They’re not always just little moments – funny, daily stuff that we laugh about later. Some can change you for the rest of your life.</description>
             <pubDate>Fri, 01 Oct 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-15 04:45:37. Known missing e
         <item>
             <title>744: Essential</title>
             <link>https://www.thisamericanlife.org/744/essential</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/591b3e1b-0a73-4825-b80e-731eef090766/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/744/7NtuwEuultcs0NvT8_Qy_jR7RXoDGLNHpzDOQaNBZ8A/744.mp3" length="5000" type="audio/mpeg"/>
             <description>The pandemic forced jobs to change, but then the workers changed, too.</description>
             <pubDate>Fri, 13 Aug 2021 18:00:00 -0400</pubDate>
         </item>
@@ -97,14 +97,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-15 04:45:37. Known missing e
         <item>
             <title>742: The Thing I'm Getting Over</title>
             <link>https://www.thisamericanlife.org/742/the-thing-im-getting-over</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e5bdaa48-3cd4-4088-ad45-ac7c59fbf288/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/742/S00W2PHPqZbdeKn-Fzcf_TxVbDwZ7y98TwwQHVKRG08/742.mp3" length="5000" type="audio/mpeg"/>
             <description>What’s recovery mean, anyway?</description>
             <pubDate>Fri, 23 Jul 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>741: The Weight of Words</title>
             <link>https://www.thisamericanlife.org/741/the-weight-of-words</link>
-            <enclosure url="https://stream.thisamericanlife.org/741/q5mc_ar0nUo2pV8MOGEDymbpn8D7rc6cpgbQ6Bs8LYc/741.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8fcc4464-d4d9-4c44-8af2-99017a7b8ac4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Words mean things, but some words are especially meaningful.</description>
             <pubDate>Fri, 09 Jul 2021 18:00:00 -0400</pubDate>
         </item>
@@ -146,8 +146,8 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-15 04:45:37. Known missing e
         <item>
             <title>735: Bloody Feelings</title>
             <link>https://www.thisamericanlife.org/735/bloody-feelings</link>
-            <enclosure url="https://stream.thisamericanlife.org/735/sGqbgzTi6mioFCixhd864Q7qKQAA_H7QFv1UCI2pUuA/735.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about the power of blood.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/91c7d654-84f6-4f7c-9439-aa6c9d46e15a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories about the power of blood, and how the strong feelings it evokes push us to act in sometimes unexpected ways.</description>
             <pubDate>Fri, 09 Apr 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -455,7 +455,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-15 04:45:37. Known missing e
             <title>691: Gardens of Branching Paths</title>
             <link>https://www.thisamericanlife.org/691/gardens-of-branching-paths</link>
             <enclosure url="https://stream.thisamericanlife.org/691/T61twRL1TqkJcabIfH1qKLmiisOEJDLTHqsoQTaZbaE/691.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of other universes that are just like our own, but with one small difference.</description>
+            <description>Other universes that are just like our own, but with one small difference.</description>
             <pubDate>Fri, 10 Jan 2020 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -894,9 +894,9 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <pubDate>Fri, 20 Oct 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>628: In the Shadow of the City 2017</title>
-            <link>https://www.thisamericanlife.org/628/in-the-shadow-of-the-city-2017</link>
-            <enclosure url="https://stream.thisamericanlife.org/628/cGeCSQht_ixe2QyP_anGwozsM5OfHXHPgpqZRR3AVgM/628.mp3" length="5000" type="audio/mpeg"/>
+            <title>628: In the Shadow of the City</title>
+            <link>https://www.thisamericanlife.org/628/in-the-shadow-of-the-city</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/58680253-75ec-4328-9a7e-2e5f1e26a12f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories that take place on the edge of civilization, just out of sight.</description>
             <pubDate>Fri, 13 Oct 2017 18:00:00 -0400</pubDate>
         </item>
@@ -1174,10 +1174,10 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <pubDate>Fri, 17 Jun 2016 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>588: Mind Games (2016)</title>
-            <link>https://www.thisamericanlife.org/588/mind-games-2016</link>
-            <enclosure url="https://stream.thisamericanlife.org/588/lniCh7eHc0hv3Wm_74nRb6MUVo-NO_gNu-kQZ56yw0A/588.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of people who try simple mind games on others, and then find themselves in way over their heads.</description>
+            <title>588: Mind Games</title>
+            <link>https://www.thisamericanlife.org/588/mind-games</link>
+            <enclosure url="https://stream.thisamericanlife.org/588/Hz4m2hmMdA2JgThC_wNvoMLia2z2v-4cQNy-o1TlzkA/588.mp3" length="5000" type="audio/mpeg"/>
+            <description>People who try simple mind games on others and find themselves in way over their heads.</description>
             <pubDate>Fri, 03 Jun 2016 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1422,10 +1422,10 @@ An episode from last year, with one story swapped.</description>
             <pubDate>Fri, 10 Apr 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>553: Stuck In The Middle (2015)</title>
-            <link>https://www.thisamericanlife.org/553/stuck-in-the-middle-2015</link>
-            <enclosure url="https://stream.thisamericanlife.org/553/u5MsXReV0UUes1GvqoSvtJcT8gMpMKNV9jK3fHYybNs/553.mp3" length="5000" type="audio/mpeg"/>
-            <description>Jan Brady is not the only one who hated being in the middle. This week we have stories about how it sucks to be in limbo or be the mediator, but we also hear from a man who absolutely loves being in that uncertain and boring middle most of us dread — on hold, listening to hold music.</description>
+            <title>553: Stuck in the Middle</title>
+            <link>https://www.thisamericanlife.org/553/stuck-in-the-middle</link>
+            <enclosure url="https://stream.thisamericanlife.org/553/xd3B5_YvHmW65r3wABj5mFO2MWVR_WWARKLoMwxuD4s/553.mp3" length="5000" type="audio/mpeg"/>
+            <description>People caught in limbo, using ingenuity and guile to try to get themselves out.</description>
             <pubDate>Fri, 03 Apr 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1452,7 +1452,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>549: Amateur Hour</title>
             <link>https://www.thisamericanlife.org/549/amateur-hour</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/cfdbc488-8876-49ba-ae6e-0f07a812f4fc/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/549/xB8x7WQefCcqKTI9cgbGUbu-L1584z9JU1QiNnHb8b8/549.mp3" length="5000" type="audio/mpeg"/>
             <description>People put in positions they’re completely unqualified to handle, but who try to make it work anyway. Including one story of a tough group of soldiers who attempt to save lives through the power of show tunes.</description>
             <pubDate>Fri, 27 Feb 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1522,8 +1522,8 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>539: The Leap</title>
             <link>https://www.thisamericanlife.org/539/the-leap</link>
-            <enclosure url="https://stream.thisamericanlife.org/539/GZvUlWjmm5tO7z_CCZi_NIW0NtKRzC2HX1Mrv3OeuCk/539.mp3" length="5000" type="audio/mpeg"/>
-            <description>Most of us go from day to day just coasting on the status quo. If it ain’t broke, why fix it, right? But when routines just get too mundane or systems stop making sense, sometimes you just have to hold your breath…and jump. This week, stories of people who leap from their lives, their comfort zones…even through time.</description>
+            <enclosure url="https://stream.thisamericanlife.org/539/wEbvhHA0rIR6hKB7-ZKdthLEZczMtKyTckUOrKyzi4Q/539.mp3" length="5000" type="audio/mpeg"/>
+            <description>Most of us go from day to day just coasting on the status quo. If it ain’t broke, why fix it—right? But when routines just get too mundane or systems stop making sense, sometimes you just have to hold your breath and jump. People who leap from their lives, their comfort zones, even through time.</description>
             <pubDate>Fri, 07 Nov 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1676,7 +1676,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>517: Day at the Beach (2014)</title>
             <link>https://www.thisamericanlife.org/517/day-at-the-beach-2014</link>
-            <enclosure url="https://stream.thisamericanlife.org/517/jjOPvOvLD1FuJyJup6qur1gsdxyrdbyRmpGDG7tceYo/517.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/517/dsvd0leEHSWWZc-gc4E8n_fkkNqiCNUeJy5Rftz0s2k/517.mp3" length="5000" type="audio/mpeg"/>
             <description>It's January, and freezing outside. This week 5 stories from the sunny beach! Including David Sedaris telling us how losing a sister in 2013 prompted a family reunion, and an impulse buy of a lifetime — an oceanfront cottage big enough for all of them.</description>
             <pubDate>Fri, 31 Jan 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2161,7 +2161,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>447: The Incredible Case of the P.I. Moms</title>
             <link>https://www.thisamericanlife.org/447/the-incredible-case-of-the-pi-moms</link>
-            <enclosure url="https://stream.thisamericanlife.org/447/MUNxK_cDeotBkMkIOSzCnVcHz1r8pP-VJKEEkQJRL0U/447.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/447/VSjp3IT05HxXprTlbZA40mrLB5UitDRoDx1ZYW6U2rg/447.mp3" length="5000" type="audio/mpeg"/>
             <description>What do you get when you take a private investigation firm, toss in a bunch of sexy soccer moms, then add official sponsorship from Glock firearms, a lying boss, and delusions of grandeur? This week's show. That's what you get.</description>
             <pubDate>Fri, 23 Sep 2011 18:00:00 -0400</pubDate>
         </item>
@@ -2232,11 +2232,8 @@ town telling residents that they were there to liberate them. They promised that
         <item>
             <title>437: Old Boys Network</title>
             <link>https://www.thisamericanlife.org/437/old-boys-network</link>
-            <enclosure url="https://stream.thisamericanlife.org/437/vbyVwB4qstjmBb4dCdl5YR7I-wLy8NtDargHATfIS3U/437.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about standing up to the man—or, really, the men. Nurses at
-a small Texas hospital report a well-connected doctor for dangerous
-medical practices, and find themselves under arrest. Plus...how political
-operators in Chicago get to be judges.</description>
+            <enclosure url="https://stream.thisamericanlife.org/437/5FHPE4C9s751XZBnuTBkvdOVNbV4pnB6z1tbrf3i4Nk/437.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories about standing up to the man—or, really, the men. Nurses at a small Texas hospital report a well-connected doctor for dangerous medical practices, and find themselves under arrest. Plus...how political operators in Chicago get to be judges.</description>
             <pubDate>Fri, 03 Jun 2011 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -2270,14 +2267,14 @@ operators in Chicago get to be judges.</description>
         <item>
             <title>432: Know When To Fold ‘Em</title>
             <link>https://www.thisamericanlife.org/432/know-when-to-fold-em</link>
-            <enclosure url="https://stream.thisamericanlife.org/432/EAREl4Kcco0pl6us614_DJ-EftR41AtpTIktAMSG-zk/432.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/432/0Wrqao5iMnRHFH-DROLmngqvAMQAB-TQUSCkiwkJeUk/432.mp3" length="5000" type="audio/mpeg"/>
             <description>When is it time to walk away, and when is it time to run? This week we have the story of an entire country deciding whether to give up on just one of its citizens, when to hold 'em in order to win nearly a million dollars in poker, and a new story from Dave Dickerson.</description>
             <pubDate>Fri, 08 Apr 2011 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>431: See No Evil</title>
             <link>https://www.thisamericanlife.org/431/see-no-evil</link>
-            <enclosure url="https://stream.thisamericanlife.org/431/jQVU8_K1rPPWLt1r194vg83sABzFmMxaNreR6KMPvuk/431.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/431/qxaVxrC4ETpdDQIfB5Ejkb_KgCK7A7ogJWKO7fvs0pk/431.mp3" length="5000" type="audio/mpeg"/>
             <description>When things are awkward or uncomfortable or distressing, a lot of times it's easier to not think about it. This week we have stories of people pretending that everything is okay and ignoring the awful stuff that's staring them straight in the face. Including a story of deceit and intrigue involving commemorative spoons from the Kennedy Center.</description>
             <pubDate>Fri, 01 Apr 2011 18:00:00 -0400</pubDate>
         </item>
@@ -2376,7 +2373,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>417: This Party Sucks</title>
             <link>https://www.thisamericanlife.org/417/this-party-sucks</link>
-            <enclosure url="https://stream.thisamericanlife.org/417/iGe9rgSeFcumPryp3Aj17natxkAJscBX53xX_U9ALYw/417.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/417/Kef8cH5ULHX3ACNS6gWThNW7eDV1N3GssEQHv_lroaA/417.mp3" length="5000" type="audio/mpeg"/>
             <description>A show for this year's midterm elections. Two best friends in Michigan, both political novices, get tired of yelling at their TVs and take matters into their own hands. They form a Tea Party chapter to effect political change. But when push comes to shove and they have to choose a candidate, their ideologies, their principles and their friendship explode.</description>
             <pubDate>Fri, 29 Oct 2010 18:00:00 -0400</pubDate>
         </item>
@@ -2405,7 +2402,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>413: Georgia Rambler</title>
             <link>https://www.thisamericanlife.org/413/georgia-rambler</link>
-            <enclosure url="https://stream.thisamericanlife.org/413/L3tSLh5SF32e2NBAGXGdMXYcsykHXRionWLErdFbLd4/413.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/413/JIoIo3aLPT2G2J1RyAN8dx3P7dVgkkK7_OXrdmgmods/413.mp3" length="5000" type="audio/mpeg"/>
             <description>In the 1970s a reporter named Charles Salter wrote a column for the Atlanta Journal called "Georgia Rambler." He'd get into his car, head out to some small town, and ask around until he found a story. This week, nine of us go to Georgia to try it out for ourselves, in small towns all over the state.</description>
             <pubDate>Fri, 30 Jul 2010 18:00:00 -0400</pubDate>
         </item>
@@ -2538,7 +2535,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>394: Bait and Switch</title>
             <link>https://www.thisamericanlife.org/394/bait-and-switch</link>
-            <enclosure url="https://stream.thisamericanlife.org/394/0aWxm-vu5kG_ADjSQioIlEjBPmrhJsSWMQ6IMiqj7Pw/394.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/394/-qHfJll8Rmd0WYXZgClJKqk7NmW-tB9t44_om6acG3Y/394.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about people who take the bait, and those who place it. Including the story of man who tries to investigate a neighborhood crime and ends up in jail himself. And the story of the pitfalls of luring customers to a make-believe pizza delivery place.</description>
             <pubDate>Fri, 06 Nov 2009 18:00:00 -0400</pubDate>
         </item>
@@ -3146,8 +3143,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <pubDate>Fri, 10 Feb 2006 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>307: In the Shadow of the City</title>
-            <link>https://www.thisamericanlife.org/307/in-the-shadow-of-the-city</link>
+            <title>307: In the Shadow of the City (2006)</title>
+            <link>https://www.thisamericanlife.org/307/in-the-shadow-of-the-city-2006</link>
             <enclosure url="https://stream.thisamericanlife.org/307/xM3nkei2XSWh_M5VEZD-hv-7TBf14OMqHPDAfY8QXyY/307.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories that take place on the edge of civilization, just out of sight.</description>
             <pubDate>Fri, 03 Feb 2006 18:00:00 -0400</pubDate>
@@ -3666,8 +3663,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>233: Starting From Scratch</title>
             <link>https://www.thisamericanlife.org/233/starting-from-scratch</link>
-            <enclosure url="https://stream.thisamericanlife.org/233/VKpIJGoyM76dI8ysEKvlirWWXTsboNII5198ZvgT1ek/233.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of people starting over, sometimes because they want to, other times because they have to.</description>
+            <enclosure url="https://stream.thisamericanlife.org/233/Y94VevnGelkkhZk7c4goSa7Jd30CCMXf8PZ1EC8uPpY/233.mp3" length="5000" type="audio/mpeg"/>
+            <description>People starting over—sometimes because they want to, other times because they have to.</description>
             <pubDate>Fri, 07 Mar 2003 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3772,7 +3769,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <title>218: Act V</title>
             <link>https://www.thisamericanlife.org/218/act-v</link>
             <enclosure url="https://stream.thisamericanlife.org/218/oHYNTsWgbTvki6PmJ5hijRUOicU-FkteBt3wQ8-WrjU/218.mp3" length="5000" type="audio/mpeg"/>
-            <description>We devote this entire episode to one story: Over the course of six months, reporter and This American Life contributor Jack Hitt followed a group of inmates at a high-security prison as they rehearsed and staged a production of the last act—Act V—of Hamlet.</description>
+            <description>A group of inmates at a high-security prison rehearse and stage a production of the last act—Act V—of Hamlet.</description>
             <pubDate>Fri, 09 Aug 2002 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3876,8 +3873,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>203: Recordings for Someone</title>
             <link>https://www.thisamericanlife.org/203/recordings-for-someone</link>
-            <enclosure url="https://stream.thisamericanlife.org/203/VXekthL1nRA9TLxIB8e5y68m9gJ_0k_xQcksBnfF5sw/203.mp3" length="5000" type="audio/mpeg"/>
-            <description>All the stories in this week's show center on personal recordings that one person made for just one other person.</description>
+            <enclosure url="https://stream.thisamericanlife.org/203/F7lsOvlMwhK8BTyf-nmGIFRIgQ2ZWLC8FIlXnf9oLoU/203.mp3" length="5000" type="audio/mpeg"/>
+            <description>Personal recordings one person made for just one other person, including what some have called the greatest phone message ever.</description>
             <pubDate>Fri, 11 Jan 2002 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -4149,7 +4146,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>164: Crime Scene (2000)</title>
             <link>https://www.thisamericanlife.org/164/crime-scene-2000</link>
-            <enclosure url="https://stream.thisamericanlife.org/164/gKlBzwO8nMIxpZtvnP08GWwansfpY4zk5CYR_abXlcE/164.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/164/kDpHgur8Ok_n5MWk0mxotpVpPKnzDiKk-pQ1jWQHCLo/164.mp3" length="5000" type="audio/mpeg"/>
             <description>Every crime scene hides a story. In this week's show, we hear about crime scenes and the stories they tell.</description>
             <pubDate>Fri, 07 Jul 2000 18:00:00 -0400</pubDate>
         </item>
@@ -4317,7 +4314,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>140: Family Business</title>
             <link>https://www.thisamericanlife.org/140/family-business</link>
-            <enclosure url="https://stream.thisamericanlife.org/140/TrMca-GSWxx_hKKN2mMIcIow3lhxw1gj8P8-88IpY4c/140.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/140/wAJ1-LKEGFs2709urokf270WdnD6FoVKhq1dE8Ncg8Y/140.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of family businesses, and what happens when the tension of family dynamics collides with the pressure of capitalist market forces.</description>
             <pubDate>Fri, 24 Sep 1999 18:00:00 -0400</pubDate>
         </item>
@@ -4779,7 +4776,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>74: Conventions</title>
             <link>https://www.thisamericanlife.org/74/conventions</link>
-            <enclosure url="https://stream.thisamericanlife.org/74/fpIE_1FoaPctoMF7NDAm3aUiwKwva_Xv3r8OopUIoQs/74.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/74/K8r2i_3wOtbZK3RJrJ_COGcwD6ea-vJD9I3F4TgPHHQ/74.mp3" length="5000" type="audio/mpeg"/>
             <description>What happens when people with one common interest gather in monstrous, fluorescent-lit halls for the weekend? Sometimes they drive each other crazy, sometimes they fall in love.</description>
             <pubDate>Fri, 29 Aug 1997 18:00:00 -0400</pubDate>
         </item>
