@@ -64,7 +64,9 @@ class TALScraper:
             sleep(1)
 
     def save_raw_and_missing(self):
-        pd.concat((pd.DataFrame(self._new), self.raw)).to_csv(self._raw_fp, index=False)
+        new_raw = pd.concat((pd.DataFrame(self._new), self.raw))
+        new_raw = new_raw.drop_duplicates(subset=['num', 'download_url'], keep='first')
+        new_raw.to_csv(self._raw_fp, index=False)
         pd.DataFrame(self._exc).sort_values('num').to_csv(self._missing_fp, index=False)
 
     def transform_and_write(self):
