@@ -93,6 +93,7 @@ class TALScraper:
 
     def _transform(self):
         df = self.raw.copy()
+        df = df.drop_duplicates(subset=['num'], keep='first')
         for col in self._str_fields:
             df[col] = df[col].fillna(' ').apply(lambda x: x.strip()).apply(escape).apply(
                 lambda x: x.replace('\u02bc', ''))
@@ -100,7 +101,7 @@ class TALScraper:
         df.pubdate = df.pubdate.apply(lambda x: f'{x} 18:00:00 -0400').apply(pd.to_datetime)
         df = df.sort_values('pubdate', ascending=False)
         df.pubdate = df.pubdate.apply(lambda x: x.strftime('%a, %d %b %Y %H:%M:%S %z'))
-        return df.drop_duplicates(subset=['num'])[list(self._dtypes)]
+        return df[list(self._dtypes)]
 
     def _write_xml(self, df):
         _read = lambda x: open(f'templates/{x}.xml').read()
