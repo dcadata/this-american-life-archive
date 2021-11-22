@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-11-16 20:29:12. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-11-22 05:03:41. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -670,10 +670,10 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <pubDate>Fri, 09 Nov 2018 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>660: Hoaxing Yourself (2018)</title>
-            <link>https://www.thisamericanlife.org/660/hoaxing-yourself-2018</link>
-            <enclosure url="https://stream.thisamericanlife.org/660/Z0i1HL8KG2JqN_Y3VcbsWhnzNpq48bZbg3vosKboD2A/660.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of people who tell a lie and then believe the lie more than anyone else does. In other words: Stories about people pulling hoaxes...on themselves.</description>
+            <title>660: Hoaxing Yourself</title>
+            <link>https://www.thisamericanlife.org/660/hoaxing-yourself</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4006ede1-0106-4d73-9b47-5cbb29274cef/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People who tell a lie and then believe the lie more than anyone else.</description>
             <pubDate>Fri, 02 Nov 2018 18:00:00 -0400</pubDate>
         </item>
         <item>
