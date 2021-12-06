@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-11-29 05:03:00. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-12-06 05:04:36. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-29 05:03:00. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>755: The Convert</title>
+            <link>https://www.thisamericanlife.org/755/the-convert</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2bb29b15-3fb0-4d28-9882-620d2eb4b888/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>In 2006, a new convert showed up at a mosque in Orange County, California. Known as Farouk al-Aziz, the convert was actually an FBI informant named Craig Monteilh. That informant’s infiltration of the mosque is at the heart of FBI v Fazaga, a case heard at the Supreme Court last month. We return to our episode from 2012, which tells the story behind it.</description>
+            <pubDate>Fri, 03 Dec 2021 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>754: Spark Bird</title>
             <link>https://www.thisamericanlife.org/754/spark-bird</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-11-29 05:03:00. Known missing e
         <item>
             <title>746: This Is Just Some Songs</title>
             <link>https://www.thisamericanlife.org/746/this-is-just-some-songs</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/0dbd0055-be0b-4c5a-af3a-54c530416ffd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/746/rvr6lHUv0VyxIJmGe-2rzDhEkBYRV_za0EtliBKCz4I/746.mp3" length="5000" type="audio/mpeg"/>
             <description>We made you a mixtape. Don't make a big deal out of it or anything.</description>
             <pubDate>Fri, 03 Sep 2021 18:00:00 -0400</pubDate>
         </item>
@@ -903,7 +910,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>628: In the Shadow of the City</title>
             <link>https://www.thisamericanlife.org/628/in-the-shadow-of-the-city</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/58680253-75ec-4328-9a7e-2e5f1e26a12f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/628/Cgzvgp7JgsZYNtCuJZEMbca6IRqg4abTJo5osKfg80c/628.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories that take place on the edge of civilization, just out of sight.</description>
             <pubDate>Fri, 13 Oct 2017 18:00:00 -0400</pubDate>
         </item>
@@ -2005,8 +2012,8 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
             <pubDate>Fri, 17 Aug 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>471: The Convert</title>
-            <link>https://www.thisamericanlife.org/471/the-convert</link>
+            <title>471: The Convert (2012)</title>
+            <link>https://www.thisamericanlife.org/471/the-convert-2012</link>
             <enclosure url="https://stream.thisamericanlife.org/471/MkodHR8p-7-hvkCZlIXUV3cqlWNHspZoUMxNEz6dPxw/471.mp3" length="5000" type="audio/mpeg"/>
             <description>In 2006, a new convert showed up at a mosque in Orange County, California, eager to study the Koran and make new friends. But when he started acting odd and saying strange things, those friends got suspicious. To them, he was Farouk al-Aziz. But his real name was Craig Monteilh, and he was working undercover for the FBI.</description>
             <pubDate>Fri, 10 Aug 2012 18:00:00 -0400</pubDate>
