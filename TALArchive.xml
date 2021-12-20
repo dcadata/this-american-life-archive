@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-12-13 05:04:12. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-12-20 05:05:43. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-12-13 05:04:12. Known missing e
         <item>
             <title>747: Suitable for Children</title>
             <link>https://www.thisamericanlife.org/747/suitable-for-children</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/c841a8e9-45cf-4ca1-8c1f-6a4d39a49b41/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/747/qBhMBycWyKI6EHT6j_DplHaLZx0W--bh57Bz3NizdPU/747.mp3" length="5000" type="audio/mpeg"/>
             <description>Who thought that would be good for a kid?</description>
             <pubDate>Fri, 10 Sep 2021 18:00:00 -0400</pubDate>
         </item>
@@ -693,7 +693,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>660: Hoaxing Yourself</title>
             <link>https://www.thisamericanlife.org/660/hoaxing-yourself</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4006ede1-0106-4d73-9b47-5cbb29274cef/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/660/pRVwI1DhJDmtQxgjwOzj_0q_icb0L02yVZrN5GDtvso/660.mp3" length="5000" type="audio/mpeg"/>
             <description>People who tell a lie and then believe the lie more than anyone else.</description>
             <pubDate>Fri, 02 Nov 2018 18:00:00 -0400</pubDate>
         </item>
@@ -3817,7 +3817,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>214: Family Physics</title>
             <link>https://www.thisamericanlife.org/214/family-physics</link>
-            <enclosure url="https://stream.thisamericanlife.org/214/BptuMr3vTC62vtF1XlPVFvNeNcUF2s7iKnAGOutn4A8/214.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/82e05c54-535a-49ba-b0ec-dd4c0bb0dd64/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>We take the stately laws of physics—laws which mathematicians and scientists have spent centuries discovering and verifying—and apply them to the realm of human relationships, to see if they shed useful light on our daily lives.</description>
             <pubDate>Fri, 31 May 2002 18:00:00 -0400</pubDate>
         </item>
@@ -4987,7 +4987,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <title>47: Christmas and Commerce</title>
             <link>https://www.thisamericanlife.org/47/christmas-and-commerce</link>
             <enclosure url="https://stream.thisamericanlife.org/47/b4Z3tVIuVyVYx0Ynp0Pwoumxn2_EwCyHbNOtIfBn_Ow/47.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about the intersection of Christmas and retail, originally broadcast in 1996 when our show was only one year old. Including David Sedaris's story "Santaland Diaries," which first aired on NPR's Morning Edition in a much shorter version.</description>
+            <description>Stories about the intersection of Christmas and retail, originally broadcast in 1996 when our show was only a year old. Including David Sedaris's story "Santaland Diaries," which first aired on NPR's Morning Edition.</description>
             <pubDate>Fri, 20 Dec 1996 18:00:00 -0400</pubDate>
         </item>
         <item>
