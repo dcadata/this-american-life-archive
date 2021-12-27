@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2021-12-20 05:05:43. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2021-12-27 05:06:54. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2021-12-20 05:05:43. Known missing e
         <item>
             <title>748: The End of the World as We Know It</title>
             <link>https://www.thisamericanlife.org/748/the-end-of-the-world-as-we-know-it</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/193b4cf0-1a57-4219-b1ac-393498b0ade7/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/748/0QYFhdKnLwPSFkevAQh3xdWaSUF3kg7WWWa8hD9Bq9U/748.mp3" length="5000" type="audio/mpeg"/>
             <description>What happens when one family goes all in on fighting climate change.</description>
             <pubDate>Fri, 17 Sep 2021 18:00:00 -0400</pubDate>
         </item>
@@ -4986,8 +4986,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>47: Christmas and Commerce</title>
             <link>https://www.thisamericanlife.org/47/christmas-and-commerce</link>
-            <enclosure url="https://stream.thisamericanlife.org/47/b4Z3tVIuVyVYx0Ynp0Pwoumxn2_EwCyHbNOtIfBn_Ow/47.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about the intersection of Christmas and retail, originally broadcast in 1996 when our show was only a year old. Including David Sedaris's story "Santaland Diaries," which first aired on NPR's Morning Edition.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e9fb3b63-aecb-48f3-bead-fce97926efa3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories about the intersection of Christmas and retail, originally broadcast in 1996 when our show was only a year old. Including David Sedaris's story "Santaland Diaries," which first aired on NPR's Morning Edition in a much shorter version.</description>
             <pubDate>Fri, 20 Dec 1996 18:00:00 -0400</pubDate>
         </item>
         <item>
