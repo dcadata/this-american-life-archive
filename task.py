@@ -60,7 +60,9 @@ class TALScraper:
             try:
                 self._new.append(self._make_one_request(num))
             except Exception as exc:
-                self._exc.append({'num': num, 'exc': str(exc)})
+                exc_str = str(exc).strip()
+                if exc_str:
+                    self._exc.append({'num': num, 'exc': exc_str})
             sleep(1)
 
     def save_raw_and_missing(self):
