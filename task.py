@@ -69,7 +69,9 @@ class TALScraper:
         new_raw = pd.concat((pd.DataFrame(self._new), self.raw))
         new_raw = new_raw.drop_duplicates(subset=['num', 'download_url'], keep='first')
         new_raw.to_csv(self._raw_fp, index=False)
-        pd.DataFrame(self._exc).sort_values('num').to_csv(self._missing_fp, index=False)
+
+        exc_df = pd.DataFrame(self._exc).sort_values('num') if self._exc else pd.DataFrame(columns=['num', 'exc'])
+        exc_df.to_csv(self._missing_fp, index=False)
 
     def transform_and_write(self):
         df = self._transform()
