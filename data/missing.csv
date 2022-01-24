@@ -1,1 +1,3 @@
 num,exc
+25,'NoneType' object has no attribute 'find_parent'
+454,'NoneType' object has no attribute 'find'
