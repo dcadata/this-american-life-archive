@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-01-24 05:01:40. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-01-31 05:02:36. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-01-24 05:01:40. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>760: A City Walks Into an Investigation</title>
+            <link>https://www.thisamericanlife.org/760/a-city-walks-into-an-investigation</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b8d6a83e-e68c-40bb-8b72-f190bfc38352/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Last week's story continues, about a Michigan couple who walked into a police officer's house and made a disturbing discovery. This week: the police officer suffers the consequences and so does the couple.</description>
+            <pubDate>Fri, 28 Jan 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>759: A Couple Walks Into a House</title>
             <link>https://www.thisamericanlife.org/759/a-couple-walks-into-a-house</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-01-24 05:01:40. Known missing e
         <item>
             <title>751: Audience of One</title>
             <link>https://www.thisamericanlife.org/751/audience-of-one</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1571d4a9-8b42-4f96-9ea8-482561020c98/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/751/YFNZQzxS3DoqjGnP-oJngbD9ms_yyQ60GfSjJKNx8fA/751.mp3" length="5000" type="audio/mpeg"/>
             <description>In a world where a virus spreads across the country and most people are not going to movie theaters, we bring the movies to you.</description>
             <pubDate>Fri, 22 Oct 2021 18:00:00 -0400</pubDate>
         </item>
