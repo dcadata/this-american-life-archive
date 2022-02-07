@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-01-31 05:02:36. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-02-07 05:00:47. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-01-31 05:02:36. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>761: The Trojan Horse Affair</title>
+            <link>https://www.thisamericanlife.org/761/the-trojan-horse-affair</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a1f1d9b8-b3b4-4803-875b-dd71d6985e75/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>A while back, one of our producers Brian Reed was in England giving a speech about the podcast he'd hosted, S-Town. A journalism student approached him, asking for advice about a story he wanted to look into – something that’d been big news in Britain, something he’d thought about for years. Brian and the student, Hamza Syed, decided to team up to try and solve the mystery at the heart of that story. The original idea was to put this on our show, but it got too big. Too many twists and turns! This week, it rolls out as a spectacularly great podcast called The Trojan Horse Affair. We’re excited to bring you their first episode today.</description>
+            <pubDate>Fri, 04 Feb 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>760: A City Walks Into an Investigation</title>
             <link>https://www.thisamericanlife.org/760/a-city-walks-into-an-investigation</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-01-31 05:02:36. Known missing e
         <item>
             <title>752: An Invitation to Tea</title>
             <link>https://www.thisamericanlife.org/752/an-invitation-to-tea</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/30edc817-40c2-41a1-87d6-ddbfc635309d/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/752/j7JoKcz7dJL-MpO9eVpcJd_XVYjmFcUvIqI9jEnpMyA/752.mp3" length="5000" type="audio/mpeg"/>
             <description>A man who was imprisoned for 14 years in Guantanamo Bay, without charges, gets out and issues an invitation to all the people who kept him there. Amazingly, three of them agree to talk.</description>
             <pubDate>Fri, 29 Oct 2021 18:00:00 -0400</pubDate>
         </item>
