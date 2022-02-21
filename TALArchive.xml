@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-02-14 05:00:17. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-02-21 05:02:40. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-02-14 05:00:17. Known missing e
         <item>
             <title>753: What We’ve Got Here is Failure to Communicate</title>
             <link>https://www.thisamericanlife.org/753/failure-to-communicate</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/77abbab8-8ee2-4e7e-affa-64c89f16f1da/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/753/ST7fuGiUjEAzHPx0urmCInaON7bf9tFujnkh5qgMKoI/753.mp3" length="5000" type="audio/mpeg"/>
             <description>Getting the point across — or trying to, anyway.</description>
             <pubDate>Fri, 12 Nov 2021 18:00:00 -0400</pubDate>
         </item>
@@ -2098,7 +2098,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>466: Blackjack</title>
             <link>https://www.thisamericanlife.org/466/blackjack</link>
-            <enclosure url="https://stream.thisamericanlife.org/466/CgL080-ARf6r2IAwHAI7gjB5-c7kBDSmgnneacBobMU/466.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b23011fa-15d2-4bd0-82b5-9f6c56b4d25e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>The casino game everyone thinks they can beat.</description>
             <pubDate>Fri, 08 Jun 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2682,7 +2682,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>382: The Watchmen</title>
             <link>https://www.thisamericanlife.org/382/the-watchmen</link>
-            <enclosure url="https://stream.thisamericanlife.org/382/nXrSDCon2A-Fp3uclHkH6Qz4mqSVSC4nvMvpk21HEtc/382.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/382/eYreRf5yNNUnYYHmpdRIpijabtIG9ufrMi2Icj6rYVE/382.mp3" length="5000" type="audio/mpeg"/>
             <description>Since Congress hasn't held 1930's-style hearings into the causes of the financial crisis, we stage one of our own. The subject? The regulators and watchdogs who were supposed to be overseeing the banks and the finance industry—to make sure things wouldn't blow up like they have. Clearly something went wrong. Today we pound a gavel and ask: Where were the watchmen?</description>
             <pubDate>Fri, 05 Jun 2009 18:00:00 -0400</pubDate>
         </item>
