@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-02-21 05:02:40. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-02-28 05:03:52. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-02-21 05:02:40. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>763: The Other Mr. President</title>
+            <link>https://www.thisamericanlife.org/763/the-other-mr-president</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/70c3aa87-4933-4637-8486-a0e8198d1e20/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories about Vladimir Putin. Did he come to power in 1999 by killing hundreds of innocent Russians? How’s he really seen in his home country? This show is a mix of old and new stories we’ve done about him.</description>
+            <pubDate>Fri, 25 Feb 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>762: Apocalypse Creep</title>
             <link>https://www.thisamericanlife.org/762/apocalypse-creep</link>
@@ -1055,10 +1062,10 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <pubDate>Fri, 28 Apr 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>614: The Other Mr. President</title>
+            <title>614: The Other Mr. President (2017)</title>
             <link>https://www.thisamericanlife.org/614/the-other-mr-president</link>
             <enclosure url="https://stream.thisamericanlife.org/614/GeoP0sIcxum1rlmlpjb4Nz-AlJvFmcLf22BgKHUjqkk/614.mp3" length="5000" type="audio/mpeg"/>
-            <description>Since Russia meddled in our election, there's been concern that the fake news and disinformation that's so prevalent there could be taking hold in this country. But is that hyperbole? This week we look at what it's actually like to live in the confusing information landscape that is Putin's Russia.</description>
+            <description>What it's actually like to live in the confusing information landscape that is Putin's Russia.</description>
             <pubDate>Fri, 14 Apr 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -2584,7 +2591,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>396: #1 Party School</title>
             <link>https://www.thisamericanlife.org/396/1-party-school</link>
-            <enclosure url="https://stream.thisamericanlife.org/396/ZkSZuTCATviFForcUSJiFMPVd4_2FgjmKqLWnHjsVxo/396.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/396/VJJ1h995JYIAkH25mPoK0Deb9Sk6NU4X3Z9ALq59ono/396.mp3" length="5000" type="audio/mpeg"/>
             <description>In 2009, The Princeton Review named Penn State the #1 Party School in America. It's a rotating crown—last year it was University of Florida, before that it was West Virginia University. So we wondered: what's it like to be at the country's top party school?</description>
             <pubDate>Fri, 18 Dec 2009 18:00:00 -0400</pubDate>
         </item>
@@ -3285,7 +3292,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>296: After the Flood</title>
             <link>https://www.thisamericanlife.org/296/after-the-flood</link>
-            <enclosure url="https://stream.thisamericanlife.org/296/es4ogHSboVwZwXafLx9Xb6JDDxdZI1Qyn3Ayj-wdFJ0/296.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/296/d1cmrineznvJM4W-O2zqjJ7_Qv2ZOfzhwgPL9dqxJrI/296.mp3" length="5000" type="audio/mpeg"/>
             <description>Surprising stories from survivors in New Orleans. We give people who were in the storm more time than daily news coverage can to tell their stories and talk about what they're thinking. This leads to a number of ideas that haven't made it into the regular news coverage.</description>
             <pubDate>Fri, 09 Sep 2005 18:00:00 -0400</pubDate>
         </item>
@@ -3978,7 +3985,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>197: Before It Had A Name</title>
             <link>https://www.thisamericanlife.org/197/before-it-had-a-name</link>
-            <enclosure url="https://stream.thisamericanlife.org/197/_AilMTXEoyE4A9Yc390MDNzhGwA3LlnuGMM71jUCoPY/197.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/197/qVlfa9_bD28K3L-66GA5tZQlMTx8YthYxsSbetPVTho/197.mp3" length="5000" type="audio/mpeg"/>
             <description>There's the time when you know something is happening, but you're not sure exactly what. The illness before it's diagnosed. The era, before it's been given a title. And something changes when the name is given. Stories of that transformation...between what it is now, and what it was before it had a name.</description>
             <pubDate>Fri, 26 Oct 2001 18:00:00 -0400</pubDate>
         </item>
@@ -4377,7 +4384,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>140: Family Business</title>
             <link>https://www.thisamericanlife.org/140/family-business</link>
-            <enclosure url="https://stream.thisamericanlife.org/140/wAJ1-LKEGFs2709urokf270WdnD6FoVKhq1dE8Ncg8Y/140.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/140/b_8MA9gQ8M3pdWkpTlomKLE_d7khQXVYPgZDw3lyis4/140.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of family businesses, and what happens when the tension of family dynamics collides with the pressure of capitalist market forces.</description>
             <pubDate>Fri, 24 Sep 1999 18:00:00 -0400</pubDate>
         </item>
@@ -5266,7 +5273,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>12: Animals</title>
             <link>https://www.thisamericanlife.org/12/animals</link>
-            <enclosure url="https://stream.thisamericanlife.org/12/vvGrPxYogxItqPd4qWVn0JBfpHTGzAekE88W6Dmo7hA/12.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/12/wh-FFdGF6kcQc9-vIE79e7Ir2cZoWCpgQnC_fcq6TfQ/12.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about the animalness of animals, the irreducible ways in which they are not human.</description>
             <pubDate>Wed, 31 Jan 1996 18:00:00 -0400</pubDate>
         </item>
