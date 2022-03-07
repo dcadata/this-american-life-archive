@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-02-28 05:03:52. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-03-07 05:06:26. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-02-28 05:03:52. Known missing e
         <item>
             <title>754: Spark Bird</title>
             <link>https://www.thisamericanlife.org/754/spark-bird</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/bd4ed0ce-78ca-4777-8286-c054c1e4f8d6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/754/0vuEsdvOrrm21PMp2L8_4-TXYJ7bzQvrdVIG-_ue5Wg/754.mp3" length="5000" type="audio/mpeg"/>
             <description>This bird-focused week, stories about birds and the hearts they sway, the havoc they wreak, the lives they change.</description>
             <pubDate>Fri, 26 Nov 2021 18:00:00 -0400</pubDate>
         </item>
@@ -2717,14 +2717,14 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>378: This I Used to Believe</title>
             <link>https://www.thisamericanlife.org/378/this-i-used-to-believe</link>
-            <enclosure url="https://stream.thisamericanlife.org/378/91Dg5KwMLYowcKFR1Yq3QPX91ibD82K2n6NCSIGi54I/378.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/378/hZ8CmQzBoW15GdHewAPM6v6psMYqfipnnzcPJTNdLzg/378.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people forced to let go of their firmly held beliefs. When the daughter of a pro-choice activist concludes that abortion is murder, her mother goes to extraordinary lengths to persuade her daughter to switch sides. And after a woman loses her faith, a football coach—whom she's never met—tries to restore it.</description>
             <pubDate>Fri, 17 Apr 2009 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>377: Scenes From a Recession</title>
             <link>https://www.thisamericanlife.org/377/scenes-from-a-recession</link>
-            <enclosure url="https://stream.thisamericanlife.org/377/KFlk2w0RTLPeIAY985tb_tQ3ZRc5sznqxGUmS6f1niE/377.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/377/Egja8jzRWNDzI1AzGfPnDvViJRufInWqGWlGQmGQzMQ/377.mp3" length="5000" type="audio/mpeg"/>
             <description>The economy works in mysterious ways. This week, we highlight the unusual circumstances our economic drought has left us in, and the newly hatched plans being made to survive it.</description>
             <pubDate>Fri, 27 Mar 2009 18:00:00 -0400</pubDate>
         </item>
@@ -4139,8 +4139,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>175: Babysitting</title>
             <link>https://www.thisamericanlife.org/175/babysitting</link>
-            <enclosure url="https://stream.thisamericanlife.org/175/5YFpjBr61V5cI5o3X9z28lrLYj26VXfFSWEvjeVppes/175.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of babysitters, and what goes on while mom and dad are away that mom and dad never find out about. Including the story of two teenagers who decide to invent children to babysit, as an excuse to get out of their own house.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b1a4b6a8-1706-4a40-a686-8673926bcf94/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>What goes on while mom and dad are away, that mom and dad never find out about. Including the story of two teenagers who decide to invent children to babysit, as an excuse to get out of their own house.</description>
             <pubDate>Fri, 05 Jan 2001 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -5168,7 +5168,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>28: Detectives</title>
             <link>https://www.thisamericanlife.org/28/detectives</link>
-            <enclosure url="https://stream.thisamericanlife.org/28/CjyAsdV_gFUrGHA9t6sjitecqszQnDau-kSCbdF8nYk/28.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/28/6c-i9DvafJl4v4y6v-olWcGwoUtOa0rzrxdtPnIzDEw/28.mp3" length="5000" type="audio/mpeg"/>
             <description>Writer David Sedaris recalls the days when his mother and sister played armchair detective — until a very odd crime wave hit within their own home. Plus, host Ira Glass goes out on surveillance with a real-life private eye.</description>
             <pubDate>Fri, 12 Jul 1996 18:00:00 -0400</pubDate>
         </item>
