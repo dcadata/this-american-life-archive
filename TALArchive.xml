@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-03-07 05:06:26. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-03-14 05:15:22. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-03-07 05:06:26. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>764: School's Out Forever</title>
+            <link>https://www.thisamericanlife.org/764/schools-out-forever</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/f82a132a-5656-4824-9933-39f475ac5f5a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The pandemic broke school. Can we ever go back?</description>
+            <pubDate>Fri, 11 Mar 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>763: The Other Mr. President</title>
             <link>https://www.thisamericanlife.org/763/the-other-mr-president</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-03-07 05:06:26. Known missing e
         <item>
             <title>755: The Convert</title>
             <link>https://www.thisamericanlife.org/755/the-convert</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2bb29b15-3fb0-4d28-9882-620d2eb4b888/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/755/xqtgls4IgQZOtTKJziiV89DTzCkPBHz_YM2ZV5gHPWI/755.mp3" length="5000" type="audio/mpeg"/>
             <description>In 2006, a new convert showed up at a mosque in Orange County, California. Known as Farouk al-Aziz, the convert was actually an FBI informant named Craig Monteilh. That informant’s infiltration of the mosque is at the heart of FBI v Fazaga, a case heard at the Supreme Court last month. We return to our episode from 2012, which tells the story behind it.</description>
             <pubDate>Fri, 03 Dec 2021 18:00:00 -0400</pubDate>
         </item>
