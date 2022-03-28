@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-03-21 05:51:55. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-03-28 05:53:17. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1718,8 +1718,8 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>523: Death and Taxes</title>
             <link>https://www.thisamericanlife.org/523/death-and-taxes</link>
-            <enclosure url="https://stream.thisamericanlife.org/523/Wy2U-ELj2oUREQgRGrzhGTs3lgYkH7SP-pMDJ8Jrtww/523.mp3" length="5000" type="audio/mpeg"/>
-            <description>It is a peculiar feeling to know with certainty that something big is about to happen to you. This week we watch people go right up to the edge of inevitable change.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d99eccca-6579-45c3-b591-24d4a1507fdd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>It is a peculiar feeling to know with certainty that something big is about to happen to you. This week, we watch people go right up to the edge of inevitable change.</description>
             <pubDate>Fri, 25 Apr 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -2119,7 +2119,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>466: Blackjack</title>
             <link>https://www.thisamericanlife.org/466/blackjack</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b23011fa-15d2-4bd0-82b5-9f6c56b4d25e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/466/bNwbLqTcApfUoWu2fWPzs_AzXtGehSyF2bkes0Bni70/466.mp3" length="5000" type="audio/mpeg"/>
             <description>The casino game everyone thinks they can beat.</description>
             <pubDate>Fri, 08 Jun 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2745,14 +2745,14 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>376: Wrong Side of History</title>
             <link>https://www.thisamericanlife.org/376/wrong-side-of-history</link>
-            <enclosure url="https://stream.thisamericanlife.org/376/BxTQ5mopgeWIBUevixke4W9Frwl2yYxsq3VX6_m4TxM/376.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/376/3j1aiyz1q-0DR1lUIVRkYiFDbbEjoH7jRvkuW6DdsCc/376.mp3" length="5000" type="audio/mpeg"/>
             <description>Bernie Epton went down in history as the Other Guy: the white opponent who almost defeated the first black mayor of Chicago. But what's the real story of someone who ended up on the wrong side of history? That and other stories of people with wildly popular or unpopular views for one moment in time, and how those views stand up years, decades, even centuries later.</description>
             <pubDate>Fri, 13 Mar 2009 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>375: Bad Bank</title>
             <link>https://www.thisamericanlife.org/375/bad-bank</link>
-            <enclosure url="https://stream.thisamericanlife.org/375/J9CfOYQawJclUw8YRvIP56RlAEwaSsszgx-RFUFVBA0/375.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/375/4lwNrUdtVvsPEKMc6D3sgr0lv7fuAMZ48wOL6kiai3E/375.mp3" length="5000" type="audio/mpeg"/>
             <description>The collapse of the banking system explained, in just 59 minutes. Alex Blumberg and Adam Davidson are back to help all of us understand the news. For instance, when we talk about an insolvent bank, what does it actually mean, and why are we giving hundreds of billions of dollars to rich bankers who screwed up their own businesses? Also, two guys go to New Jersey to look at a toxic asset.</description>
             <pubDate>Fri, 27 Feb 2009 18:00:00 -0400</pubDate>
         </item>
@@ -2864,7 +2864,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>359: Life After Death</title>
             <link>https://www.thisamericanlife.org/359/life-after-death</link>
-            <enclosure url="https://stream.thisamericanlife.org/359/bPzTuFbYZRBw9utR2fLn_1ZCwY0O4l6e--ysthPadBU/359.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/359/-8J_85yMMT_XbBS_SpZyFwZFpr9lkCHsnF98EywlOa0/359.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people haunted by guilt over their role in others' deaths, even when everyone agrees they're blameless.</description>
             <pubDate>Fri, 18 Jul 2008 18:00:00 -0400</pubDate>
         </item>
@@ -3117,7 +3117,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>323: The Super</title>
             <link>https://www.thisamericanlife.org/323/the-super</link>
-            <enclosure url="https://stream.thisamericanlife.org/323/37LjDXPiUvtsDh7BYfPnoQ4PLppmy4sI0Mx-Ye8SkQE/323.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/323/j1Q4Cf94G9xLKfwlZHsoE9ZBF224p09X52kGYQjzxvY/323.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of the mysterious hold supers have on their buildings, or their buildings have on them.</description>
             <pubDate>Fri, 05 Jan 2007 18:00:00 -0400</pubDate>
         </item>
@@ -3173,7 +3173,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>315: The Parrot and the Potbellied Pig</title>
             <link>https://www.thisamericanlife.org/315/the-parrot-and-the-potbellied-pig</link>
-            <enclosure url="https://stream.thisamericanlife.org/315/Vm-M8XPUmC02Nlm7g0e93O7XCtna8GvMr-MMC1cr4XI/315.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/315/I4NKL-sSjUhLRV_d3t0-_avlCzLgWrFDehho6EyZmc4/315.mp3" length="5000" type="audio/mpeg"/>
             <description>Original stories from David Sedaris, Jonathan Goldstein, and others, on two animals who don't even seem like they should know each other, much less appear on the same radio show.</description>
             <pubDate>Fri, 21 Jul 2006 18:00:00 -0400</pubDate>
         </item>
@@ -3236,7 +3236,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>306: Seemed Like A Good Idea at the Time</title>
             <link>https://www.thisamericanlife.org/306/seemed-like-a-good-idea-at-the-time</link>
-            <enclosure url="https://stream.thisamericanlife.org/306/gzvw-DKg9DmcEqT2crbrqZSDea_PgIGkvAgcOFnZiRM/306.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/306/tEbX1mj5RBg3zJMr3fRfKX1YRUie3R227BVbJ7h8S4s/306.mp3" length="5000" type="audio/mpeg"/>
             <description>A girl signs up for a class. A couple hires an accountant. A group of co-workers decides to pool their money and buy a couple of lottery tickets. In the beginning, they're full of hope and optimism...and then something turns. Stories of good ideas gone bad.</description>
             <pubDate>Fri, 13 Jan 2006 18:00:00 -0400</pubDate>
         </item>
@@ -3418,7 +3418,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>280: In Country</title>
             <link>https://www.thisamericanlife.org/280/in-country</link>
-            <enclosure url="https://stream.thisamericanlife.org/280/JrKUtEMwAB6WOsNv0Rmz1CgcdrePxX6kLK-oe78unlU/280.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/280/4LD-C3XqIjeY3JMzwtjlBHpjiOdu8-Lu7KmmSi2nP6M/280.mp3" length="5000" type="audio/mpeg"/>
             <description>What life is like for American soldiers in Iraq.</description>
             <pubDate>Fri, 07 Jan 2005 18:00:00 -0400</pubDate>
         </item>
