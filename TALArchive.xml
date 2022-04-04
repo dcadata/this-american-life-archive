@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-03-28 05:53:17. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-04-04 05:53:16. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-03-28 05:53:17. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>766: Well Someone Had to Do SOMETHING!</title>
+            <link>https://www.thisamericanlife.org/766/well-someone-had-to-do-something</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/38e10e78-f1a9-4c2b-9215-61aebe46acf3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People trying to jump in and solve other people's problems, putting themselves directly in the gap between the problem and the solution.</description>
+            <pubDate>Fri, 01 Apr 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>765: Off Course</title>
             <link>https://www.thisamericanlife.org/765/off-course</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-03-28 05:53:17. Known missing e
         <item>
             <title>757: The Ghost in the Machine</title>
             <link>https://www.thisamericanlife.org/757/the-ghost-in-the-machine</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3d8a4b18-88b2-462d-b146-3adf387ddeca/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/757/x5ElEQ7yS86IuRyEqUhWNLbaWX4C6BTG42dyGflVza4/757.mp3" length="5000" type="audio/mpeg"/>
             <description>People use machines to find people they lost.</description>
             <pubDate>Fri, 31 Dec 2021 18:00:00 -0400</pubDate>
         </item>
