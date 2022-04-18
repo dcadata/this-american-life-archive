@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-04-11 05:53:27. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-04-18 05:53:25. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-04-11 05:53:27. Known missing e
         <item>
             <title>758: Talking While Black</title>
             <link>https://www.thisamericanlife.org/758/talking-while-black</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5129308a-16b8-466a-b81e-31404dfbcc6a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/758/j01OIQhT2r_aDz9nT5_nTjPAR49LQvOo8yS7qjlZYw0/758.mp3" length="5000" type="audio/mpeg"/>
             <description>Think back to two summers ago, the summer of 2020, when a series of violent, highly-publicized killings of Black Americans sparked outrage and a national movement to eradicate racism and its evils. That movement gave way to a newer, reactionary one, a backlash that is playing out in schools and school board meetings across America. Host Emanuele Berry shares stories about Black people who got tangled up in this current backlash in both extreme and very personal ways.</description>
             <pubDate>Fri, 07 Jan 2022 18:00:00 -0400</pubDate>
         </item>
@@ -2871,8 +2871,8 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>360: Switched at Birth</title>
             <link>https://www.thisamericanlife.org/360/switched-at-birth</link>
-            <enclosure url="https://stream.thisamericanlife.org/360/TVQ6aCdWbiv9llbOIv6EIyzLGxevIOtIR_jgsvg5vQU/360.mp3" length="5000" type="audio/mpeg"/>
-            <description>On a summer day in 1951, two baby girls were born in a hospital in small-town Wisconsin. The infants were accidentally switched, and went home with the wrong families. One of the mothers realized the mistake but chose to keep quiet. Until the day, more than 40 years later, when she decided to tell both daughters what happened. How the truth changed two families' lives—and how it didn't.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dadcf085-d406-4452-b56d-24c2be09b36e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>On a summer day in 1951, two baby girls were born in a hospital in small-town Wisconsin. The infants were accidentally switched, and went home with the wrong families.</description>
             <pubDate>Fri, 25 Jul 2008 18:00:00 -0400</pubDate>
         </item>
         <item>
