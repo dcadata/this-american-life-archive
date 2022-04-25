@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-04-18 05:53:25. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-04-25 05:55:52. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-04-18 05:53:25. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>768: The Other Front Lines</title>
+            <link>https://www.thisamericanlife.org/768/the-other-front-lines</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/187700c4-486b-4d1d-9f9d-cbde626f7a30/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Four personal stories from the war in Ukraine.</description>
+            <pubDate>Fri, 22 Apr 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>767: Do Not Go Gentle</title>
             <link>https://www.thisamericanlife.org/767/do-not-go-gentle</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-04-18 05:53:25. Known missing e
         <item>
             <title>759: A Couple Walks Into a House</title>
             <link>https://www.thisamericanlife.org/759/a-couple-walks-into-a-house</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/6abe9421-2524-452b-bc46-877538b1ada0/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/759/f6rxJ1l5qQzAmx7HVqpREmODn7kGMrFhHFxvIOyJWgE/759.mp3" length="5000" type="audio/mpeg"/>
             <description>Rob and Reyna Mathis make an unsettling discovery in the home of a local police officer. Soon, their whole city is asking questions about who the officer really is and what he's been doing.</description>
             <pubDate>Fri, 21 Jan 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1732,7 +1739,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>523: Death and Taxes</title>
             <link>https://www.thisamericanlife.org/523/death-and-taxes</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d99eccca-6579-45c3-b591-24d4a1507fdd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/523/4NXhhxEZLzh11B0XJZJIAyFCH_MjcNTHdjV1Bl2AW0M/523.mp3" length="5000" type="audio/mpeg"/>
             <description>It is a peculiar feeling to know with certainty that something big is about to happen to you. This week, we watch people go right up to the edge of inevitable change.</description>
             <pubDate>Fri, 25 Apr 2014 18:00:00 -0400</pubDate>
         </item>
