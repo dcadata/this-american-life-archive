@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-04-25 05:55:52. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-05-02 06:05:15. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-04-25 05:55:52. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>769: The Reluctant Explorer</title>
+            <link>https://www.thisamericanlife.org/769/the-reluctant-explorer</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/9ba1a271-26e8-42ea-a470-b902faca42ad/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>A man finds himself thrust into a new world he didn’t necessarily ask to visit. He takes a look around.</description>
+            <pubDate>Fri, 29 Apr 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>768: The Other Front Lines</title>
             <link>https://www.thisamericanlife.org/768/the-other-front-lines</link>
@@ -224,7 +231,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-04-25 05:55:52. Known missing e
             <title>739: Sisters</title>
             <link>https://www.thisamericanlife.org/739/sisters</link>
             <enclosure url="https://stream.thisamericanlife.org/739/d7QFYxUcHJJF4L5MYTDZCgb68MBnUE8zvGceS0I_Fhk/739.mp3" length="5000" type="audio/mpeg"/>
-            <description>Sisters build worlds together, worlds that are just for them. Stories about the bonds between sisters and how they get broken and fixed—or not.</description>
+            <description>The bonds between sisters and how they get broken and fixed—or not.</description>
             <pubDate>Fri, 11 Jun 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -301,7 +308,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-04-25 05:55:52. Known missing e
             <title>728: Lights, Camera, Christmas!</title>
             <link>https://www.thisamericanlife.org/728/lights-camera-christmas</link>
             <enclosure url="https://stream.thisamericanlife.org/728/s6OKmVQEQVZtC9RwJR28lEvUSTli3y7cCEKSJUFypus/728.mp3" length="5000" type="audio/mpeg"/>
-            <description>This holiday season, we bring you a show filled with stories of people going to great lengths to throw a special Christmas for their families.</description>
+            <description>People going to great lengths to throw a special Christmas for their families.</description>
             <pubDate>Fri, 25 Dec 2020 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -503,7 +510,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-04-25 05:55:52. Known missing e
         <item>
             <title>699: Fiasco!</title>
             <link>https://www.thisamericanlife.org/699/fiasco</link>
-            <enclosure url="https://stream.thisamericanlife.org/699/KoR29XCx55CV9EzZVgGn7poMP_ODI3wV7kmPw908kZ4/699.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/699/1n25EmbbKLbgmvYcZivLK2V9kolIMgsa-jymWNs-yIg/699.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of when things go wrong. Really wrong. When you leave the normal realm of human error, fumble, mishap, and mistake and enter the territory of really huge breakdowns. Fiascos. Things go so awry that normal social order collapses.</description>
             <pubDate>Fri, 03 Apr 2020 18:00:00 -0400</pubDate>
         </item>
@@ -1099,7 +1106,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>614: The Other Mr. President (2017)</title>
             <link>https://www.thisamericanlife.org/614/the-other-mr-president</link>
-            <enclosure url="https://stream.thisamericanlife.org/614/GeoP0sIcxum1rlmlpjb4Nz-AlJvFmcLf22BgKHUjqkk/614.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/614/kCQ9vcBTJvXiQ768LP_5svk-gMxIfx5babYc2MLTZpw/614.mp3" length="5000" type="audio/mpeg"/>
             <description>What it's actually like to live in the confusing information landscape that is Putin's Russia.</description>
             <pubDate>Fri, 14 Apr 2017 18:00:00 -0400</pubDate>
         </item>
