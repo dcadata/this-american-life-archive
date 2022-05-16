@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-05-09 05:57:50. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-05-16 05:59:22. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-05-09 05:57:50. Known missing e
         <item>
             <title>761: The Trojan Horse Affair</title>
             <link>https://www.thisamericanlife.org/761/the-trojan-horse-affair</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a1f1d9b8-b3b4-4803-875b-dd71d6985e75/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/761/D6YI4IRLIuedzgBoXVEnSdAUUZhHEq3BBnVw0Wssq-Y/761.mp3" length="5000" type="audio/mpeg"/>
             <description>A while back, one of our producers Brian Reed was in England giving a speech about the podcast he'd hosted, S-Town. A journalism student approached him, asking for advice about a story he wanted to look into – something that’d been big news in Britain, something he’d thought about for years. Brian and the student, Hamza Syed, decided to team up to try and solve the mystery at the heart of that story. The original idea was to put this on our show, but it got too big. Too many twists and turns! This week, it rolls out as a spectacularly great podcast called The Trojan Horse Affair. We’re excited to bring you their first episode today.</description>
             <pubDate>Fri, 04 Feb 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1176,8 +1176,8 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>605: Kid Logic</title>
             <link>https://www.thisamericanlife.org/605/kid-logic</link>
-            <enclosure url="https://stream.thisamericanlife.org/605/yywgdqSNbNljH9WZenFwkMzCQ--0uvjZRUsHsxs8Voo/605.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8a2923a2-055c-45b9-8fb4-2bec1fd86dbe/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.</description>
             <pubDate>Fri, 16 Dec 2016 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -2351,7 +2351,7 @@ town telling residents that they were there to liberate them. They promised that
         <item>
             <title>437: Old Boys Network</title>
             <link>https://www.thisamericanlife.org/437/old-boys-network</link>
-            <enclosure url="https://stream.thisamericanlife.org/437/5FHPE4C9s751XZBnuTBkvdOVNbV4pnB6z1tbrf3i4Nk/437.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/437/2LRRuWnXQNyr-8X1IsqIN-l81ETAFaRK5-w1lv6ToUE/437.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about standing up to the man—or, really, the men. Nurses at a small Texas hospital report a well-connected doctor for dangerous medical practices, and find themselves under arrest. Plus...how political operators in Chicago get to be judges.</description>
             <pubDate>Fri, 03 Jun 2011 18:00:00 -0400</pubDate>
         </item>
@@ -2892,7 +2892,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>360: Switched at Birth</title>
             <link>https://www.thisamericanlife.org/360/switched-at-birth</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dadcf085-d406-4452-b56d-24c2be09b36e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/360/TVQ6aCdWbiv9llbOIv6EIyzLGxevIOtIR_jgsvg5vQU/360.mp3" length="5000" type="audio/mpeg"/>
             <description>On a summer day in 1951, two baby girls were born in a hospital in small-town Wisconsin. The infants were accidentally switched, and went home with the wrong families.</description>
             <pubDate>Fri, 25 Jul 2008 18:00:00 -0400</pubDate>
         </item>
@@ -3096,7 +3096,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>331: Habeas Schmabeas (2007)</title>
             <link>https://www.thisamericanlife.org/331/habeas-schmabeas-2007</link>
-            <enclosure url="https://stream.thisamericanlife.org/331/jxU4-Au3keuR7ZJKsUD_pxevDuiVW63dFh45rC-qMDY/331.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/331/v8Yt1vMcZDqyBPwP46FIQN8vh-9AfcFCKu-LpPOsXEY/331.mp3" length="5000" type="audio/mpeg"/>
             <description>An updated version of our episode "Habeas Schmabeas," which won a 2006 Peabody Award. Listen to a special, uncut version.</description>
             <pubDate>Fri, 27 Apr 2007 18:00:00 -0400</pubDate>
         </item>
@@ -3264,7 +3264,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>307: In the Shadow of the City (2006)</title>
             <link>https://www.thisamericanlife.org/307/in-the-shadow-of-the-city-2006</link>
-            <enclosure url="https://stream.thisamericanlife.org/307/xM3nkei2XSWh_M5VEZD-hv-7TBf14OMqHPDAfY8QXyY/307.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/307/e9XbuqeKqREfw0W_pp_d1sUaUnbglm10gSGMapA4K2A/307.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories that take place on the edge of civilization, just out of sight.</description>
             <pubDate>Fri, 03 Feb 2006 18:00:00 -0400</pubDate>
         </item>
@@ -3411,7 +3411,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>286: Mind Games (2005)</title>
             <link>https://www.thisamericanlife.org/286/mind-games-2005</link>
-            <enclosure url="https://stream.thisamericanlife.org/286/Qr-j1RxfDsNKWNsXlw6yXuIhDFHGSy0lAg-k4P_adUg/286.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/286/xJ82kLiPsfGHaZ75IAld4LcWGplx9EGSPuEOusabfEA/286.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who try simple mind games on others, and then find themselves way in over their heads.</description>
             <pubDate>Fri, 08 Apr 2005 18:00:00 -0400</pubDate>
         </item>
@@ -4153,7 +4153,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>180: Return to Childhood 2001</title>
             <link>https://www.thisamericanlife.org/180/return-to-childhood-2001</link>
-            <enclosure url="https://stream.thisamericanlife.org/180/NZlNTZnYvbre2dpasoMxtUBNgY0jo7flUp8jcHhUMoU/180.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/180/bLKr8X_6ZyhcgGkosh2Psyz897OEEbJamg9YCb0NqQc/180.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who try to revisit their childhoods. What they find. And what they do not find.</description>
             <pubDate>Fri, 23 Mar 2001 18:00:00 -0400</pubDate>
         </item>
@@ -4328,7 +4328,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>155: Hoaxing Yourself (2000)</title>
             <link>https://www.thisamericanlife.org/155/hoaxing-yourself-2000</link>
-            <enclosure url="https://stream.thisamericanlife.org/155/TGFxtgDdab-LTWiMmBkU566H97athemviZaeBGUxaqk/155.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/155/pvXLKIgRfUDruUeQlYAhI2Eueeo0ThesXDWgjDWyOD8/155.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who tell a lie and then believe the lie more than anyone else does. In other words: Stories about people pulling hoaxes...on themselves.</description>
             <pubDate>Fri, 17 Mar 2000 18:00:00 -0400</pubDate>
         </item>
