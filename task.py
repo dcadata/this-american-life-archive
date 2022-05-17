@@ -12,7 +12,7 @@ class Episode:
         self._text = text
 
     @property
-    def data(self):
+    def data(self) -> dict:
         title_section = self._soup.find('div', class_='episode-title')
         container = title_section.find_parent('div', class_='container')
 
@@ -31,7 +31,7 @@ class Episode:
         return data
 
     @property
-    def _soup(self):
+    def _soup(self) -> BeautifulSoup:
         return BeautifulSoup(self._text, 'lxml')
 
 
@@ -78,13 +78,13 @@ class TALScraper:
         xml_output = self._write_xml(df)
         open('TALArchive.xml', 'w').write(xml_output)
 
-    def _get_feed_episode_nums(self):
+    def _get_feed_episode_nums(self) -> set:
         r = self.session.get('http://feed.thisamericanlife.org/talpodcast')
         sleep(1)
         soup = BeautifulSoup(r.text, 'lxml')
         return {int(elem.find('title').text.split(':', 1)[0]) for elem in soup.find_all('item')}
 
-    def _make_one_request(self, num):
+    def _make_one_request(self, num: int) -> dict:
         url = f'https://www.thisamericanlife.org/episode/{num}'
         r = self.session.get(url)
         assert r.ok
@@ -96,7 +96,7 @@ class TALScraper:
         data.update(Episode(text=r.text).data)
         return data
 
-    def _transform(self):
+    def _transform(self) -> pd.DataFrame:
         df = self.raw.copy()
         df = df.drop_duplicates(subset=['num'], keep='first')
         for col in self._str_fields:
@@ -108,7 +108,7 @@ class TALScraper:
         df.pubdate = df.pubdate.apply(lambda x: x.strftime('%a, %d %b %Y %H:%M:%S %z'))
         return df[list(self._dtypes)]
 
-    def _write_xml(self, df):
+    def _write_xml(self, df: pd.DataFrame) -> str:
         _read = lambda x: open(f'templates/{x}.xml').read()
         item_xml = _read('item')
         items_xml = '\n'.join((item_xml.format(**record) for record in df.to_dict('records')))
@@ -120,19 +120,19 @@ class TALScraper:
         return xml_output
 
     @property
-    def raw(self):
+    def raw(self) -> pd.DataFrame:
         return pd.read_csv(self._raw_fp, dtype=self._dtypes)
 
     @property
-    def transformed(self):
+    def transformed(self) -> pd.DataFrame:
         return pd.read_csv(self._transformed_fp, dtype=self._dtypes)
 
     @property
-    def _missing(self):
+    def _missing(self) -> pd.DataFrame:
         return pd.read_csv(self._missing_fp, dtype={'num': int, 'exc': str})
 
     @property
-    def _dtypes(self):
+    def _dtypes(self) -> dict:
         return {
             'num': int,
             'title': str,
@@ -144,7 +144,7 @@ class TALScraper:
         }
 
     @property
-    def _str_fields(self):
+    def _str_fields(self) -> list:
         return [key for key, value in self._dtypes.items() if value == str]
 
 
