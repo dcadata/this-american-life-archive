@@ -36,12 +36,11 @@ class Episode:
 
 
 class TALScraper:
-    _raw_fp = 'data/raw.csv'
-    _transformed_fp = 'data/transformed.csv'
-    _missing_fp = 'data/missing.csv'
-
     def __init__(self, **kwargs):
         self.session = kwargs.get('session')
+        self._raw_fp = 'data/raw.csv'
+        self._transformed_fp = 'data/transformed.csv'
+        self._missing_fp = 'data/missing.csv'
         self.nums = None
         self._new = []
         self._exc = []
