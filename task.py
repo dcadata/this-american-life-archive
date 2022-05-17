@@ -8,8 +8,8 @@ from requests import Session
 
 
 class Episode:
-    def __init__(self, **kwargs):
-        self._text = kwargs.get('text')
+    def __init__(self, text: str):
+        self._text = text
 
     @property
     def data(self):
