@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-05-16 05:59:22. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-05-23 05:59:33. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -945,7 +945,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>638: Rom-Com</title>
             <link>https://www.thisamericanlife.org/638/rom-com</link>
-            <enclosure url="https://stream.thisamericanlife.org/638/DSxsJ_E3Zv503MVI5kX-FSoA0EgP8p3btf4s8edev7Q/638.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/cd9ce857-fd13-4434-87ec-89bc423f571e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>The one thing you know for sure when you're watching a romantic comedy is that it's going to turn out okay in the end. When you're living one? Not so much. This week, stories that unfold like rom-coms.</description>
             <pubDate>Fri, 09 Feb 2018 18:00:00 -0400</pubDate>
         </item>
