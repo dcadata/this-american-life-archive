@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-05-23 05:59:33. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-05-30 06:00:53. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-05-23 05:59:33. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>771: The Parents Step In</title>
+            <link>https://www.thisamericanlife.org/771/the-parents-step-in</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/de87d383-b3bf-4085-b4c8-4b364006d823/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Government isn’t doing much to prevent school shootings. So parents are jumping in: parents whose kids have died in mass shootings, in the wake of each shooting. They take practical, effective action — and they get results.</description>
+            <pubDate>Fri, 27 May 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>770: My Lying Eyes</title>
             <link>https://www.thisamericanlife.org/770/my-lying-eyes</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-05-23 05:59:33. Known missing e
         <item>
             <title>762: Apocalypse Creep</title>
             <link>https://www.thisamericanlife.org/762/apocalypse-creep</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/71dd7fd6-1256-4ff7-839f-0adfd9a6e6f6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/762/tFmBYj63BZTiH44FqlEgYobjIpnDM44wUXFDiCm4y-o/762.mp3" length="5000" type="audio/mpeg"/>
             <description>A woman wakes up and discovers her backyard has disappeared, and other stories from places slowly coming apart.</description>
             <pubDate>Fri, 11 Feb 2022 18:00:00 -0400</pubDate>
         </item>
@@ -798,7 +805,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>659: Before the Next One</title>
             <link>https://www.thisamericanlife.org/659/before-the-next-one</link>
-            <enclosure url="https://stream.thisamericanlife.org/659/0UHLQty1Yt49FAh9Uv21LttcsSU5F5ldwdo-q9F5kd0/659.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/659/9C5YDbSpBKUx0DGHG_ONLX-7Mg2sKwBTpVftxm-rVU4/659.mp3" length="5000" type="audio/mpeg"/>
             <description>There’s no rulebook on how to handle a school shooting. And no real way to prepare for one. This week, people take what they’ve learned from these tragedies and try to use that knowledge to save others.</description>
             <pubDate>Fri, 12 Oct 2018 18:00:00 -0400</pubDate>
         </item>
@@ -4167,7 +4174,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>178: Superpowers</title>
             <link>https://www.thisamericanlife.org/178/superpowers</link>
-            <enclosure url="https://stream.thisamericanlife.org/178/7XkrXbbZwnIKPAr8qvRiCRhBEaFQZVJmHtfabeeqhfg/178.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/178/XGbNvG-oJJ6vFLyAigYnvttabw_0AhBbfklaR6HJZpA/178.mp3" length="5000" type="audio/mpeg"/>
             <description>We answer the following questions about superpowers: Can superheroes be real people? (No.) Can real people become superheroes? (Maybe.) And which is better: flight or invisibility? (Depends who you ask.)</description>
             <pubDate>Fri, 23 Feb 2001 18:00:00 -0400</pubDate>
         </item>
