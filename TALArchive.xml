@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-05-30 06:00:53. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-06-06 05:54:51. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-05-30 06:00:53. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>772: The Kids' Table</title>
+            <link>https://www.thisamericanlife.org/772/the-kids-table</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d0e09544-f892-47d9-9e0e-9a95b8d434f3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Kids navigating hairy situations all on their own, with no help from grown-ups.</description>
+            <pubDate>Fri, 03 Jun 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>771: The Parents Step In</title>
             <link>https://www.thisamericanlife.org/771/the-parents-step-in</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-05-30 06:00:53. Known missing e
         <item>
             <title>763: The Other Mr. President</title>
             <link>https://www.thisamericanlife.org/763/the-other-mr-president</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/70c3aa87-4933-4637-8486-a0e8198d1e20/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/763/h3J9kwey6wIdGDKEv690ZlLv8Dfx-x5qCLNbG9gQfM4/763.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about Vladimir Putin. Did he come to power in 1999 by killing hundreds of innocent Russians? How’s he really seen in his home country? This show is a mix of old and new stories we’ve done about him.</description>
             <pubDate>Fri, 25 Feb 2022 18:00:00 -0400</pubDate>
         </item>
@@ -805,7 +812,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>659: Before the Next One</title>
             <link>https://www.thisamericanlife.org/659/before-the-next-one</link>
-            <enclosure url="https://stream.thisamericanlife.org/659/9C5YDbSpBKUx0DGHG_ONLX-7Mg2sKwBTpVftxm-rVU4/659.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/659/pOTbGdZqGaweGh-Yz3A1SlJGJ6eMP6MWo0FbN2m6XwU/659.mp3" length="5000" type="audio/mpeg"/>
             <description>There’s no rulebook on how to handle a school shooting. And no real way to prepare for one. This week, people take what they’ve learned from these tragedies and try to use that knowledge to save others.</description>
             <pubDate>Fri, 12 Oct 2018 18:00:00 -0400</pubDate>
         </item>
