@@ -98,7 +98,6 @@ class TALScraper:
 
     def _transform(self) -> pd.DataFrame:
         df = self.raw.copy()
-        df = df[df.download_url.str.startswith('https://stream.thisamericanlife.org')].copy()
         df = df.drop_duplicates(subset=['num'], keep='first')
         for col in self._str_fields:
             df[col] = df[col].fillna(' ').apply(lambda x: x.strip()).apply(escape).apply(
