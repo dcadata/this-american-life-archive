@@ -48,7 +48,7 @@ class TALScraper:
     def get_nums_to_request(self):
         completed = self.transformed.copy()
         completed_nums = set(completed.num)
-        temp_url_nums = set(completed[~completed.download_url.str.contains('thisamericanlife.org')].num)
+        temp_url_nums = set(completed[completed.download_url.str.startswith('https://dts.podtrac.com')].num)
         feed_nums = self._get_feed_episode_nums()
 
         self.nums = set(range(1, max(completed_nums.union(feed_nums)) + 1))
