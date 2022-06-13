@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-06-06 05:54:51. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-06-13 05:58:28. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-06-06 05:54:51. Known missing e
         <item>
             <title>764: School's Out Forever</title>
             <link>https://www.thisamericanlife.org/764/schools-out-forever</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/f82a132a-5656-4824-9933-39f475ac5f5a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/764/Z71mwW70Deg3sv23dEWixHhEYhYOycc2GUaBR1xsWzs/764.mp3" length="5000" type="audio/mpeg"/>
             <description>The pandemic broke school. Can we ever go back?</description>
             <pubDate>Fri, 11 Mar 2022 18:00:00 -0400</pubDate>
         </item>
@@ -721,7 +721,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>672: No Fair!</title>
             <link>https://www.thisamericanlife.org/672/no-fair</link>
-            <enclosure url="https://stream.thisamericanlife.org/672/QJx9mMe6PRAqJAnVWKzV6GmyT1vjZPs8iC_w1sZvE3c/672.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5a12fc83-9bf1-40df-8726-aef5f7610917/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of very small injustices and also one very big one.</description>
             <pubDate>Fri, 05 Apr 2019 18:00:00 -0400</pubDate>
         </item>
@@ -1190,7 +1190,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>605: Kid Logic</title>
             <link>https://www.thisamericanlife.org/605/kid-logic</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8a2923a2-055c-45b9-8fb4-2bec1fd86dbe/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/605/yywgdqSNbNljH9WZenFwkMzCQ--0uvjZRUsHsxs8Voo/605.mp3" length="5000" type="audio/mpeg"/>
             <description>Kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.</description>
             <pubDate>Fri, 16 Dec 2016 18:00:00 -0400</pubDate>
         </item>
