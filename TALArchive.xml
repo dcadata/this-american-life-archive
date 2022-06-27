@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-06-20 05:55:35. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-06-27 06:00:43. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1351,8 +1351,8 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>583: It’ll Make Sense When You’re Older</title>
             <link>https://www.thisamericanlife.org/583/itll-make-sense-when-youre-older</link>
-            <enclosure url="https://stream.thisamericanlife.org/583/gnxD3tIN-JzvY6CfCcxSYRS5ZhX0jnGmFJa4x_DStJs/583.mp3" length="5000" type="audio/mpeg"/>
-            <description>At first, it’s super annoying, getting told it’ll make sense when you’re older. Then, when you’re a teenager, hard lessons are learned, despite your best efforts to be too cool to care. By the time you’re actually old, you know a bunch of stuff— and you’re desperate to hold onto it. You might even wonder HOW you know all the things you know. Hosted by Chana Joffe-Walt and featuring SNL’s Sasheer Zamata.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b7202006-b59f-4a39-937f-1358ca9e5ac9/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Kids do not like being told it’ll make sense when they’re older. They’re pretty sure the grown-ups are wrong.</description>
             <pubDate>Fri, 25 Mar 2016 18:00:00 -0400</pubDate>
         </item>
         <item>
