@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-07-11 06:01:05. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-07-18 06:05:53. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1879,7 +1879,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>510: Fiasco! (2013)</title>
             <link>https://www.thisamericanlife.org/510/fiasco-2013</link>
-            <enclosure url="https://stream.thisamericanlife.org/510/SE29pkKGlHfk4i9sDIrMw7i5bzVjfBwg0coreE4-rV8/510.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/510/aiJ6vaPHj6-Kcaml4qrNxkYpFQ9Bksjz3xFlLX05Xv4/510.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of when things go wrong. Really wrong. When you leave the normal realm of human error, fumble, mishap, and mistake and enter the territory of really huge breakdowns. Fiascos. Things go so awry that normal social order collapses.</description>
             <pubDate>Fri, 01 Nov 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2647,8 +2647,8 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>400: Stories Pitched by Our Parents</title>
             <link>https://www.thisamericanlife.org/400/stories-pitched-by-our-parents</link>
-            <enclosure url="https://stream.thisamericanlife.org/400/BirQG2HZ80pJ61-0_cLoExpETkXEVnYJ8w2Kus0JWTE/400.mp3" length="5000" type="audio/mpeg"/>
-            <description>For our 400th show, we try something harder than anything we've ever tried in the previous 399. We take the random ideas that members of our own families have told us at weddings and family gatherings would be "perfect for the show"...and we actually try to make those ideas into stories.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dccdd7be-5957-4080-8831-2c2a9ed13b7a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>We try something harder than anything we've ever tried before, by taking the random ideas that members of our own families have told us would be "perfect for the show," and turning them into actual stories.</description>
             <pubDate>Fri, 12 Feb 2010 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -4686,7 +4686,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <title>109: Notes on Camp</title>
             <link>https://www.thisamericanlife.org/109/notes-on-camp</link>
             <enclosure url="https://stream.thisamericanlife.org/109/NtHeuKzJ5BBwL24zeYtE9hf-kZ8-YP0-kU1lT7p_WY4/109.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of summer camp. People who love camp say that non-camp people simply don't understand what's so amazing about camp. In this program, we attempt to bridge the gap of misunderstanding between camp people and non-camp people.</description>
+            <description>People who love summer camp say that non-camp people simply don't understand what's so amazing about it. We attempt to bridge this gap of misunderstanding between camp people and non-camp people.</description>
             <pubDate>Fri, 28 Aug 1998 18:00:00 -0400</pubDate>
         </item>
         <item>
