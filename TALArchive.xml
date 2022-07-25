@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-07-18 06:05:53. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-07-25 06:03:45. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-07-18 06:05:53. Known missing e
         <item>
             <title>767: Do Not Go Gentle</title>
             <link>https://www.thisamericanlife.org/767/do-not-go-gentle</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ff916a0e-6818-49ba-8b45-bd43bad9d10c/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/767/qntxGeyBGGtt6UKiFInT3voKvDPvxcOCJfkwlnbPIzc/767.mp3" length="5000" type="audio/mpeg"/>
             <description>In this moment when autocrats and almost-autocrats are getting bolder and more powerful, we bring you two stories of resistance, from Hungary and Russia.</description>
             <pubDate>Fri, 08 Apr 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1365,7 +1365,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>583: It’ll Make Sense When You’re Older</title>
             <link>https://www.thisamericanlife.org/583/itll-make-sense-when-youre-older</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b7202006-b59f-4a39-937f-1358ca9e5ac9/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/583/gnxD3tIN-JzvY6CfCcxSYRS5ZhX0jnGmFJa4x_DStJs/583.mp3" length="5000" type="audio/mpeg"/>
             <description>Kids do not like being told it’ll make sense when they’re older. They’re pretty sure the grown-ups are wrong.</description>
             <pubDate>Fri, 25 Mar 2016 18:00:00 -0400</pubDate>
         </item>
@@ -4685,7 +4685,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>109: Notes on Camp</title>
             <link>https://www.thisamericanlife.org/109/notes-on-camp</link>
-            <enclosure url="https://stream.thisamericanlife.org/109/NtHeuKzJ5BBwL24zeYtE9hf-kZ8-YP0-kU1lT7p_WY4/109.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4dbce640-7137-4cda-9615-91b46923e6a1/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>People who love summer camp say that non-camp people simply don't understand what's so amazing about it. We attempt to bridge this gap of misunderstanding between camp people and non-camp people.</description>
             <pubDate>Fri, 28 Aug 1998 18:00:00 -0400</pubDate>
         </item>
