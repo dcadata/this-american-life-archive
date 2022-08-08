@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-08-01 06:22:59. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-08-08 05:58:08. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -21,7 +21,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-01 06:22:59. Known missing e
             <title>776: I Work Better on Deadline</title>
             <link>https://www.thisamericanlife.org/776/i-work-better-on-deadline</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/678aad60-0f98-40a0-a89b-d481cee807d3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of people racing against time to solve a huge intractable problem. Will they make it?</description>
+            <description>Stories of people racing against time to solve a problem. Will they make it?</description>
             <pubDate>Fri, 29 Jul 2022 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-01 06:22:59. Known missing e
         <item>
             <title>768: The Other Front Lines</title>
             <link>https://www.thisamericanlife.org/768/the-other-front-lines</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/187700c4-486b-4d1d-9f9d-cbde626f7a30/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/768/mNkNHTdsP7_bV5W6MN8W5xafxt3xssJjBug9RCV2gp0/768.mp3" length="5000" type="audio/mpeg"/>
             <description>Four personal stories from the war in Ukraine.</description>
             <pubDate>Fri, 22 Apr 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1078,8 +1078,8 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>625: Essay B</title>
             <link>https://www.thisamericanlife.org/625/essay-b</link>
-            <enclosure url="https://stream.thisamericanlife.org/625/PLKX9jG0672PNRHtK1NEHGGjNfz0z16WsDVIzmIhUDs/625.mp3" length="5000" type="audio/mpeg"/>
-            <description>In 1967, the first two black students were enrolled at an all-white private boarding school in Virginia. The main reason they were there? To benefit the white kids.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8a450aed-ce21-4453-8062-1726df80d075/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>In 1967, the first two Black students were enrolled at an all-white private boarding school in Virginia. The main reason they were there? To benefit the white kids.</description>
             <pubDate>Fri, 08 Sep 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
