@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-08-08 05:58:08. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-08-15 06:08:09. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-08 05:58:08. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>777: Name. Age. Detail.</title>
+            <link>https://www.thisamericanlife.org/777/name-age-detail</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a3108513-928a-466f-8575-de9edd70a8b1/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Ten people were killed at a grocery store in Buffalo, NY. Their stories, as you’ve never heard them.</description>
+            <pubDate>Fri, 12 Aug 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>776: I Work Better on Deadline</title>
             <link>https://www.thisamericanlife.org/776/i-work-better-on-deadline</link>
@@ -69,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-08 05:58:08. Known missing e
         <item>
             <title>769: The Reluctant Explorer</title>
             <link>https://www.thisamericanlife.org/769/the-reluctant-explorer</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/9ba1a271-26e8-42ea-a470-b902faca42ad/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/769/aAAQZfbRa3ugdUuBV4O-TXye-HWGWPPcXX6_OyC-eR0/769.mp3" length="5000" type="audio/mpeg"/>
             <description>A man finds himself thrust into a new world he didn’t necessarily ask to visit. He takes a look around.</description>
             <pubDate>Fri, 29 Apr 2022 18:00:00 -0400</pubDate>
         </item>
@@ -2654,7 +2661,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>400: Stories Pitched by Our Parents</title>
             <link>https://www.thisamericanlife.org/400/stories-pitched-by-our-parents</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dccdd7be-5957-4080-8831-2c2a9ed13b7a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/400/Hegt-rOY9tlK1yb05FQuoBJnIyWbX1noMNDqSeMzyKc/400.mp3" length="5000" type="audio/mpeg"/>
             <description>We try something harder than anything we've ever tried before, by taking the random ideas that members of our own families have told us would be "perfect for the show," and turning them into actual stories.</description>
             <pubDate>Fri, 12 Feb 2010 18:00:00 -0400</pubDate>
         </item>
