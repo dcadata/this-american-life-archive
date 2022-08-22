@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-08-15 06:08:09. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-08-22 06:13:17. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -4699,7 +4699,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>109: Notes on Camp</title>
             <link>https://www.thisamericanlife.org/109/notes-on-camp</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4dbce640-7137-4cda-9615-91b46923e6a1/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/109/NtHeuKzJ5BBwL24zeYtE9hf-kZ8-YP0-kU1lT7p_WY4/109.mp3" length="5000" type="audio/mpeg"/>
             <description>People who love summer camp say that non-camp people simply don't understand what's so amazing about it. We attempt to bridge this gap of misunderstanding between camp people and non-camp people.</description>
             <pubDate>Fri, 28 Aug 1998 18:00:00 -0400</pubDate>
         </item>
@@ -4748,8 +4748,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>102: Road Trip!</title>
             <link>https://www.thisamericanlife.org/102/road-trip</link>
-            <enclosure url="https://stream.thisamericanlife.org/102/Yumpei_cD3VGqOM_BpSM9eutuIwkQQPShtbMZja9fmg/102.mp3" length="5000" type="audio/mpeg"/>
-            <description>With all the American movies and songs and books about the joy of the open road, it's hard for an American to take just a normal road trip without huge expectations.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2e611154-df3f-4de5-a3d2-e7572377c929/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>With so many songs, movies, and books about the joy of the open road, it's hard to take just a normal road trip without huge expectations.</description>
             <pubDate>Fri, 22 May 1998 18:00:00 -0400</pubDate>
         </item>
         <item>
