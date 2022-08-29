@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-08-22 06:13:17. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-08-29 06:50:21. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-22 06:13:17. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>778: Me Minus Me</title>
+            <link>https://www.thisamericanlife.org/778/me-minus-me</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1ee63000-e28c-4a62-99b3-f8d6f78d24f5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>When a fundamental part of yourself changes dramatically, are you still who you thought you were?</description>
+            <pubDate>Fri, 26 Aug 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>777: Name. Age. Detail.</title>
             <link>https://www.thisamericanlife.org/777/name-age-detail</link>
@@ -69,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-22 06:13:17. Known missing e
         <item>
             <title>770: My Lying Eyes</title>
             <link>https://www.thisamericanlife.org/770/my-lying-eyes</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b76a63ed-ab38-49c1-a38a-373f290d051a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/770/3UaR0rbpHhiKUE3auJZkRNpcerXUOx0BUwN04yxlOfY/770.mp3" length="5000" type="audio/mpeg"/>
             <description>People staring squarely at the truth, and still finding it hard to believe what they’re seeing.</description>
             <pubDate>Fri, 06 May 2022 18:00:00 -0400</pubDate>
         </item>
@@ -210,7 +217,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-22 06:13:17. Known missing e
             <title>750: The Ferryman</title>
             <link>https://www.thisamericanlife.org/750/the-ferryman</link>
             <enclosure url="https://stream.thisamericanlife.org/750/GJ6TK3EPDYZFM1AINqnIXfQXQxo2pQeMOm61ot7ZkcM/750.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about getting from Point A to Point B—with expert assistance.</description>
+            <description>Getting from Point A to Point B—with expert assistance.</description>
             <pubDate>Fri, 15 Oct 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -343,7 +350,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-22 06:13:17. Known missing e
             <title>731: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/731/what-lies-beneath</link>
             <enclosure url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of people summoning up stuff that’s usually hidden down deep.</description>
+            <description>Summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 12 Feb 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -413,7 +420,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-08-22 06:13:17. Known missing e
             <title>721: The Walls Close In</title>
             <link>https://www.thisamericanlife.org/721/the-walls-close-in</link>
             <enclosure url="https://stream.thisamericanlife.org/721/nInwz4XIY-vsVaK8sl9sU3QtM0BH19d9aRIm4Sp74kA/721.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of people who find themselves stuck in small spaces—an elevator, an attic, an orchestra pit—trying to make sense of their new surroundings.</description>
+            <description>People finding themselves stuck in small spaces—an elevator, an attic, an orchestra pit—trying to make sense of their new surroundings.</description>
             <pubDate>Fri, 23 Oct 2020 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1191,7 +1198,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <title>610: Grand Gesture</title>
             <link>https://www.thisamericanlife.org/610/grand-gesture</link>
             <enclosure url="https://stream.thisamericanlife.org/610/wyotYr-5FpR7PtgwJR-pHCPXjXMDBYXIREUg8kwamWc/610.mp3" length="5000" type="audio/mpeg"/>
-            <description>This week we have stories of people going to very extreme measures to demonstrate their feelings. Elna Baker makes a questionable trip to Africa, while a man in Florida commits a series of disturbing acts in the name of love. Ira also goes to a high school to talk to kids before a dance.</description>
+            <description>People going to very extreme measures to demonstrate their feelings.</description>
             <pubDate>Fri, 17 Feb 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1459,7 +1466,7 @@ An updated version of an episode originally broadcast back in 1997.</description
             <title>572: Transformers</title>
             <link>https://www.thisamericanlife.org/572/transformers</link>
             <enclosure url="https://stream.thisamericanlife.org/572/jLsyE4hJHcposbs96DRkxdcJo8WFw3pDuqhHzFZu1Pc/572.mp3" length="5000" type="audio/mpeg"/>
-            <description>For the New Year, as people everywhere make resolutions, we have stories of people deciding to make very big changes. A prisoner who hasn't talked to anyone in years comes up with a bold plan to re-introduce himself to the world. A 90-year-old woman shocks her family when she falls in love.</description>
+            <description>People deciding to make very big changes.</description>
             <pubDate>Fri, 06 Nov 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3675,10 +3682,10 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <pubDate>Fri, 09 Jan 2004 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>255: This American Life’s Holiday Gift-Giving Guide</title>
-            <link>https://www.thisamericanlife.org/255/this-american-lifes-holiday-gift-giving-guide</link>
+            <title>255: Our Holiday Gift-Giving Guide</title>
+            <link>https://www.thisamericanlife.org/255/our-holiday-gift-giving-guide</link>
             <enclosure url="https://stream.thisamericanlife.org/255/LIj-Qq6A4Ou6fSNWKvj7ZOhRHuFRkLyN3lAD7tiatlQ/255.mp3" length="5000" type="audio/mpeg"/>
-            <description>The vexing difficulty of finding the perfect gift, illustrated in three acts.</description>
+            <description>The vexing difficulty of finding the perfect gift.</description>
             <pubDate>Fri, 19 Dec 2003 18:00:00 -0400</pubDate>
         </item>
         <item>
