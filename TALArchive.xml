@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-08-29 06:50:21. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-09-05 06:47:38. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1092,7 +1092,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>625: Essay B</title>
             <link>https://www.thisamericanlife.org/625/essay-b</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8a450aed-ce21-4453-8062-1726df80d075/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/625/PLKX9jG0672PNRHtK1NEHGGjNfz0z16WsDVIzmIhUDs/625.mp3" length="5000" type="audio/mpeg"/>
             <description>In 1967, the first two Black students were enrolled at an all-white private boarding school in Virginia. The main reason they were there? To benefit the white kids.</description>
             <pubDate>Fri, 08 Sep 2017 18:00:00 -0400</pubDate>
         </item>
@@ -1774,8 +1774,8 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>528: The Radio Drama Episode</title>
             <link>https://www.thisamericanlife.org/528/the-radio-drama-episode</link>
-            <enclosure url="https://stream.thisamericanlife.org/528/0wS7mOQGsdJvZndT6hIkyoq6z8iCxheJJOtzD_ahvfo/528.mp3" length="5000" type="audio/mpeg"/>
-            <description>Our most ambitious live show ever! We pulled together a massive team of theater pros at the Brooklyn Academy of Music's Opera House—nearly 50 singers, actors, dancers and musicians. The result? Journalism turned into a Broadway musical (hear the cast album), into opera. Mike Birbiglia, Sasheer Zamata, Stephin Merritt, Josh Hamilton, Lindsay Mendez, Lin-Manuel Miranda and others. Watch a video of the live performance or download it for $5.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/0c2ae293-d05c-4d14-827a-97d92b82763d/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Our most ambitious live show ever! We pulled together a massive team of theater pros at the Brooklyn Academy of Music's Opera House—nearly 50 singers, actors, dancers and musicians. The result? Journalism turned into a Broadway musical, into opera. Mike Birbiglia, Sasheer Zamata, Stephin Merritt, Josh Hamilton, Lindsay Mendez, Lin-Manuel Miranda and others.</description>
             <pubDate>Fri, 20 Jun 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
