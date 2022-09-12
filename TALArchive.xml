@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-09-05 06:47:38. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-09-12 06:58:28. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1620,7 +1620,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>550: Three Miles</title>
             <link>https://www.thisamericanlife.org/550/three-miles</link>
-            <enclosure url="https://stream.thisamericanlife.org/550/6dF6tMun4ReLWP5wyyLEdXNzJBPBRfiTx2oyXv-a5gg/550.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8eb7e27b-99d5-44c1-8048-d3e9d58d0124/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>There’s a program that brings together kids from two schools. One school is public and in the country’s poorest congressional district. The other is private and costs $43,000/year. They are three miles apart. The hope is that kids connect, but some of the public school kids just can’t get over the divide. We hear what happens when you get to see the other side and it looks a lot better.</description>
             <pubDate>Fri, 13 Mar 2015 18:00:00 -0400</pubDate>
         </item>
