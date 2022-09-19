@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-09-12 06:58:28. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-09-19 06:59:48. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-09-12 06:58:28. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>779: Ends of the Earth</title>
+            <link>https://www.thisamericanlife.org/779/ends-of-the-earth</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/31bb8c02-c572-4380-93fd-99f628ba125e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>An exploration of the very upper limits of what you do for someone you love.</description>
+            <pubDate>Fri, 16 Sep 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>778: Me Minus Me</title>
             <link>https://www.thisamericanlife.org/778/me-minus-me</link>
@@ -69,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-09-12 06:58:28. Known missing e
         <item>
             <title>771: The Parents Step In</title>
             <link>https://www.thisamericanlife.org/771/the-parents-step-in</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/de87d383-b3bf-4085-b4c8-4b364006d823/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/771/z8upEWwt97i9aQcSu05ucpNKiS9mX_mX3wp2vfgADl8/771.mp3" length="5000" type="audio/mpeg"/>
             <description>Government isn’t doing much to prevent school shootings. So parents are jumping in: parents whose kids have died in mass shootings, in the wake of each shooting. They take practical, effective action — and they get results.</description>
             <pubDate>Fri, 27 May 2022 18:00:00 -0400</pubDate>
         </item>
@@ -4755,7 +4762,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>102: Road Trip!</title>
             <link>https://www.thisamericanlife.org/102/road-trip</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2e611154-df3f-4de5-a3d2-e7572377c929/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/102/Yumpei_cD3VGqOM_BpSM9eutuIwkQQPShtbMZja9fmg/102.mp3" length="5000" type="audio/mpeg"/>
             <description>With so many songs, movies, and books about the joy of the open road, it's hard to take just a normal road trip without huge expectations.</description>
             <pubDate>Fri, 22 May 1998 18:00:00 -0400</pubDate>
         </item>
