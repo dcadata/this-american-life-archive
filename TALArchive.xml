@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-09-19 06:59:48. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-09-26 06:52:48. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -223,7 +223,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-09-19 06:59:48. Known missing e
         <item>
             <title>750: The Ferryman</title>
             <link>https://www.thisamericanlife.org/750/the-ferryman</link>
-            <enclosure url="https://stream.thisamericanlife.org/750/GJ6TK3EPDYZFM1AINqnIXfQXQxo2pQeMOm61ot7ZkcM/750.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d1c38816-d10c-4741-a110-80653f969c00/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Getting from Point A to Point B—with expert assistance.</description>
             <pubDate>Fri, 15 Oct 2021 18:00:00 -0400</pubDate>
         </item>
