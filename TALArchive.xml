@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-09-26 06:52:48. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-10-03 06:18:31. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-09-26 06:52:48. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>780: Setting the Record Straight</title>
+            <link>https://www.thisamericanlife.org/780/setting-the-record-straight</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/72ba3b43-839d-45b2-9164-4e31e304f319/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Getting to the facts can be difficult, but it’s always the right thing to do. Except when it isn’t.</description>
+            <pubDate>Fri, 30 Sep 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>779: Ends of the Earth</title>
             <link>https://www.thisamericanlife.org/779/ends-of-the-earth</link>
@@ -69,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-09-26 06:52:48. Known missing e
         <item>
             <title>772: The Kids' Table</title>
             <link>https://www.thisamericanlife.org/772/the-kids-table</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d0e09544-f892-47d9-9e0e-9a95b8d434f3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/772/-KHSlrxOZ43FCpnm8OIAtZDmrf9cw64CK4Dhf9oAOTc/772.mp3" length="5000" type="audio/mpeg"/>
             <description>Kids navigating hairy situations all on their own, with no help from grown-ups.</description>
             <pubDate>Fri, 03 Jun 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1781,7 +1788,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>528: The Radio Drama Episode</title>
             <link>https://www.thisamericanlife.org/528/the-radio-drama-episode</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/0c2ae293-d05c-4d14-827a-97d92b82763d/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/528/0wS7mOQGsdJvZndT6hIkyoq6z8iCxheJJOtzD_ahvfo/528.mp3" length="5000" type="audio/mpeg"/>
             <description>Our most ambitious live show ever! We pulled together a massive team of theater pros at the Brooklyn Academy of Music's Opera House—nearly 50 singers, actors, dancers and musicians. The result? Journalism turned into a Broadway musical, into opera. Mike Birbiglia, Sasheer Zamata, Stephin Merritt, Josh Hamilton, Lindsay Mendez, Lin-Manuel Miranda and others.</description>
             <pubDate>Fri, 20 Jun 2014 18:00:00 -0400</pubDate>
         </item>
