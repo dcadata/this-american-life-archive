@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-10-17 06:56:39. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-10-24 07:01:36. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-10-17 06:56:39. Known missing e
         <item>
             <title>773: The Longest Distance Between Two Points</title>
             <link>https://www.thisamericanlife.org/773/longest-distance</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/72e503ce-f09d-4a52-93ad-cb37be010370/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/773/FhJId7x1aE3Awe9HB1yyxOarkHvj91jQRpRtbkyrHqg/773.mp3" length="5000" type="audio/mpeg"/>
             <description>Getting from A to B via Z.</description>
             <pubDate>Fri, 17 Jun 2022 18:00:00 -0400</pubDate>
         </item>
@@ -216,7 +216,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-10-17 06:56:39. Known missing e
         <item>
             <title>754: Spark Bird</title>
             <link>https://www.thisamericanlife.org/754/spark-bird</link>
-            <enclosure url="https://stream.thisamericanlife.org/754/0vuEsdvOrrm21PMp2L8_4-TXYJ7bzQvrdVIG-_ue5Wg/754.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/bd4ed0ce-78ca-4777-8286-c054c1e4f8d6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>This bird-focused week, stories about birds and the hearts they sway, the havoc they wreak, the lives they change.</description>
             <pubDate>Fri, 26 Nov 2021 18:00:00 -0400</pubDate>
         </item>
@@ -244,7 +244,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-10-17 06:56:39. Known missing e
         <item>
             <title>750: The Ferryman</title>
             <link>https://www.thisamericanlife.org/750/the-ferryman</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d1c38816-d10c-4741-a110-80653f969c00/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/750/GJ6TK3EPDYZFM1AINqnIXfQXQxo2pQeMOm61ot7ZkcM/750.mp3" length="5000" type="audio/mpeg"/>
             <description>Getting from Point A to Point B—with expert assistance.</description>
             <pubDate>Fri, 15 Oct 2021 18:00:00 -0400</pubDate>
         </item>
@@ -2969,7 +2969,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>361: Fear of Sleep</title>
             <link>https://www.thisamericanlife.org/361/fear-of-sleep</link>
-            <enclosure url="https://stream.thisamericanlife.org/361/7EmVggwJjOZiRbDb21WyEGIvLxTVQqcNjE5i7lUt7c0/361.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/361/cEagiRSaeTmy28FnUol3HPi4Vj-n1eSgjj0lQB19ns8/361.mp3" length="5000" type="audio/mpeg"/>
             <description>Mike Birbiglia got used to strange things happening to him when he slept—until something happened that almost killed him (Mike's story is now a feature film, Sleepwalk With Me). This and other reasons to fear sleep, including bedbugs, "The Shining," and mild-mannered husbands who turn into maniacs while asleep.</description>
             <pubDate>Fri, 08 Aug 2008 18:00:00 -0400</pubDate>
         </item>
@@ -3761,7 +3761,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>248: Like It or Not</title>
             <link>https://www.thisamericanlife.org/248/like-it-or-not</link>
-            <enclosure url="https://stream.thisamericanlife.org/248/WoKdZ02SAO4vgZ9w6a4SuAXGUG7TG8Q-wiFO23LvQ3Q/248.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/248/Fnjb1XnjFn1rQOCtEOhFt82O2rJHJDorxUOapUn861M/248.mp3" length="5000" type="audio/mpeg"/>
             <description>Some stories we make happen, others happen to us. Extremes from the latter category, where people let things happen to them and don't act, even when maybe they should. David Rakoff guest hosts.</description>
             <pubDate>Fri, 24 Oct 2003 18:00:00 -0400</pubDate>
         </item>
@@ -3936,7 +3936,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>223: Classifieds</title>
             <link>https://www.thisamericanlife.org/223/classifieds</link>
-            <enclosure url="https://stream.thisamericanlife.org/223/H6ig4Rd9fdHHBzenSZdvHddXuY2aE2S3pExJPbwEhyw/223.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/223/bzO-yy33uEApQy1O31J_UgccKaeJeSa7e7xo415jR2Y/223.mp3" length="5000" type="audio/mpeg"/>
             <description>In this show we take the classifieds from one Sunday edition of the Chicago Sun-Times and one edition of the local alternative weekly Chicago Reader, and fill a program with stories that come from the ads. Through the jobs offered, the missed connections, the crap that people sell each other and the musicians' ads we get a portrait of a whole city.</description>
             <pubDate>Fri, 11 Oct 2002 18:00:00 -0400</pubDate>
         </item>
@@ -4496,7 +4496,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>143: Sentencing</title>
             <link>https://www.thisamericanlife.org/143/sentencing</link>
-            <enclosure url="https://stream.thisamericanlife.org/143/J50zesGAQNiw7aRCCLTX-vvw-dr3xmCbqAQ7s3NvC9E/143.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/143/7HYBIuWfLOoo7hDsawcyiYqJX6XKkneH_LS8iUoyBAI/143.mp3" length="5000" type="audio/mpeg"/>
             <description>We've all heard occasional news stories about how some of the drug laws enacted in the last 15 years may have gone too far. First time offenders get locked up for decades. Judges—even Republican appointees—say that mandatory minimum sentences prevent them from making fair rulings. But have sentences really gone too far? This hour examines the areas where a consensus is growing on the problems in federal drug laws, and it explains the areas where drug laws seem to be administered fairly.</description>
             <pubDate>Fri, 22 Oct 1999 18:00:00 -0400</pubDate>
         </item>
@@ -4650,7 +4650,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>121: Twentieth Century Man</title>
             <link>https://www.thisamericanlife.org/121/twentieth-century-man</link>
-            <enclosure url="https://stream.thisamericanlife.org/121/63jueHPFJUDf5MbUlEgbLeW6OXgi_tHi_VweAI3lClI/121.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/121/TXybWfcRMxe_9RuCOTXVEh6BtemGcWebIPE8WR4s2XQ/121.mp3" length="5000" type="audio/mpeg"/>
             <description>One thing that makes our country different from most others is this idea that you can re-create yourself as someone you'd prefer to be...sell everything off, head out west, start a new life.  But what happens if you're too good at it?  At throwing everything out and starting over?</description>
             <pubDate>Fri, 29 Jan 1999 18:00:00 -0400</pubDate>
         </item>
@@ -5364,7 +5364,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>18: Liars</title>
             <link>https://www.thisamericanlife.org/18/liars</link>
-            <enclosure url="https://stream.thisamericanlife.org/18/kgpkMbCVUSYjrVkGfL4mtsbNPzfTie2t5qUIFKmovKE/18.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/18/d7jXH-Afxjy1Vr-Y9CcMfrKtbCHuAqz0EARNknp5hgs/18.mp3" length="5000" type="audio/mpeg"/>
             <description>April first is the one day of the year when we're allowed to enjoy deceiving others. But April Fools' Day is for amateur deceivers. The real pros are the people who can't control their lying, who lie without even knowing what the truth is. Everyone's known someone like this, but it's a topic that's only rarely studied or discussed publicly. Journalist and former This American Life contributing editor Margy Rochlin co-hosts.</description>
             <pubDate>Thu, 28 Mar 1996 18:00:00 -0400</pubDate>
         </item>
