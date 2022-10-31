@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-10-24 07:01:36. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-10-31 06:09:32. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-10-24 07:01:36. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>783: Kids These Days</title>
+            <link>https://www.thisamericanlife.org/783/kids-these-days</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3b3d35fd-85df-454c-9618-608f9b1ce786/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>We hear from kids who are dealing with some of the country’s most contentious debates. Debates that are supposedly about them.</description>
+            <pubDate>Fri, 28 Oct 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>782: Family Dig</title>
             <link>https://www.thisamericanlife.org/782/family-dig</link>
@@ -217,7 +224,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-10-24 07:01:36. Known missing e
             <title>754: Spark Bird</title>
             <link>https://www.thisamericanlife.org/754/spark-bird</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/bd4ed0ce-78ca-4777-8286-c054c1e4f8d6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>This bird-focused week, stories about birds and the hearts they sway, the havoc they wreak, the lives they change.</description>
+            <description>Stories about birds and the hearts they sway, the havoc they wreak, the lives they change.</description>
             <pubDate>Fri, 26 Nov 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
