@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-10-31 06:09:32. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-11-07 06:02:38. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-10-31 06:09:32. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>784: Mapmaker, Mapmaker, Make Me a Map</title>
+            <link>https://www.thisamericanlife.org/784/mapmaker</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/543eb5d9-9e04-40e0-b786-73c1dd1928db/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Not long ago, Republicans in Ohio passed a constitutional amendment to end gerrymandering in the state. And then a funny thing happened. The same Ohio Republicans drew electoral maps that violated their own constitutional amendment. They’ll be using them in this week’s midterm elections. We try to understand how that could happen.</description>
+            <pubDate>Fri, 04 Nov 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>783: Kids These Days</title>
             <link>https://www.thisamericanlife.org/783/kids-these-days</link>
@@ -76,14 +83,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-10-31 06:09:32. Known missing e
         <item>
             <title>775: The Possum Experiment</title>
             <link>https://www.thisamericanlife.org/775/the-possum-experiment</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dd18e4ea-a271-4303-891b-eb13f15f7df3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/775/QXTHvllcC4gN9cRoU0g5OQM36rfXcGrDFBDoBzicuFU/775.mp3" length="5000" type="audio/mpeg"/>
             <description>An investigation into a very basic question about people: Are most of us bad or good?</description>
             <pubDate>Fri, 08 Jul 2022 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>774: The Pink House at the Center of the World</title>
             <link>https://www.thisamericanlife.org/774/the-pink-house-at-the-center-of-the-world</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/f189d8bb-d1af-4dfd-b38c-efe726edac92/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/774/4oR8PjBYo-5xhDwLSaxcodBKoNSvShyCbQaL4Faq5L4/774.mp3" length="5000" type="audio/mpeg"/>
             <description>The Supreme Court case that overturned Roe v. Wade began with a lawsuit filed by a Mississippi abortion clinic. On the day Roe was overturned, we were there. Stories from the center of this moment of history, the day it happened.</description>
             <pubDate>Fri, 01 Jul 2022 18:00:00 -0400</pubDate>
         </item>
