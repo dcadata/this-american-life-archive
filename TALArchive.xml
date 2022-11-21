@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-11-14 06:01:42. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-11-21 05:55:46. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-11-14 06:01:42. Known missing e
         <item>
             <title>776: I Work Better on Deadline</title>
             <link>https://www.thisamericanlife.org/776/i-work-better-on-deadline</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/678aad60-0f98-40a0-a89b-d481cee807d3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/776/9FGM2d3Ay80RY_ULI266wQkX3VDWn1ThSwjNrvWP6Ik/776.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people racing against time to solve a problem. Will they make it?</description>
             <pubDate>Fri, 29 Jul 2022 18:00:00 -0400</pubDate>
         </item>
@@ -230,7 +230,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-11-14 06:01:42. Known missing e
         <item>
             <title>754: Spark Bird</title>
             <link>https://www.thisamericanlife.org/754/spark-bird</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/bd4ed0ce-78ca-4777-8286-c054c1e4f8d6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/754/0vuEsdvOrrm21PMp2L8_4-TXYJ7bzQvrdVIG-_ue5Wg/754.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about birds and the hearts they sway, the havoc they wreak, the lives they change.</description>
             <pubDate>Fri, 26 Nov 2021 18:00:00 -0400</pubDate>
         </item>
@@ -2697,7 +2697,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
             <title>402: Save the Day</title>
             <link>https://www.thisamericanlife.org/402/save-the-day</link>
             <enclosure url="https://stream.thisamericanlife.org/402/4aiCnRLGHGPns9KdEyzoldNZDX57l9xMLWBfQ9M9TP4/402.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about one person single-handedly taking charge of a situation gone wrong—including one man's mission to rescue two kids who were kidnapped by alleged murderers and taken to Mexico, and another about a professor's mission to keep the educators of a liberal arts college from extinction.</description>
+            <description>Stories about one person single-handedly taking charge of a situation gone wrong.</description>
             <pubDate>Fri, 12 Mar 2010 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3053,8 +3053,8 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>351: Return to Childhood</title>
             <link>https://www.thisamericanlife.org/351/return-to-childhood</link>
-            <enclosure url="https://stream.thisamericanlife.org/351/c05w2bIbKTtKoRph9wwalhl5TgZ25sCA8SQl1H-u-MU/351.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of people who try to revisit their childhoods—what they find and what they do not find.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b9760c90-221f-4c13-9a47-d224ddd67ae5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People who try to revisit their childhoods—what they find and what they do not find.</description>
             <pubDate>Fri, 07 Mar 2008 18:00:00 -0400</pubDate>
         </item>
         <item>
