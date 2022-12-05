@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-11-28 05:54:21. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-12-05 05:52:00. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-11-28 05:54:21. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>786: It's a Game Show!</title>
+            <link>https://www.thisamericanlife.org/786/its-a-game-show</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ac35215c-11f7-4e1d-be94-099843a50116/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Something we’ve never done before: true stories told in the form of a game show.</description>
+            <pubDate>Fri, 02 Dec 2022 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>785: Through the Looking Glass</title>
             <link>https://www.thisamericanlife.org/785/through-the-looking-glass</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-11-28 05:54:21. Known missing e
         <item>
             <title>777: Name. Age. Detail.</title>
             <link>https://www.thisamericanlife.org/777/name-age-detail</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a3108513-928a-466f-8575-de9edd70a8b1/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/777/XiwT8yJjDopOoFM4ucgmhn1wvrA5RBMa4BN6N6nH3vI/777.mp3" length="5000" type="audio/mpeg"/>
             <description>Ten people were killed at a grocery store in Buffalo, NY. Their stories, as you’ve never heard them.</description>
             <pubDate>Fri, 12 Aug 2022 18:00:00 -0400</pubDate>
         </item>
