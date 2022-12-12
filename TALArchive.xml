@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-12-05 05:52:00. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-12-12 05:53:24. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-12-05 05:52:00. Known missing e
         <item>
             <title>778: Me Minus Me</title>
             <link>https://www.thisamericanlife.org/778/me-minus-me</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1ee63000-e28c-4a62-99b3-f8d6f78d24f5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/778/AfZwj_tTaV0rw3makfptQUaNN9Qu0txPKkxJsJ3vtPI/778.mp3" length="5000" type="audio/mpeg"/>
             <description>When a fundamental part of yourself changes dramatically, are you still who you thought you were?</description>
             <pubDate>Fri, 26 Aug 2022 18:00:00 -0400</pubDate>
         </item>
@@ -398,7 +398,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-12-05 05:52:00. Known missing e
         <item>
             <title>732: Secrets</title>
             <link>https://www.thisamericanlife.org/732/secrets</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fcc546b4-abdc-4e0d-bf58-61b7138fc0b3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/732/pjDJYeZuL-KRqA1PnIKOaAw4oEFMCmlShPQN7F7q1WM/732.mp3" length="5000" type="audio/mpeg"/>
             <description>Why we tell them, and what happens after we do.</description>
             <pubDate>Fri, 19 Feb 2021 18:00:00 -0400</pubDate>
         </item>
@@ -2710,7 +2710,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>402: Save the Day</title>
             <link>https://www.thisamericanlife.org/402/save-the-day</link>
-            <enclosure url="https://stream.thisamericanlife.org/402/4aiCnRLGHGPns9KdEyzoldNZDX57l9xMLWBfQ9M9TP4/402.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4504d91c-c68e-4001-b454-7e0c223734ac/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about one person single-handedly taking charge of a situation gone wrong.</description>
             <pubDate>Fri, 12 Mar 2010 18:00:00 -0400</pubDate>
         </item>
