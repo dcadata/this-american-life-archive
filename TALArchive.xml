@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-12-12 05:53:24. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2022-12-19 05:53:50. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -223,7 +223,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-12-12 05:53:24. Known missing e
         <item>
             <title>757: The Ghost in the Machine</title>
             <link>https://www.thisamericanlife.org/757/the-ghost-in-the-machine</link>
-            <enclosure url="https://stream.thisamericanlife.org/757/x5ElEQ7yS86IuRyEqUhWNLbaWX4C6BTG42dyGflVza4/757.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3d8a4b18-88b2-462d-b146-3adf387ddeca/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>People use machines to find people they lost.</description>
             <pubDate>Fri, 31 Dec 2021 18:00:00 -0400</pubDate>
         </item>
@@ -3067,7 +3067,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>351: Return to Childhood</title>
             <link>https://www.thisamericanlife.org/351/return-to-childhood</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b9760c90-221f-4c13-9a47-d224ddd67ae5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/351/c05w2bIbKTtKoRph9wwalhl5TgZ25sCA8SQl1H-u-MU/351.mp3" length="5000" type="audio/mpeg"/>
             <description>People who try to revisit their childhoods—what they find and what they do not find.</description>
             <pubDate>Fri, 07 Mar 2008 18:00:00 -0400</pubDate>
         </item>
