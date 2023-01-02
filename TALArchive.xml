@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2022-12-26 05:52:10. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-01-02 05:56:29. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -18,11 +18,11 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-12-26 05:52:10. Known missing e
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
         <item>
-            <title>787: Remembering the Dead</title>
-            <link>https://www.thisamericanlife.org/787/remembering-the-dead</link>
-            <enclosure url="https://stream.thisamericanlife.org/787/787.mp3" length="5000" type="audio/mpeg"/>
-            <description>People grappling with different ways to see the past.</description>
-            <pubDate>Fri, 16 Dec 2022 18:00:00 -0400</pubDate>
+            <title>787: Baby's First Christmas</title>
+            <link>https://www.thisamericanlife.org/787/babys-first-christmas</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/eb9e614c-8bea-44d1-9ac6-794268ef2848/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People experiencing Christmas in brand new ways, giving the holiday even more meaning.</description>
+            <pubDate>Fri, 23 Dec 2022 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>786: It's a Game Show!</title>
@@ -69,7 +69,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2022-12-26 05:52:10. Known missing e
         <item>
             <title>780: Setting the Record Straight</title>
             <link>https://www.thisamericanlife.org/780/setting-the-record-straight</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/72ba3b43-839d-45b2-9164-4e31e304f319/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/780/D0kDZD-7kZ4Qn8epTqVFDnmEtY9wANujX4dtENYLQpE/780.mp3" length="5000" type="audio/mpeg"/>
             <description>Getting to the facts can be difficult, but it’s always the right thing to do. Except when it isn’t.</description>
             <pubDate>Fri, 30 Sep 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1344,7 +1344,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>598: My Undesirable Talent</title>
             <link>https://www.thisamericanlife.org/598/my-undesirable-talent</link>
-            <enclosure url="https://stream.thisamericanlife.org/598/dc2PohAUs_183mCBfoGDNhym9iyzsOTnfLnZ6o6fhQc/598.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7ac9d0b2-7669-4abd-9ffb-624f4ff7b0d8/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>San Francisco’s Spider-Man burglar was remarkable. He dropped into buildings from skylights, leapt 10 feet from one roof to another. But mostly, his talent got him into trouble. This week, his story, and stories of other undesirable talents.</description>
             <pubDate>Fri, 07 Oct 2016 18:00:00 -0400</pubDate>
         </item>
@@ -2970,7 +2970,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
             <title>366: A Better Mousetrap (2008)</title>
             <link>https://www.thisamericanlife.org/366/a-better-mousetrap-2008</link>
             <enclosure url="https://stream.thisamericanlife.org/366/QxRXI3Erfo6YON01EmB9_e1ByAI5VpCIrydbYMsxIro/366.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about people trying to find new solutions to age-old problems—solutions that sometimes cause problems of their own. Alex Blumberg returns (in collaboration with the Planet Money podcast) with the latest in the financial crisis.</description>
+            <description>Stories about people trying to find new solutions to age-old problems—solutions that sometimes cause problems of their own.</description>
             <pubDate>Fri, 10 Oct 2008 18:00:00 -0400</pubDate>
         </item>
         <item>
