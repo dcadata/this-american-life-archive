@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-01-02 05:56:29. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-01-09 05:51:45. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-01-02 05:56:29. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>788: Half-Baked Stories About My Dead Mom</title>
+            <link>https://www.thisamericanlife.org/788/half-baked-stories-about-my-dead-mom</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8e9f544c-5da9-4c27-a25d-f13fafcebf61/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Writer Etgar Keret tries to come up with the stories that capture his late mother, but it’s hard, he says, because she’s like Maria in West Side Story and she’s also like Thanos from the Avengers. He ends up with a series of very short stories — most just a few paragraphs long — that give glimpses of different sides of her. These written stories are interspersed with off-the-cuff stories he tells host Ira Glass.</description>
+            <pubDate>Fri, 06 Jan 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>787: Baby's First Christmas</title>
             <link>https://www.thisamericanlife.org/787/babys-first-christmas</link>
@@ -2717,7 +2724,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>402: Save the Day</title>
             <link>https://www.thisamericanlife.org/402/save-the-day</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4504d91c-c68e-4001-b454-7e0c223734ac/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/402/gDYAlE-Nya0yqBIEaLCUi7Sxc_aT4X2D2jGxfQGoY7E/402.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about one person single-handedly taking charge of a situation gone wrong.</description>
             <pubDate>Fri, 12 Mar 2010 18:00:00 -0400</pubDate>
         </item>
