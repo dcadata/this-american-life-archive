@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-01-09 05:51:45. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-01-16 05:52:22. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -21,7 +21,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-01-09 05:51:45. Known missing e
             <title>788: Half-Baked Stories About My Dead Mom</title>
             <link>https://www.thisamericanlife.org/788/half-baked-stories-about-my-dead-mom</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8e9f544c-5da9-4c27-a25d-f13fafcebf61/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Writer Etgar Keret tries to come up with the stories that capture his late mother, but it’s hard, he says, because she’s like Maria in West Side Story and she’s also like Thanos from the Avengers. He ends up with a series of very short stories — most just a few paragraphs long — that give glimpses of different sides of her. These written stories are interspersed with off-the-cuff stories he tells host Ira Glass.</description>
+            <description>Writer Etgar Keret tries to come up with the stories that capture his late mother, Orna Keret—but it’s hard, he says, because she’s like Maria in West Side Story and she’s also like Thanos from the Avengers. He ends up with a series of very short stories — most just a few paragraphs long — that give glimpses of different sides of her. These written stories are interspersed with off-the-cuff stories he tells host Ira Glass.</description>
             <pubDate>Fri, 06 Jan 2023 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -237,7 +237,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-01-09 05:51:45. Known missing e
         <item>
             <title>757: The Ghost in the Machine</title>
             <link>https://www.thisamericanlife.org/757/the-ghost-in-the-machine</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3d8a4b18-88b2-462d-b146-3adf387ddeca/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/757/x5ElEQ7yS86IuRyEqUhWNLbaWX4C6BTG42dyGflVza4/757.mp3" length="5000" type="audio/mpeg"/>
             <description>People use machines to find people they lost.</description>
             <pubDate>Fri, 31 Dec 2021 18:00:00 -0400</pubDate>
         </item>
@@ -4321,8 +4321,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>174: Birthdays, Anniversaries, and Milestones</title>
             <link>https://www.thisamericanlife.org/174/birthdays-anniversaries-and-milestones</link>
-            <enclosure url="https://stream.thisamericanlife.org/174/rd712hh3r-QcxEhuHM3SK6hSfTW63I-ZTRvex7NJAA0/174.mp3" length="5000" type="audio/mpeg"/>
-            <description>Birthdays, anniversaries, and milestones of all sorts...and how they mean something whether we want them to or not. A live show taped for our fifth anniversary, back in 2000, when we went on the road to Boston, New York, Chicago, and L.A. Featuring house band OK Go.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/48103cbc-15a6-4e82-b4f9-03319cee61dc/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>They mean something, whether we want them to or not.</description>
             <pubDate>Fri, 29 Dec 2000 18:00:00 -0400</pubDate>
         </item>
         <item>
