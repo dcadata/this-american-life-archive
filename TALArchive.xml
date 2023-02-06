@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-01-30 05:51:52. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-02-06 05:52:06. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -522,8 +522,8 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-01-30 05:51:52. Known missing e
             <pubDate>Fri, 02 Oct 2020 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>718: Same Bed, Different Dreams</title>
-            <link>https://www.thisamericanlife.org/718/same-bed-different-dreams</link>
+            <title>718: Same Bed, Different Dreams (2020)</title>
+            <link>https://www.thisamericanlife.org/718/same-bed-different-dreams-2020</link>
             <enclosure url="https://stream.thisamericanlife.org/718/nbiN7iGH-GJAqPTPZM0dss5TGW5j1QS6XTBJStHnNdM/718.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who are tied together, but imagine radically different futures. In one case, a movie star and her ex-husband plot against Kim Jong-Il. In another, a woman stalks her doppelgänger. And sometimes, one bed is the basis for an entire relationship, even for a man who almost never sees the person who shares his bed.</description>
             <pubDate>Fri, 25 Sep 2020 18:00:00 -0400</pubDate>
@@ -1076,10 +1076,10 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <pubDate>Fri, 02 Mar 2018 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>639: In Dog We Trust (2018)</title>
-            <link>https://www.thisamericanlife.org/639/in-dog-we-trust-2018</link>
+            <title>639: In Dog We Trust</title>
+            <link>https://www.thisamericanlife.org/639/in-dog-we-trust</link>
             <enclosure url="https://stream.thisamericanlife.org/639/MJLHCMJVPJlu5rENPqkE53zb1F8Sk6EzShJLNLJasqo/639.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of dogs and cats and other animals that live in our homes. Exactly how much are they caught up in everyday family dynamics? We answer this question and others.</description>
+            <description>Exactly how much are the animals that live in our homes caught up in our everyday family dynamics?</description>
             <pubDate>Fri, 23 Feb 2018 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1660,10 +1660,10 @@ An episode from last year, with one story swapped.</description>
             <pubDate>Fri, 15 May 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>556: Same Bed, Different Dreams (2015)</title>
-            <link>https://www.thisamericanlife.org/556/same-bed-different-dreams-2015</link>
+            <title>556: Same Bed, Different Dreams</title>
+            <link>https://www.thisamericanlife.org/556/same-bed-different-dreams</link>
             <enclosure url="https://stream.thisamericanlife.org/556/0dSIqIvOacFdilz6TzchGMGGYxXtFVs4ovYKHcCgd78/556.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of people who are tied together, but imagine radically different futures. In one case, a movie star and her ex-husband plot against Kim Jong-Il. In another, a woman stalks her doppleganger. And sometimes, one bed is the basis for an entire relationship, even for a man who almost never sees the person who shares his bed.</description>
+            <description>People who are tied together, but imagine radically different futures.</description>
             <pubDate>Fri, 01 May 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1760,8 +1760,8 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>542: Wait—Do You Have The Map?</title>
             <link>https://www.thisamericanlife.org/542/wait-do-you-have-the-map</link>
-            <enclosure url="https://stream.thisamericanlife.org/542/j-iMXQaemgQteSzAZgb5EAejQVy3XjqhmejsQSfMOR0/542.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories about people feeling lost and trying to figure out how to move ahead: two brothers take a doomed road trip through Mexico and a couple from radically different backgrounds draw up a contract for their unlikely romance.</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/488f4a33-081f-4f30-92e4-bf947457c7e6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Feeling lost and trying to figure out how to move ahead.</description>
             <pubDate>Fri, 12 Dec 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -2302,7 +2302,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
             <title>465: What Happened at Dos Erres</title>
             <link>https://www.thisamericanlife.org/465/what-happened-at-dos-erres</link>
             <enclosure url="https://stream.thisamericanlife.org/465/IgCvBI9Qome5bQC5rcSmnKOhgrG2vryumRc6-FYR7oo/465.mp3" length="5000" type="audio/mpeg"/>
-            <description>In 1982, the Guatemalan military massacred the villagers of Dos Erres, killing more than 200 people. Thirty years later, a Guatemalan living in the US got a phone call from a woman who told him that two boys had been abducted during the massacre — and he was one of them. ProPublica's print version: Finding Oscar.</description>
+            <description>In 1982, the Guatemalan military massacred the villagers of Dos Erres, killing more than 200 people. Thirty years later, a Guatemalan living in the US got a phone call from a woman who told him that two boys had been abducted during the massacre — and he was one of them.</description>
             <pubDate>Fri, 25 May 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
