@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-02-13 05:52:00. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-02-20 05:52:05. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -42,7 +42,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-02-13 05:52:00. Known missing e
             <title>788: Half-Baked Stories About My Dead Mom</title>
             <link>https://www.thisamericanlife.org/788/half-baked-stories-about-my-dead-mom</link>
             <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8e9f544c-5da9-4c27-a25d-f13fafcebf61/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Writer Etgar Keret tries to come up with the stories that capture his late mother, Orna Keret—but it’s hard, he says, because she’s like Maria in West Side Story and she’s also like Thanos from the Avengers. He ends up with a series of very short stories — most just a few paragraphs long — that give glimpses of different sides of her. These written stories are interspersed with off-the-cuff stories he tells host Ira Glass.</description>
+            <description>Writer Etgar Keret tries to come up with the stories that capture his late mother, Orna Keret—but it’s hard, he says, because she’s like Maria in West Side Story and she’s also like Thanos from the Avengers. He ends up with a series of very short stories — most just a few paragraphs long — that give glimpses of different sides of her.</description>
             <pubDate>Fri, 06 Jan 2023 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1669,7 +1669,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>556: Same Bed, Different Dreams</title>
             <link>https://www.thisamericanlife.org/556/same-bed-different-dreams</link>
-            <enclosure url="https://stream.thisamericanlife.org/556/0dSIqIvOacFdilz6TzchGMGGYxXtFVs4ovYKHcCgd78/556.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d02cd81e-703b-48f6-bb2b-b31a79179221/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>People who are tied together, but imagine radically different futures.</description>
             <pubDate>Fri, 01 May 2015 18:00:00 -0400</pubDate>
         </item>
