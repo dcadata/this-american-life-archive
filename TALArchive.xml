@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-02-20 05:52:05. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-02-27 05:51:38. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-02-20 05:52:05. Known missing e
         <item>
             <title>783: Kids These Days</title>
             <link>https://www.thisamericanlife.org/783/kids-these-days</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3b3d35fd-85df-454c-9618-608f9b1ce786/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/783/NeWmoh-4W2fZrVBazfe-JaEl9oTjOhuPuo4ZOrOrPBA/783.mp3" length="5000" type="audio/mpeg"/>
             <description>We hear from kids who are dealing with some of the country’s most contentious debates. Debates that are supposedly about them.</description>
             <pubDate>Fri, 28 Oct 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1085,7 +1085,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>639: In Dog We Trust</title>
             <link>https://www.thisamericanlife.org/639/in-dog-we-trust</link>
-            <enclosure url="https://stream.thisamericanlife.org/639/MJLHCMJVPJlu5rENPqkE53zb1F8Sk6EzShJLNLJasqo/639.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a18f2689-3b63-464b-bb58-36169301c2be/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Exactly how much are the animals that live in our homes caught up in our everyday family dynamics?</description>
             <pubDate>Fri, 23 Feb 2018 18:00:00 -0400</pubDate>
         </item>
@@ -1830,7 +1830,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>533: It's Not the Product, It's the Person</title>
             <link>https://www.thisamericanlife.org/533/its-not-the-product-its-the-person</link>
-            <enclosure url="https://stream.thisamericanlife.org/533/VLQvukzGFjcm4Q84Rf-6CodSlKVeOk8LxAUxyaHcnag/533.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/533/V8bOZDGTvKSgyeO4E4UwlfZIHxzApLOM4NrpzXZ-lds/533.mp3" length="5000" type="audio/mpeg"/>
             <description>Starting a business is not for the self-doubting. Or even usually the self-deprecating. The first thing you have to sell is yourself — like dating, but with a greater chance of landing in debt. Alex Blumberg tells the incredible, sweat-stains-and-all saga of a man fumbling through starting a new business, and the man is: himself. Plus, new stories from Mike Birbiglia and Love + Radio.</description>
             <pubDate>Fri, 05 Sep 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2229,7 +2229,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>476: What Doesn’t Kill You</title>
             <link>https://www.thisamericanlife.org/476/what-doesnt-kill-you</link>
-            <enclosure url="https://stream.thisamericanlife.org/476/6YaOzpVvzsyX1V-BNl8pP4kpolAr7lxgdFpSmbAmZUg/476.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/476/9gXlwMxlujhHCzj92AZlDaYT7W2zp-buCViGapJWk48/476.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of how people cope after brushes with death. Sometimes death comes as a disease. Sometimes it swims up and bites you. And sometimes it's a pen or pencil, sitting there, just waiting for you to ingest it.</description>
             <pubDate>Fri, 05 Oct 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2378,7 +2378,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>455: Continental Breakup</title>
             <link>https://www.thisamericanlife.org/455/continental-breakup</link>
-            <enclosure url="https://stream.thisamericanlife.org/455/-Zjzdej2bqDatKkpaP6ZSxqG93Kt3gL_6rVN1CD9RX8/455.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/455/IVQGzPWL7ZBBLxf3jiqpW9Z23kATA2WTXZIthhqqR6k/455.mp3" length="5000" type="audio/mpeg"/>
             <description>If you're like us, when the words "European debt crisis" pop up in the news you feel a little worried, and a little like taking a nap. Turns out, there's a story behind this story. One that's filled with guilt, and drama, and betrayal, and 100-year-old dreams come true. Alex Blumberg of Planet Money guest hosts.</description>
             <pubDate>Fri, 20 Jan 2012 18:00:00 -0400</pubDate>
         </item>
