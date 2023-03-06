@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-02-27 05:51:38. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-03-06 05:52:24. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-02-27 05:51:38. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>792: When to Leave</title>
+            <link>https://www.thisamericanlife.org/792/when-to-leave</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4ead0b40-456c-4923-827f-8d457fb3fb17/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People staring down that hardest of questions: Is now the time? To leave?</description>
+            <pubDate>Fri, 03 Mar 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>791: Math or Magic?</title>
             <link>https://www.thisamericanlife.org/791/math-or-magic</link>
@@ -69,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-02-27 05:51:38. Known missing e
         <item>
             <title>784: Mapmaker, Mapmaker, Make Me a Map</title>
             <link>https://www.thisamericanlife.org/784/mapmaker</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/543eb5d9-9e04-40e0-b786-73c1dd1928db/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/784/aupAbCUsVvpxIitH-_FBYT3lOFTcMxeOuHS8LKUz7tI/784.mp3" length="5000" type="audio/mpeg"/>
             <description>Not long ago, Republicans in Ohio passed a constitutional amendment to end gerrymandering in the state. And then a funny thing happened. The same Ohio Republicans drew electoral maps that violated their own constitutional amendment. They’ll be using them in this week’s midterm elections. We try to understand how that could happen.</description>
             <pubDate>Fri, 04 Nov 2022 18:00:00 -0400</pubDate>
         </item>
@@ -252,7 +259,8 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-02-27 05:51:38. Known missing e
             <title>758: Talking While Black</title>
             <link>https://www.thisamericanlife.org/758/talking-while-black</link>
             <enclosure url="https://stream.thisamericanlife.org/758/j01OIQhT2r_aDz9nT5_nTjPAR49LQvOo8yS7qjlZYw0/758.mp3" length="5000" type="audio/mpeg"/>
-            <description>Think back to two summers ago, the summer of 2020, when a series of violent, highly-publicized killings of Black Americans sparked outrage and a national movement to eradicate racism and its evils. That movement gave way to a newer, reactionary one, a backlash that is playing out in schools and school board meetings across America. Host Emanuele Berry shares stories about Black people who got tangled up in this current backlash in both extreme and very personal ways.</description>
+            <description>Think back to two summers ago, the summer of 2020, when a series of violent, highly-publicized killings of Black Americans sparked outrage and a national movement to eradicate racism and its evils. That movement gave way to a newer, reactionary one, a backlash that is playing out in schools and school board meetings across America. Host Emanuele Berry shares stories about Black people who got tangled up in this current backlash in both extreme and very personal ways. 
+This episode won a 2023 duPont-Columbia Award.</description>
             <pubDate>Fri, 07 Jan 2022 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1128,14 +1136,16 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <title>633: Our Town - Part Two</title>
             <link>https://www.thisamericanlife.org/633/our-town-part-two</link>
             <enclosure url="https://stream.thisamericanlife.org/633/RPe18USYto5_3ma6xWiQcHkOMstY_l2KD7veGdhy78w/633.mp3" length="5000" type="audio/mpeg"/>
-            <description>So many people in Albertville, AL wondered what it cost them in taxes when thousands of undocumented immigrants moved to their town. One woman drove our host Ira Glass to the grocery store to watch a random Latina mom buy some milk with government assistance, to try to prove her point. So what’d all the newcomers really cost? And what was their effect on crime, schools, and politics?</description>
+            <description>So many people in Albertville, AL wondered what it cost them in taxes when thousands of undocumented immigrants moved to their town. One woman drove our host Ira Glass to the grocery store to watch a random Latina mom buy some milk with government assistance, to try to prove her point. So what’d all the newcomers really cost? And what was their effect on crime, schools, and politics? 
+This two-part series won a 2019 duPont-Columbia Award.</description>
             <pubDate>Fri, 15 Dec 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>632: Our Town - Part One</title>
             <link>https://www.thisamericanlife.org/632/our-town-part-one</link>
             <enclosure url="https://stream.thisamericanlife.org/632/5Lr_MX7FuGk9AamI8zHG0UuD7HfD1qpGqDa8M7AEIMY/632.mp3" length="5000" type="audio/mpeg"/>
-            <description>We spent eight months and did over a hundred interviews to try to bypass the usual rhetoric and get to the bottom of what really happened when undocumented workers showed up in one Alabama town.</description>
+            <description>We spent eight months and did over a hundred interviews to try to bypass the usual rhetoric and get to the bottom of what really happened when undocumented workers showed up in one Alabama town.
+This two-part series won a 2019 duPont-Columbia Award.</description>
             <pubDate>Fri, 08 Dec 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1359,7 +1369,8 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <title>600: Will I Know Anyone at This Party?</title>
             <link>https://www.thisamericanlife.org/600/will-i-know-anyone-at-this-party</link>
             <enclosure url="https://stream.thisamericanlife.org/600/7ILOGeIz_R_VM2qCP4nGScPM4cM705qFEPi9akjII2A/600.mp3" length="5000" type="audio/mpeg"/>
-            <description>Right now lots of Republicans feel like they don’t recognize their own party. Like a Minnesota congressman who’s confused when the residents in his district, people he’s known for years, start calling for a ban on Muslims moving to their town.</description>
+            <description>Right now lots of Republicans feel like they don’t recognize their own party. Like a Minnesota congressman who’s confused when the residents in his district, people he’s known for years, start calling for a ban on Muslims moving to their town.
+This episode won a 2018 duPont-Columbia Award.</description>
             <pubDate>Fri, 28 Oct 2016 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1492,7 +1503,8 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <title>581: Anatomy of Doubt</title>
             <link>https://www.thisamericanlife.org/581/anatomy-of-doubt</link>
             <enclosure url="https://stream.thisamericanlife.org/581/jU37fQoqHJ5VCKr8PLEBJmrqUTjummHxDmau_FQoxLk/581.mp3" length="5000" type="audio/mpeg"/>
-            <description>This week, a story about doubt: how it germinated, spread, and eventually took hold of an entire community, with terrible consequences. A collaboration with The Marshall Project and ProPublica, the print version of the story was written by Ken Armstrong and T. Christian Miller.</description>
+            <description>This week, a story about doubt: how it germinated, spread, and eventually took hold of an entire community, with terrible consequences.
+This episode won a 2016 Peabody Award.</description>
             <pubDate>Fri, 26 Feb 2016 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -1584,7 +1596,7 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>568: Human Spectacle 2015</title>
             <link>https://www.thisamericanlife.org/568/human-spectacle-2015</link>
-            <enclosure url="https://stream.thisamericanlife.org/568/OPV32DKOhmni2f6JJzfXWA-21P2NVpY_Y0O2YfDzhtU/568.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/568/IsS25jbSKxIsLYujmQoN5Orv8Vr-NsoA2VFwX9FADBQ/568.mp3" length="5000" type="audio/mpeg"/>
             <description>Gladiators in the Colosseum. Sideshow performers. Reality television. We've always loved to gawk at the misery or majesty of others. But this week, we ask the question: What's it like when the tables are turned and all eyes are on you?
 An episode from last year, with one story swapped.</description>
             <pubDate>Fri, 02 Oct 2015 18:00:00 -0400</pubDate>
@@ -1655,7 +1667,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>558: Game Face</title>
             <link>https://www.thisamericanlife.org/558/game-face</link>
-            <enclosure url="https://stream.thisamericanlife.org/558/nozX3HtOUubg46ZfxS-nhGngVFOb9FFM-3P2Y0NvDhY/558.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/558/U-FtDS5xO0kZTfB7gCucQaNrlIPVOACMcQw6AXkPJgI/558.mp3" length="5000" type="audio/mpeg"/>
             <description>Blair Braverman was a dog musher on an Alaskan glacier. One day the weather turned rough, and she and a pack of tourists were stuck. The worst part? They had to pretend like nothing was wrong. This and other stories of people facing very difficult situations who put their game face on and muscle through. And, we hear from people whose faces betray them and prominently display all their anxiety.</description>
             <pubDate>Fri, 29 May 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1767,7 +1779,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>542: Wait—Do You Have The Map?</title>
             <link>https://www.thisamericanlife.org/542/wait-do-you-have-the-map</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/488f4a33-081f-4f30-92e4-bf947457c7e6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/542/j-iMXQaemgQteSzAZgb5EAejQVy3XjqhmejsQSfMOR0/542.mp3" length="5000" type="audio/mpeg"/>
             <description>Feeling lost and trying to figure out how to move ahead.</description>
             <pubDate>Fri, 12 Dec 2014 18:00:00 -0400</pubDate>
         </item>
@@ -1858,7 +1870,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>529: Human Spectacle</title>
             <link>https://www.thisamericanlife.org/529/human-spectacle</link>
-            <enclosure url="https://stream.thisamericanlife.org/529/CegNA5eza17LjHGPcABlhkpshThoR-vopPkLUzjBmUM/529.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/529/d-WwVqXB6ROfXkZTJV17PZ-ScFUeO9KY7RdZZIzWKjY/529.mp3" length="5000" type="audio/mpeg"/>
             <description>Gladiators in the Colosseum. Sideshow performers. Reality television. We've always loved to gawk at the misery or majesty of others. But this week, we ask the question: What's it like when the tables are turned and all eyes are on you?</description>
             <pubDate>Fri, 27 Jun 2014 18:00:00 -0400</pubDate>
         </item>
@@ -5336,7 +5348,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>32: Republican Convention</title>
             <link>https://www.thisamericanlife.org/32/republican-convention</link>
-            <enclosure url="https://stream.thisamericanlife.org/32/BmcL5qsRlei-W2PU-bIKrs5Td1BvnQcFLxGIoOpNSJA/32.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/32/zDbis9rbvUr5a7oj4gk7xTxJYUypA_5LcGO8--Ytcj4/32.mp3" length="5000" type="audio/mpeg"/>
             <description>Unusual stories about day-to-day life at the Republican Convention.</description>
             <pubDate>Fri, 16 Aug 1996 18:00:00 -0400</pubDate>
         </item>
@@ -5490,14 +5502,14 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>9: Julia Sweeney</title>
             <link>https://www.thisamericanlife.org/9/julia-sweeney</link>
-            <enclosure url="https://stream.thisamericanlife.org/9/PuHw3qhHBvDhvYwaQU0cTejcOWq3Cb1GLzBw8D5irDg/9.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/9/LlG9qOYAqVC3xNas9fadEEmIdNTJF4w6L6GExuN_dX0/9.mp3" length="5000" type="audio/mpeg"/>
             <description>When comedian Julia Sweeney and her brother both got cancer, she decided to tell the story the best way she knew how: in a comedy club. It might seem like a strange choice, but what resulted is halfway between standup comedy and true-life diary entries.</description>
             <pubDate>Wed, 10 Jan 1996 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>8: New Year</title>
             <link>https://www.thisamericanlife.org/8/new-year</link>
-            <enclosure url="https://stream.thisamericanlife.org/8/ozbINjcXSVpboesmZs5g10NEQRh4zN1xKMPC6yp1BUM/8.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/8/jS6dn4dceHm_albnbEQ2RoFdar2HiaVxCPJWMZnN4yI/8.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories that reflect back on 1995.</description>
             <pubDate>Wed, 03 Jan 1996 18:00:00 -0400</pubDate>
         </item>
