@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-03-06 05:52:24. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-03-13 05:52:57. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-03-06 05:52:24. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>793: The Problem with Ghosts</title>
+            <link>https://www.thisamericanlife.org/793/the-problem-with-ghosts</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ca95f99e-f121-4e07-998b-f108186c7064/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The ghosts that visit us, the ghosts that never do, and the ghosts that walk among us.</description>
+            <pubDate>Fri, 10 Mar 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>792: When to Leave</title>
             <link>https://www.thisamericanlife.org/792/when-to-leave</link>
@@ -1688,7 +1695,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>555: The Incredible Rarity of Changing Your Mind</title>
             <link>https://www.thisamericanlife.org/555/the-incredible-rarity-of-changing-your-mind</link>
-            <enclosure url="https://stream.thisamericanlife.org/555/nfB7cRL_BvwVBalCvIGv3aoUCS89KexkpoDHvWbz7BI/555.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/555/ChGn1HOstDPKpd0rmmUvjbuhFG3sWC3bULAgLn8E6n8/555.mp3" length="5000" type="audio/mpeg"/>
             <description>It’s rare for people to change what they believe, and if they do it, it’s usually a long process. This week, stories of those very infrequent instances where people’s opinions flip on fundamental things that they believe. Why does it happen in these particular and unusual circumstances? We explain. NOTE: One of the authors of a study covered in this episode has asked that the study be retracted.</description>
             <pubDate>Fri, 24 Apr 2015 18:00:00 -0400</pubDate>
         </item>
@@ -4424,7 +4431,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>164: Crime Scene (2000)</title>
             <link>https://www.thisamericanlife.org/164/crime-scene-2000</link>
-            <enclosure url="https://stream.thisamericanlife.org/164/kDpHgur8Ok_n5MWk0mxotpVpPKnzDiKk-pQ1jWQHCLo/164.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/164/J03rRy6Gss3auk4tFPEFzbBki_UoNyGPhya1LWnzm74/164.mp3" length="5000" type="audio/mpeg"/>
             <description>Every crime scene hides a story. In this week's show, we hear about crime scenes and the stories they tell.</description>
             <pubDate>Fri, 07 Jul 2000 18:00:00 -0400</pubDate>
         </item>
