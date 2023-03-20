@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-03-13 05:52:57. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-03-20 05:51:45. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-03-13 05:52:57. Known missing e
         <item>
             <title>785: Through the Looking Glass</title>
             <link>https://www.thisamericanlife.org/785/through-the-looking-glass</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/6248dee9-484c-4c8a-8106-8b8d1faa56d6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/785/Nzvp2Ypy-OucoO98KJBha26JNd1cGLM3xZ1JKQrK2t0/785.mp3" length="5000" type="audio/mpeg"/>
             <description>People trying to coax each other across the line, from one side to the other.</description>
             <pubDate>Fri, 25 Nov 2022 18:00:00 -0400</pubDate>
         </item>
@@ -995,7 +995,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>654: The Feather Heist</title>
             <link>https://www.thisamericanlife.org/654/the-feather-heist</link>
-            <enclosure url="https://stream.thisamericanlife.org/654/oAVb2hMqUaJGSZdqr7a6tSjR3f-xhndCQ0w7O4un5cI/654.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5c3559be-a3d5-42bd-83c5-2b010b1e94b0/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>A flute player breaks into a British museum and makes off with a million dollars worth of dead birds.</description>
             <pubDate>Fri, 10 Aug 2018 18:00:00 -0400</pubDate>
         </item>
@@ -1723,7 +1723,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>551: Good Guys 2015</title>
             <link>https://www.thisamericanlife.org/551/good-guys-2015</link>
-            <enclosure url="https://stream.thisamericanlife.org/551/LhTJ_0WYSQHrTBAKWqUyYeJCBLNHbHXoDeNfvliEVAw/551.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/551/kyzUqgdJuYB6KsK7VnzgE8HtNHQ35U_hM1cIO9RQccM/551.mp3" length="5000" type="audio/mpeg"/>
             <description>Yes fellas, lots of you think of yourselves as good guys. But what does it really take to be a good guy? We have stories of valiant men attempting to do good in challenging and not-so-challenging circumstances: in department stores, public buses, and at the bottom of a cave 900 feet underground.</description>
             <pubDate>Fri, 20 Mar 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1744,14 +1744,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>548: Cops See It Differently - Part Two</title>
             <link>https://www.thisamericanlife.org/548/cops-see-it-differently-part-two</link>
-            <enclosure url="https://stream.thisamericanlife.org/548/PU2lAabOF19KnRw8p1ohzYWk8KiOmYkqK-LUoa_Cdos/548.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/548/AZnA4W6zE7bDtL0DG431nGzy7T-YZZfP1TD-SSq3Bgc/548.mp3" length="5000" type="audio/mpeg"/>
             <description>Our second hour of stories about policing and race. We hear about one city where relations between police and black residents went terribly, and another city where they seem to be improving remarkably. And one of our producers asks: Why aren't police chiefs talking about race after incidents where unarmed black men are wrongly killed by officers?</description>
             <pubDate>Fri, 13 Feb 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>547: Cops See It Differently - Part One</title>
             <link>https://www.thisamericanlife.org/547/cops-see-it-differently-part-one</link>
-            <enclosure url="https://stream.thisamericanlife.org/547/v62LDcfjUVkizQKeTgrfJL_mVURV9RPiqWW9nQooKNc/547.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/547/v0MuGom7JmYxRG6q_wyfOSmrafsBwY001JVuw-wK66o/547.mp3" length="5000" type="audio/mpeg"/>
             <description>There are so many cops who look at the killing of Eric Garner or Mike Brown and say race didn't play a factor. And there are tons of black people who say that's insane. There's a division between people who distrust the police — even fear them — and people who see cops as a force for good. Stories of people living on both sides of that divide, and people trying to bridge it.</description>
             <pubDate>Fri, 06 Feb 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1779,7 +1779,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>543: Wake Up Now</title>
             <link>https://www.thisamericanlife.org/543/wake-up-now</link>
-            <enclosure url="https://stream.thisamericanlife.org/543/2mvpRtsIX3APJ8obvCcWeQM-hfdc5kersbjZpftl8KE/543.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/543/qKIDFPoZVRAx4oilAmkIHQD_nHCv0WCsA2GM4MCalZ0/543.mp3" length="5000" type="audio/mpeg"/>
             <description>As New Year’s approaches and people are contemplating things they want to change about themselves, we have stories of people trying to wake themselves up, shake up their own lives, or wake up others. Including the story of a company – or maybe it's a movement – called WakeUpNow.</description>
             <pubDate>Fri, 26 Dec 2014 18:00:00 -0400</pubDate>
         </item>
@@ -1863,14 +1863,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>531: Got Your Back</title>
             <link>https://www.thisamericanlife.org/531/got-your-back</link>
-            <enclosure url="https://stream.thisamericanlife.org/531/nKvQVfurvPNnCkBTkms2QP6j8ssbsORoMItmEMuah7I/531.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/531/CeWPPu3VNrPwwc89mgccQiOfIYWZP77GgpSafSW2VBA/531.mp3" length="5000" type="audio/mpeg"/>
             <description>There is a special comfort that comes from knowing someone's got your back. You can do things that just weren't possible before. You take huge risks, including some that aren't necessarily advisable. This week: stories where one person's powerlessness is transformed when they discover they have backup. And we see what happens when that backup goes away.</description>
             <pubDate>Fri, 25 Jul 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>530: Mind Your Own Business</title>
             <link>https://www.thisamericanlife.org/530/mind-your-own-business</link>
-            <enclosure url="https://stream.thisamericanlife.org/530/9zr_BYd9aqytGx3uvE2JTTaUQukv004xSX4DBq2Ph30/530.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/530/PLYGypV4Qu4GzNx52LGTFhX1EfuEVyi3MaeQFJzQEfI/530.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of meddling, snooping, and just getting way, way up in other people's business. A cellphone hidden in a bag of chips starts a messy turf war between the FBI and a local sheriff; and a surprising handbook lets us peek into the secret world of professional cheerleading. Plus: Studs Terkel.</description>
             <pubDate>Fri, 18 Jul 2014 18:00:00 -0400</pubDate>
         </item>
@@ -1975,7 +1975,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>515: Good Guys</title>
             <link>https://www.thisamericanlife.org/515/good-guys</link>
-            <enclosure url="https://stream.thisamericanlife.org/515/axdbLsYBlBHuDdtM4L2mp5ZfOlNqmxPQHDFoTKDmdG0/515.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/515/r73qZ96b4lC5Q7C4TU6IkjTgfSJB91ma3M34r0jyao8/515.mp3" length="5000" type="audio/mpeg"/>
             <description>Yes fellas, lots of you think of yourselves as good guys. But what does it really take to be a good guy? We have stories of valiant men attempting to do good in challenging circumstances: in war zones, department stores, public buses, and at the bottom of a cave 900 feet underground.</description>
             <pubDate>Fri, 10 Jan 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2496,7 +2496,7 @@ town telling residents that they were there to liberate them. They promised that
         <item>
             <title>440: Game Changer</title>
             <link>https://www.thisamericanlife.org/440/game-changer</link>
-            <enclosure url="https://stream.thisamericanlife.org/440/AbWp9jopY7LPUzUnnJJ85eG457z3wudMzYJvNxg_Awk/440.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/440/5I_SpDhWr0XLV6vcPxJw53p8fYBoxyuCavPoZeK2UB0/440.mp3" length="5000" type="audio/mpeg"/>
             <description>A professor in Pennsylvania makes a calculation, to discover that his state is sitting atop a massive reserve of natural gas—enough to revolutionize how America gets its energy. But another professor in Pennsylvania does a different calculation and reaches a troubling conclusion: that getting natural gas out of the ground poses a risk to public health. Two men, two calculations, and two very different consequences.</description>
             <pubDate>Fri, 08 Jul 2011 18:00:00 -0400</pubDate>
         </item>
