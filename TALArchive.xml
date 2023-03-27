@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-03-20 05:51:45. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-03-27 05:51:49. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-03-20 05:51:45. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>794: So Close and Yet So Far</title>
+            <link>https://www.thisamericanlife.org/794/so-close-and-yet-so-far</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b7e7b73b-db6e-4252-8790-1d481c9549d1/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People ​so close to each other, ​in ​extremely intimate situations​,​ who are also a million miles apart.</description>
+            <pubDate>Fri, 24 Mar 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>793: The Problem with Ghosts</title>
             <link>https://www.thisamericanlife.org/793/the-problem-with-ghosts</link>
@@ -1688,7 +1695,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>556: Same Bed, Different Dreams</title>
             <link>https://www.thisamericanlife.org/556/same-bed-different-dreams</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d02cd81e-703b-48f6-bb2b-b31a79179221/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/556/0dSIqIvOacFdilz6TzchGMGGYxXtFVs4ovYKHcCgd78/556.mp3" length="5000" type="audio/mpeg"/>
             <description>People who are tied together, but imagine radically different futures.</description>
             <pubDate>Fri, 01 May 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1898,7 +1905,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>526: Is That What I Look Like?</title>
             <link>https://www.thisamericanlife.org/526/is-that-what-i-look-like</link>
-            <enclosure url="https://stream.thisamericanlife.org/526/lgJaMQo-SnqX017WEzf5gJiwRDAQ8o-X6OuigHBGUFY/526.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/526/fSeRGtaTZ8iDD4p_QOSkAlbuuzfS5UH1tYB7lpYeQkU/526.mp3" length="5000" type="audio/mpeg"/>
             <description>You've been seeing yourself, getting to know what you look like, your whole life. So why does it often take an outsider to see things about you that are obvious, and set you straight?</description>
             <pubDate>Fri, 23 May 2014 18:00:00 -0400</pubDate>
         </item>
@@ -1926,7 +1933,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>522: Tarred and Feathered</title>
             <link>https://www.thisamericanlife.org/522/tarred-and-feathered</link>
-            <enclosure url="https://stream.thisamericanlife.org/522/UKPJQbVk0wzDpo6nkGM6eNmJscMmucKmink0FFkSKbs/522.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/522/6q_bBxcz2q4cQeLKP54e_AnB0l3szNQvYjY17_qdyHY/522.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, stories of people being threatened and punished with public shame. Including the story of someone who was literally tarred and feathered. It happened a lot more recently than you'd guess.</description>
             <pubDate>Fri, 11 Apr 2014 18:00:00 -0400</pubDate>
         </item>
@@ -4429,8 +4436,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <pubDate>Fri, 28 Jul 2000 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>164: Crime Scene (2000)</title>
-            <link>https://www.thisamericanlife.org/164/crime-scene-2000</link>
+            <title>164: Crime Scene</title>
+            <link>https://www.thisamericanlife.org/164/crime-scene</link>
             <enclosure url="https://stream.thisamericanlife.org/164/J03rRy6Gss3auk4tFPEFzbBki_UoNyGPhya1LWnzm74/164.mp3" length="5000" type="audio/mpeg"/>
             <description>Every crime scene hides a story. In this week's show, we hear about crime scenes and the stories they tell.</description>
             <pubDate>Fri, 07 Jul 2000 18:00:00 -0400</pubDate>
