@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-03-27 05:51:49. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-04-03 05:51:50. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -223,7 +223,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-03-27 05:51:49. Known missing e
         <item>
             <title>765: Off Course</title>
             <link>https://www.thisamericanlife.org/765/off-course</link>
-            <enclosure url="https://stream.thisamericanlife.org/765/jYrb8WjpERjVwBq00D6JMaXqUX4V3MTUeiBaQ1tJ_0g/765.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/feaf7292-2425-4e69-a5f1-e8aad976f9b3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Three people, and one animal, who know the path their lives will take until, suddenly, they don’t.</description>
             <pubDate>Fri, 18 Mar 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1107,7 +1107,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>639: In Dog We Trust</title>
             <link>https://www.thisamericanlife.org/639/in-dog-we-trust</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a18f2689-3b63-464b-bb58-36169301c2be/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/639/MJLHCMJVPJlu5rENPqkE53zb1F8Sk6EzShJLNLJasqo/639.mp3" length="5000" type="audio/mpeg"/>
             <description>Exactly how much are the animals that live in our homes caught up in our everyday family dynamics?</description>
             <pubDate>Fri, 23 Feb 2018 18:00:00 -0400</pubDate>
         </item>
