@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-04-10 05:52:59. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-04-17 05:51:17. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-04-10 05:52:59. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>796: What Lies Beneath</title>
+            <link>https://www.thisamericanlife.org/796/what-lies-beneath</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/060a94ec-f9e0-42f6-af4f-5cbe70e8c9e2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Summoning up stuff that’s usually hidden down deep.</description>
+            <pubDate>Fri, 14 Apr 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>795: Nine Months Later</title>
             <link>https://www.thisamericanlife.org/795/nine-months-later</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-04-10 05:52:59. Known missing e
         <item>
             <title>787: Baby's First Christmas</title>
             <link>https://www.thisamericanlife.org/787/babys-first-christmas</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/eb9e614c-8bea-44d1-9ac6-794268ef2848/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/787/P80T5Zj7jX7nECkrRAaqDy7SNJSsEgr-oYKbyDLsoeU/787.mp3" length="5000" type="audio/mpeg"/>
             <description>People experiencing Christmas in brand new ways, giving the holiday even more meaning.</description>
             <pubDate>Fri, 23 Dec 2022 18:00:00 -0400</pubDate>
         </item>
@@ -467,8 +474,8 @@ This episode won a 2023 duPont-Columbia Award.</description>
             <pubDate>Fri, 19 Feb 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>731: What Lies Beneath</title>
-            <link>https://www.thisamericanlife.org/731/what-lies-beneath</link>
+            <title>731: What Lies Beneath (2021)</title>
+            <link>https://www.thisamericanlife.org/731/what-lies-beneath-2021</link>
             <enclosure url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3" length="5000" type="audio/mpeg"/>
             <description>Summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 12 Feb 2021 18:00:00 -0400</pubDate>
@@ -1009,7 +1016,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>654: The Feather Heist</title>
             <link>https://www.thisamericanlife.org/654/the-feather-heist</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5c3559be-a3d5-42bd-83c5-2b010b1e94b0/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/654/oAVb2hMqUaJGSZdqr7a6tSjR3f-xhndCQ0w7O4un5cI/654.mp3" length="5000" type="audio/mpeg"/>
             <description>A flute player breaks into a British museum and makes off with a million dollars worth of dead birds.</description>
             <pubDate>Fri, 10 Aug 2018 18:00:00 -0400</pubDate>
         </item>
@@ -2010,7 +2017,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>512: House Rules</title>
             <link>https://www.thisamericanlife.org/512/house-rules</link>
-            <enclosure url="https://stream.thisamericanlife.org/512/lY71pjudKQyaa5Hq6f3sfUztMt9jrrskOU0Imz7cWk0/512.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/512/mQojAEh7yL8eoyHXF7v3zQxvawsShTU_iw1z92LCsnk/512.mp3" length="5000" type="audio/mpeg"/>
             <description>Where you live is important. It can dictate quality of schools and hospitals, as well as things like cancer rates, unemployment, or whether the city repairs roads in your neighborhood. On this week's show, stories about destiny by address.</description>
             <pubDate>Fri, 22 Nov 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2045,7 +2052,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>507: Confessions</title>
             <link>https://www.thisamericanlife.org/507/confessions</link>
-            <enclosure url="https://stream.thisamericanlife.org/507/z3c8hSfQecF1ncOdWSvJOUIQx5xdAKfLPh9AgFiSjDY/507.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/507/dNGJeHOZiV5iHt3NBOw0_xWJRCQZUitGVFNOte5DsG4/507.mp3" length="5000" type="audio/mpeg"/>
             <description>Two crime scenes, two murders. One crime is solved, the other case went cold. Both raise the question: What should a person suspected of murder say?</description>
             <pubDate>Fri, 11 Oct 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2059,7 +2066,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>505: Use Only as Directed</title>
             <link>https://www.thisamericanlife.org/505/use-only-as-directed</link>
-            <enclosure url="https://stream.thisamericanlife.org/505/ZgL7-Ew0EYh0xkAqoVJmvHmI8kpEz5kpOu9pq0RXZdc/505.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/505/GunMaNEYqmiKBAg0zVc5fKl3s6o-yBdxuhWWm4rLOFg/505.mp3" length="5000" type="audio/mpeg"/>
             <description>One of the country's most popular over-the-counter painkillers — acetaminophen, the active ingredient in Tylenol — also kills the most people, according to data from the federal government. Over 150 Americans die each year on average after accidentally taking too much. And it requires a lot less to endanger you than you may know. We reported this alongside ProPublica. Their stories here and here.</description>
             <pubDate>Fri, 20 Sep 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2143,7 +2150,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>493: Picture Show</title>
             <link>https://www.thisamericanlife.org/493/picture-show</link>
-            <enclosure url="https://stream.thisamericanlife.org/493/OlUxWUc81X0uwBAKwHajjRu9xKnaI6LoIkkGsYalEyg/493.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/493/qhGy0uJbMHGIyd4zQHfqn7t0pvqXGRQzEYIN3S2_tMo/493.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, Israeli soldiers take snapshots of Palestinian boys, one house at a time, in the middle of the night. This and other stories where getting the picture gives you the upper hand.</description>
             <pubDate>Fri, 19 Apr 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2199,7 +2206,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>485: Surrogates</title>
             <link>https://www.thisamericanlife.org/485/surrogates</link>
-            <enclosure url="https://stream.thisamericanlife.org/485/tv4vmw7rUpE4NPxEMgl8_S72-HGnTnhOpvbQWb36Beg/485.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/485/pYMxrQs8jIOcWsoNtoZlSdHcR9Jd-oEZrisx5smQNJ0/485.mp3" length="5000" type="audio/mpeg"/>
             <description>This week we look at people who see themselves in others and try to live out their lives through stand-ins — including the story of what one father saw in the convicted murderer he decided to adopt. And the proxy battle over a woman’s honor that became a presidential obsession.</description>
             <pubDate>Fri, 25 Jan 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2248,7 +2255,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>478: Red State Blue State</title>
             <link>https://www.thisamericanlife.org/478/red-state-blue-state</link>
-            <enclosure url="https://stream.thisamericanlife.org/478/3ponfT-rtpcWw8AOzr9Z3iOaA1bhpqOq50nOfdSLaXY/478.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/478/SUJcqHTGbq-kZodGXyFe64Pnt3Ft1NSIlbbyMI213bI/478.mp3" length="5000" type="audio/mpeg"/>
             <description>Everyone knows that politics is now so divided in our country that not only do the two sides disagree on the solutions to the country’s problems, they don’t even agree on what the problems are. It’s two versions of the world in collision. This week we hear from people who’ve seen this infect their personal lives.</description>
             <pubDate>Fri, 02 Nov 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2278,7 +2285,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>474: Back to School</title>
             <link>https://www.thisamericanlife.org/474/back-to-school</link>
-            <enclosure url="https://stream.thisamericanlife.org/474/EARNnkKT_zfKkTofQjJ31i_KiHGqsPlUXVJe5dsB-LQ/474.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/474/ZJv_Tg_redH_-kr6ToymAipjTG0ecvJj6ZOLSHNoUfw/474.mp3" length="5000" type="audio/mpeg"/>
             <description>As kids and teachers head back to school, we wanted to turn away from questions about politics and unions and money and all the regular school stuff people argue about, and turn to something more optimistic — an emerging theory about what to teach kids, from Paul Tough's book How Children Succeed.</description>
             <pubDate>Fri, 14 Sep 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2481,7 +2488,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>444: Gossip</title>
             <link>https://www.thisamericanlife.org/444/gossip</link>
-            <enclosure url="https://stream.thisamericanlife.org/444/6GK6eBvpKvYe05QtpcnZ0ZzzJslC3cEj6uFV9UV6bLc/444.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/444/BLtcuCRm1jJ2sNaXN_mz70qtqjtrYMTNLUakprHYvso/444.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, Sarah Koenig hosts, as we tackle the thing we all hate to love: Gossip. That's right; we've got rumor, we've got innuendo, and we've got a story of gossipers gone pro. Sarah even makes a compelling case that in some places, gossip could very well be saving lives. But you didn't hear it from us.</description>
             <pubDate>Fri, 26 Aug 2011 18:00:00 -0400</pubDate>
         </item>
