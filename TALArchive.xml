@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-04-17 05:51:17. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-04-24 05:53:03. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-04-17 05:51:17. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>797: What I Was Thinking As We Were Sinking</title>
+            <link>https://www.thisamericanlife.org/797/what-i-was-thinking-as-we-were-sinking</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a108fd23-2ed1-410c-9a1f-c03d2e1a8fdf/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>It's funny the things that go through your head during a disaster.</description>
+            <pubDate>Fri, 21 Apr 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>796: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/796/what-lies-beneath</link>
@@ -2292,7 +2299,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>473: Loopholes</title>
             <link>https://www.thisamericanlife.org/473/loopholes</link>
-            <enclosure url="https://stream.thisamericanlife.org/473/qhUla7YQED1aovbnQR6YjieVONqY2Y8vj2l4_eobnc0/473.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/473/jd1TRK4nd8xJK7prIvajF0sLcRr9j3DfirvyySObRts/473.mp3" length="5000" type="audio/mpeg"/>
             <description>Only the clever need apply. This week, stories of people acting on a technicality in the face of some of life's toughest regulators: financial regulators, parents and God.</description>
             <pubDate>Fri, 24 Aug 2012 18:00:00 -0400</pubDate>
         </item>
