@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-04-24 05:53:03. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-05-01 05:52:47. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-04-24 05:53:03. Known missing e
         <item>
             <title>788: Half-Baked Stories About My Dead Mom</title>
             <link>https://www.thisamericanlife.org/788/half-baked-stories-about-my-dead-mom</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8e9f544c-5da9-4c27-a25d-f13fafcebf61/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/788/wsfdnRQYf5JV1x1_VKlAtKaOVMxjvLKzb6ZTDhF0Auc/788.mp3" length="5000" type="audio/mpeg"/>
             <description>Writer Etgar Keret tries to come up with the stories that capture his late mother, Orna Keret—but it’s hard, he says, because she’s like Maria in West Side Story and she’s also like Thanos from the Avengers. He ends up with a series of very short stories — most just a few paragraphs long — that give glimpses of different sides of her.</description>
             <pubDate>Fri, 06 Jan 2023 18:00:00 -0400</pubDate>
         </item>
@@ -244,7 +244,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-04-24 05:53:03. Known missing e
         <item>
             <title>765: Off Course</title>
             <link>https://www.thisamericanlife.org/765/off-course</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/feaf7292-2425-4e69-a5f1-e8aad976f9b3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/765/jYrb8WjpERjVwBq00D6JMaXqUX4V3MTUeiBaQ1tJ_0g/765.mp3" length="5000" type="audio/mpeg"/>
             <description>Three people, and one animal, who know the path their lives will take until, suddenly, they don’t.</description>
             <pubDate>Fri, 18 Mar 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1968,14 +1968,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>520: No Place Like Home</title>
             <link>https://www.thisamericanlife.org/520/no-place-like-home</link>
-            <enclosure url="https://stream.thisamericanlife.org/520/yVAHOe1ceRlH0R7Rm1YhDjsSuA8WByy09vpop1xq3XA/520.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/520/KQYAn3F2kmD_a7Zz9yLxeGVQ_uPr0UMwMTLZ-TKwKXc/520.mp3" length="5000" type="audio/mpeg"/>
             <description>There are lots of ways we define where we're from. And whether we're proud of it, or ashamed of it, love it, hate it, miss it or are trying desperately to get back to it — where we're from is always a big part of who we are. This week, stories of people who are, in good ways and bad ways, coming to terms with the places they call home. (Beeped version)</description>
             <pubDate>Fri, 14 Mar 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>519: Dead Men Tell No Tales</title>
             <link>https://www.thisamericanlife.org/519/dead-men-tell-no-tales</link>
-            <enclosure url="https://stream.thisamericanlife.org/519/zFWIajsECo8zu5u4Tz1S5pikojzNcQ3oJ6T7EJgD6lE/519.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/519/d5y71Ba_Is4BHbLcyjLHlsA8fQXPTuPQaLsCwYoKEcU/519.mp3" length="5000" type="audio/mpeg"/>
             <description>Last May, a weird story made the news: the FBI killed a guy in Florida who was loosely linked to the Boston Marathon bombings. He was shot seven times in his living room by a federal agent. What really happened? Why was the FBI even in that room with him? A reporter spent six months looking into it, and she found that the FBI was doing a bunch of things that never made the news. Her Boston Magazine story.</description>
             <pubDate>Fri, 07 Mar 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2376,7 +2376,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>462: Own Worst Enemy</title>
             <link>https://www.thisamericanlife.org/462/own-worst-enemy</link>
-            <enclosure url="https://stream.thisamericanlife.org/462/VpHTA-FbveAB8T1oWEX0zGbZJwOc175F_r8rxjvR82s/462.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/462/fiqakicjxPBiCvSydoyTwroPLX5GpNhUJCnzEeXEwzE/462.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who can’t seem to stop getting in their own way — sabotaging everything from their romantic relationships to their physical health. Featuring a new radio drama by Jonathan Mitchell.</description>
             <pubDate>Fri, 13 Apr 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2432,7 +2432,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>453: Nemeses</title>
             <link>https://www.thisamericanlife.org/453/nemeses</link>
-            <enclosure url="https://stream.thisamericanlife.org/453/YS-ezXgZ4NHOxc9eGx2atWt4HUkVHTAOzpDpkneb9aE/453.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/453/n5GcRXYEq41Eh0ROJbC1fIghPf1qvqEYr3eoWJ7WJ9s/453.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, stories where a longtime standoff keeps both sides coming back for more. Including a story about the time in Poland's recent history where the country's two political blocks came together and believed, however briefly, they'd be able to set aside their differences. And another story about a college rivalry gone viral, and personal.</description>
             <pubDate>Fri, 16 Dec 2011 18:00:00 -0400</pubDate>
         </item>
@@ -2481,14 +2481,14 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>446: Living Without (2011)</title>
             <link>https://www.thisamericanlife.org/446/living-without-2011</link>
-            <enclosure url="https://stream.thisamericanlife.org/446/ft8y7fTXJWQ8kFxCzO4cSFb9fRURhN8Dkbq289Sd9Po/446.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/446/JcCAWDyyWyxj0o9VsAhMv4U2O4ChgCkYlbH0KxCIJ9I/446.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people living without. Nubar Alexanian explains what fish can do for him that his own ears cannot. Bobby Morris, on leaving baseball. And other stories.</description>
             <pubDate>Fri, 16 Sep 2011 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>445: Ten Years In</title>
             <link>https://www.thisamericanlife.org/445/ten-years-in</link>
-            <enclosure url="https://stream.thisamericanlife.org/445/yswUFlh8NUTWEWdjSAtSXFq416TKds42eoCZFOddHCk/445.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/445/6_C2uWfPp6LtE1ngRTc5IK0bGKkOEeX33_xcRy1N6wA/445.mp3" length="5000" type="audio/mpeg"/>
             <description>In this show, we return to people who've been on This American Life in the last ten years, whose lives were drastically altered by 9/11, including Hyder Akbar, an Afghan-American teen who moved to Afghanistan after his father was tapped to become governor of Kunar province there. And Marian Fontana, whose husband Dave was a firefighter who died in the Twin Towers; and Lynn Simpson, who escaped from the 89th floor and made it out of the World Trade Center with about a minute to spare.</description>
             <pubDate>Fri, 09 Sep 2011 18:00:00 -0400</pubDate>
         </item>
@@ -2509,9 +2509,8 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>442: Thugs</title>
             <link>https://www.thisamericanlife.org/442/thugs</link>
-            <enclosure url="https://stream.thisamericanlife.org/442/hqQW486xvOtzU8k9_HFlA51MgSyoVP7o5gUatp095F4/442.mp3" length="5000" type="audio/mpeg"/>
-            <description>Like a lot of Mexican towns, Florencia has had its share of problems dealing with drug gangs. That is until recently, when new narcos rolled into
-town telling residents that they were there to liberate them. They promised that people would live in peace and tranquility. And so far, it's working. As long as the narcos are on the streets with guns, people feel safe. That and other stories of thugs.</description>
+            <enclosure url="https://stream.thisamericanlife.org/442/DCKPh_xCbqiWUCllQ0sZrUAqDYPfCNVYSMip7wqmThM/442.mp3" length="5000" type="audio/mpeg"/>
+            <description>Like a lot of Mexican towns, Florencia has had its share of problems dealing with drug gangs. That is until recently, when new narcos rolled into town telling residents that they were there to liberate them. They promised that people would live in peace and tranquility. And so far, it's working. As long as the narcos are on the streets with guns, people feel safe. That and other stories of thugs.</description>
             <pubDate>Fri, 29 Jul 2011 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3142,7 +3141,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>352: The Ghost of Bobby Dunbar</title>
             <link>https://www.thisamericanlife.org/352/the-ghost-of-bobby-dunbar</link>
-            <enclosure url="https://stream.thisamericanlife.org/352/Ebaf2ak5FeDkZ0I8y7tpwDMVQrYAyAgooSie6yOfHJs/352.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/c5a944e2-ba24-4cf7-89f9-e9a872471f32/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>In 1912 a four-year-old boy named Bobby Dunbar went missing in a swamp in Louisiana. Eight months later, he was found in the hands of a wandering handyman in Mississippi. In 2004, Bobby Dunbar's granddaughter discovered a secret beneath the legend of her grandfather's kidnapping, a secret whose revelation would divide her own family, bring redemption to another, and become the answer to a third family's century-old prayer.</description>
             <pubDate>Fri, 14 Mar 2008 18:00:00 -0400</pubDate>
         </item>
