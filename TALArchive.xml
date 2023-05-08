@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-05-01 05:52:47. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-05-08 05:51:14. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-05-01 05:52:47. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>798: Leaving the Fold</title>
+            <link>https://www.thisamericanlife.org/798/leaving-the-fold</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/9042bfe4-7ff1-40c9-8b6a-38f22b1a121e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>A week after Jerry Springer’s death, we go back to a story we first broadcast years ago, about a side of Springer most people don’t know and can’t imagine: his years as an idealistic politician in the mold of Bobby Kennedy. Plus other stories of people who try to leave some moment in their life behind, which can be hard.</description>
+            <pubDate>Fri, 05 May 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>797: What I Was Thinking As We Were Sinking</title>
             <link>https://www.thisamericanlife.org/797/what-i-was-thinking-as-we-were-sinking</link>
@@ -2241,14 +2248,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>481: This Week</title>
             <link>https://www.thisamericanlife.org/481/this-week</link>
-            <enclosure url="https://stream.thisamericanlife.org/481/npNuTxuaEtl9rp4-zPHxbyMImvw2rM1pDlZbsEbzLok/481.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/481/BK9EQApAwPtgbuapiRkWguqwUpcutUxDBz4qpGkKVgk/481.mp3" length="5000" type="audio/mpeg"/>
             <description>This week we take on ... this week. Stories united by one thing: They all happened in the seven days prior to broadcast. We try our hand reporting the global stories in Egypt and Afghanistan; and take on super local stories, too, like a man who tries valiantly — valiantly! — to actually get out of bed when his alarm clock goes off.</description>
             <pubDate>Fri, 07 Dec 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>480: Animal Sacrifice</title>
             <link>https://www.thisamericanlife.org/480/animal-sacrifice</link>
-            <enclosure url="https://stream.thisamericanlife.org/480/woNTywRaeldaEqz9N38FgNReTfmJNg6Mf46kWFDn0Gw/480.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/480/6xzKbhGq93ndQg3exi7L1j9V2w9RZM-gZG83pZ5P5bQ/480.mp3" length="5000" type="audio/mpeg"/>
             <description>What animals sacrifice for us, and what we sacrifice for them. Including a story from Susan Orlean about dogs in World War II, and the This American Life staff confronts Ira about his dog, Piney.</description>
             <pubDate>Fri, 30 Nov 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2283,10 +2290,8 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>475: Send a Message</title>
             <link>https://www.thisamericanlife.org/475/send-a-message</link>
-            <enclosure url="https://stream.thisamericanlife.org/475/fx9wt4Cpbu0loEfz9Xy4RuGDFxWS0gwsT6XLK7OYTVE/475.mp3" length="5000" type="audio/mpeg"/>
-            <description>This week people reach out in all kinds of ways to try to get their point
-across. And the recipients of those messages try to decipher what
-they mean. Messages in code, over the phone, and from beyond the grave.</description>
+            <enclosure url="https://stream.thisamericanlife.org/475/GdEt5XPU-uN8jynWytxn-mscDa7SH3HzW9npimw0Egw/475.mp3" length="5000" type="audio/mpeg"/>
+            <description>This week people reach out in all kinds of ways to try to get their point across. And the recipients of those messages try to decipher what they mean. Messages in code, over the phone, and from beyond the grave.</description>
             <pubDate>Fri, 28 Sep 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -2334,14 +2339,14 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>468: Switcheroo</title>
             <link>https://www.thisamericanlife.org/468/switcheroo</link>
-            <enclosure url="https://stream.thisamericanlife.org/468/dpzR4Mvo1Y7DLFw_drA6tb7au1SMZZDeoBiAcCwa_Z4/468.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/468/G7ht-xAhfA9cfkisUcXEdZ2J0M8MlRgdlCMQuBay80Y/468.mp3" length="5000" type="audio/mpeg"/>
             <description>People pretending to be people they're not: sometimes it's harmless, sometimes it's harmful, and sometimes it's hard to tell. From world-famous artists to mail-order brides to a practice that could change the face of American journalism.</description>
             <pubDate>Fri, 29 Jun 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>467: Americans in China</title>
             <link>https://www.thisamericanlife.org/467/americans-in-china</link>
-            <enclosure url="https://stream.thisamericanlife.org/467/dontvc95pZMzpMmRvVtgUJemp7_82LDM4rN6vRRcRdk/467.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/467/IC3KonH__51ZVDoG52NzusTXXxbTFZooGmbQBpkL5q8/467.mp3" length="5000" type="audio/mpeg"/>
             <description>It used to be that the American expats in China were the big shots. They had the money, the status, the know-how. But that's changed. What's it like to be an American living in China now? And what do they understand about China that we don't?</description>
             <pubDate>Fri, 22 Jun 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2404,21 +2409,21 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>458: Play the Part</title>
             <link>https://www.thisamericanlife.org/458/play-the-part</link>
-            <enclosure url="https://stream.thisamericanlife.org/458/nz53yMxI4yDqfOUrRVfZbyNK_RC9XPUWmHrCJNHKevY/458.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/458/iAuDD7i8l6pCrelAKVuQoohN3tAUGf2lxudvZ78sp_E/458.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who decide to flip their personalities and do the exact opposite of what they normally do.</description>
             <pubDate>Fri, 17 Feb 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>457: What I Did For Love</title>
             <link>https://www.thisamericanlife.org/457/what-i-did-for-love</link>
-            <enclosure url="https://stream.thisamericanlife.org/457/Xb4UHQ53NKh6tVi7Bd9cNgCYGaRgT2S1NsW8yvYvqO4/457.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/457/iJnRescVV8uhiN7O9NXVUT3T-3pQbOJ__mQ5Gy1zEHc/457.mp3" length="5000" type="audio/mpeg"/>
             <description>Love makes us do crazy things. But not this crazy. This week for Valentine's Day we have stories of people going to extremes as they fall in love, chase love down, and try to make sense of it—including a teenager who falls for an undercover cop, and epic tales of snooping.</description>
             <pubDate>Fri, 10 Feb 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>456: Reap What You Sow</title>
             <link>https://www.thisamericanlife.org/456/reap-what-you-sow</link>
-            <enclosure url="https://stream.thisamericanlife.org/456/dZzSMTUgtCIuCE8frt9EilM-KZtk_bFvb0LonwNYZGk/456.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/456/t6WQF4b1bk1g99Zpjv35HNQrlBUNws3vHrkzDugdARA/456.mp3" length="5000" type="audio/mpeg"/>
             <description>Alabama's new immigration law aims to make life so difficult for illegal immigrants that they will "self-deport." And in a way it's working. Immigrants are fleeing Alabama...but not just the undocumented ones. This and other stories of people living with the unintended consequences of their decisions.</description>
             <pubDate>Fri, 27 Jan 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2446,7 +2451,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>451: Back to Penn State</title>
             <link>https://www.thisamericanlife.org/451/back-to-penn-state</link>
-            <enclosure url="https://stream.thisamericanlife.org/451/qafhsffXVoDV87KL3rEQWs6WmaERiElim31igB6WrSY/451.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/451/cED566EuNQKzlK8b27unUTPgi5Tdtyo3Hno77lPcOXs/451.mp3" length="5000" type="audio/mpeg"/>
             <description>In the wake of the recent news, listeners have contacted us and tweeted about the show we did two years ago at Penn State, #1 Party School. We listen again to some of those stories, with new interviews recorded this past week, as Penn State fans and loyalists try to make sense of the actions of Coach Joe Paterno and school officials.</description>
             <pubDate>Fri, 18 Nov 2011 18:00:00 -0400</pubDate>
         </item>
@@ -2467,7 +2472,7 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>448: Adventure!</title>
             <link>https://www.thisamericanlife.org/448/adventure</link>
-            <enclosure url="https://stream.thisamericanlife.org/448/u2LFeR2rqcOTIHbot-6_zrMRXkdFzqesX9xRNklLnnk/448.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/448/3eEaKeflbt034KVFmhhmW2LskedakVmYQIQosoK43lw/448.mp3" length="5000" type="audio/mpeg"/>
             <description>Sometimes you choose the adventure and sometimes the adventure chooses you. This week, stories that pinpoint when people's boring old lives turn into something wildly unfamiliar. Including a story of one young man's time served in a Chinese prison, and a handful of adventure stories from some of our favorite writers.</description>
             <pubDate>Fri, 07 Oct 2011 18:00:00 -0400</pubDate>
         </item>
@@ -2530,14 +2535,14 @@ they mean. Messages in code, over the phone, and from beyond the grave.</descrip
         <item>
             <title>439: A House Divided</title>
             <link>https://www.thisamericanlife.org/439/a-house-divided</link>
-            <enclosure url="https://stream.thisamericanlife.org/439/rDQvnhb2QpB8OF_-7H8zhi6m1zMDTmziq1qGw_UYUg4/439.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/439/xGzq6O4uRn9c7i0_8wrH3OeLdvo-9I48K3QPCnjzn8I/439.mp3" length="5000" type="audio/mpeg"/>
             <description>m Including one story about nine public officials whose constituents are trying to throw them out of office, and another story about a man's very physical battle with himself.</description>
             <pubDate>Fri, 24 Jun 2011 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>438: Father's Day 2011</title>
             <link>https://www.thisamericanlife.org/438/fathers-day-2011</link>
-            <enclosure url="https://stream.thisamericanlife.org/438/HFW5lwIm_IKUDicsR0IPvFNfp3jo70Lj7dTMgMECQWA/438.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/438/LtSWifrCkWfEAeik1ugtiIEfowrlbvK7he8NpjwGJUk/438.mp3" length="5000" type="audio/mpeg"/>
             <description>Yes yes yes you've heard it all before, when it comes to stories of fathers and their children. There's the story of the kid who idolizes his dad, but then learns something and becomes disappointed. Or the opposite story, where the kid gives up on his dad when he's still young, and then much later comes to have a grudging respect. This week for fathers day: surprising stories of fathers trying to be good dads.</description>
             <pubDate>Fri, 17 Jun 2011 18:00:00 -0400</pubDate>
         </item>
@@ -3798,10 +3803,10 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <pubDate>Fri, 20 Feb 2004 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>258: Leaving the Fold</title>
-            <link>https://www.thisamericanlife.org/258/leaving-the-fold</link>
+            <title>258: Leaving the Fold (2004)</title>
+            <link>https://www.thisamericanlife.org/258/leaving-the-fold-2004</link>
             <enclosure url="https://stream.thisamericanlife.org/258/H9JVohhj-lUi8o5XAE7sT87cYkHwkxkDkv2vKsX2ENI/258.mp3" length="5000" type="audio/mpeg"/>
-            <description>A popular, progressive politician becomes a talk show host. One you've probably heard of. A group of nuns leave the Catholic Church, only to find themselves essentially, remaining nuns. These and other stories of people leaving the situation they're used to—and striking off for something less familiar.</description>
+            <description>People leaving the situation they're used to and striking off for something less familiar.</description>
             <pubDate>Fri, 30 Jan 2004 18:00:00 -0400</pubDate>
         </item>
         <item>
