@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-05-15 05:51:25. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-05-22 05:51:14. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-05-15 05:51:25. Known missing e
         <item>
             <title>790: You're It</title>
             <link>https://www.thisamericanlife.org/790/youre-it</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7fd9d2e9-c44c-40e3-bc22-72281b1fde8f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/790/HW1YFTLrax5fduV0K_6kZoWcmyufWMLjMHPwtqIblbo/790.mp3" length="5000" type="audio/mpeg"/>
             <description>Sometimes you raise your hand. Other times you’re just the only one left.</description>
             <pubDate>Fri, 27 Jan 2023 18:00:00 -0400</pubDate>
         </item>
@@ -2066,7 +2066,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>508: Superpowers</title>
             <link>https://www.thisamericanlife.org/508/superpowers-2013</link>
-            <enclosure url="https://stream.thisamericanlife.org/508/ExEd8go-NBwJTmxQGW87lUlSmHJ6U4PHs1uCc7wt0-s/508.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e20287e4-bb1d-4789-a9e0-0e9c9ae5bf78/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>We answer the following questions about superpowers: Can superheroes be real people? (No.) Can real people become superheroes? (Maybe.) And which is better: flight or invisibility? (Depends who you ask.)</description>
             <pubDate>Fri, 18 Oct 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2185,7 +2185,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>491: Tribes</title>
             <link>https://www.thisamericanlife.org/491/tribes</link>
-            <enclosure url="https://stream.thisamericanlife.org/491/ImXwd-ZvEl9w7GAKz_R168pz9Dw058sM-bqSlsOXo-4/491.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/491/zkpqzE732ma_v3OC9qmntyvoZtMObAk_MqoZTE38RgM/491.mp3" length="5000" type="audio/mpeg"/>
             <description>A Native American tribe is doing exactly the opposite of what you'd think they'd do: they're kicking people out of the tribe, huge numbers of them, including people whose ancestors without question were part of the tribe. And the story of a white guy who only wants to date Asian women, who then has to adjust to the reality of a real actual Asian woman in his life. The phrase "finding your tribe" is a total cliche — but one that does apply to certain situations.</description>
             <pubDate>Fri, 29 Mar 2013 18:00:00 -0400</pubDate>
         </item>
