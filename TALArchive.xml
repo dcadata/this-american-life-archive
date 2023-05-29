@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-05-22 05:51:14. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-05-29 05:51:18. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-05-22 05:51:14. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>800: Jane Doe</title>
+            <link>https://www.thisamericanlife.org/800/jane-doe</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7bac5f58-9ee2-495a-acb0-838ad9fc2b53/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Five years after the #MeToo explosion, what’s happened in the lives of the women who stepped forward and went public with their stories? We tell the story of a teenager who spoke out against one of the most powerful people in her state, and what happened next.</description>
+            <pubDate>Fri, 26 May 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>799: The Lives of Others</title>
             <link>https://www.thisamericanlife.org/799/the-lives-of-others</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-05-22 05:51:14. Known missing e
         <item>
             <title>791: Math or Magic?</title>
             <link>https://www.thisamericanlife.org/791/math-or-magic</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8f1c46b1-4a55-44a3-b420-37d1b50a3ec6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/791/nFL67ExqtFaOBf-qTtuUTtxNlmr07XcuniWTrrt2-dU/791.mp3" length="5000" type="audio/mpeg"/>
             <description>When it comes to finding love, there seems to be two schools of thought on the best way to go about it. One says, wait for that lightning-strike magic. The other says, make a calculation and choose the best option available. Who has it right?</description>
             <pubDate>Fri, 10 Feb 2023 18:00:00 -0400</pubDate>
         </item>
@@ -1996,7 +2003,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>518: Except For That One Thing</title>
             <link>https://www.thisamericanlife.org/518/except-for-that-one-thing</link>
-            <enclosure url="https://stream.thisamericanlife.org/518/7k9vQ8ebhonn2U47ozQUCZ_het-h8fwqiVJ5bRsxar0/518.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/518/UPAPugeZkpuLsRpiPZRbVdYPsL8BWoFEPZKQlIGJ3uk/518.mp3" length="5000" type="audio/mpeg"/>
             <description>Mike Anderson was 36 years old, married, a suburban father of four. He owned a contracting business and built his family’s modest, three-bedroom house in St. Louis from the ground up. He volunteered at church on the weekends and coaches his son’s football team. All pretty normal, right? Except for one thing … which surfaced one day two summers ago.</description>
             <pubDate>Fri, 14 Feb 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2157,7 +2164,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>495: Hot In My Backyard</title>
             <link>https://www.thisamericanlife.org/495/hot-in-my-backyard</link>
-            <enclosure url="https://stream.thisamericanlife.org/495/N3ySgmzHM5lHuDUmDBkv9V2cF6hQvAtfqT9D-PU1B20/495.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/495/9ESZNInvEhViKZMF8S0H3oTj2PiZXYTKsBZSCFUbcUU/495.mp3" length="5000" type="audio/mpeg"/>
             <description>After years of being stuck, the national conversation on climate change finally started to shift — just a little — last year, the hottest year on record in the U.S., with Hurricane Sandy flooding the New York subway, drought devastating Midwest farms, and California and Colorado on fire. Lots of people were wondering if global warming had finally arrived, here at home. This week, stories about this new reality.</description>
             <pubDate>Fri, 17 May 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2227,7 +2234,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>485: Surrogates</title>
             <link>https://www.thisamericanlife.org/485/surrogates</link>
-            <enclosure url="https://stream.thisamericanlife.org/485/pYMxrQs8jIOcWsoNtoZlSdHcR9Jd-oEZrisx5smQNJ0/485.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/485/_F7GgHtkFct_jU6OTchWq8nrTLHM2H7iEmdRmdvqDG8/485.mp3" length="5000" type="audio/mpeg"/>
             <description>This week we look at people who see themselves in others and try to live out their lives through stand-ins — including the story of what one father saw in the convicted murderer he decided to adopt. And the proxy battle over a woman’s honor that became a presidential obsession.</description>
             <pubDate>Fri, 25 Jan 2013 18:00:00 -0400</pubDate>
         </item>
@@ -3153,7 +3160,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>352: The Ghost of Bobby Dunbar</title>
             <link>https://www.thisamericanlife.org/352/the-ghost-of-bobby-dunbar</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/c5a944e2-ba24-4cf7-89f9-e9a872471f32/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/352/vnYbXXcDtOZEYxgyZgrT42KiFVtnzOxsg1ddmK-dHr0/352.mp3" length="5000" type="audio/mpeg"/>
             <description>In 1912 a four-year-old boy named Bobby Dunbar went missing in a swamp in Louisiana. Eight months later, he was found in the hands of a wandering handyman in Mississippi. In 2004, Bobby Dunbar's granddaughter discovered a secret beneath the legend of her grandfather's kidnapping, a secret whose revelation would divide her own family, bring redemption to another, and become the answer to a third family's century-old prayer.</description>
             <pubDate>Fri, 14 Mar 2008 18:00:00 -0400</pubDate>
         </item>
@@ -5562,7 +5569,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>7: Quitting</title>
             <link>https://www.thisamericanlife.org/7/quitting</link>
-            <enclosure url="https://stream.thisamericanlife.org/7/V9aM9MHwMEUtO9zO09sDe0sG_1YyDBGpd7_ARKcQRtk/7.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/7/QtCvlJ0TZ1wgahxrioqt3jhoedNR_auPKlrvIru9U_U/7.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who quit everything in their lives that they hated—and what happened to them afterwards.</description>
             <pubDate>Fri, 29 Dec 1995 18:00:00 -0400</pubDate>
         </item>
