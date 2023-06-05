@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-05-29 05:51:18. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-06-05 05:51:26. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -777,7 +777,7 @@ This episode won a 2023 duPont-Columbia Award.</description>
         <item>
             <title>692: The Show of Delights</title>
             <link>https://www.thisamericanlife.org/692/the-show-of-delights</link>
-            <enclosure url="https://stream.thisamericanlife.org/692/nPCogbGpGZFA8gnAzQRNFkjlANgeRAgGcxfrQe_QuwI/692.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04b0c404-4b43-4ccc-9316-a60e782d57f5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>In these dark, combative times, we attempt the most radical counterprogramming we could imagine: a show made up entirely of stories about delight.</description>
             <pubDate>Fri, 31 Jan 2020 18:00:00 -0400</pubDate>
         </item>
@@ -2031,7 +2031,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>514: Thought That Counts</title>
             <link>https://www.thisamericanlife.org/514/thought-that-counts</link>
-            <enclosure url="https://stream.thisamericanlife.org/514/gpY88cx_u9f8_DkAiOjnMUlJqSyJZr7fkoRWX1rsEgo/514.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/514/MauUqDKZixuLycYhzBl6s6hwnfoYvemQXiCORpjr3po/514.mp3" length="5000" type="audio/mpeg"/>
             <description>It's the thought that counts. So true. Unfortunately, sometimes it's not always so clear what that thought was. And sometimes, when it is clear, we wish it wasn't. This week, during this, the season of giving, we turn our spotlight on the givers and exactly whatever it was they could've possibly been thinking.</description>
             <pubDate>Fri, 20 Dec 2013 18:00:00 -0400</pubDate>
         </item>
