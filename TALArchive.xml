@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-06-05 05:51:26. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-06-12 05:52:53. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-06-05 05:51:26. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>801: Must Be Rats on the Brain</title>
+            <link>https://www.thisamericanlife.org/801/must-be-rats-on-the-brain</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/985d96c2-93fc-436a-919d-696b5d929495/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The one animal we can’t seem to live without, even when we really, really want to.</description>
+            <pubDate>Fri, 09 Jun 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>800: Jane Doe</title>
             <link>https://www.thisamericanlife.org/800/jane-doe</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-06-05 05:51:26. Known missing e
         <item>
             <title>792: When to Leave</title>
             <link>https://www.thisamericanlife.org/792/when-to-leave</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4ead0b40-456c-4923-827f-8d457fb3fb17/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/792/ymjnRonM3plqlCCZkLCH0RoaZqXta4oXQtuW-gvyyII/792.mp3" length="5000" type="audio/mpeg"/>
             <description>People staring down that hardest of questions: Is now the time? To leave?</description>
             <pubDate>Fri, 03 Mar 2023 18:00:00 -0400</pubDate>
         </item>
@@ -2108,7 +2115,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>503: I Was Just Trying To Help</title>
             <link>https://www.thisamericanlife.org/503/i-was-just-trying-to-help</link>
-            <enclosure url="https://stream.thisamericanlife.org/503/K9VLLc6Q586T6xzaseJqxZEKZzlVY4Le63PH4ZiwK5s/503.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/503/3oVr5bV_M4x8z2IJlcCEe7xF0_Lh5cDnh53sHq86TTI/503.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people doing the noble thing and stepping up to help, only to find out that others think what they're doing isn't helping at all. Planet Money looks at a charity that's decided to just give people money, and a sheriff in California devises a plan to let farmers grow weed — as long as they register with him.</description>
             <pubDate>Fri, 16 Aug 2013 18:00:00 -0400</pubDate>
         </item>
@@ -3518,7 +3525,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>301: Settling the Score</title>
             <link>https://www.thisamericanlife.org/301/settling-the-score</link>
-            <enclosure url="https://stream.thisamericanlife.org/301/Vp0ZWDwxNtVXnubvBH16MxxrYAh58UC1j9rD8oHuPo4/301.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/301/SgaRcB52HT-zTXmTPOiN-1-GCuIpQI8Pjk_Q9mGQcak/301.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about the lengths we go to make things right, and about what money can and cannot fix.</description>
             <pubDate>Fri, 11 Nov 2005 18:00:00 -0400</pubDate>
         </item>
