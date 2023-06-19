@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-06-12 05:52:53. Known missing episodes: 25, 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-06-19 05:54:56. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-06-12 05:52:53. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>802: Father's Day</title>
+            <link>https://www.thisamericanlife.org/802/fathers-day</link>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fb788529-7dba-4544-88aa-bf1d24ee322e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Ira's own father, Barry Glass, co-hosts this special Father's Day show.</description>
+            <pubDate>Fri, 16 Jun 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>801: Must Be Rats on the Brain</title>
             <link>https://www.thisamericanlife.org/801/must-be-rats-on-the-brain</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-06-12 05:52:53. Known missing e
         <item>
             <title>793: The Problem with Ghosts</title>
             <link>https://www.thisamericanlife.org/793/the-problem-with-ghosts</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ca95f99e-f121-4e07-998b-f108186c7064/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/793/o1Ofp9rlsUV4h6zLEwXFA5qp1F2QyzqIs8J0SFRUQ4A/793.mp3" length="5000" type="audio/mpeg"/>
             <description>The ghosts that visit us, the ghosts that never do, and the ghosts that walk among us.</description>
             <pubDate>Fri, 10 Mar 2023 18:00:00 -0400</pubDate>
         </item>
@@ -1661,6 +1668,7 @@ An updated version of an episode originally broadcast back in 1997.</description
             <link>https://www.thisamericanlife.org/568/human-spectacle-2015</link>
             <enclosure url="https://stream.thisamericanlife.org/568/IsS25jbSKxIsLYujmQoN5Orv8Vr-NsoA2VFwX9FADBQ/568.mp3" length="5000" type="audio/mpeg"/>
             <description>Gladiators in the Colosseum. Sideshow performers. Reality television. We've always loved to gawk at the misery or majesty of others. But this week, we ask the question: What's it like when the tables are turned and all eyes are on you?
+
 An episode from last year, with one story swapped.</description>
             <pubDate>Fri, 02 Oct 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1772,7 +1780,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>552: Need To Know Basis</title>
             <link>https://www.thisamericanlife.org/552/need-to-know-basis</link>
-            <enclosure url="https://stream.thisamericanlife.org/552/gjPjEQ10tFgXwhl8yiYrLOyWnzruLqx3Qm7nlMJg9qo/552.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/552/EXZU5MevuiQT3G39dTMm9b_YXcPwSgbDQJgm2hcnong/552.mp3" length="5000" type="audio/mpeg"/>
             <description>Even when you're not trying to get one over on someone, it can be useful to keep the truth to yourself. Or conversely, to not know why people are lying to your face all the time. This week we'll tell you the whole truth about not telling the whole truth. Including the story of a guy who learned to lie for the first time in his life at age 29.</description>
             <pubDate>Fri, 27 Mar 2015 18:00:00 -0400</pubDate>
         </item>
@@ -2024,7 +2032,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>516: Stuck In The Middle (2014)</title>
             <link>https://www.thisamericanlife.org/516/stuck-in-the-middle-2014</link>
-            <enclosure url="https://stream.thisamericanlife.org/516/x0HzM2wQJUfso-PjEBby90li8Za3prqSdACfxuhERPo/516.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/516/tcAyd9m5O2l6IASJi18FCrvcQzGAEBHVXmVftmoz0k0/516.mp3" length="5000" type="audio/mpeg"/>
             <description>Jan Brady is not the only one who hated being in the middle. This week we have stories about how it sucks to be in limbo or be the mediator, but we also hear from a man who absolutely loves being in that uncertain and boring middle most of us dread — on hold, listening to hold music.</description>
             <pubDate>Fri, 17 Jan 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2073,14 +2081,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>509: It Says So Right Here</title>
             <link>https://www.thisamericanlife.org/509/it-says-so-right-here</link>
-            <enclosure url="https://stream.thisamericanlife.org/509/TubxHPrkh6WtF2upK5AsI3dyL8-8ijHG28TP9SojgzY/509.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/509/jvd2rVijBpKckEtZDylxI1o5xLQ3uBOCkt3EI03Ha5g/509.mp3" length="5000" type="audio/mpeg"/>
             <description>Everyone knows you can't always believe what you read, but sometimes even official documents aren't a path to the truth. This week we have stories of people whose lives are altered when seemingly boring documents like birth certificates and petitions are used against them. And a family wrestles with a medical record that has a very clear, but complicated diagnosis.</description>
             <pubDate>Fri, 25 Oct 2013 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>508: Superpowers</title>
             <link>https://www.thisamericanlife.org/508/superpowers-2013</link>
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e20287e4-bb1d-4789-a9e0-0e9c9ae5bf78/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/508/ExEd8go-NBwJTmxQGW87lUlSmHJ6U4PHs1uCc7wt0-s/508.mp3" length="5000" type="audio/mpeg"/>
             <description>We answer the following questions about superpowers: Can superheroes be real people? (No.) Can real people become superheroes? (Maybe.) And which is better: flight or invisibility? (Depends who you ask.)</description>
             <pubDate>Fri, 18 Oct 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2136,7 +2144,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>500: 500!</title>
             <link>https://www.thisamericanlife.org/500/500</link>
-            <enclosure url="https://stream.thisamericanlife.org/500/B4ztHEe9emYq4VAeXNoQwwmmvM73IMW2xdbUDH-1A3M/500.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/500/k6BPrScaUc44wnydKuyYdzBixXwD2Oac2xQpzGNwQps/500.mp3" length="5000" type="audio/mpeg"/>
             <description>To celebrate our 500th episode, Ira asked the producers of This American Life to talk about their very favorite moments on the show. Some chose stories that've been more or less forgotten for years; others chose just one line of script, or a segment that secretly made them cry. So for our 500th, we bring you the best of This American Life — the way we've been hearing it, behind the scenes, all these years.</description>
             <pubDate>Fri, 12 Jul 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2150,14 +2158,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>498: The One Thing You're Not Supposed To Do</title>
             <link>https://www.thisamericanlife.org/498/the-one-thing-youre-not-supposed-to-do</link>
-            <enclosure url="https://stream.thisamericanlife.org/498/FtKFn_J-zx2VsDaFWBWnnmWM1be_oqaCw3AvzT1u5d4/498.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/498/RRdor73zMKb7NQ0Wi4KFpkUNlR_fGLva1JVgzHvDRuo/498.mp3" length="5000" type="audio/mpeg"/>
             <description>This week, stories about people who know something's a bad idea, but convince themselves to do that thing anyway. Including the story of a bunch of illegal immigrants who turn themselves in to the U.S. Immigration and Customs Enforcement, hoping to be sent into detention.</description>
             <pubDate>Fri, 21 Jun 2013 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>497: This Week</title>
             <link>https://www.thisamericanlife.org/497/this-week</link>
-            <enclosure url="https://stream.thisamericanlife.org/497/riLRmGHBDdzRggY4BFFhF33CBlUAkfHLAdXFrq1By_g/497.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/497/pieEyNneP53zE7uwwJrR5fLpzx68VJiQLBbkGucme7g/497.mp3" length="5000" type="audio/mpeg"/>
             <description>This week we return to one of our favorite themes: This Week! All of the stories in the show are things that have taken place in the last seven days. We've got our own take on the big, national stories of the week but we also turn a searchlight across America and find the smaller, more personal and more spectacular stories that most of us never hear.</description>
             <pubDate>Fri, 14 Jun 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2255,7 +2263,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>483: Self-Improvement Kick</title>
             <link>https://www.thisamericanlife.org/483/self-improvement-kick</link>
-            <enclosure url="https://stream.thisamericanlife.org/483/Wmz3y9PTsvLqor2LMlHyb8J04mhQZqYSHxlahLVMemE/483.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://stream.thisamericanlife.org/483/XNGG5GLh95oflC7iFrifPRwUQK-OPtaugUPE7Dq2nCA/483.mp3" length="5000" type="audio/mpeg"/>
             <description>A perfectly normal guy gets rid of everything he owns, changes his name, says goodbye to his friends — and begins walking. In the name of peace. And Honduran government officials try to heal their corrupt country by starting a perfect city, from scratch. For the new year, we bring you stories about how far some people go in hopes of a better life.</description>
             <pubDate>Fri, 04 Jan 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2417,7 +2425,8 @@ An episode from last year, with one story swapped.</description>
             <title>460: Retraction</title>
             <link>https://www.thisamericanlife.org/460/retraction</link>
             <enclosure url="https://stream.thisamericanlife.org/460/uIoXkBMTqaK4wB0bdBc77fyD-yY4zeVj5UHjuYjx3hY/460.mp3" length="5000" type="audio/mpeg"/>
-            <description>We've discovered that one of our most popular episodes contained numerous fabrications. This week, we detail the errors in Mike Daisey's story about visiting Foxconn, which makes iPads and other products for Apple in China. Marketplace's China correspondent Rob Schmitz discovered the fabrications.Transcript. Press Release.</description>
+            <description>We've discovered that one of our most popular episodes contained numerous fabrications. This week, we detail the errors in Mike Daisey's story about visiting Foxconn, which makes iPads and other products for Apple in China. Marketplace's China correspondent Rob Schmitz discovered the fabrications.
+Transcript. Press Release.</description>
             <pubDate>Fri, 16 Mar 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3295,6 +3304,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
             <link>https://www.thisamericanlife.org/334/duty-calls</link>
             <enclosure url="https://stream.thisamericanlife.org/334/whqC-FPZAnx_GZ-tS_bi0ncM5zBX7dTyiSx2lPcapFo/334.mp3" length="5000" type="audio/mpeg"/>
             <description>Josh's mother and younger brother were a mess. His mother drank too much. His brother got arrested a lot. Josh hadn't lived with them since he was nine, and they didn't play much of a role in his daily life—until duty called, and they took over his life.
+
 Josh told the sequel to this story at our live show in 2014.</description>
             <pubDate>Fri, 01 Jun 2007 18:00:00 -0400</pubDate>
         </item>
@@ -5453,6 +5463,13 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <enclosure url="https://stream.thisamericanlife.org/26/p114D8y5uVRZ1LCLOwQF50fR3ToIHzLiEtVh5b94LMY/26.mp3" length="5000" type="audio/mpeg"/>
             <description>Ira's own father, Barry Glass, co-hosts this special Father's Day show.</description>
             <pubDate>Fri, 14 Jun 1996 18:00:00 -0400</pubDate>
+        </item>
+        <item>
+            <title>25: Basketball</title>
+            <link>https://www.thisamericanlife.org/25/basketball</link>
+            <enclosure url="https://stream.thisamericanlife.org/25/aKtoAHZ6EsngutigmlE_GXP9e4Bs-75msi8dwPHYOJo/25.mp3" length="5000" type="audio/mpeg"/>
+            <description>A set of documentary stories, radio essays and monologues about basketball, the Chicago Bulls, and their grip on Chicagoans' hearts and lives during the NBA playoffs.</description>
+            <pubDate>Fri, 07 Jun 1996 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>24: Teenaged Girls</title>
