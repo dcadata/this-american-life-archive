@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-06-26 05:58:30. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-07-03 05:56:54. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-06-26 05:58:30. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>804: The Retrievals</title>
+            <link>https://www.thisamericanlife.org/804/the-retrievals</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ce17cbc4-b786-4ee7-b3e9-87c058c79171/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>At a Yale fertility clinic, dozens of women began their I.V.F. cycles full of expectation and hope. Then a surgical procedure caused them excruciating pain. In the hours that followed, some of the women called the clinic to report their pain — but most of the staff members who fielded the patients’ reports did not know the real reason for the pain, which was that a nurse at the clinic was stealing fentanyl and replacing it with saline. What happened at that clinic? What are the stories we tell about women's pain and what happens when we minimize or dismiss it?
+The Retrievals, a new five-part series from Serial Productions, is hosted and reported by longtime This American Life producer and editor Susan Burton. We're excited to bring you the first episode today.</description>
+            <pubDate>Fri, 30 Jun 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>803: Greetings, People Of Earth</title>
             <link>https://www.thisamericanlife.org/803/greetings-people-of-earth</link>
@@ -798,7 +806,7 @@ This episode won a 2023 duPont-Columbia Award.</description>
         <item>
             <title>692: The Show of Delights</title>
             <link>https://www.thisamericanlife.org/692/the-show-of-delights</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04b0c404-4b43-4ccc-9316-a60e782d57f5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/692/nPCogbGpGZFA8gnAzQRNFkjlANgeRAgGcxfrQe_QuwI/692.mp3" length="5000" type="audio/mpeg"/>
             <description>In these dark, combative times, we attempt the most radical counterprogramming we could imagine: a show made up entirely of stories about delight.</description>
             <pubDate>Fri, 31 Jan 2020 18:00:00 -0400</pubDate>
         </item>
@@ -1815,7 +1823,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>548: Cops See It Differently - Part Two</title>
             <link>https://www.thisamericanlife.org/548/cops-see-it-differently-part-two</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/548/AZnA4W6zE7bDtL0DG431nGzy7T-YZZfP1TD-SSq3Bgc/548.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/548/VAbRllXvbF279cOTm6B0kte5SISU0Sg3UfDxviCWArk/548.mp3" length="5000" type="audio/mpeg"/>
             <description>Our second hour of stories about policing and race. We hear about one city where relations between police and black residents went terribly, and another city where they seem to be improving remarkably. And one of our producers asks: Why aren't police chiefs talking about race after incidents where unarmed black men are wrongly killed by officers?</description>
             <pubDate>Fri, 13 Feb 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1983,7 +1991,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>524: I Was So High</title>
             <link>https://www.thisamericanlife.org/524/i-was-so-high</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/524/2xe2ojgQtgaeSbqO5POCsuu4JqqrcufEhHEJPU3lvHU/524.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/524/k_xMu4qfZm4Ma6awM432bwUpEUEk6H_G25t5vwWnJlQ/524.mp3" length="5000" type="audio/mpeg"/>
             <description>Your waitress. Your colleagues at work. Your doctor. Maybe even your parents. They’re all high. All the time. That’s what it feels like anyway. This week, stories in which drug use and daily life intersect – and in which people get high in secret and then do their best to function in the non-high world. Also, we hear some “I Was So High” stories from our very own listeners.</description>
             <pubDate>Fri, 02 May 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2987,7 +2995,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>380: No Map</title>
             <link>https://www.thisamericanlife.org/380/no-map</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/380/enuh7c9FtJy9r5SlknGy7yfRNxkOO6VyBiDwAWPqljs/380.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/380/sB1tNxM8DEJPZupveIqdj-raUd1-Pom6wnOCv9jgnB8/380.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who find themselves in situations far from the beaten path, where there are no guidelines and no useful precedents, including the return of Squirrel Cop.</description>
             <pubDate>Fri, 15 May 2009 18:00:00 -0400</pubDate>
         </item>
@@ -3500,7 +3508,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>307: In the Shadow of the City (2006)</title>
             <link>https://www.thisamericanlife.org/307/in-the-shadow-of-the-city-2006</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/307/e9XbuqeKqREfw0W_pp_d1sUaUnbglm10gSGMapA4K2A/307.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/307/xm9vaBY1PqjbIKUcrpd9UI6J2l2se8yaEXGAFIQbvo4/307.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories that take place on the edge of civilization, just out of sight.</description>
             <pubDate>Fri, 03 Feb 2006 18:00:00 -0400</pubDate>
         </item>
@@ -3633,7 +3641,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>288: Not What I Meant</title>
             <link>https://www.thisamericanlife.org/288/not-what-i-meant</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/288/itMtrpF8WBGNichzcVRct1b-HHE4LBT53uWsYWDvlEE/288.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/288/hIscGvCGyKfhvYRhEd3GIiXP293TzyscEbU8f7SdXAU/288.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about how easy it is for communication to go awry, and what the consequences can be after it does.</description>
             <pubDate>Fri, 06 May 2005 18:00:00 -0400</pubDate>
         </item>
@@ -4179,7 +4187,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>210: Perfect Evidence</title>
             <link>https://www.thisamericanlife.org/210/perfect-evidence</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/210/SFKVuANvD4A69rMy-mpHgxbrsJ_inadfsPUiIj1e6yE/210.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/210/mrlNA-7TYgoXFgaafbPPSqnuxEfJ-XL9mrPH6jvo58Q/210.mp3" length="5000" type="audio/mpeg"/>
             <description>After a decade in which DNA evidence has freed over 100 people nationwide, it's become clear that DNA evidence isn't just proving wrongdoing by criminals, it's proving wrongdoing by police and prosecutors. In this show, we look at what DNA has revealed to us: how police get innocent people to confess to crimes they didn't commit and how they get witnesses to pin crimes on innocent people.</description>
             <pubDate>Fri, 19 Apr 2002 18:00:00 -0400</pubDate>
         </item>
@@ -5467,7 +5475,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>26: Father's Day '96</title>
             <link>https://www.thisamericanlife.org/26/fathers-day-96</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/26/p114D8y5uVRZ1LCLOwQF50fR3ToIHzLiEtVh5b94LMY/26.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/26/BuTSUkSFT_5J5VKWDaNWXiIFkofrbvI9GQyZkb3Vt3I/26.mp3" length="5000" type="audio/mpeg"/>
             <description>Ira's own father, Barry Glass, co-hosts this special Father's Day show.</description>
             <pubDate>Fri, 14 Jun 1996 18:00:00 -0400</pubDate>
         </item>
