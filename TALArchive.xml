@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-07-03 05:56:54. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-07-10 05:56:34. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -84,7 +84,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>795: Nine Months Later</title>
             <link>https://www.thisamericanlife.org/795/nine-months-later</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/0e94e8be-7d0e-40bd-9f29-7dcaa1058dea/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/795/Xq-Z0SxdKS9FyJULMAexgavWUk5ahQj_Q9e-oxsu5Z8/795.mp3" length="5000" type="audio/mpeg"/>
             <description>It’s been nine months since Roe v. Wade was overturned. We talk to people who wanted abortions right when the laws were changing in their states. They had to wait for appointments, for money to travel or abortion pills. And during that waiting, a lot of interesting things happened. We see how much life has changed, nine months later.</description>
             <pubDate>Fri, 07 Apr 2023 18:00:00 -0400</pubDate>
         </item>
@@ -1646,7 +1646,7 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>573: Status Update</title>
             <link>https://www.thisamericanlife.org/573/status-update</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/573/u9VrEmr6l-hT-sBW5l4nFSGQ5pptsM1udgukvZlLu8o/573.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/573/CI9kxfZEbPtpqTFYxaxzA2ASXyeD6r7SWmySliqi9eA/573.mp3" length="5000" type="audio/mpeg"/>
             <description>Most of the time, the updates we share about our lives are small and inconsequential. This week, status updates that interrupt daily life. We hear two friends talk about how one of them has become rich and famous. And an entire town gets a status update on itself.</description>
             <pubDate>Fri, 27 Nov 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1704,14 +1704,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>565: Lower 9 + 10</title>
             <link>https://www.thisamericanlife.org/565/lower-9-10</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/565/dBzdY59Yr0Z1nULVyyHN9TMzmVEmRuWj0UJtHuBe0dg/565.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/565/tc3_2Yr3R9kvBMXJ1XU1MtmYllQLV4Y2-Ti2oNjtSHw/565.mp3" length="5000" type="audio/mpeg"/>
             <description>Katrina bus tours go all over New Orleans, but it’s illegal for them to go into the Lower 9th Ward, the area that's been the slowest to rebuild. This week we go around talking to residents there about what matters the most to them (and what doesn't) ten years after the hurricane. The episode we did in 2005 the week of the storm is here.</description>
             <pubDate>Fri, 28 Aug 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>564: Too Soon?</title>
             <link>https://www.thisamericanlife.org/564/too-soon</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/564/SXgBnOaF6wSpaN8UsG_tLOqSyc78VU0If4otC32YD9U/564.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/564/7ZLM3KqvN48VlXjwKPDoJL3O-uLbBa4lpS-VKxTamu0/564.mp3" length="5000" type="audio/mpeg"/>
             <description>When is too soon for that celebrity comeback; that joke that is either brilliant or full-on repugnant; that parent-child conversation? This week: stories about a fallen man trying to kickstart his career with a reality show, and an awkward moment between a mom and a daughter.</description>
             <pubDate>Fri, 14 Aug 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1837,7 +1837,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>546: Burroughs 101</title>
             <link>https://www.thisamericanlife.org/546/burroughs-101</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/546/-CwSQuPoTfi-q5BAzQCUjxDhYfkS23hzFVYNBBLJ5yc/546.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/546/CQhE7112VwlI-PpEehXnNqpqeqa4cOSQsQgkqHnvkGI/546.mp3" length="5000" type="audio/mpeg"/>
             <description>This American Life host Ira Glass was never into William Burroughs. Didn't get why people love his writing so much. Then he heard this radio story that changed all that, partly because it wasn't very reverential about Burroughs. For Burroughs 101st birthday, we hear that story.</description>
             <pubDate>Fri, 30 Jan 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1879,7 +1879,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>540: A Front</title>
             <link>https://www.thisamericanlife.org/540/a-front</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/540/M2ldbUFiz5g5_f-EbYtjWTGGDUp5UeHAt10sKU8H6JE/540.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/540/Qe5YtlQboLIafnCtc0stJgTv76ZmNJx6dxvfZTifNzo/540.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about people and places that are fronting in order to hide the truth. We visit a bizarre store in Milwaukee called Fearless Distributing, government checkpoints scattered on highways out west, and a front in a doctor's office.</description>
             <pubDate>Fri, 21 Nov 2014 18:00:00 -0400</pubDate>
         </item>
@@ -1935,14 +1935,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>532: Magic Words</title>
             <link>https://www.thisamericanlife.org/532/magic-words</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/532/XBMqjuWSbCgnB9Mj2zhrKn5gxyBScCxSIlmorBbpOZA/532.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/532/DS4IziWxL6rieLvqhIvFW2XcTMXHpy9Baju1k05UzoM/532.mp3" length="5000" type="audio/mpeg"/>
             <description>When Jonathan Goldstein was a kid, his father gave him a book that promised to teach you how to shoot mental laser beams, win the lottery, move solid objects with your mind, make others obey your command – all through the use of mental power and magic words. This week, he revisits the book to try to unlock the secrets within. And we have other stories where people recite words that have the power to change their lives, with no magic or mumbo jumbo at all.</description>
             <pubDate>Fri, 15 Aug 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>531: Got Your Back</title>
             <link>https://www.thisamericanlife.org/531/got-your-back</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/531/CeWPPu3VNrPwwc89mgccQiOfIYWZP77GgpSafSW2VBA/531.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/531/i8epz231F62Oi9qlIm7yhUwcbzI66jWlmtAifDhWx6Y/531.mp3" length="5000" type="audio/mpeg"/>
             <description>There is a special comfort that comes from knowing someone's got your back. You can do things that just weren't possible before. You take huge risks, including some that aren't necessarily advisable. This week: stories where one person's powerlessness is transformed when they discover they have backup. And we see what happens when that backup goes away.</description>
             <pubDate>Fri, 25 Jul 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2089,7 +2089,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>510: Fiasco! (2013)</title>
             <link>https://www.thisamericanlife.org/510/fiasco-2013</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/510/aiJ6vaPHj6-Kcaml4qrNxkYpFQ9Bksjz3xFlLX05Xv4/510.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/510/x3xfdFRz7crmZSx9roquH4XOxfVbkd83Yvhaz7X-aMw/510.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of when things go wrong. Really wrong. When you leave the normal realm of human error, fumble, mishap, and mistake and enter the territory of really huge breakdowns. Fiascos. Things go so awry that normal social order collapses.</description>
             <pubDate>Fri, 01 Nov 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2271,7 +2271,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>484: Doppelgängers</title>
             <link>https://www.thisamericanlife.org/484/doppelgangers</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/484/fotkTpbV7_aQe9kkmchIqp2GWZH4_JbGF_8jme35t94/484.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/484/3aenmQHxfDK1XDfjmq6R-OVWnJrw6ysW5ZrRTiNc3Ys/484.mp3" length="5000" type="audio/mpeg"/>
             <description>We got a tip about a meat plant selling pig intestines as fake calamari, wondered if it could be true, and decided to investigate. Doppelgängers, doubles, evil twins and not-so-evil twins, this week. Fred Armisen co-hosts with Ira Glass.</description>
             <pubDate>Fri, 11 Jan 2013 18:00:00 -0400</pubDate>
         </item>
@@ -2447,7 +2447,7 @@ Transcript. Press Release.</description>
         <item>
             <title>459: What Kind of Country</title>
             <link>https://www.thisamericanlife.org/459/what-kind-of-country</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/459/jgDoCLG0PR-1EuYIct6yRM7WZZTiQMpErx4D5ZlJriU/459.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/459/gruWBqbkL11j_K4INp5DpYaDHSLkmZLoVUEfpUVD_PM/459.mp3" length="5000" type="audio/mpeg"/>
             <description>All across the country right now, local and state governments are finding they can't pay their bills. Schools are losing teachers, street lights are going dark, garbage is piling up in public parks, and cops are suddenly an optional expense.</description>
             <pubDate>Fri, 02 Mar 2012 18:00:00 -0400</pubDate>
         </item>
@@ -2489,7 +2489,7 @@ Transcript. Press Release.</description>
         <item>
             <title>452: Poultry Slam 2011</title>
             <link>https://www.thisamericanlife.org/452/poultry-slam-2011</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/452/OnrxCTv2GKYV30Khyr21lThxC-Sj9yRNYmQmKmavhWE/452.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/452/HeT3l4EVAsqrbq_JsnsZtUTF9QncKGivYGhjcRHAyuU/452.mp3" length="5000" type="audio/mpeg"/>
             <description>We bring you our sort-of-annual holiday tradition: The Poultry Slam! Stories of what happens when humans and fowl collide, including the tale of one notorious turkey who unleashed a long reign of terror on an unsuspecting neighborhood.</description>
             <pubDate>Fri, 02 Dec 2011 18:00:00 -0400</pubDate>
         </item>
@@ -3704,14 +3704,14 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>279: Auto Show</title>
             <link>https://www.thisamericanlife.org/279/auto-show</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/279/560yiKFaxEnwuD56ckBBuPctnSXN4Hc3-492Ao9_8S0/279.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/279/osI4gYM1F3vspHt1FM6dvaE1WgnVHcwHgSglSkIB7v8/279.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about people who love their cars, for better or for worse.</description>
             <pubDate>Fri, 10 Dec 2004 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>278: Spies Like Us</title>
             <link>https://www.thisamericanlife.org/278/spies-like-us</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/278/t4EFw0sJA6JwJrVvj9gBzAdfmP1ySnlYE4oknjipDwo/278.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/278/opOZXj13YqPDwEUu_NWL22-Wvxf3WuarzLNs8ukNAjQ/278.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about amateur spies—regular people who spy on other regular people, and the consequences of their spying.</description>
             <pubDate>Fri, 19 Nov 2004 18:00:00 -0400</pubDate>
         </item>
@@ -4500,9 +4500,9 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <pubDate>Fri, 11 Aug 2000 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>165: Americans In Paris</title>
+            <title>165: Americans in Paris</title>
             <link>https://www.thisamericanlife.org/165/americans-in-paris</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/165/Y-jYeo5T0qnd1hbxfUuH6r9_X37DdyzC4KDZV63gVmE/165.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/c81e5dcb-fb3b-4a3d-a472-f66852a687e4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Many Americans have dreamy and romantic ideas about Paris, notions which probably trace back to the 1920s vision of Paris created by the expatriate Americans there. But what's it actually like in Paris if you're an American, without rose-colored glasses?</description>
             <pubDate>Fri, 28 Jul 2000 18:00:00 -0400</pubDate>
         </item>
@@ -4712,7 +4712,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>135: Allure of Crime</title>
             <link>https://www.thisamericanlife.org/135/allure-of-crime</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/135/KtkDSZXI2XcGj2h8Riy2VekC5ZmLehILLydKdwixzHQ/135.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/135/ytdzbqSdNa8k-r8MnQ467moDKBZq5nU3LGxk-scN_mw/135.mp3" length="5000" type="audio/mpeg"/>
             <description>We think of crime as a kind of monolithic, menacing presence. But there are many kinds of crimes and many kinds of criminals. Through our crimes, we express who we are. Today we hear of three different criminals and three different kinds of crimes.</description>
             <pubDate>Fri, 23 Jul 1999 18:00:00 -0400</pubDate>
         </item>
@@ -5153,7 +5153,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>72: Trek</title>
             <link>https://www.thisamericanlife.org/72/trek</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/72/xEmED5pd3wqGomQJVJvEq0a_tdU8UQSHmNU_7n6lBfg/72.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/72/vTAXi3afsuSfxjaScngvPHoKvHrsYY0UAVgLhiFfo-4/72.mp3" length="5000" type="audio/mpeg"/>
             <description>An idiosyncratic first-person travelogue about race relations and tourism from radio producer Rich Robinson and television producer Josh Seftel. Their radio story is about a trip they took to the new South Africa. Rich Robinson is black. Josh Seftel is white. The interracial pair travel through the still mostly-segregated society and have very different opinions about what they see, especially when it comes to some distant relatives of Josh's in South Africa.</description>
             <pubDate>Fri, 08 Aug 1997 18:00:00 -0400</pubDate>
         </item>
@@ -5552,14 +5552,14 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>15: Dawn</title>
             <link>https://www.thisamericanlife.org/15/dawn</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/15/Fq_IXmJTSBTRDLscbh3YpM45KXlVy_E10nJnngKI9Hs/15.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/15/Hz9I4FTWRJY_hKOwbSkGZzTY1nQb9V5MejLDA1nav-o/15.mp3" length="5000" type="audio/mpeg"/>
             <description>Writer Jack Hitt goes on a search for a mysterious neighbor from his childhood in Charleston, South Carolina, and stumbles onto an epic story of the Old South, the New South, gender confusion, Chihuahuas, and changing values in American journalism.</description>
             <pubDate>Wed, 28 Feb 1996 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>14: Accidental Documentaries</title>
             <link>https://www.thisamericanlife.org/14/accidental-documentaries</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/14/v1JFAYfgE4SHG9PwVtQrVLzFy2QeEWb63nhv_1-fBQ8/14.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/14/zawYiiAHkl0UTbFsVcKVHugs0ZYeoOd0Ng-MnDf7W0k/14.mp3" length="5000" type="audio/mpeg"/>
             <description>What unites these stories on the surface is that they're all made from old tapes, recordings found in attics and thrift stores. What unites them under that surface — and not far under it — is that they all end up being stories about fathers and the legacies that fathers leave their children.</description>
             <pubDate>Wed, 21 Feb 1996 18:00:00 -0400</pubDate>
         </item>
