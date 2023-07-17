@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-07-10 05:56:34. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-07-17 05:57:47. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-07-10 05:56:34. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>805: The Florida Experiment</title>
+            <link>https://www.thisamericanlife.org/805/the-florida-experiment</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/165c21a0-29c7-4f02-a587-f77fa51a02fa/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Governor Ron DeSantis is running for president on the argument that he'll do for America what he's done for Florida. So what's it like in Florida?</description>
+            <pubDate>Fri, 14 Jul 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>804: The Retrievals</title>
             <link>https://www.thisamericanlife.org/804/the-retrievals</link>
@@ -77,7 +84,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>796: What Lies Beneath</title>
             <link>https://www.thisamericanlife.org/796/what-lies-beneath</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/060a94ec-f9e0-42f6-af4f-5cbe70e8c9e2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/796/l3vqRsDo7wJ6TYLNfYG0EplmFIhsUyJhmtvzTi94QYc/796.mp3" length="5000" type="audio/mpeg"/>
             <description>Summoning up stuff that’s usually hidden down deep.</description>
             <pubDate>Fri, 14 Apr 2023 18:00:00 -0400</pubDate>
         </item>
