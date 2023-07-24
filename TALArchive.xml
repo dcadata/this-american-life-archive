@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-07-17 05:57:47. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-07-24 05:55:24. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -77,7 +77,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>797: What I Was Thinking As We Were Sinking</title>
             <link>https://www.thisamericanlife.org/797/what-i-was-thinking-as-we-were-sinking</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a108fd23-2ed1-410c-9a1f-c03d2e1a8fdf/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/797/XuR6CYbF5_rMVEaKMVJPFqpM8A6Cno3n_wwZNf_QH-Y/797.mp3" length="5000" type="audio/mpeg"/>
             <description>It's funny the things that go through your head during a disaster.</description>
             <pubDate>Fri, 21 Apr 2023 18:00:00 -0400</pubDate>
         </item>
@@ -1704,7 +1704,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>566: The Land of Make Believe</title>
             <link>https://www.thisamericanlife.org/566/the-land-of-make-believe</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/566/nJBn8EoCgyb2uTZcF7QpJtzCp39vICOyjkQ1eIAu-Vc/566.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/566/YC0XjMyQ-6JAUiK8THFVPe2C1PDrKPZ_IeR3wejbQDY/566.mp3" length="5000" type="audio/mpeg"/>
             <description>A father constructs an elaborate fantasy to occupy his 12 children, and a woman finds herself sucked into a world of make believe that we almost never get to see inside.</description>
             <pubDate>Fri, 11 Sep 2015 18:00:00 -0400</pubDate>
         </item>
@@ -1900,7 +1900,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>538: Is This Working?</title>
             <link>https://www.thisamericanlife.org/538/is-this-working</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/538/Sn89qBIxec4TwGm8hohZY2_0iiFdF1lLrhS_eKeNsAA/538.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/538/j3V4nZoOP9qGluv2PNUw2Zzi4BPsLSITTdZZXy4pH9s/538.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of schools struggling with what to do with misbehaving kids. There's no general agreement about what teachers should do to discipline kids. And there's evidence that some of the most popular punishments actually may harm kids.</description>
             <pubDate>Fri, 17 Oct 2014 18:00:00 -0400</pubDate>
         </item>
@@ -2510,7 +2510,7 @@ Transcript. Press Release.</description>
         <item>
             <title>450: So Crazy It Just Might Work</title>
             <link>https://www.thisamericanlife.org/450/so-crazy-it-just-might-work</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/450/lQcV28QGeTLtn9zKNiB6DuVyps3wAEIKD4I8RV7PhKE/450.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/450/62J8XgYvBfcle_WReEEgra6bLpnLug3V-4pZ7tmAW5Q/450.mp3" length="5000" type="audio/mpeg"/>
             <description>A few years ago a cancer researcher named Jonathan Brody gave a speech at his alma mater saying that people in his field really needed to think outside the box to find a cure. Afterward he was approached by his old orchestra teacher, who had something way out of the box—a theory that he could kill cancer cells with electromagnetic waves. And other stories.</description>
             <pubDate>Fri, 11 Nov 2011 18:00:00 -0400</pubDate>
         </item>
@@ -3333,7 +3333,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>333: The Center for Lessons Learned</title>
             <link>https://www.thisamericanlife.org/333/the-center-for-lessons-learned</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/333/U7Gn7eBt_HXdvlNNow_gj0GfsTXsj5Dh9vQqnGdUD6Q/333.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/333/4uIffCHYWrm6WHTBGprqvVXVA3mFknxSww16FqulXPg/333.mp3" length="5000" type="audio/mpeg"/>
             <description>Four years into the Iraq War, what have we learned? Soldiers, civilians, Iraqis, and Americans talk—and sometimes yell—about what they've learned in the last few years...including how to stay alive and why the aftermath of a war can be the trickiest time of all.</description>
             <pubDate>Fri, 25 May 2007 18:00:00 -0400</pubDate>
         </item>
@@ -3620,7 +3620,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>292: The Arms Trader (2005)</title>
             <link>https://www.thisamericanlife.org/292/the-arms-trader-2005</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/292/77LWpERo-vp1xhCHRzVUOmbtmzr4IG5KTrWhm_LOfAg/292.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/292/dZ9TEqm_mqEjI187HUGpWdm9z6a6dzl3E8zlpzW-dV4/292.mp3" length="5000" type="audio/mpeg"/>
             <description>The U.S. government spent two years on a sting operation trapping an Indian man named Hemant Lakhani, whom they suspected of being an illegal arms dealer. It's one of the few cases that has gone to trial in the War on Terror, and one the Justice Department has pointed to as one of their big successes. In the end, they got Lakhani, red-handed, delivering a missile to a terrorist in New Jersey. The only problem was, nothing in the sting was what it appeared to be. Including the missile.</description>
             <pubDate>Fri, 08 Jul 2005 18:00:00 -0400</pubDate>
         </item>
@@ -4194,7 +4194,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>210: Perfect Evidence</title>
             <link>https://www.thisamericanlife.org/210/perfect-evidence</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/210/mrlNA-7TYgoXFgaafbPPSqnuxEfJ-XL9mrPH6jvo58Q/210.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/210/k5G4czqojvhd-jdsbM5zLVcbwDDVCrGWjnE6T8m5IeM/210.mp3" length="5000" type="audio/mpeg"/>
             <description>After a decade in which DNA evidence has freed over 100 people nationwide, it's become clear that DNA evidence isn't just proving wrongdoing by criminals, it's proving wrongdoing by police and prosecutors. In this show, we look at what DNA has revealed to us: how police get innocent people to confess to crimes they didn't commit and how they get witnesses to pin crimes on innocent people.</description>
             <pubDate>Fri, 19 Apr 2002 18:00:00 -0400</pubDate>
         </item>
@@ -4271,8 +4271,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>199: House on Loon Lake</title>
             <link>https://www.thisamericanlife.org/199/house-on-loon-lake</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/199/jIReMMfiOPUEdl6N3xs5SOrKU7RHBEd35AgpmGG66UI/199.mp3" length="5000" type="audio/mpeg"/>
-            <description>A real-life Hardy Boys mystery. More than most of our shows, this one lends itself to a Hollywood-style tagline. Perhaps: "The House at Loon Lake: You Might Break In ... But You'll Never Forget." Or, "The House at Loon Lake: Dead Letters Tell No Tales." It's the true story of an abandoned house, discovered by a young boy in the 1970s, and the mystery of why it was abandoned.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/830fd744-f922-4c93-a245-28c778cb3a62/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The true story of an abandoned house, discovered by a young boy in the 1970s, and the mysterious family who disappeared without a trace.</description>
             <pubDate>Fri, 16 Nov 2001 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -4348,7 +4348,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>188: Kid Logic (2001)</title>
             <link>https://www.thisamericanlife.org/188/kid-logic-2001</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/188/jvgadTJB_wTEK76AnD5EjnVQQ5VrKx-9PZidpGQL7E4/188.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/188/WFrvUIl9u8aRvHikmGLfTE327uWQqEm6J_p88XihU9A/188.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.</description>
             <pubDate>Fri, 22 Jun 2001 18:00:00 -0400</pubDate>
         </item>
