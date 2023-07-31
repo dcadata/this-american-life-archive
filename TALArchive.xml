@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-07-24 05:55:24. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-07-31 05:56:01. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-07-24 05:55:24. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>806: I Can't Quit You, Baby</title>
+            <link>https://www.thisamericanlife.org/806/i-cant-quit-you-baby</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7f36c904-bd7d-4223-ac93-1477982de433/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People  on the verge of a big change, not wanting to let go. And the people who give them the final push.</description>
+            <pubDate>Fri, 28 Jul 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>805: The Florida Experiment</title>
             <link>https://www.thisamericanlife.org/805/the-florida-experiment</link>
@@ -70,7 +77,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>798: Leaving the Fold</title>
             <link>https://www.thisamericanlife.org/798/leaving-the-fold</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/9042bfe4-7ff1-40c9-8b6a-38f22b1a121e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/798/E0nJAxghpb8BI6eq_7MqH9tnKBmVriRgVDS8VInBv9o/798.mp3" length="5000" type="audio/mpeg"/>
             <description>A week after Jerry Springer’s death, we go back to a story we first broadcast years ago, about a side of Springer most people don’t know and can’t imagine: his years as an idealistic politician in the mold of Bobby Kennedy. Plus other stories of people who try to leave some moment in their life behind, which can be hard.</description>
             <pubDate>Fri, 05 May 2023 18:00:00 -0400</pubDate>
         </item>
@@ -2411,7 +2418,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>465: What Happened at Dos Erres</title>
             <link>https://www.thisamericanlife.org/465/what-happened-at-dos-erres</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/465/IgCvBI9Qome5bQC5rcSmnKOhgrG2vryumRc6-FYR7oo/465.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/465/abpKrZUM5BZ8Dg9eap4aoCOoLOc7ZISCynP3-qDxGVM/465.mp3" length="5000" type="audio/mpeg"/>
             <description>In 1982, the Guatemalan military massacred the villagers of Dos Erres, killing more than 200 people. Thirty years later, a Guatemalan living in the US got a phone call from a woman who told him that two boys had been abducted during the massacre — and he was one of them.</description>
             <pubDate>Fri, 25 May 2012 18:00:00 -0400</pubDate>
         </item>
@@ -3226,7 +3233,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>348: Tough Room</title>
             <link>https://www.thisamericanlife.org/348/tough-room</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/348/_4T-hYIjzgt42xRkTAAO38X0v6atWkdJVrGE_7nBAlI/348.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/348/9-dWm7bNQE7QEw5jOQA9VLzIqntiyWwae0tLui95K_M/348.mp3" length="5000" type="audio/mpeg"/>
             <description>This week we bring you backstage with comedy writers at The Onion. They start with over 600 potential headlines for their fake-news newspaper each week, and over the course of two days, in the very tough room that is their editorial conference room, they select 16 to go in the paper. Plus other people speaking their minds in very tough rooms.</description>
             <pubDate>Fri, 08 Feb 2008 18:00:00 -0400</pubDate>
         </item>
@@ -3333,7 +3340,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>333: The Center for Lessons Learned</title>
             <link>https://www.thisamericanlife.org/333/the-center-for-lessons-learned</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/333/4uIffCHYWrm6WHTBGprqvVXVA3mFknxSww16FqulXPg/333.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/333/-fpwq9N0ImvOIz8jwShcbhP3m3fEJcVL1B1WcvEO8Aw/333.mp3" length="5000" type="audio/mpeg"/>
             <description>Four years into the Iraq War, what have we learned? Soldiers, civilians, Iraqis, and Americans talk—and sometimes yell—about what they've learned in the last few years...including how to stay alive and why the aftermath of a war can be the trickiest time of all.</description>
             <pubDate>Fri, 25 May 2007 18:00:00 -0400</pubDate>
         </item>
@@ -4376,7 +4383,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>184: Neighbors</title>
             <link>https://www.thisamericanlife.org/184/neighbors</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/184/uiTP45j0_oC4MkneVrK-pNEUaZrhGxOTHw70gh5A1n4/184.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/184/3FnKz3nkiGrGbnhaAON22EF5IDQbG-vitUU6uB9mAU0/184.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people trying to love their neighbors, and failing.</description>
             <pubDate>Fri, 11 May 2001 18:00:00 -0400</pubDate>
         </item>
@@ -4649,7 +4656,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>145: Poultry Slam 1999</title>
             <link>https://www.thisamericanlife.org/145/poultry-slam-1999</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/145/lDGSBtDjqSUGuv10Sgz0YBY56KQ4OXt_e6_QxHOul7Y/145.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/145/SU8lASrfdHrOXsGS-t-HhY-KrsLq_u-C_sKsXe4anGU/145.mp3" length="5000" type="audio/mpeg"/>
             <description>For Thanksgiving, the time of year when poultry consumption is highest, it's our annual program about turkeys, chickens, fowl of all types, and their mysterious hold over our imaginations. This show includes favorite stories from previous Poultry Shows, and some new stories.</description>
             <pubDate>Fri, 26 Nov 1999 18:00:00 -0400</pubDate>
         </item>
@@ -5181,7 +5188,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>69: Dream House</title>
             <link>https://www.thisamericanlife.org/69/dream-house</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/69/livLQZuVbE37jaPCm1oS9ChbxiXCYYKyaKr-7k-EA5E/69.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/69/SV9YcOCaTrMK26mVA5SnC_S6dVQYuk_H9jGeWuC5HbE/69.mp3" length="5000" type="audio/mpeg"/>
             <description>How many of our parents move to some place — some dream house — with some vision of a new life in the new place, and move the family with them, hoping it works out for the kids. Three stories on this theme.</description>
             <pubDate>Fri, 18 Jul 1997 18:00:00 -0400</pubDate>
         </item>
