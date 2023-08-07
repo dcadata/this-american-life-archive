@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-07-31 05:56:01. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-08-07 05:55:55. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-07-31 05:56:01. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>807: Eight Fights</title>
+            <link>https://www.thisamericanlife.org/807/eight-fights</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/63135d5e-d491-4bf1-8e12-732bc99c64da/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Nadia's family is split between Russia and Ukraine, which is pretty common. And when Russia invaded Ukraine, it didn’t just start fighting on the battlefield. It sparked family conflict, too. An intimate story of the war from writer Masha Gessen.</description>
+            <pubDate>Fri, 04 Aug 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>806: I Can't Quit You, Baby</title>
             <link>https://www.thisamericanlife.org/806/i-cant-quit-you-baby</link>
@@ -1644,7 +1651,7 @@ This episode won a 2016 Peabody Award.</description>
         <item>
             <title>575: Poetry of Propaganda</title>
             <link>https://www.thisamericanlife.org/575/poetry-of-propaganda</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/575/575_3.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/575/5FYaNLrBrMUtpspnAo5b61Jcc4YSr05onQ-LLVxV378/575.mp3" length="5000" type="audio/mpeg"/>
             <description>Sure, there's a crude message that propaganda is trying to get across. But like poetry, when you know how to read it, propaganda contains lots of more subtle messages that you might not see at first glance. This week: examples, big and small, from around the world.</description>
             <pubDate>Fri, 18 Dec 2015 18:00:00 -0400</pubDate>
         </item>
@@ -2026,7 +2033,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>521: Bad Baby</title>
             <link>https://www.thisamericanlife.org/521/bad-baby</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/521/NsDIWWIpVmuyPCRH35P786u7LoL1s6dJLdOSo8329WY/521.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/521/q0DjIt7h1EOmrNGBk42_qof4AjwREEfLix562Nmv-aE/521.mp3" length="5000" type="audio/mpeg"/>
             <description>They're small. And they're cuddly. But sometimes it feels as though our babies were replaced with demon replicas—controlling, demanding, or just downright awful. This week, stories of infants and children who dominate the adults around them with their baditude, or whom adults have painted with the "bad" brush from early on. We also ask the question: at what age does badness begin?</description>
             <pubDate>Fri, 28 Mar 2014 18:00:00 -0400</pubDate>
         </item>
@@ -4516,7 +4523,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>165: Americans in Paris</title>
             <link>https://www.thisamericanlife.org/165/americans-in-paris</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/c81e5dcb-fb3b-4a3d-a472-f66852a687e4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/165/Y-jYeo5T0qnd1hbxfUuH6r9_X37DdyzC4KDZV63gVmE/165.mp3" length="5000" type="audio/mpeg"/>
             <description>Many Americans have dreamy and romantic ideas about Paris, notions which probably trace back to the 1920s vision of Paris created by the expatriate Americans there. But what's it actually like in Paris if you're an American, without rose-colored glasses?</description>
             <pubDate>Fri, 28 Jul 2000 18:00:00 -0400</pubDate>
         </item>
