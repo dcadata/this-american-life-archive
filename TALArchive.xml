@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-08-14 05:56:33. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-08-21 05:55:45. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-08-14 05:56:33. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>808: The Rest of the Story</title>
+            <link>https://www.thisamericanlife.org/808/the-rest-of-the-story</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/666353f3-9606-43a3-b33d-60f602d332a4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Legendary radio broadcaster Paul Harvey had a popular show called “The Rest of the Story.” Today on our show, we do just that. We hear from people who, whether they want to or not, find themselves face-to-face with the rest of their stories.</description>
+            <pubDate>Fri, 18 Aug 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>807: Eight Fights</title>
             <link>https://www.thisamericanlife.org/807/eight-fights</link>
@@ -1795,14 +1802,14 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>555: The Incredible Rarity of Changing Your Mind</title>
             <link>https://www.thisamericanlife.org/555/the-incredible-rarity-of-changing-your-mind</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/555/ChGn1HOstDPKpd0rmmUvjbuhFG3sWC3bULAgLn8E6n8/555.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/555/5beHZa1JQ1PLLfAqyidKkFr85tEhY0exoEqx2fzihbg/555.mp3" length="5000" type="audio/mpeg"/>
             <description>It’s rare for people to change what they believe, and if they do it, it’s usually a long process. This week, stories of those very infrequent instances where people’s opinions flip on fundamental things that they believe. Why does it happen in these particular and unusual circumstances? We explain. NOTE: One of the authors of a study covered in this episode has asked that the study be retracted.</description>
             <pubDate>Fri, 24 Apr 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>554: Not It!</title>
             <link>https://www.thisamericanlife.org/554/not-it</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/554/r6k8fvknRrmMYMk3mI73nbRP2gQ9dlVMjipb8Yv1Qms/554.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/554/mJYBs-g1Oe17rTCXX7hhKK6z9MNrhzOXUg3QAUryWIU/554.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people, cities, and commonwealths touching their noses and proclaiming "not it!" Including the story of how one city used a rocking chair to take retribution against a late night TV show host, and an island that takes people it doesn't want to deal with and ships them away.</description>
             <pubDate>Fri, 10 Apr 2015 18:00:00 -0400</pubDate>
         </item>
@@ -4285,7 +4292,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>199: House on Loon Lake</title>
             <link>https://www.thisamericanlife.org/199/house-on-loon-lake</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/830fd744-f922-4c93-a245-28c778cb3a62/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/199/jIReMMfiOPUEdl6N3xs5SOrKU7RHBEd35AgpmGG66UI/199.mp3" length="5000" type="audio/mpeg"/>
             <description>The true story of an abandoned house, discovered by a young boy in the 1970s, and the mysterious family who disappeared without a trace.</description>
             <pubDate>Fri, 16 Nov 2001 18:00:00 -0400</pubDate>
         </item>
@@ -4523,7 +4530,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>165: Americans in Paris</title>
             <link>https://www.thisamericanlife.org/165/americans-in-paris</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/165/Y-jYeo5T0qnd1hbxfUuH6r9_X37DdyzC4KDZV63gVmE/165.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/165/478BAf5ShQ6fAwerHAgp8T97y9xhv7WkWYvhiF2SupY/165.mp3" length="5000" type="audio/mpeg"/>
             <description>Many Americans have dreamy and romantic ideas about Paris, notions which probably trace back to the 1920s vision of Paris created by the expatriate Americans there. But what's it actually like in Paris if you're an American, without rose-colored glasses?</description>
             <pubDate>Fri, 28 Jul 2000 18:00:00 -0400</pubDate>
         </item>
@@ -5608,7 +5615,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>10: Double Lives</title>
             <link>https://www.thisamericanlife.org/10/double-lives</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/10/Q4c_pu1Jknq6oxwV9oRK9iNXgj-GG-tAOEkVIeMsHuA/10.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/10/3BM2gVu2pD-tVaFNDQUR0TdIy41INVCPo4zClZ2XWOw/10.mp3" length="5000" type="audio/mpeg"/>
             <description>People living their lives, just like the rest of us. Plus an extra life.</description>
             <pubDate>Wed, 17 Jan 1996 18:00:00 -0400</pubDate>
         </item>
