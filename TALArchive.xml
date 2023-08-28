@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-08-21 05:55:45. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-08-28 05:56:19. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -77,7 +77,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>800: Jane Doe</title>
             <link>https://www.thisamericanlife.org/800/jane-doe</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7bac5f58-9ee2-495a-acb0-838ad9fc2b53/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/800/q3f3BNr1q8AV_4H-zkpiIzxxf0Le-_ak9qf8hSryaEE/800.mp3" length="5000" type="audio/mpeg"/>
             <description>Five years after the #MeToo explosion, what’s happened in the lives of the women who stepped forward and went public with their stories? We tell the story of a teenager who spoke out against one of the most powerful people in her state, and what happened next.</description>
             <pubDate>Fri, 26 May 2023 18:00:00 -0400</pubDate>
         </item>
@@ -1970,7 +1970,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>531: Got Your Back</title>
             <link>https://www.thisamericanlife.org/531/got-your-back</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/531/i8epz231F62Oi9qlIm7yhUwcbzI66jWlmtAifDhWx6Y/531.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/531/Lq73ALA-zECYfW9A0HjJB2d2xU_2uoPmbkYB6chNU-c/531.mp3" length="5000" type="audio/mpeg"/>
             <description>There is a special comfort that comes from knowing someone's got your back. You can do things that just weren't possible before. You take huge risks, including some that aren't necessarily advisable. This week: stories where one person's powerlessness is transformed when they discover they have backup. And we see what happens when that backup goes away.</description>
             <pubDate>Fri, 25 Jul 2014 18:00:00 -0400</pubDate>
         </item>
@@ -3424,8 +3424,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>323: The Super</title>
             <link>https://www.thisamericanlife.org/323/the-super</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/323/j1Q4Cf94G9xLKfwlZHsoE9ZBF224p09X52kGYQjzxvY/323.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of the mysterious hold supers have on their buildings, or their buildings have on them.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e6be7378-ed63-49a4-ad9b-05ea29ea480d/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The mysterious hold supers have on their buildings, or that their buildings have on them.</description>
             <pubDate>Fri, 05 Jan 2007 18:00:00 -0400</pubDate>
         </item>
         <item>
