@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-09-11 05:56:53. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-09-18 05:55:45. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-09-11 05:56:53. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>810: Say It to My Face</title>
+            <link>https://www.thisamericanlife.org/810/say-it-to-my-face</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/523b80ff-972b-4bc6-a08b-22eacb89af13/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Friends and ex-friends finally talk about the one thing between them they've been avoiding.</description>
+            <pubDate>Fri, 15 Sep 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>809: The Call</title>
             <link>https://www.thisamericanlife.org/809/the-call</link>
@@ -70,7 +77,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>802: Father's Day</title>
             <link>https://www.thisamericanlife.org/802/fathers-day</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fb788529-7dba-4544-88aa-bf1d24ee322e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/802/if-EtHXYF4-QWylglOBAnz_V2sVX7D_5zvEspAfwCSQ/802.mp3" length="5000" type="audio/mpeg"/>
             <description>Ira's own father, Barry Glass, co-hosts this special Father's Day show.</description>
             <pubDate>Fri, 16 Jun 2023 18:00:00 -0400</pubDate>
         </item>
