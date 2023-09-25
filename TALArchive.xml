@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-09-18 05:55:45. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-09-25 05:56:55. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -238,7 +238,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>779: Ends of the Earth</title>
             <link>https://www.thisamericanlife.org/779/ends-of-the-earth</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/779/dPVgxgPCWMTOoqaruVrGPDHMtmR5JIvkjVvUoSrDymI/779.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/31bb8c02-c572-4380-93fd-99f628ba125e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>An exploration of the very upper limits of what you do for someone you love.</description>
             <pubDate>Fri, 16 Sep 2022 18:00:00 -0400</pubDate>
         </item>
@@ -3438,7 +3438,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>323: The Super</title>
             <link>https://www.thisamericanlife.org/323/the-super</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e6be7378-ed63-49a4-ad9b-05ea29ea480d/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/323/j1Q4Cf94G9xLKfwlZHsoE9ZBF224p09X52kGYQjzxvY/323.mp3" length="5000" type="audio/mpeg"/>
             <description>The mysterious hold supers have on their buildings, or that their buildings have on them.</description>
             <pubDate>Fri, 05 Jan 2007 18:00:00 -0400</pubDate>
         </item>
