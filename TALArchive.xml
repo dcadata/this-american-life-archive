@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-09-25 05:56:55. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-10-02 05:56:50. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-09-25 05:56:55. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>811: The One Place I Can’t Go</title>
+            <link>https://www.thisamericanlife.org/811/the-one-place-i-cant-go</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a38140e2-33cc-4854-9b17-d442e65cb7fd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Spots we’re avoiding in our private maps of the world.</description>
+            <pubDate>Fri, 29 Sep 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>810: Say It to My Face</title>
             <link>https://www.thisamericanlife.org/810/say-it-to-my-face</link>
@@ -2981,7 +2988,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>388: Rest Stop</title>
             <link>https://www.thisamericanlife.org/388/rest-stop</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/48b85598-62f8-4d2a-85ef-3cc25150d121/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/388/RSV73A068soXoB0hMfovdmsJW8LXRvECEzmDWusxioI/388.mp3" length="5000" type="audio/mpeg"/>
             <description>Nine radio reporters. Two days. One rest stop on the New York State Thruway. Stories of people who are just passing through, and the ones who can’t leave, because this is where their jobs are.</description>
             <pubDate>Fri, 04 Sep 2009 18:00:00 -0400</pubDate>
         </item>
