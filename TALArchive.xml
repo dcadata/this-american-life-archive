@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-10-02 05:56:50. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-10-09 05:55:54. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -77,7 +77,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>803: Greetings, People Of Earth</title>
             <link>https://www.thisamericanlife.org/803/greetings-people-of-earth</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7ff5b8fa-e5a0-4fed-bd80-197b62a2748b/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/803/CM4LlQX6APVwGlLEGpz-d_b1gK3-FgL5ZEvh30cVZI0/803.mp3" length="5000" type="audio/mpeg"/>
             <description>Humans encounter non-human intelligences of various kinds and try to make sense of them.</description>
             <pubDate>Fri, 23 Jun 2023 18:00:00 -0400</pubDate>
         </item>
@@ -442,8 +442,8 @@ This episode won a 2023 duPont-Columbia Award.</description>
         <item>
             <title>751: Audience of One</title>
             <link>https://www.thisamericanlife.org/751/audience-of-one</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/751/YFNZQzxS3DoqjGnP-oJngbD9ms_yyQ60GfSjJKNx8fA/751.mp3" length="5000" type="audio/mpeg"/>
-            <description>In a world where a virus spreads across the country and most people are not going to movie theaters, we bring the movies to you.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1571d4a9-8b42-4f96-9ea8-482561020c98/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>We bring the movies to you.</description>
             <pubDate>Fri, 22 Oct 2021 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3086,7 +3086,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>374: Somewhere Out There</title>
             <link>https://www.thisamericanlife.org/374/somewhere-out-there</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/374/374_0.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/374/DVImUqZj2Ime3-UrBChTewo63CwLSJxwui1Ro4uSfpA/374.mp3" length="5000" type="audio/mpeg"/>
             <description>Of all the 6 and a half billion people in the world, what are the odds that any two people are a real match? Stories from people who know they've beat the odds, and the lengths they've gone to do it. Including an American professor who sings Chinese opera for anyone who'll listen, to get one step closer to his mate, and Mike Birbiglia on meeting his girlfriend's... boyfriend.</description>
             <pubDate>Fri, 13 Feb 2009 18:00:00 -0400</pubDate>
         </item>
