@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-10-16 05:55:46. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-10-23 05:56:22. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-10-16 05:55:46. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>812: The Bear at the End of the Tunnel</title>
+            <link>https://www.thisamericanlife.org/812/the-bear-at-the-end-of-the-tunnel</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/19989fbc-b755-477e-9816-fce5cc78da16/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People who have a good, long time to think about what they’re doing, look hard at what’s ahead of them, and decide to keep moving forward anyway.</description>
+            <pubDate>Fri, 20 Oct 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>811: The One Place I Can’t Go</title>
             <link>https://www.thisamericanlife.org/811/the-one-place-i-cant-go</link>
@@ -245,7 +252,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>779: Ends of the Earth</title>
             <link>https://www.thisamericanlife.org/779/ends-of-the-earth</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/31bb8c02-c572-4380-93fd-99f628ba125e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/779/dPVgxgPCWMTOoqaruVrGPDHMtmR5JIvkjVvUoSrDymI/779.mp3" length="5000" type="audio/mpeg"/>
             <description>An exploration of the very upper limits of what you do for someone you love.</description>
             <pubDate>Fri, 16 Sep 2022 18:00:00 -0400</pubDate>
         </item>
@@ -2370,7 +2377,7 @@ An episode from last year, with one story swapped.</description>
             <title>477: Getting Away With It</title>
             <link>https://www.thisamericanlife.org/477/getting-away-with-it</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2198f1dd-03bb-4697-a334-908379a74280/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>People breaking the rules fully, completely, and with no bad consequences. Some justify this by saying they’re doing it for others, or for a greater good. Some really don’t care. And, unlike the mealy weaklings you usually hear on this program: none of these wrongdoers seem regretful about what they’ve done.</description>
+            <description>People breaking the rules fully, completely, and with no bad consequences. Some justify this by saying they’re doing it for others, or for a greater good. Some really don’t care. And, unlike the mealy weaklings you usually hear on this program: none of these wrongdoers seems regretful about what they’ve done.</description>
             <pubDate>Fri, 19 Oct 2012 18:00:00 -0400</pubDate>
         </item>
         <item>
