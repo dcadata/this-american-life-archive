@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-10-23 05:56:22. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-10-30 05:57:01. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -69,7 +69,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-10-23 05:56:22. Known missing e
         <item>
             <title>805: The Florida Experiment</title>
             <link>https://www.thisamericanlife.org/805/the-florida-experiment</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/165c21a0-29c7-4f02-a587-f77fa51a02fa/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/805/SZHQ8_I8X6COl-wmqMtnqH5kJ5DbbqyaC9rdsHtuQMU/805.mp3" length="5000" type="audio/mpeg"/>
             <description>Governor Ron DeSantis is running for president on the argument that he'll do for America what he's done for Florida. So what's it like in Florida?</description>
             <pubDate>Fri, 14 Jul 2023 18:00:00 -0400</pubDate>
         </item>
@@ -3185,7 +3185,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
             <title>361: Fear of Sleep</title>
             <link>https://www.thisamericanlife.org/361/fear-of-sleep</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/361/cEagiRSaeTmy28FnUol3HPi4Vj-n1eSgjj0lQB19ns8/361.mp3" length="5000" type="audio/mpeg"/>
-            <description>Mike Birbiglia got used to strange things happening to him when he slept—until something happened that almost killed him (Mike's story is now a feature film, Sleepwalk With Me). This and other reasons to fear sleep, including bedbugs, "The Shining," and mild-mannered husbands who turn into maniacs while asleep.</description>
+            <description>Mike Birbiglia got used to strange things happening to him when he slept—until something happened that almost killed him. This and other reasons to fear sleep, including bedbugs, "The Shining," and mild-mannered husbands who turn into maniacs while asleep.</description>
             <pubDate>Fri, 08 Aug 2008 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3480,8 +3480,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>319: And the Call Was Coming from the Basement</title>
             <link>https://www.thisamericanlife.org/319/and-the-call-was-coming-from-the-basement</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/319/MufWjlbvaKRwdMz08sNyqvw6C0x9oqL4ZaoR1qnXS84/319.mp3" length="5000" type="audio/mpeg"/>
-            <description>For the week leading up to Halloween, scary stories that are all true. Kidnappings, zombie raccoons, haunted houses—real haunted houses!—and things that go "EEEEK!!!" in the night. Plus, a story by David Sedaris, in which he walks among the dead.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e7db6450-5024-40a4-b537-63fdd37b5915/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>For the lead up to Halloween, scary stories that are all true. Zombie raccoons, haunted houses—real haunted houses!—and things that go "EEEEK!!!" in the night. Plus, a story by David Sedaris in which he walks among the dead.</description>
             <pubDate>Fri, 27 Oct 2006 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -4726,7 +4726,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>141: Invisible Worlds</title>
             <link>https://www.thisamericanlife.org/141/invisible-worlds</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/141/weKvyO1l3AfYNePJhF3Zmy1cA8EJ6u0gF5_NH753KkI/141.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/141/QcT0d66zK0DbECTNxdh9T_mUR6IKC0ppc5jMql_Ym2A/141.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who are trying to make invisible worlds visible, and what happens when you make them visible.</description>
             <pubDate>Fri, 01 Oct 1999 18:00:00 -0400</pubDate>
         </item>
@@ -5433,7 +5433,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>40: Lessons</title>
             <link>https://www.thisamericanlife.org/40/lessons</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/40/IAg1dDCe_9yewTV5bSSykmaABg9b3cv2hurjjN6vjL0/40.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/40/yZyTnKAXJ0lDiaIBs3SD7zllZaZ4wcpQT7vUWXSo0-M/40.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories from acclaimed storyteller Spalding Gray and others.</description>
             <pubDate>Fri, 01 Nov 1996 18:00:00 -0400</pubDate>
         </item>
