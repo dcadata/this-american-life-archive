@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-10-30 05:57:01. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-11-06 05:56:43. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-10-30 05:57:01. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>813: Is That What I Look Like?</title>
+            <link>https://www.thisamericanlife.org/813/is-that-what-i-look-like</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/246e510e-7827-41de-ab7e-75fdeef642bd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>You've been seeing yourself, getting to know what you look like, your whole life. So why does it often take an outsider to see things about you that are obvious, and set you straight?</description>
+            <pubDate>Fri, 03 Nov 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>812: The Bear at the End of the Tunnel</title>
             <link>https://www.thisamericanlife.org/812/the-bear-at-the-end-of-the-tunnel</link>
@@ -449,7 +456,7 @@ This episode won a 2023 duPont-Columbia Award.</description>
         <item>
             <title>751: Audience of One</title>
             <link>https://www.thisamericanlife.org/751/audience-of-one</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1571d4a9-8b42-4f96-9ea8-482561020c98/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/751/YFNZQzxS3DoqjGnP-oJngbD9ms_yyQ60GfSjJKNx8fA/751.mp3" length="5000" type="audio/mpeg"/>
             <description>We bring the movies to you.</description>
             <pubDate>Fri, 22 Oct 2021 18:00:00 -0400</pubDate>
         </item>
@@ -1285,8 +1292,7 @@ This two-part series won a 2019 duPont-Columbia Award.</description>
             <title>632: Our Town - Part One</title>
             <link>https://www.thisamericanlife.org/632/our-town-part-one</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/632/5Lr_MX7FuGk9AamI8zHG0UuD7HfD1qpGqDa8M7AEIMY/632.mp3" length="5000" type="audio/mpeg"/>
-            <description>We spent eight months and did over a hundred interviews to try to bypass the usual rhetoric and get to the bottom of what really happened when undocumented workers showed up in one Alabama town.
-This two-part series won a 2019 duPont-Columbia Award.</description>
+            <description>We spent eight months and did over a hundred interviews to try to bypass the usual rhetoric and get to the bottom of what really happened when undocumented workers showed up in one Alabama town.</description>
             <pubDate>Fri, 08 Dec 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -2031,8 +2037,8 @@ An episode from last year, with one story swapped.</description>
             <pubDate>Fri, 13 Jun 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>526: Is That What I Look Like?</title>
-            <link>https://www.thisamericanlife.org/526/is-that-what-i-look-like</link>
+            <title>526: Is That What I Look Like? (2014)</title>
+            <link>https://www.thisamericanlife.org/526/is-that-what-i-look-like-2014</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/526/fSeRGtaTZ8iDD4p_QOSkAlbuuzfS5UH1tYB7lpYeQkU/526.mp3" length="5000" type="audio/mpeg"/>
             <description>You've been seeing yourself, getting to know what you look like, your whole life. So why does it often take an outsider to see things about you that are obvious, and set you straight?</description>
             <pubDate>Fri, 23 May 2014 18:00:00 -0400</pubDate>
