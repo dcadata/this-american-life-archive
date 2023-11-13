@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-11-06 05:56:43. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-11-13 05:58:11. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-11-06 05:56:43. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>814: Parents Are People</title>
+            <link>https://www.thisamericanlife.org/814/parents-are-people</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/6cd822b0-727f-4a28-a5a7-a29ba61624a7/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>What happens when you realize the people in charge don’t have the answers.</description>
+            <pubDate>Fri, 10 Nov 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>813: Is That What I Look Like?</title>
             <link>https://www.thisamericanlife.org/813/is-that-what-i-look-like</link>
@@ -69,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-11-06 05:56:43. Known missing e
         <item>
             <title>806: I Can't Quit You, Baby</title>
             <link>https://www.thisamericanlife.org/806/i-cant-quit-you-baby</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7f36c904-bd7d-4223-ac93-1477982de433/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/806/7Ar9aNf9MOXDnzYDFUQ7Ug-YAitbVtDoMYedVRqXcME/806.mp3" length="5000" type="audio/mpeg"/>
             <description>People  on the verge of a big change, not wanting to let go. And the people who give them the final push.</description>
             <pubDate>Fri, 28 Jul 2023 18:00:00 -0400</pubDate>
         </item>
@@ -2382,7 +2389,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>477: Getting Away With It</title>
             <link>https://www.thisamericanlife.org/477/getting-away-with-it</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2198f1dd-03bb-4697-a334-908379a74280/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/477/fKHIH_LpamNkBYPVzfvbam9IbsQNMcD4R7OBO2Wd3w0/477.mp3" length="5000" type="audio/mpeg"/>
             <description>People breaking the rules fully, completely, and with no bad consequences. Some justify this by saying they’re doing it for others, or for a greater good. Some really don’t care. And, unlike the mealy weaklings you usually hear on this program: none of these wrongdoers seems regretful about what they’ve done.</description>
             <pubDate>Fri, 19 Oct 2012 18:00:00 -0400</pubDate>
         </item>
