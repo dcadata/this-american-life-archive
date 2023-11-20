@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-11-13 05:58:11. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-11-20 05:56:51. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-11-13 05:58:11. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>815: How I Learned to Shave</title>
+            <link>https://www.thisamericanlife.org/815/how-i-learned-to-shave</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/bff58095-3db1-450f-ad23-31c8151c676e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Things our dads taught us, whether they intended to or not.</description>
+            <pubDate>Fri, 17 Nov 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>814: Parents Are People</title>
             <link>https://www.thisamericanlife.org/814/parents-are-people</link>
@@ -3960,10 +3967,10 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <pubDate>Fri, 05 Dec 2003 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>252: Poultry Slam 2003</title>
-            <link>https://www.thisamericanlife.org/252/poultry-slam-2003</link>
+            <title>252: Poultry Slam</title>
+            <link>https://www.thisamericanlife.org/252/poultry-slam</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/252/glNgmng0y2U5uw8ASNchhiTB3tSJ-yTOgs-agiOONlo/252.mp3" length="5000" type="audio/mpeg"/>
-            <description>During the weeks between Thanksgiving and New Year's - the highest turkey consumption period of the year - we bring you an annual This American Life tradition: stories of turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us.</description>
+            <description>During the highest turkey consumption period of the year, we bring you a This American Life tradition: stories of turkeys, chickens, geese, ducks, fowl of all kinds—real and imagined—and their mysterious hold over us.</description>
             <pubDate>Fri, 28 Nov 2003 18:00:00 -0400</pubDate>
         </item>
         <item>
