@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-11-20 05:56:51. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-11-27 05:57:00. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-11-20 05:56:51. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>816: Poultry Slam</title>
+            <link>https://www.thisamericanlife.org/816/poultry-slam</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/c706e46e-e337-4bda-8528-31e8bfcdbd9d/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>During the highest turkey consumption period of the year, we bring you a This American Life tradition: stories of turkeys, chickens, geese, ducks, fowl of all kinds—real and imagined—and their mysterious hold over us.</description>
+            <pubDate>Fri, 24 Nov 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>815: How I Learned to Shave</title>
             <link>https://www.thisamericanlife.org/815/how-i-learned-to-shave</link>
@@ -1927,7 +1934,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>544: Batman</title>
             <link>https://www.thisamericanlife.org/544/batman</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/544/QCgiib5dzQvh5ZFxNJ4fHC7Ji_-jQZRmixq8ZihFVM0/544.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/544/qsNrn4XvK285qsrnvVz4dj4P7GDjh3qO_INVCsCFMxA/544.mp3" length="5000" type="audio/mpeg"/>
             <description>Can other people's expectations of you alter what you can do physically? Alix Spiegel and Lulu Miller of NPR's new radio show and podcast Invisibilia investigate that question – specifically, they look into something that sounds impossible: if people’s expectations can change whether a blind man can see.</description>
             <pubDate>Fri, 09 Jan 2015 18:00:00 -0400</pubDate>
         </item>
@@ -3500,7 +3507,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>319: And the Call Was Coming from the Basement</title>
             <link>https://www.thisamericanlife.org/319/and-the-call-was-coming-from-the-basement</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e7db6450-5024-40a4-b537-63fdd37b5915/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/319/VihyIDRJTkrEs8f_Tw1p68tlsKo4B_0NWc_todxLyRo/319.mp3" length="5000" type="audio/mpeg"/>
             <description>For the lead up to Halloween, scary stories that are all true. Zombie raccoons, haunted houses—real haunted houses!—and things that go "EEEEK!!!" in the night. Plus, a story by David Sedaris in which he walks among the dead.</description>
             <pubDate>Fri, 27 Oct 2006 18:00:00 -0400</pubDate>
         </item>
@@ -3967,8 +3974,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <pubDate>Fri, 05 Dec 2003 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>252: Poultry Slam</title>
-            <link>https://www.thisamericanlife.org/252/poultry-slam</link>
+            <title>252: Poultry Slam 2003</title>
+            <link>https://www.thisamericanlife.org/252/poultry-slam-2003</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/252/glNgmng0y2U5uw8ASNchhiTB3tSJ-yTOgs-agiOONlo/252.mp3" length="5000" type="audio/mpeg"/>
             <description>During the highest turkey consumption period of the year, we bring you a This American Life tradition: stories of turkeys, chickens, geese, ducks, fowl of all kinds—real and imagined—and their mysterious hold over us.</description>
             <pubDate>Fri, 28 Nov 2003 18:00:00 -0400</pubDate>
