@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-11-27 05:57:00. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-12-04 05:55:18. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-11-27 05:57:00. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>817: The Cavalry Is Not Coming</title>
+            <link>https://www.thisamericanlife.org/817/the-cavalry-is-not-coming</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ab6d4bf5-4935-4f1a-9ff9-075f23b14f47/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>When you realize that help is not on the way, what do you do next?</description>
+            <pubDate>Fri, 01 Dec 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>816: Poultry Slam</title>
             <link>https://www.thisamericanlife.org/816/poultry-slam</link>
@@ -83,7 +90,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-11-27 05:57:00. Known missing e
         <item>
             <title>807: Eight Fights</title>
             <link>https://www.thisamericanlife.org/807/eight-fights</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/63135d5e-d491-4bf1-8e12-732bc99c64da/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/807/p-OsYaVbZpqFpEDq__cNiFZbZXbKDo3bMWHEsK5HXVA/807.mp3" length="5000" type="audio/mpeg"/>
             <description>Nadia's family is split between Russia and Ukraine, which is pretty common. And when Russia invaded Ukraine, it didn’t just start fighting on the battlefield. It sparked family conflict, too. An intimate story of the war from writer Masha Gessen.</description>
             <pubDate>Fri, 04 Aug 2023 18:00:00 -0400</pubDate>
         </item>
@@ -1997,7 +2004,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>535: Origin Story (2014)</title>
             <link>https://www.thisamericanlife.org/535/origin-story-2014</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/535/obTIXZnXCRwcLtYOQ71ZfroPNghuNDALz9NJkMSpTEY/535.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/535/_YJWKSNK0rgk31vVLNxgoupJ4xz-Ohtr7leqQO7VkZc/535.mp3" length="5000" type="audio/mpeg"/>
             <description>This week we bring you little-known and surprising stories of how all sorts of institutions began. An updated version of a 2009 episode.</description>
             <pubDate>Fri, 19 Sep 2014 18:00:00 -0400</pubDate>
         </item>
