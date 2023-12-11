@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-12-04 05:55:18. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-12-11 05:55:38. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-12-04 05:55:18. Known missing e
         <item>
             <title>808: The Rest of the Story</title>
             <link>https://www.thisamericanlife.org/808/the-rest-of-the-story</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/666353f3-9606-43a3-b33d-60f602d332a4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/808/6iMlXcHhfyf4lQvUijjs-J_X9F-K19VG1f3xFkfy1kA/808.mp3" length="5000" type="audio/mpeg"/>
             <description>Legendary radio broadcaster Paul Harvey had a popular show called “The Rest of the Story.” Today on our show, we do just that. We hear from people who, whether they want to or not, find themselves face-to-face with the rest of their stories.</description>
             <pubDate>Fri, 18 Aug 2023 18:00:00 -0400</pubDate>
         </item>
@@ -238,7 +238,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>786: It's a Game Show!</title>
             <link>https://www.thisamericanlife.org/786/its-a-game-show</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/786/ApENpf0Utqij6N5NnjaGCvZqRAncctzsi2RIB20D-xo/786.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ac35215c-11f7-4e1d-be94-099843a50116/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Something we’ve never done before: true stories told in the form of a game show.</description>
             <pubDate>Fri, 02 Dec 2022 18:00:00 -0400</pubDate>
         </item>
@@ -1544,8 +1544,7 @@ This two-part series won a 2019 duPont-Columbia Award.</description>
             <title>600: Will I Know Anyone at This Party?</title>
             <link>https://www.thisamericanlife.org/600/will-i-know-anyone-at-this-party</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/600/7ILOGeIz_R_VM2qCP4nGScPM4cM705qFEPi9akjII2A/600.mp3" length="5000" type="audio/mpeg"/>
-            <description>Right now lots of Republicans feel like they don’t recognize their own party. Like a Minnesota congressman who’s confused when the residents in his district, people he’s known for years, start calling for a ban on Muslims moving to their town.
-This episode won a 2018 duPont-Columbia Award.</description>
+            <description>Right now lots of Republicans feel like they don’t recognize their own party. Like a Minnesota congressman who’s confused when the residents in his district, people he’s known for years, start calling for a ban on Muslims moving to their town.</description>
             <pubDate>Fri, 28 Oct 2016 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -2110,7 +2109,7 @@ An episode from last year, with one story swapped.</description>
             <title>520: No Place Like Home</title>
             <link>https://www.thisamericanlife.org/520/no-place-like-home</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/520/KQYAn3F2kmD_a7Zz9yLxeGVQ_uPr0UMwMTLZ-TKwKXc/520.mp3" length="5000" type="audio/mpeg"/>
-            <description>There are lots of ways we define where we're from. And whether we're proud of it, or ashamed of it, love it, hate it, miss it or are trying desperately to get back to it — where we're from is always a big part of who we are. This week, stories of people who are, in good ways and bad ways, coming to terms with the places they call home. (Beeped version)</description>
+            <description>There are lots of ways we define where we're from. And whether we're proud of it, or ashamed of it, love it, hate it, miss it or are trying desperately to get back to it — where we're from is always a big part of who we are. This week, stories of people who are, in good ways and bad ways, coming to terms with the places they call home.</description>
             <pubDate>Fri, 14 Mar 2014 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3962,7 +3961,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>255: Our Holiday Gift-Giving Guide</title>
             <link>https://www.thisamericanlife.org/255/our-holiday-gift-giving-guide</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/255/LIj-Qq6A4Ou6fSNWKvj7ZOhRHuFRkLyN3lAD7tiatlQ/255.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/255/-Fj6DistkW17E-YwkjERs_rltLrkZsflWJ5VtIdomuk/255.mp3" length="5000" type="audio/mpeg"/>
             <description>The vexing difficulty of finding the perfect gift.</description>
             <pubDate>Fri, 19 Dec 2003 18:00:00 -0400</pubDate>
         </item>
