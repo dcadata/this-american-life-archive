@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-12-11 05:55:38. Known missing episodes: 454. Contact devon@ankar.io for any feed issues.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-12-18 05:56:26. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-12-11 05:55:38. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>818: Stand Clear of the Closing Doors</title>
+            <link>https://www.thisamericanlife.org/818/stand-clear-of-the-closing-doors</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/074dae44-9927-43fb-a8df-0694a57ab804/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>In the last year and a half, New York City has scrambled to try and provide shelter and services to over 150,000 migrants. We take a look at how that’s going.</description>
+            <pubDate>Fri, 15 Dec 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>817: The Cavalry Is Not Coming</title>
             <link>https://www.thisamericanlife.org/817/the-cavalry-is-not-coming</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-12-11 05:55:38. Known missing e
         <item>
             <title>809: The Call</title>
             <link>https://www.thisamericanlife.org/809/the-call</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2eee44f6-35d4-4d71-89dd-84ce5d48cadf/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/809/lwNFKQvvbjGzQbiAJ8swSkbgRAYCcNOpaKDnHb-85E0/809.mp3" length="5000" type="audio/mpeg"/>
             <description>One call to a very unusual hotline, and everything that followed.</description>
             <pubDate>Fri, 08 Sep 2023 18:00:00 -0400</pubDate>
         </item>
