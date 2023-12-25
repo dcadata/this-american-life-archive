@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2023-12-18 05:56:26. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2023-12-25 05:55:51. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,20 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-12-18 05:56:26. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>820: It Wouldn’t Be Make-Believe If You’d Believe In Me</title>
+            <link>https://www.thisamericanlife.org/820/believe-in-me</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b918094e-979a-44c0-9377-977d396748e4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>A major political party in a major swing state bets on a new leader: a total political outsider. How does that work out for them?</description>
+            <pubDate>Fri, 22 Dec 2023 18:00:00 -0400</pubDate>
+        </item>
+        <item>
+            <title>819: Special Bonus Podcast — Yousef’s Week</title>
+            <link>https://www.thisamericanlife.org/819/yousefs-week</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/10f46595-7477-4aaa-9d50-806dc8b24ac8/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>One of our producers, Chana Joffe-Walt, had a series of conversations with a man in Gaza over the course of one week. They're so immediate – and particular to this moment in the war in Gaza – that we're bringing them to you now, outside of our regular schedule.</description>
+            <pubDate>Wed, 20 Dec 2023 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>818: Stand Clear of the Closing Doors</title>
             <link>https://www.thisamericanlife.org/818/stand-clear-of-the-closing-doors</link>
@@ -69,14 +83,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2023-12-18 05:56:26. Known missing e
         <item>
             <title>811: The One Place I Can’t Go</title>
             <link>https://www.thisamericanlife.org/811/the-one-place-i-cant-go</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a38140e2-33cc-4854-9b17-d442e65cb7fd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/811/3BRTf1jJvPogRvtO6nw0lQMvMxI0qnl99naFE-H_wBM/811.mp3" length="5000" type="audio/mpeg"/>
             <description>Spots we’re avoiding in our private maps of the world.</description>
             <pubDate>Fri, 29 Sep 2023 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>810: Say It to My Face</title>
             <link>https://www.thisamericanlife.org/810/say-it-to-my-face</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/523b80ff-972b-4bc6-a08b-22eacb89af13/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/810/OobA0vUYcJlwuBh9yBDa8DeLFrLimpd9B3Hao6lYbsQ/810.mp3" length="5000" type="audio/mpeg"/>
             <description>Friends and ex-friends finally talk about the one thing between them they've been avoiding.</description>
             <pubDate>Fri, 15 Sep 2023 18:00:00 -0400</pubDate>
         </item>
@@ -5676,7 +5690,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>11: Enemies</title>
             <link>https://www.thisamericanlife.org/11/enemies</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/11/CGqz-DLTdrHTRw597ej60zmzt09HvZvIHcLlJWeFgAk/11.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/11/nmPqcXAFy4kbs38RheIbSmBSUZQLe05NsDoZ8UGlQSo/11.mp3" length="5000" type="audio/mpeg"/>
             <description>A story of a friendship between two adolescent boys that was destroyed through the manipulative acts of one of them.</description>
             <pubDate>Wed, 24 Jan 1996 18:00:00 -0400</pubDate>
         </item>
@@ -5732,14 +5746,14 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>3: Poultry Slam 1995</title>
             <link>https://www.thisamericanlife.org/3/poultry-slam-1995</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/3/_mnaUe0GJwuZkj8NRzLYQ9CVSZlVjDTJ1maneqogy0o/3.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/3/3fZqXh-aDaWx6N3Dg2DkXhAhu5SyUIpxcB16R_Jap90/3.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories decrying the wonders of turkeys, chickens, and other fowl.</description>
             <pubDate>Fri, 01 Dec 1995 18:00:00 -0400</pubDate>
         </item>
         <item>
             <title>2: Small Scale Sin</title>
             <link>https://www.thisamericanlife.org/2/small-scale-sin</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/2/IDrdEXf7URK7sq1HiXWP-3G-MMWHrUWF8vYknMFzH6s/2.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/2/s6iVCvP0p-f1qwIeRvubpMzQ8TR05BnA3AsSm1uXuxs/2.mp3" length="5000" type="audio/mpeg"/>
             <description>Small-scale stories on the nature of small-scale sin.</description>
             <pubDate>Fri, 24 Nov 1995 18:00:00 -0400</pubDate>
         </item>
