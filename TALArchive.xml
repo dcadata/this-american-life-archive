@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-01-01 05:58:09. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-01-08 05:57:24. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-01-01 05:58:09. Known missing e
         <item>
             <title>812: The Bear at the End of the Tunnel</title>
             <link>https://www.thisamericanlife.org/812/the-bear-at-the-end-of-the-tunnel</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/19989fbc-b755-477e-9816-fce5cc78da16/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/812/OGCslt_hTjrPWYjrsqsg6n1tb6ESdOrTcsnGuMo6ep0/812.mp3" length="5000" type="audio/mpeg"/>
             <description>People who have a good, long time to think about what they’re doing, look hard at what’s ahead of them, and decide to keep moving forward anyway.</description>
             <pubDate>Fri, 20 Oct 2023 18:00:00 -0400</pubDate>
         </item>
@@ -259,7 +259,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>786: It's a Game Show!</title>
             <link>https://www.thisamericanlife.org/786/its-a-game-show</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ac35215c-11f7-4e1d-be94-099843a50116/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/786/ApENpf0Utqij6N5NnjaGCvZqRAncctzsi2RIB20D-xo/786.mp3" length="5000" type="audio/mpeg"/>
             <description>Something we’ve never done before: true stories told in the form of a game show.</description>
             <pubDate>Fri, 02 Dec 2022 18:00:00 -0400</pubDate>
         </item>
@@ -4332,8 +4332,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>205: Plan B</title>
             <link>https://www.thisamericanlife.org/205/plan-b</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/205/OSjiSuxcGakrtQhSM4ghvz8USkoo35mw7xWgZ_mmEKY/205.mp3" length="5000" type="audio/mpeg"/>
-            <description>There's the thing you plan to do, and then there's the thing you end up doing. Most of us start off our lives with some Plan A, which we abandon...switching to a Plan B, which becomes our life.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/99670701-8036-4466-a904-6a7eec053903/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>There's the thing you plan to do, and then there's the thing you end up doing.</description>
             <pubDate>Fri, 01 Feb 2002 18:00:00 -0400</pubDate>
         </item>
         <item>
