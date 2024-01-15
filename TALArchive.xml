@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-01-08 05:57:24. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-01-15 05:57:51. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1800,8 +1800,8 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>567: What’s Going On In There?</title>
             <link>https://www.thisamericanlife.org/567/whats-going-on-in-there</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/567/6MqVol1ulAuGHrpNvFEAXFEk18LBiN9LcmJGb6eqdgo/567.mp3" length="5000" type="audio/mpeg"/>
-            <description>Often we see someone’s situation from the outside and think we know exactly what’s going on. This week we get inside and find out just how much more interesting the reality of it is. Including a teenaged girl who records a remarkable story about the boyfriend who abuses her, and why it’s so hard to break up with him.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2aa851e1-c0a0-4182-8b40-9a2a5be8c022/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Often we see someone’s situation from the outside and think we know exactly what’s going on. This week, we get inside and find out just how much more interesting the reality of it is.</description>
             <pubDate>Fri, 18 Sep 2015 18:00:00 -0400</pubDate>
         </item>
         <item>
