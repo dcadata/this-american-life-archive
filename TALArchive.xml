@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-01-22 05:58:48. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-01-29 05:56:14. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-01-22 05:58:48. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>822: The Words to Say It</title>
+            <link>https://www.thisamericanlife.org/822/the-words-to-say-it</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/71a53135-f935-412a-b5bf-a07289de0f30/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>What it means to have words—and to lose them.</description>
+            <pubDate>Fri, 26 Jan 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>821: Embrace the Suck</title>
             <link>https://www.thisamericanlife.org/821/embrace-the-suck</link>
@@ -2143,7 +2150,7 @@ An episode from last year, with one story swapped.</description>
         <item>
             <title>519: Dead Men Tell No Tales</title>
             <link>https://www.thisamericanlife.org/519/dead-men-tell-no-tales</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/519/d5y71Ba_Is4BHbLcyjLHlsA8fQXPTuPQaLsCwYoKEcU/519.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/519/KCk8omirROcXQwCJEbBdZF0BPRdCUT6LZPmlyBEZaMI/519.mp3" length="5000" type="audio/mpeg"/>
             <description>Last May, a weird story made the news: the FBI killed a guy in Florida who was loosely linked to the Boston Marathon bombings. He was shot seven times in his living room by a federal agent. What really happened? Why was the FBI even in that room with him? A reporter spent six months looking into it, and she found that the FBI was doing a bunch of things that never made the news. Her Boston Magazine story.</description>
             <pubDate>Fri, 07 Mar 2014 18:00:00 -0400</pubDate>
         </item>
@@ -4087,7 +4094,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>241: 20 Acts in 60 Minutes</title>
             <link>https://www.thisamericanlife.org/241/20-acts-in-60-minutes</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b4329120-86b2-4181-b34f-0606d7c4736c/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/241/tOnoPT_QPUENKfXpNHhB4nrZV9tnUwrDzthAqdk3u7E/241.mp3" length="5000" type="audio/mpeg"/>
             <description>Instead of the usual "each week we choose a theme, and bring you 3 or 4 stories on that theme" business, we throw all that away and bring you 20 stories—yes, 20—in 60 minutes.</description>
             <pubDate>Fri, 11 Jul 2003 18:00:00 -0400</pubDate>
         </item>
