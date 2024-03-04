@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-02-26 05:56:13. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-03-04 06:28:36. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-02-26 05:56:13. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>825: Yousef</title>
+            <link>https://www.thisamericanlife.org/825/yousef</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4ffd11f6-dc7b-4682-8080-378f24f41c59/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>A series of phone calls to a man in Gaza named Yousef Hammash, between early December and now. He talks about what he and his family are experiencing, sometimes as they are experiencing it.</description>
+            <pubDate>Fri, 01 Mar 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>824: Family Meeting</title>
             <link>https://www.thisamericanlife.org/824/family-meeting</link>
@@ -69,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-02-26 05:56:13. Known missing e
         <item>
             <title>817: The Cavalry Is Not Coming</title>
             <link>https://www.thisamericanlife.org/817/the-cavalry-is-not-coming</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ab6d4bf5-4935-4f1a-9ff9-075f23b14f47/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/817/M8_Y7B9lX0IF1PvLbF2ZMmzCexd-EDrjy8c61V1tmVE/817.mp3" length="5000" type="audio/mpeg"/>
             <description>When you realize that help is not on the way, what do you do next?</description>
             <pubDate>Fri, 01 Dec 2023 18:00:00 -0400</pubDate>
         </item>
@@ -3668,7 +3675,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
             <title>304: Heretics</title>
             <link>https://www.thisamericanlife.org/304/heretics</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/304/_JMvY54bYW--BmCJ1743GqPgst8j2i9ei0Q7xhmru-c/304.mp3" length="5000" type="audio/mpeg"/>
-            <description>The story of Reverend Carlton Pearson, a rising star in the evangelical movement, who cast aside the idea of hell, and with it everything he'd worked for over his entire life.</description>
+            <description>The story of Reverend Carlton Pearson, a rising star in the evangelical movement who cast aside the idea of hell and, with it, everything he'd worked for over his entire life.</description>
             <pubDate>Fri, 16 Dec 2005 18:00:00 -0400</pubDate>
         </item>
         <item>
