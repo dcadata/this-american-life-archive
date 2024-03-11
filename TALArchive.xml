@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-03-04 06:28:36. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-03-11 05:57:31. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -63,7 +63,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-03-04 06:28:36. Known missing e
             <title>819: Special Bonus Podcast — Yousef’s Week</title>
             <link>https://www.thisamericanlife.org/819/yousefs-week</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/10f46595-7477-4aaa-9d50-806dc8b24ac8/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>One of our producers, Chana Joffe-Walt, had a series of conversations with a man in Gaza over the course of one week. They're so immediate – and particular to this moment in the war in Gaza – that we're bringing them to you now, outside of our regular schedule.</description>
+            <description>A series of conversations with a man in Gaza over the course of one week.</description>
             <pubDate>Wed, 20 Dec 2023 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -259,7 +259,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>791: Math or Magic?</title>
             <link>https://www.thisamericanlife.org/791/math-or-magic</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8f1c46b1-4a55-44a3-b420-37d1b50a3ec6/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/791/nFL67ExqtFaOBf-qTtuUTtxNlmr07XcuniWTrrt2-dU/791.mp3" length="5000" type="audio/mpeg"/>
             <description>When it comes to finding love, there seems to be two schools of thought on the best way to go about it. One says, wait for that lightning-strike magic. The other says, make a calculation and choose the best option available. Who has it right?</description>
             <pubDate>Fri, 10 Feb 2023 18:00:00 -0400</pubDate>
         </item>
@@ -1368,8 +1368,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <title>633: Our Town - Part Two</title>
             <link>https://www.thisamericanlife.org/633/our-town-part-two</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/633/RPe18USYto5_3ma6xWiQcHkOMstY_l2KD7veGdhy78w/633.mp3" length="5000" type="audio/mpeg"/>
-            <description>So many people in Albertville, AL wondered what it cost them in taxes when thousands of undocumented immigrants moved to their town. One woman drove our host Ira Glass to the grocery store to watch a random Latina mom buy some milk with government assistance, to try to prove her point. So what’d all the newcomers really cost? And what was their effect on crime, schools, and politics? 
-This two-part series won a 2019 duPont-Columbia Award.</description>
+            <description>So many people in Albertville, Alabama, wondered what it cost them in taxes when thousands of undocumented immigrants moved to their town. One woman drove our host Ira Glass to the grocery store to watch a random Latina mom buy some milk with government assistance to try to prove her point. So what’d all the newcomers really cost? And what was their effect on crime, schools, and politics?</description>
             <pubDate>Fri, 15 Dec 2017 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -3674,8 +3673,8 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>304: Heretics</title>
             <link>https://www.thisamericanlife.org/304/heretics</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/304/_JMvY54bYW--BmCJ1743GqPgst8j2i9ei0Q7xhmru-c/304.mp3" length="5000" type="audio/mpeg"/>
-            <description>The story of Reverend Carlton Pearson, a rising star in the evangelical movement who cast aside the idea of hell and, with it, everything he'd worked for over his entire life.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/43c90fda-1967-4f27-8adc-35000ea16cbc/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The story of Reverend Carlton Pearson. He was a rising star in the evangelical movement when he cast aside the idea of hell and, with it, everything he'd worked for over his entire life.</description>
             <pubDate>Fri, 16 Dec 2005 18:00:00 -0400</pubDate>
         </item>
         <item>
