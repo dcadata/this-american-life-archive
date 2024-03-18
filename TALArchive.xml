@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-03-11 05:57:31. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-03-18 05:56:20. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-03-11 05:57:31. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>826: Unprepared for What Has Already Happened</title>
+            <link>https://www.thisamericanlife.org/826/unprepared-for-what-has-already-happened</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/42ad36e7-b5c1-40e3-bfc5-a937b0b980a3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People waking up to the fact that the world has suddenly changed.</description>
+            <pubDate>Fri, 15 Mar 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>825: Yousef</title>
             <link>https://www.thisamericanlife.org/825/yousef</link>
@@ -1227,7 +1234,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>653: Crime Scene</title>
             <link>https://www.thisamericanlife.org/653/crime-scene</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ca5bbb76-2264-46d5-b1db-50407e89295a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/653/k6ZQPovo5QqTGoOvCyCWHwQ2gOQAnLE3jC7WiH1LzOw/653.mp3" length="5000" type="audio/mpeg"/>
             <description>Every crime scene hides a story. In this week's show, we hear about crime scenes and the stories they tell.</description>
             <pubDate>Fri, 03 Aug 2018 18:00:00 -0400</pubDate>
         </item>
