@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-04-01 05:58:26. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-04-08 05:56:34. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-04-01 05:58:26. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>828: Minor Crimes Division</title>
+            <link>https://www.thisamericanlife.org/828/minor-crimes-division</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d9527852-6271-4ed9-8d70-87739134c350/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People taking it upon themselves to solve the tiny, overlooked crimes of the world.</description>
+            <pubDate>Fri, 05 Apr 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>827: All the King's Horses</title>
             <link>https://www.thisamericanlife.org/827/all-the-kings-horses</link>
@@ -74,7 +81,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-04-01 05:58:26. Known missing e
             <pubDate>Fri, 22 Dec 2023 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>819: Special Bonus Podcast — Yousef’s Week</title>
+            <title>819: Yousef’s Week</title>
             <link>https://www.thisamericanlife.org/819/yousefs-week</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/819/PTgaE8n2GQWfB7w8lFYcnlUOrKovVnM3GCq36yWPV3Y/819.mp3" length="5000" type="audio/mpeg"/>
             <description>A series of conversations with a man in Gaza over the course of one week.</description>
@@ -3687,7 +3694,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>304: Heretics</title>
             <link>https://www.thisamericanlife.org/304/heretics</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/43c90fda-1967-4f27-8adc-35000ea16cbc/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/304/_JMvY54bYW--BmCJ1743GqPgst8j2i9ei0Q7xhmru-c/304.mp3" length="5000" type="audio/mpeg"/>
             <description>The story of Reverend Carlton Pearson. He was a rising star in the evangelical movement when he cast aside the idea of hell and, with it, everything he'd worked for over his entire life.</description>
             <pubDate>Fri, 16 Dec 2005 18:00:00 -0400</pubDate>
         </item>
