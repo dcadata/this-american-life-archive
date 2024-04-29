@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-04-22 05:54:52. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-04-29 05:57:14. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1710,7 +1710,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>587: The Perils of Intimacy</title>
             <link>https://www.thisamericanlife.org/587/the-perils-of-intimacy</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/205cd6c0-00c6-4b2a-ab3c-ad050db308fb/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/587/PB5A-31Nvujn2MjElqX_6cNwfz3AkLeedy0JlxRNAEM/587.mp3" length="5000" type="audio/mpeg"/>
             <description>Mysteries that exist in relationships we thought couldn't possibly surprise us.</description>
             <pubDate>Fri, 27 May 2016 18:00:00 -0400</pubDate>
         </item>
@@ -1846,7 +1846,7 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>568: Human Spectacle</title>
             <link>https://www.thisamericanlife.org/568/human-spectacle</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/568/IsS25jbSKxIsLYujmQoN5Orv8Vr-NsoA2VFwX9FADBQ/568.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/11772dbc-f457-487d-99d2-573bcf81e5e1/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Gladiators in the Colosseum. Sideshow performers. Reality television. We've always loved to gawk at the misery or majesty of others. But this week, we ask the question: What's it like when the tables are turned and all eyes are on you?</description>
             <pubDate>Fri, 02 Oct 2015 18:00:00 -0400</pubDate>
         </item>
