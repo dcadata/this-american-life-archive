@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-04-29 05:57:14. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-05-06 05:55:31. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -62,7 +62,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-04-29 05:57:14. Known missing e
         <item>
             <title>822: The Words to Say It</title>
             <link>https://www.thisamericanlife.org/822/the-words-to-say-it</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/71a53135-f935-412a-b5bf-a07289de0f30/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/822/KK8hozWKStRe5YYF712MN-7lO_lt7t_c3WZLoOHplgY/822.mp3" length="5000" type="audio/mpeg"/>
             <description>What it means to have words—and to lose them.</description>
             <pubDate>Fri, 26 Jan 2024 18:00:00 -0400</pubDate>
         </item>
@@ -4518,7 +4518,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>186: Prom</title>
             <link>https://www.thisamericanlife.org/186/prom</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/186/RBWCx50kWzLuNXyO1WGZwC6nsMVHnAC7B30iYEMd0So/186.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3c3c3d57-8b98-4d08-9a59-a7b0e7cb8d93/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>While the seniors danced at Prom Night 2001 in Hoisington, Kansas—a town of about 3,000—a tornado hit the town, destroying about a third of it. When they emerged from the dance, they discovered what had happened, and in the weeks that followed, they tried to explain to themselves why the tornado hit where it did. Plus other stories that happen on Prom Night.</description>
             <pubDate>Fri, 08 Jun 2001 18:00:00 -0400</pubDate>
         </item>
