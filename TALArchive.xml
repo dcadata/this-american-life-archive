@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-05-06 05:55:31. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-05-13 05:56:55. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-05-06 05:55:31. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>829: Two Ledgers</title>
+            <link>https://www.thisamericanlife.org/829/two-ledgers</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/67ea2560-6f40-4c9a-bc11-61627cc915e7/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>For years, Majid believed that if he could testify in court about what happened to him when he was held in a CIA black site, a judge and jury would give him a break. Finally, he got a chance to see if he was right.</description>
+            <pubDate>Fri, 10 May 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>828: Minor Crimes Division</title>
             <link>https://www.thisamericanlife.org/828/minor-crimes-division</link>
@@ -1874,7 +1881,7 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>564: Too Soon?</title>
             <link>https://www.thisamericanlife.org/564/too-soon</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b5baeb4a-933c-4195-91b3-d938a169cb13/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/564/7ZLM3KqvN48VlXjwKPDoJL3O-uLbBa4lpS-VKxTamu0/564.mp3" length="5000" type="audio/mpeg"/>
             <description>It can be hard to know the right moment for something to happen.</description>
             <pubDate>Fri, 14 Aug 2015 18:00:00 -0400</pubDate>
         </item>
