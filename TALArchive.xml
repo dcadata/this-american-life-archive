@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-05-13 05:56:55. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-05-20 05:57:23. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-05-13 05:56:55. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>830: The Forever Trial</title>
+            <link>https://www.thisamericanlife.org/830/the-forever-trial</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8a1febd6-6541-43a9-812f-4b2ef1d06eec/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The trial for the men accused of orchestrating the September 11 terrorist attacks still hasn’t started yet. Family members of those who died that day are still hoping for some kind of accountability, more than 22 years later. This week, the story of how one victim’s sister is navigating this historic and twisted trial.</description>
+            <pubDate>Fri, 17 May 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>829: Two Ledgers</title>
             <link>https://www.thisamericanlife.org/829/two-ledgers</link>
@@ -3685,7 +3692,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>306: Seemed Like A Good Idea at the Time</title>
             <link>https://www.thisamericanlife.org/306/seemed-like-a-good-idea-at-the-time</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3055574d-b9c1-43a9-a383-4956e0858f8d/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/306/tEbX1mj5RBg3zJMr3fRfKX1YRUie3R227BVbJ7h8S4s/306.mp3" length="5000" type="audio/mpeg"/>
             <description>A girl signs up for a class. A couple hires an accountant. A group of co-workers decides to pool their money and buy a couple of lottery tickets. In the beginning, they're full of hope and optimism — and then something turns. Stories of good ideas gone bad.</description>
             <pubDate>Fri, 13 Jan 2006 18:00:00 -0400</pubDate>
         </item>
