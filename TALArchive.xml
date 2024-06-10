@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-06-03 05:58:21. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-06-10 05:57:45. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-06-03 05:58:21. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>833: Come Retribution</title>
+            <link>https://www.thisamericanlife.org/833/come-retribution</link>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/extended/833.mp3" length="5000" type="audio/mpeg"/>
+            <description>Donald Trump has talked about taking retribution on his enemies since the early days of his 2024 presidential campaign. After his conviction last week in New York, his talk intensified. We try to understand what his retribution might look like by speaking with people who have the most to lose in a second Trump administration: people who believe Trump will be coming for them.</description>
+            <pubDate>Fri, 07 Jun 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>832: That Other Guy</title>
             <link>https://www.thisamericanlife.org/832/that-other-guy</link>
@@ -83,7 +90,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-06-03 05:58:21. Known missing e
         <item>
             <title>823: The Question Trap</title>
             <link>https://www.thisamericanlife.org/823/the-question-trap</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5e22d88d-a289-4135-801a-57e6941a1ea3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/823/TQkq7YsPYCjgUA_TkZNsfuYmDaepZT2r8DSlTTNf0u0/823.mp3" length="5000" type="audio/mpeg"/>
             <description>An investigation of when and why people ask loaded questions that are a proxy for something else.</description>
             <pubDate>Fri, 02 Feb 2024 18:00:00 -0400</pubDate>
         </item>
