@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-06-10 05:57:45. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-06-17 06:00:18. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -18,9 +18,16 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-06-10 05:57:45. Known missing e
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
         <item>
+            <title>834: Yousef and the Fourth Move</title>
+            <link>https://www.thisamericanlife.org/834/yousef-and-the-fourth-move</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b2d1490e-f8b1-413a-be5f-0fbe855deb51/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Yousef is forced into a move he is not sure he can make.</description>
+            <pubDate>Fri, 14 Jun 2024 18:00:00 -0400</pubDate>
+        </item>
+        <item>
             <title>833: Come Retribution</title>
             <link>https://www.thisamericanlife.org/833/come-retribution</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/extended/833.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ee29be30-6d6c-476e-9a47-f37ae94b2f7f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>Donald Trump has talked about taking retribution on his enemies since the early days of his 2024 presidential campaign. After his conviction last week in New York, his talk intensified. We try to understand what his retribution might look like by speaking with people who have the most to lose in a second Trump administration: people who believe Trump will be coming for them.</description>
             <pubDate>Fri, 07 Jun 2024 18:00:00 -0400</pubDate>
         </item>
@@ -83,7 +90,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-06-10 05:57:45. Known missing e
         <item>
             <title>824: Family Meeting</title>
             <link>https://www.thisamericanlife.org/824/family-meeting</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/65312b31-dc48-4dde-adb2-269d8f7da365/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/824/tgucbMVKDrwcKDR3fmDD7YWsOnYv1hnH7CKkQVNrKdU/824.mp3" length="5000" type="audio/mpeg"/>
             <description>Your mother and I have something we want to talk with you about.</description>
             <pubDate>Fri, 23 Feb 2024 18:00:00 -0400</pubDate>
         </item>
