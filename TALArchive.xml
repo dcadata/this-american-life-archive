@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-06-17 06:00:18. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-06-24 05:58:09. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -83,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-06-17 06:00:18. Known missing e
         <item>
             <title>825: Yousef</title>
             <link>https://www.thisamericanlife.org/825/yousef</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4ffd11f6-dc7b-4682-8080-378f24f41c59/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/825/b7TFyE3Z52phRm3UICpZS4goMGV9NDRIqEYLOrGx_9Y/825.mp3" length="5000" type="audio/mpeg"/>
             <description>A series of phone calls to a man in Gaza named Yousef Hammash, between early December and now. He talks about what he and his family are experiencing, sometimes as they are experiencing it.</description>
             <pubDate>Fri, 01 Mar 2024 18:00:00 -0400</pubDate>
         </item>
@@ -280,7 +280,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>797: What I Was Thinking As We Were Sinking</title>
             <link>https://www.thisamericanlife.org/797/what-i-was-thinking-as-we-were-sinking</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/797/XuR6CYbF5_rMVEaKMVJPFqpM8A6Cno3n_wwZNf_QH-Y/797.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a108fd23-2ed1-410c-9a1f-c03d2e1a8fdf/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>It's funny the things that go through your head during a disaster.</description>
             <pubDate>Fri, 21 Apr 2023 18:00:00 -0400</pubDate>
         </item>
