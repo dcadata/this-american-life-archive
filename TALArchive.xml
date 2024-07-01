@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-06-24 05:58:09. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-07-01 05:57:25. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -18,10 +18,17 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-06-24 05:58:09. Known missing e
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
         <item>
+            <title>835: Children of Dave</title>
+            <link>https://www.thisamericanlife.org/835/children-of-dave</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8ec4e536-317e-4b7e-9a80-26844d893e0b/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Boen Wang has a theory that a lot of the misery in his life can be traced to a single moment that happened years before he was born. So he makes a pilgrimage to see if he’s right.</description>
+            <pubDate>Fri, 28 Jun 2024 18:00:00 -0400</pubDate>
+        </item>
+        <item>
             <title>834: Yousef and the Fourth Move</title>
             <link>https://www.thisamericanlife.org/834/yousef-and-the-fourth-move</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b2d1490e-f8b1-413a-be5f-0fbe855deb51/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>Yousef is forced into a move he is not sure he can make.</description>
+            <description>In Rafah, Yousef is out of options and faces his toughest move yet.</description>
             <pubDate>Fri, 14 Jun 2024 18:00:00 -0400</pubDate>
         </item>
         <item>
@@ -76,12 +83,12 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-06-24 05:58:09. Known missing e
         <item>
             <title>826: Unprepared for What Has Already Happened</title>
             <link>https://www.thisamericanlife.org/826/unprepared-for-what-has-already-happened</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/42ad36e7-b5c1-40e3-bfc5-a937b0b980a3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/826/FKdC7Hxiy-7T45_Zc38pAeNTWiX0FwiO5mgq2FrR7Ho/826.mp3" length="5000" type="audio/mpeg"/>
             <description>People waking up to the fact that the world has suddenly changed.</description>
             <pubDate>Fri, 15 Mar 2024 18:00:00 -0400</pubDate>
         </item>
         <item>
-            <title>825: Yousef</title>
+            <title>825: Yousef’s Week</title>
             <link>https://www.thisamericanlife.org/825/yousef</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/825/b7TFyE3Z52phRm3UICpZS4goMGV9NDRIqEYLOrGx_9Y/825.mp3" length="5000" type="audio/mpeg"/>
             <description>A series of phone calls to a man in Gaza named Yousef Hammash, between early December and now. He talks about what he and his family are experiencing, sometimes as they are experiencing it.</description>
