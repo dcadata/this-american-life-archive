@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-07-01 05:57:25. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-07-08 05:57:39. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-07-01 05:57:25. Known missing e
         <item>
             <title>827: All the King's Horses</title>
             <link>https://www.thisamericanlife.org/827/all-the-kings-horses</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d17bddab-6500-4509-9959-50e937f9224f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/827/8ufKQuat_Eaif8xAXUm17ip_y1xCjgbfwbC3GDrXTvo/827.mp3" length="5000" type="audio/mpeg"/>
             <description>The things we break and the ones we can't fix.</description>
             <pubDate>Fri, 22 Mar 2024 18:00:00 -0400</pubDate>
         </item>
@@ -2764,7 +2764,7 @@ Transcript. Press Release.</description>
         <item>
             <title>443: Amusement Park</title>
             <link>https://www.thisamericanlife.org/443/amusement-park</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/443/9-Ct8t_PSGkAMqTUhg3M4cDyfH1GjMTueaWsL9QzrV8/443.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/c03036c8-e213-46bf-8c72-fbd3db6e9368/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>We head to some of the happiest places on earth: amusement parks! Ira Glass takes us behind the scenes at Worlds of Fun in Kansas City, where the young staff – coached by a funny, fun-loving boss just a little older than they are – truly seem to love their jobs.</description>
             <pubDate>Fri, 12 Aug 2011 18:00:00 -0400</pubDate>
         </item>
