@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-07-15 05:56:43. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-07-22 05:57:28. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-07-15 05:56:43. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>836: The Big Rethink</title>
+            <link>https://www.thisamericanlife.org/836/the-big-rethink</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/836ac87c-46f0-4cf9-a719-390d81aa96df/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People rethinking some of the most important relationships in their lives — with their sister, their political party, and the nominee for president.</description>
+            <pubDate>Fri, 19 Jul 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>835: Children of Dave</title>
             <link>https://www.thisamericanlife.org/835/children-of-dave</link>
@@ -62,7 +69,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-07-15 05:56:43. Known missing e
         <item>
             <title>829: Two Ledgers</title>
             <link>https://www.thisamericanlife.org/829/two-ledgers</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/67ea2560-6f40-4c9a-bc11-61627cc915e7/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/829/rqLh0ifeR_oat5haULj4aORSOrvd3pLZY1otQG-00x0/829.mp3" length="5000" type="audio/mpeg"/>
             <description>For years, Majid believed that if he could testify in court about what happened to him when he was held in a CIA black site, a judge and jury would give him a break. Finally, he got a chance to see if he was right.</description>
             <pubDate>Fri, 10 May 2024 18:00:00 -0400</pubDate>
         </item>
@@ -287,7 +294,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>797: What I Was Thinking As We Were Sinking</title>
             <link>https://www.thisamericanlife.org/797/what-i-was-thinking-as-we-were-sinking</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a108fd23-2ed1-410c-9a1f-c03d2e1a8fdf/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/797/XuR6CYbF5_rMVEaKMVJPFqpM8A6Cno3n_wwZNf_QH-Y/797.mp3" length="5000" type="audio/mpeg"/>
             <description>It's funny the things that go through your head during a disaster.</description>
             <pubDate>Fri, 21 Apr 2023 18:00:00 -0400</pubDate>
         </item>
