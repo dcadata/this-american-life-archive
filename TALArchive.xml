@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-08-12 05:58:17. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-08-19 05:58:07. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-08-12 05:58:17. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>838: Letters! Actual Letters!</title>
+            <link>https://www.thisamericanlife.org/838/letters-actual-letters</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR2805682533.mp3" length="5000" type="audio/mpeg"/>
+            <description>When the best—and perhaps only—way to say something is to write it down.</description>
+            <pubDate>Fri, 16 Aug 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>837: Swim Towards the Shark</title>
             <link>https://www.thisamericanlife.org/837/swim-towards-the-shark</link>
@@ -69,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-08-12 05:58:17. Known missing e
         <item>
             <title>830: The Forever Trial</title>
             <link>https://www.thisamericanlife.org/830/the-forever-trial</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR4443744631.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/830/d8s8L1MifKztLq555ErNgo0VGAsJgp8YIkzHHNhGYvg/830.mp3" length="5000" type="audio/mpeg"/>
             <description>The trial for the men accused of orchestrating the September 11 terrorist attacks still hasn’t started yet. Family members of those who died that day are still hoping for some kind of accountability, more than 22 years later. This week, the story of how one victim’s sister is navigating this historic and twisted trial.</description>
             <pubDate>Fri, 17 May 2024 18:00:00 -0400</pubDate>
         </item>
