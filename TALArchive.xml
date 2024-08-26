@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-08-19 05:58:07. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-08-26 05:58:34. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -610,7 +610,7 @@ This episode won a 2023 duPont-Columbia Award.</description>
         <item>
             <title>754: Spark Bird</title>
             <link>https://www.thisamericanlife.org/754/spark-bird</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/754/0vuEsdvOrrm21PMp2L8_4-TXYJ7bzQvrdVIG-_ue5Wg/754.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR2565587085.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about birds and the hearts they sway, the havoc they wreak, the lives they change.</description>
             <pubDate>Fri, 26 Nov 2021 18:00:00 -0400</pubDate>
         </item>
@@ -4686,7 +4686,7 @@ Josh told the sequel to this story at our live show in 2014.</description>
         <item>
             <title>172: 24 Hours at the Golden Apple</title>
             <link>https://www.thisamericanlife.org/172/24-hours-at-the-golden-apple</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR1051777536.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/172/ZNmd6f21zv30_Pa5CnBrM8nsr4FW-OiaCEO-cdKOeoE/172.mp3" length="5000" type="audio/mpeg"/>
             <description>We document one day in a Chicago diner called the Golden Apple, starting at 5 a.m. and going until 5 a.m. the next morning. We hear from the waitress who has worked the graveyard shift for over two decades, the regular customers who come every day, the couples working out their problems, assorted drunks, and, of course, cops.</description>
             <pubDate>Fri, 17 Nov 2000 18:00:00 -0400</pubDate>
         </item>
