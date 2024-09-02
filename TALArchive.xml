@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-08-26 05:58:34. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-09-02 05:58:36. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -266,7 +266,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>803: Greetings, People Of Earth</title>
             <link>https://www.thisamericanlife.org/803/greetings-people-of-earth</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR9656431930.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/803/CM4LlQX6APVwGlLEGpz-d_b1gK3-FgL5ZEvh30cVZI0/803.mp3" length="5000" type="audio/mpeg"/>
             <description>Humans encounter non-human intelligences of various kinds and try to make sense of them.</description>
             <pubDate>Fri, 23 Jun 2023 18:00:00 -0400</pubDate>
         </item>
@@ -280,7 +280,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>801: Must Be Rats on the Brain</title>
             <link>https://www.thisamericanlife.org/801/must-be-rats-on-the-brain</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/801/UQ6BnzXD0Wu-gfg0ikUeF9juTOHY1eUs4HPikzc2JE4/801.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR4482235137.mp3" length="5000" type="audio/mpeg"/>
             <description>The one animal we can’t seem to live without, even when we really, really want to.</description>
             <pubDate>Fri, 09 Jun 2023 18:00:00 -0400</pubDate>
         </item>
