@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-09-23 06:00:16. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-09-30 05:59:36. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -20,7 +20,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-09-23 06:00:16. Known missing e
         <item>
             <title>841: My Senior Year</title>
             <link>https://www.thisamericanlife.org/841/my-senior-year</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/extended/841.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR4631524452.mp3" length="5000" type="audio/mpeg"/>
             <description>One kid comes to America as an exchange student and commits herself to the senior year experience.</description>
             <pubDate>Fri, 20 Sep 2024 18:00:00 -0400</pubDate>
         </item>
@@ -301,7 +301,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>801: Must Be Rats on the Brain</title>
             <link>https://www.thisamericanlife.org/801/must-be-rats-on-the-brain</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR4482235137.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/801/CE6igqsXaA7O_I3oBbBJot_UPCkSbARGWdwkLp5BWUA/801.mp3" length="5000" type="audio/mpeg"/>
             <description>The one animal we can’t seem to live without, even when we really, really want to.</description>
             <pubDate>Fri, 09 Jun 2023 18:00:00 -0400</pubDate>
         </item>
@@ -2042,7 +2042,7 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>553: Stuck in the Middle</title>
             <link>https://www.thisamericanlife.org/553/stuck-in-the-middle</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/553/xd3B5_YvHmW65r3wABj5mFO2MWVR_WWARKLoMwxuD4s/553.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR9159425904.mp3" length="5000" type="audio/mpeg"/>
             <description>People caught in limbo, using ingenuity and guile to try to get themselves out.</description>
             <pubDate>Fri, 03 Apr 2015 18:00:00 -0400</pubDate>
         </item>
