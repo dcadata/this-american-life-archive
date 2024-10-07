@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-09-30 05:59:36. Known missing episodes: 454.
+Feed URL: tal.ankar.io. Feed last refreshed 2024-10-07 06:02:28. Known missing episodes: 454.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,13 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-09-30 05:59:36. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>842: 51 Days</title>
+            <link>https://www.thisamericanlife.org/842/51-days</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR7243952442.mp3" length="5000" type="audio/mpeg"/>
+            <description>Chen Almog-Goldstein was kidnapped by Hamas along with her three youngest children on October 7, 2023. This week, she tells the story of their life as hostages in Gaza.</description>
+            <pubDate>Fri, 04 Oct 2024 18:00:00 -0400</pubDate>
+        </item>
         <item>
             <title>841: My Senior Year</title>
             <link>https://www.thisamericanlife.org/841/my-senior-year</link>
@@ -76,7 +83,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-09-30 05:59:36. Known missing e
         <item>
             <title>833: Come Retribution</title>
             <link>https://www.thisamericanlife.org/833/come-retribution</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR7536158612.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/833/gGJgT-niB6NCU026SaJeCiknL4IHwn-g4AQwAlKa7uY/833.mp3" length="5000" type="audio/mpeg"/>
             <description>Donald Trump has talked about taking retribution on his enemies since the early days of his 2024 presidential campaign. After his conviction last week in New York, his talk intensified. We try to understand what his retribution might look like by speaking with people who have the most to lose in a second Trump administration: people who believe Trump will be coming for them.</description>
             <pubDate>Fri, 07 Jun 2024 18:00:00 -0400</pubDate>
         </item>
