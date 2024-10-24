@@ -1,3 +1,4 @@
+# pip install bs4 lxml
 from datetime import datetime
 from time import sleep
 from xml.sax.saxutils import escape
@@ -79,13 +80,21 @@ class TALScraper:
         open('TALArchive.xml', 'w').write(xml_output)
 
     def _get_feed_episode_nums(self) -> set:
-        r = self.session.get('http://feed.thisamericanlife.org/talpodcast')
+        url = 'http://feed.thisamericanlife.org/talpodcast'
+        print(f"Fetching {url}")
+        r = self.session.get(url)
         sleep(1)
         soup = BeautifulSoup(r.text, 'lxml')
-        return {int(elem.find('title').text.split(':', 1)[0]) for elem in soup.find_all('item')}
+        all_nums = set()
+        for elem in soup.find_all('item'):
+            num = elem.find('title').text.split(':', 1)[0]
+            if isinstance(num, int):
+                all_nums.add(num)
+        return all_nums
 
     def _make_one_request(self, num: int) -> dict:
         url = f'https://www.thisamericanlife.org/episode/{num}'
+        print(f"Fetching {url}")
         r = self.session.get(url)
         assert r.ok
         data = {
