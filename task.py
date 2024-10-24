@@ -1,5 +1,5 @@
 # pip install bs4 lxml
-from datetime import datetime
+from datetime import datetime, timezone
 from time import sleep
 from xml.sax.saxutils import escape
 
@@ -49,11 +49,17 @@ class TALScraper:
     def get_nums_to_request(self):
         completed = self.transformed.copy()
         completed_nums = set(completed.num)
-        temp_url_nums = set(completed[completed.download_url.str.startswith('https://dts.podtrac.com')].num)
+        print(f"completed_nums is {completed_nums}")
+        # temp_url_nums = set(completed[completed.download_url.str.startswith('https://dts.podtrac.com')].num)
+        # print(f"temp_url_nums is {temp_url_nums}")
         feed_nums = self._get_feed_episode_nums()
+        print(f"feed_nums is {feed_nums}")
 
-        self.nums = set(range(1, max(completed_nums.union(feed_nums)) + 1))
-        self.nums.update(temp_url_nums - feed_nums)
+        # self.nums = set(range(1, max(completed_nums.union(feed_nums)) + 1))
+        self.nums = set(feed_nums - completed_nums)
+        print(f"self.nums is {self.nums}")
+        # self.nums.update(temp_url_nums - feed_nums)
+        # print(f"self.nums is {self.nums}")
 
     def make_requests(self):
         for num in self.nums:
@@ -84,12 +90,14 @@ class TALScraper:
         print(f"Fetching {url}")
         r = self.session.get(url)
         sleep(1)
-        soup = BeautifulSoup(r.text, 'lxml')
+        soup = BeautifulSoup(r.text, 'lxml-xml')
         all_nums = set()
         for elem in soup.find_all('item'):
             num = elem.find('title').text.split(':', 1)[0]
-            if isinstance(num, int):
-                all_nums.add(num)
+            # print(f"num is {num}")
+            if str(num).isdigit():
+                all_nums.add(int(num))
+        # print(f"feed_episode_nums is {all_nums}")
         return all_nums
 
     def _make_one_request(self, num: int) -> dict:
@@ -122,7 +130,7 @@ class TALScraper:
         item_xml = _read('item')
         items_xml = '\n'.join((item_xml.format(**record) for record in df.to_dict('records')))
         xml_output = _read('feed').format(
-            last_refresh=datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'),
+            last_refresh=datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S'),
             missing_nums=', '.join(str(i) for i in self._missing.num),
             items=items_xml,
         )
