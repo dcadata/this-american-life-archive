@@ -50,16 +50,11 @@ class TALScraper:
         completed = self.transformed.copy()
         completed_nums = set(completed.num)
         print(f"completed_nums is {completed_nums}")
-        # temp_url_nums = set(completed[completed.download_url.str.startswith('https://dts.podtrac.com')].num)
-        # print(f"temp_url_nums is {temp_url_nums}")
         feed_nums = self._get_feed_episode_nums()
         print(f"feed_nums is {feed_nums}")
 
-        # self.nums = set(range(1, max(completed_nums.union(feed_nums)) + 1))
         self.nums = set(feed_nums - completed_nums)
         print(f"self.nums is {self.nums}")
-        # self.nums.update(temp_url_nums - feed_nums)
-        # print(f"self.nums is {self.nums}")
 
     def make_requests(self):
         for num in self.nums:
@@ -94,10 +89,8 @@ class TALScraper:
         all_nums = set()
         for elem in soup.find_all('item'):
             num = elem.find('title').text.split(':', 1)[0]
-            # print(f"num is {num}")
             if str(num).isdigit():
                 all_nums.add(int(num))
-        # print(f"feed_episode_nums is {all_nums}")
         return all_nums
 
     def _make_one_request(self, num: int) -> dict:
