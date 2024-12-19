@@ -1,5 +1,4 @@
-# pip install bs4 lxml
-from datetime import datetime, timezone
+import datetime
 from time import sleep
 from xml.sax.saxutils import escape
 
@@ -123,7 +122,7 @@ class TALScraper:
         item_xml = _read('item')
         items_xml = '\n'.join((item_xml.format(**record) for record in df.to_dict('records')))
         xml_output = _read('feed').format(
-            last_refresh=datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S'),
+            last_refresh=datetime.datetime.now(datetime.UTC).strftime('%Y-%m-%d %H:%M:%S'),
             missing_nums=', '.join(str(i) for i in self._missing.num),
             items=items_xml,
         )
