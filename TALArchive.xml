@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2024-12-30 05:37:51. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-01-01 20:59:46. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -27,7 +27,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2024-12-30 05:37:51. Known missing e
         <item>
             <title>849: The Narrator</title>
             <link>https://www.thisamericanlife.org/849/the-narrator</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/849/Il9pQHF334pr51AHqB_dnihbYESRzBIMgRJtV0n2tYw/849.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/849/ABhEfcY8BfdI4lL_lvyzqC-P2v25Zlt1TiMsKNwkLWk/849.mp3" length="5000" type="audio/mpeg"/>
             <description>Banias is an 8-year-old kid living in Gaza. And she has a story to tell — many stories, in fact.</description>
             <pubDate>Fri, 13 Dec 2024 18:00:00 -0400</pubDate>
         </item>
