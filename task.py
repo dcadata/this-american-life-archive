@@ -77,7 +77,7 @@ class TALScraper:
         df = self._transform()
         df.to_csv(self._transformed_fp, index=False)
         xml_output = self._write_xml(df)
-        open('TALArchive.xml', 'w').write(xml_output)
+        open('TALArchive.xml', 'w', encoding='utf8').write(xml_output)
 
     def _get_feed_episode_nums(self) -> set:
         url = 'http://feed.thisamericanlife.org/talpodcast'
