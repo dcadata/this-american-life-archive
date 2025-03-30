@@ -4,4 +4,5 @@
             <enclosure url="{download_url}" length="5000" type="audio/mpeg"/>
             <description>{description}</description>
             <pubDate>{pubdate}</pubDate>
+            <guid isPermaLink="false">{num}: {title} at https://www.thisamericanlife.org</guid>
         </item>
