@@ -36,8 +36,10 @@ class Episode:
 
 
 class TALScraper:
-    def __init__(self, **kwargs):
-        self.session = kwargs.get('session')
+    def __init__(self, **kwargs) -> None:
+        self.session: Session = kwargs.get('session')
+        self._refresh_old_episodes: bool = kwargs.get('refresh_old_episodes')
+
         self._raw_fp = 'data/raw.csv'
         self._transformed_fp = 'data/transformed.csv'
         self._missing_fp = 'data/missing.csv'
@@ -45,15 +47,16 @@ class TALScraper:
         self._new = []
         self._exc = []
 
-    def get_nums_to_request(self):
-        completed = self.transformed.copy()
-        completed_nums = set(completed.num)
-        print(f"completed_nums is {completed_nums}")
-        feed_nums = self._get_feed_episode_nums()
-        print(f"feed_nums is {feed_nums}")
+    def get_nums_to_request(self) -> None:
+        completed_episode_nums = set(self.transformed.num)
 
-        self.nums = set(feed_nums - completed_nums)
-        print(f"self.nums is {self.nums}")
+        if self._refresh_old_episodes:
+            self.nums = completed_episode_nums
+            return
+
+        episode_nums_from_feed = self._get_feed_episode_nums()
+        self.nums = set(episode_nums_from_feed - completed_episode_nums)
+        return
 
     def make_requests(self):
         for num in self.nums:
@@ -158,7 +161,7 @@ class TALScraper:
 
 
 def main():
-    scraper = TALScraper()
+    scraper = TALScraper(refresh_old_episodes=True)
     scraper.session = Session()
     scraper.get_nums_to_request()
     if scraper.nums:
