@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-03-31 06:04:22. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-04-07 06:04:45. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -1527,7 +1527,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <title>668: The Long Fuse</title>
             <link>https://www.thisamericanlife.org/668/the-long-fuse</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/668/h9D3EFQph_ulEY6w1H5TXB0UR-kvxczz8oQEvxQm0Og/668.mp3" length="5000" type="audio/mpeg"/>
-            <description>People tossing words out into the world impulsively, to ignite and burn over decades.</description>
+            <description>People tossing words out into the world impulsively to ignite and burn over decades.</description>
             <pubDate>Fri, 15 Feb 2019 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">668: The Long Fuse at https://www.thisamericanlife.org</guid>
         </item>
