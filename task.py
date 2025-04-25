@@ -161,7 +161,7 @@ class TALScraper:
 
 
 def main():
-    scraper = TALScraper(refresh_old_episodes=True)
+    scraper = TALScraper(refresh_old_episodes=False)
     scraper.session = Session()
     scraper.get_nums_to_request()
     if scraper.nums:
