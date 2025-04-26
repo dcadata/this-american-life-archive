@@ -43,19 +43,20 @@ class TALScraper:
         self._raw_fp = 'data/raw.csv'
         self._transformed_fp = 'data/transformed.csv'
         self._missing_fp = 'data/missing.csv'
-        self.nums = None
+        self.nums: set = set()
         self._new = []
         self._exc = []
 
     def get_nums_to_request(self) -> None:
-        completed_episode_nums = set(self.transformed.num)
+        old_episode_nums = set(self.transformed.num)
+        episode_nums_from_feed = self._get_feed_episode_nums()
+
+        self.nums = self.nums.union(episode_nums_from_feed)
 
         if self._refresh_old_episodes:
-            self.nums = completed_episode_nums
-            return
-
-        episode_nums_from_feed = self._get_feed_episode_nums()
-        self.nums = set(episode_nums_from_feed - completed_episode_nums)
+            self.nums = self.nums.union(old_episode_nums)
+        else:
+            self.nums -= old_episode_nums
         return
 
     def make_requests(self):
@@ -161,7 +162,7 @@ class TALScraper:
 
 
 def main():
-    scraper = TALScraper(refresh_old_episodes=False)
+    scraper = TALScraper(refresh_old_episodes=True)
     scraper.session = Session()
     scraper.get_nums_to_request()
     if scraper.nums:
