@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-04-25 18:23:28. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-04-28 06:14:14. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-04-25 18:23:28. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>859: Chaos Graph</title>
+            <link>https://www.thisamericanlife.org/859/chaos-graph</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/859/A0LQCKi6hd0vJ1Tf_jzyhhE0_jNAq4WotPUUd6ZToDI/859.mp3" length="5000" type="audio/mpeg"/>
+            <description>People immersed in chaos try to solve for what it all adds up to.</description>
+            <pubDate>Fri, 25 Apr 2025 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">859: Chaos Graph at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>858: How to Tell a Dumb American Story</title>
             <link>https://www.thisamericanlife.org/858/how-to-tell-a-dumb-american-story</link>
@@ -1783,7 +1791,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
             <title>638: Rom-Com</title>
             <link>https://www.thisamericanlife.org/638/rom-com</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/638/KvmZxsKWav_rLrLsdL6mZ7X7eSrwdkfbiyeJeQT9kSw/638.mp3" length="5000" type="audio/mpeg"/>
-            <description>The one thing you know for sure when you're watching a romantic comedy is that it's going to turn out okay in the end. When you're living one? Not so much. This week, stories that unfold like rom-coms.</description>
+            <description>The one thing you know for sure when you're watching a romantic comedy is that it's going to turn out okay in the end. When you're living one? Not so much.</description>
             <pubDate>Fri, 09 Feb 2018 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">638: Rom-Com at https://www.thisamericanlife.org</guid>
         </item>
@@ -4230,7 +4238,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>332: The Ten Commandments</title>
             <link>https://www.thisamericanlife.org/332/the-ten-commandments</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/332/D6PgS0nBYX7hQT1eknku9E-VcOpVGJXDl3ik0ccExfk/332.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/332/PBfpAuEG1C6pTHyZhmMYWsxdXFHTDfp6B92EDhWMPeI/332.mp3" length="5000" type="audio/mpeg"/>
             <description>For Easter weekend — and the end of Passover! — stories of people struggling to follow the Ten Commandments.</description>
             <pubDate>Fri, 04 May 2007 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">332: The Ten Commandments at https://www.thisamericanlife.org</guid>
