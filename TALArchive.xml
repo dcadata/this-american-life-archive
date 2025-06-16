@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-06-09 06:06:47. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-06-16 06:09:01. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -4197,7 +4197,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
             <title>339: Break-Up</title>
             <link>https://www.thisamericanlife.org/339/break-up</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/339/PNL8uUc2rzN1wZcQ7xrm6906QVAPyXcjLCuqA_rgKeo/339.mp3" length="5000" type="audio/mpeg"/>
-            <description>For Valentine's Day, stories from the heart of heartbreak.</description>
+            <description>Stories from the heart of heartbreak.</description>
             <pubDate>Fri, 24 Aug 2007 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">339: Break-Up at https://www.thisamericanlife.org</guid>
         </item>
@@ -4598,8 +4598,8 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>289: Go Ask Your Father</title>
             <link>https://www.thisamericanlife.org/289/go-ask-your-father</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/289/hd4f7KUrUG2W7NRGzi_j2BuPD5arfg9ADiH694aF2u4/289.mp3" length="5000" type="audio/mpeg"/>
-            <description>Sons and daughters get to find out the one thing they've always wanted to know about their father. The answers aren't always what they hope for.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/289/4nQ4K1aNf5dQjsBZKDXXuavVzkfvhgSiefCMfZ6kpOE/289.mp3" length="5000" type="audio/mpeg"/>
+            <description>In honor of Father’s Day, stories of sons and daughters finding out the one thing they've always wanted to know about their father. The answers aren't always what they’d hoped for.</description>
             <pubDate>Fri, 13 May 2005 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">289: Go Ask Your Father at https://www.thisamericanlife.org</guid>
         </item>
