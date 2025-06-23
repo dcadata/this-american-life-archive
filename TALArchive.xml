@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-06-16 06:09:01. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-06-23 06:08:51. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-06-16 06:09:01. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>862: Some Things We Don't Do Anymore</title>
+            <link>https://www.thisamericanlife.org/862/some-things-we-dont-do-anymore</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/862/7S3DAAmXKxlrwLydU4ktF23n-gISlUKO-sOG7xCSrSA/862.mp3" length="5000" type="audio/mpeg"/>
+            <description>On his first day in office, President Trump decided to freeze all U.S. foreign aid. Soon after, his administration effectively dissolved USAID—the federal agency that delivers billions in food, medicine, and other aid worldwide. Many of its programs have been canceled. Now, as USAID officially winds down, we try to assess its impact. What was good? What was not so good? We meet people around the world wrestling with these questions and trying to navigate this chaotic moment.</description>
+            <pubDate>Fri, 20 Jun 2025 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">862: Some Things We Don't Do Anymore at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>861: Group Chat</title>
             <link>https://www.thisamericanlife.org/861/group-chat</link>
