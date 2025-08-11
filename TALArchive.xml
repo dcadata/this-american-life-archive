@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-08-04 06:21:44. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-08-11 06:14:45. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -2847,20 +2847,20 @@ An updated version of an episode originally broadcast back in 1997.</description
             <guid isPermaLink="false">512: House Rules at https://www.thisamericanlife.org</guid>
         </item>
         <item>
-            <title>510: The Seven Things You’re Not Supposed to Talk About</title>
-            <link>https://www.thisamericanlife.org/510/the-seven-things-youre-not-supposed-to-talk-about</link>
+            <title>511: The Seven Things You’re Not Supposed to Talk About</title>
+            <link>https://www.thisamericanlife.org/511/the-seven-things-youre-not-supposed-to-talk-about</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/511/iCwWLUfLSAMPJEshI5Zo37frGOXMUipka_c4QfCXEck/511.mp3" length="5000" type="audio/mpeg"/>
             <description>Producer Sarah Koenig's mother lives by a set of rules about conversation. She has an actual list of off-limits topics, including how you slept, your period, your health, your diet and more. You don't talk about these things, she says, because nobody cares. This week we try to find stories on these exact topics that will prove her wrong.</description>
             <pubDate>Fri, 08 Nov 2013 18:00:00 -0400</pubDate>
-            <guid isPermaLink="false">510: The Seven Things You’re Not Supposed to Talk About at https://www.thisamericanlife.org</guid>
+            <guid isPermaLink="false">511: The Seven Things You’re Not Supposed to Talk About at https://www.thisamericanlife.org</guid>
         </item>
         <item>
-            <title>511: Fiasco! (2013)</title>
-            <link>https://www.thisamericanlife.org/511/fiasco-2013-0</link>
+            <title>510: Fiasco! (2013)</title>
+            <link>https://www.thisamericanlife.org/510/fiasco-2013-0</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/510/x3xfdFRz7crmZSx9roquH4XOxfVbkd83Yvhaz7X-aMw/510.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of when things go wrong. Really wrong. When you leave the normal realm of human error, fumble, mishap, and mistake and enter the territory of really huge breakdowns. Fiascos. Things go so awry that normal social order collapses.</description>
             <pubDate>Sun, 03 Nov 2013 18:00:00 -0400</pubDate>
-            <guid isPermaLink="false">511: Fiasco! (2013) at https://www.thisamericanlife.org</guid>
+            <guid isPermaLink="false">510: Fiasco! (2013) at https://www.thisamericanlife.org</guid>
         </item>
         <item>
             <title>509: It Says So Right Here</title>
