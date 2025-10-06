@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-09-29 06:02:41. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-10-06 06:01:13. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-09-29 06:02:41. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>869: Harold</title>
+            <link>https://www.thisamericanlife.org/869/harold</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3" length="5000" type="audio/mpeg"/>
+            <description>When Zohran Mamdani won the primary race for New York mayor, the Democratic establishment's lukewarm response echoed the treatment of another charismatic, unconventional candidate decades earlier. This week, we bring you the story of Harold Washington, the greatest politician you've probably never heard of, and the backlash that ensued when he became Chicago's first Black mayor.</description>
+            <pubDate>Fri, 03 Oct 2025 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">869: Harold at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>868: The Hand That Rocks The Gavel</title>
             <link>https://www.thisamericanlife.org/868/the-hand-that-rocks-the-gavel</link>
@@ -84,7 +92,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-09-29 06:02:41. Known missing e
         <item>
             <title>860: Suddenly: A Mirror!</title>
             <link>https://www.thisamericanlife.org/860/suddenly-a-mirror</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7502652376.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/860/CjUHwrfsvptLm92QnWEGKnvugrL9lw82MZa54Z1Tk3o/860.mp3" length="5000" type="audio/mpeg"/>
             <description>A show about people who are suddenly confronted with who they are.</description>
             <pubDate>Fri, 23 May 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">860: Suddenly: A Mirror! at https://www.thisamericanlife.org</guid>
@@ -2230,7 +2238,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>592: Are We There Yet?</title>
             <link>https://www.thisamericanlife.org/592/are-we-there-yet</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/592/L9fKMiXHuXujWKI3ovwHZSvGyDXVOUQHtSk3NU60s_0/592.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/592/L9fKMiXHuXujWKI3ovwHZSvGyDXVOUQHtSk3NU60s_0/592.mp3" length="5000" type="audio/mpeg"/>
             <description>A bunch of us from our show went to refugee camps all over Greece. We found people falling in love, kids mad at their parents for dragging them to Europe, women doing their laundry in a baseball stadium locker room, and hundreds of people living at a gas station—sitting next to the pumps, smoking. Also: wild pigs. 57,000 refugees are stuck in Greece, making homes in some surprising locations. We hear what that’s really like. (Part Two)</description>
             <pubDate>Fri, 29 Jul 2016 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">592: Are We There Yet? at https://www.thisamericanlife.org</guid>
@@ -6292,12 +6300,12 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
             <guid isPermaLink="false">85: Poultry Slam 1997 at https://www.thisamericanlife.org</guid>
         </item>
         <item>
-            <title>84: Harold</title>
-            <link>https://www.thisamericanlife.org/84/harold</link>
+            <title>84: Harold (1997)</title>
+            <link>https://www.thisamericanlife.org/84/harold-1997</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/84/34IqYKwmTddi_rMn78cUq23pSG97YDFQ0oe03qyUTFg/84.mp3" length="5000" type="audio/mpeg"/>
-            <description>The story of Harold Washington, the greatest politician you've probably never heard of, and the white backlash that was set off when he became Chicago's first black mayor. This weekend is the 30th anniversary of his death.</description>
+            <description>The story of Harold Washington, the greatest politician you've probably never heard of, and the white backlash that was set off when he became Chicago's first Black mayor.</description>
             <pubDate>Fri, 21 Nov 1997 18:00:00 -0400</pubDate>
-            <guid isPermaLink="false">84: Harold at https://www.thisamericanlife.org</guid>
+            <guid isPermaLink="false">84: Harold (1997) at https://www.thisamericanlife.org</guid>
         </item>
         <item>
             <title>83: One of Us</title>
