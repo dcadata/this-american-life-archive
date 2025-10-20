@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-10-13 06:04:46. Known missing episodes: 844.
+Feed URL: tal.ankar.io. Feed last refreshed 2025-10-20 06:03:13. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -84,7 +84,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-10-13 06:04:46. Known missing e
         <item>
             <title>862: Some Things We Don't Do Anymore</title>
             <link>https://www.thisamericanlife.org/862/some-things-we-dont-do-anymore</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9826036922.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/862/7S3DAAmXKxlrwLydU4ktF23n-gISlUKO-sOG7xCSrSA/862.mp3" length="5000" type="audio/mpeg"/>
             <description>On his first day in office, President Trump decided to freeze all U.S. foreign aid. Soon after, his administration effectively dissolved USAID—the federal agency that delivers billions in food, medicine, and other aid worldwide. Many of its programs have been canceled. Now, as USAID officially winds down, we try to assess its impact. What was good? What was not so good? We meet people around the world wrestling with these questions and trying to navigate this chaotic moment.</description>
             <pubDate>Fri, 20 Jun 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">862: Some Things We Don't Do Anymore at https://www.thisamericanlife.org</guid>
@@ -228,7 +228,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-10-13 06:04:46. Known missing e
         <item>
             <title>844: This Is the Case of Henry Dee</title>
             <link>https://www.thisamericanlife.org/844/this-is-the-case-of-henry-dee</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/844/X55_q3XsjiVyGMvBYB-JHSvtZo7fQs3KnINMf3rGsxI/844.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3" length="5000" type="audio/mpeg"/>
             <description>Thirteen parole board members decide whether or not one man should be released from prison.</description>
             <pubDate>Fri, 18 Oct 2024 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">844: This Is the Case of Henry Dee at https://www.thisamericanlife.org</guid>
@@ -3482,7 +3482,7 @@ Transcript. Press Release.</description>
         <item>
             <title>437: Old Boys Network</title>
             <link>https://www.thisamericanlife.org/437/old-boys-network</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/437/2LRRuWnXQNyr-8X1IsqIN-l81ETAFaRK5-w1lv6ToUE/437.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/437/z3s4JNAt7zTlnS39Nojnn61m8YO9Um3pI0OacAXWAMQ/437.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about standing up to the man—or, really, the men. Nurses at a small Texas hospital report a well-connected doctor for dangerous medical practices, and find themselves under arrest. Plus...how political operators in Chicago get to be judges.</description>
             <pubDate>Fri, 03 Jun 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">437: Old Boys Network at https://www.thisamericanlife.org</guid>
@@ -3498,7 +3498,7 @@ Transcript. Press Release.</description>
         <item>
             <title>435: How To Create a Job</title>
             <link>https://www.thisamericanlife.org/435/how-to-create-a-job</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/435/RjX3aozinbvcSy2EsaliZ0XZyb07UJyNcYpHCZXEm6Q/435.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/435/8WEkFF03c_bHMsBjr93nMJV1nTDac02UWzfQ9AlQfF0/435.mp3" length="5000" type="audio/mpeg"/>
             <description>It seems like every politician has a plan for putting people back to work. But we and the Planet Money team couldn’t help but wonder…how do you create a job? Can politicians truly create many jobs? Is it possible the whole thing is just well-intentioned hot air?</description>
             <pubDate>Fri, 13 May 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">435: How To Create a Job at https://www.thisamericanlife.org</guid>
