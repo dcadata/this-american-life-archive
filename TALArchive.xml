@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-10-20 06:03:13. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-10-27 06:04:52. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-10-20 06:03:13. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>871: The Thing About Things</title>
+            <link>https://www.thisamericanlife.org/871/the-thing-about-things</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3" length="5000" type="audio/mpeg"/>
+            <description>Three stories about the strange power inanimate objects can hold over us.</description>
+            <pubDate>Fri, 24 Oct 2025 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">871: The Thing About Things at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>870: My Other Self</title>
             <link>https://www.thisamericanlife.org/870/my-other-self</link>
@@ -3506,7 +3514,7 @@ Transcript. Press Release.</description>
         <item>
             <title>434: This Week</title>
             <link>https://www.thisamericanlife.org/434/this-week</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/434/Y_QlkX-qaCQqKub6dZUsGSnb3-0GrhBWya1w7P-lrPo/434.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/434/_hprc3isVq4wI_5el0bVBq_gMfbNeDRO1EhYzoKYH1M/434.mp3" length="5000" type="audio/mpeg"/>
             <description>This week we're trying something we've never tried before: An hour of stories about...this week. We take a crack at major news events, like what's happening in Egypt; and at the most minor, like an 8-year-old who's finally taking the training wheels off her bike. The stories are united by one thing: They all happened in the seven days prior to broadcast.</description>
             <pubDate>Fri, 06 May 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">434: This Week at https://www.thisamericanlife.org</guid>
@@ -3522,7 +3530,7 @@ Transcript. Press Release.</description>
         <item>
             <title>432: Know When To Fold ‘Em</title>
             <link>https://www.thisamericanlife.org/432/know-when-to-fold-em</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/432/0Wrqao5iMnRHFH-DROLmngqvAMQAB-TQUSCkiwkJeUk/432.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/432/nE6khkOB2egb7np5fjOUPtnjsvCpkrcL1_grAjk_l0A/432.mp3" length="5000" type="audio/mpeg"/>
             <description>When is it time to walk away, and when is it time to run? This week we have the story of an entire country deciding whether to give up on just one of its citizens, when to hold 'em in order to win nearly a million dollars in poker, and a new story from Dave Dickerson.</description>
             <pubDate>Fri, 08 Apr 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">432: Know When To Fold ‘Em at https://www.thisamericanlife.org</guid>
@@ -3554,7 +3562,7 @@ Transcript. Press Release.</description>
         <item>
             <title>428: Oh You Shouldn't Have</title>
             <link>https://www.thisamericanlife.org/428/oh-you-shouldnt-have</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/428/VBYyYS_NwgwEXea8wP8m68VyvdOTw8OiHtk4Brm0OKw/428.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/428/3OEdtmO2PKG4nIvXxZu-0IxO13jmwP2RhxcaI5j9J3U/428.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about the perils of giving and receiving gifts: Ones that go over spectacularly well in spite of being in poor taste, and ones that flop even with the best intentions. Including what happens when—surprise!—your whole past gets laid out for a live TV audience.</description>
             <pubDate>Fri, 04 Mar 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">428: Oh You Shouldn't Have at https://www.thisamericanlife.org</guid>
@@ -4694,7 +4702,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>286: Mind Games</title>
             <link>https://www.thisamericanlife.org/286/mind-games</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/286-extended-1758933057.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who try simple mind games on others, and then find themselves way in over their heads.</description>
             <pubDate>Fri, 08 Apr 2005 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">286: Mind Games at https://www.thisamericanlife.org</guid>
