@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-10-27 06:04:52. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-11-03 06:05:17. Known missing episodes: 362.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-10-27 06:04:52. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>872: Winners</title>
+            <link>https://www.thisamericanlife.org/872/winners</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3" length="5000" type="audio/mpeg"/>
+            <description>America loves winners—now more than ever. But how do you get to a win in 2025 America? We get up close and follow someone trying to build a big win for herself and thousands of others like her.</description>
+            <pubDate>Fri, 31 Oct 2025 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">872: Winners at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>871: The Thing About Things</title>
             <link>https://www.thisamericanlife.org/871/the-thing-about-things</link>
@@ -36,7 +44,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-10-27 06:04:52. Known missing e
         <item>
             <title>869: Harold</title>
             <link>https://www.thisamericanlife.org/869/harold</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/869-extended-1759669822.mp3" length="5000" type="audio/mpeg"/>
             <description>When Zohran Mamdani won the primary race for New York mayor, the Democratic establishment's lukewarm response echoed the treatment of another charismatic, unconventional candidate decades earlier. This week, we bring you the story of Harold Washington, the greatest politician you've probably never heard of, and the backlash that ensued when he became Chicago's first Black mayor.</description>
             <pubDate>Fri, 03 Oct 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">869: Harold at https://www.thisamericanlife.org</guid>
