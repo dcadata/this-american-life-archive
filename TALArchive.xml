@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-11-10 06:04:59. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-11-17 06:06:08. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-11-10 06:04:59. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>874: Under One Roof</title>
+            <link>https://www.thisamericanlife.org/874/under-one-roof</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3" length="5000" type="audio/mpeg"/>
+            <description>What’s great about living in a family is that everyone sees everything differently. Also, that’s what’s awful about living in a family. We go behind closed doors with two families.</description>
+            <pubDate>Fri, 14 Nov 2025 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">874: Under One Roof at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>873: Got You Pegged</title>
             <link>https://www.thisamericanlife.org/873/got-you-pegged</link>
@@ -252,7 +260,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-11-10 06:04:59. Known missing e
         <item>
             <title>844: This Is the Case of Henry Dee</title>
             <link>https://www.thisamericanlife.org/844/this-is-the-case-of-henry-dee</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6325401197.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/844-extended-1760745107.mp3" length="5000" type="audio/mpeg"/>
             <description>Thirteen parole board members decide whether or not one man should be released from prison.</description>
             <pubDate>Fri, 18 Oct 2024 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">844: This Is the Case of Henry Dee at https://www.thisamericanlife.org</guid>
@@ -4108,7 +4116,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>362: Got You Pegged (2008)</title>
             <link>https://www.thisamericanlife.org/362/got-you-pegged-2008</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/362/TQAsU2mT5NUOBEw3uvYitepZJ54vnh0-5N0BSVLvHP8/362.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/362.mp3" length="5000" type="audio/mpeg"/>
             <description>Shalom Auslander goes on vacation with his family, and suspects the beloved, chatty old man in the room next door is an imposter—and sets out to prove it. This and other stories about the pitfalls of making snap judgments about others.</description>
             <pubDate>Fri, 22 Aug 2008 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">362: Got You Pegged (2008) at https://www.thisamericanlife.org</guid>
