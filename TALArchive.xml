@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-11-17 06:06:08. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-11-24 06:06:33. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-11-17 06:06:08. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>875: I Hate Mysteries</title>
+            <link>https://www.thisamericanlife.org/875/i-hate-mysteries</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3" length="5000" type="audio/mpeg"/>
+            <description>What’s in the box? What’s in the $%&amp;ing box?!?</description>
+            <pubDate>Fri, 21 Nov 2025 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">875: I Hate Mysteries at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>874: Under One Roof</title>
             <link>https://www.thisamericanlife.org/874/under-one-roof</link>
@@ -44,7 +52,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-11-17 06:06:08. Known missing e
         <item>
             <title>871: The Thing About Things</title>
             <link>https://www.thisamericanlife.org/871/the-thing-about-things</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/871-extended-1761602108.mp3" length="5000" type="audio/mpeg"/>
             <description>Three stories about the strange power inanimate objects can hold over us.</description>
             <pubDate>Fri, 24 Oct 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">871: The Thing About Things at https://www.thisamericanlife.org</guid>
