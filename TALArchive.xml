@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-12-01 06:13:15. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-01 06:13:15. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>876: Bigger Than Me</title>
+            <link>https://www.thisamericanlife.org/876/bigger-than-me</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3" length="5000" type="audio/mpeg"/>
+            <description>When history comes knocking, you have to figure out what to do.</description>
+            <pubDate>Fri, 05 Dec 2025 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">876: Bigger Than Me at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>875: I Hate Mysteries</title>
             <link>https://www.thisamericanlife.org/875/i-hate-mysteries</link>
@@ -84,7 +92,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-01 06:13:15. Known missing e
         <item>
             <title>867: College Disorientation</title>
             <link>https://www.thisamericanlife.org/867/college-disorientation</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/867/81XW2i076LFM-0yqP9zajvfOGaPDC_wnqrWaz8ApYPs/867.mp3" length="5000" type="audio/mpeg"/>
             <description>Things are different on college campuses this year. We see inside the drama, with students and staff.</description>
             <pubDate>Fri, 12 Sep 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">867: College Disorientation at https://www.thisamericanlife.org</guid>
@@ -3586,7 +3594,7 @@ Transcript. Press Release.</description>
         <item>
             <title>429: Will They Know Me Back Home?</title>
             <link>https://www.thisamericanlife.org/429/will-they-know-me-back-home</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/429/ifUtrYIVINhhU4OE8YYHT9ykKVtdwtaedWjTQrQqpt0/429.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/429/sBrjSX0n2Rn7yzZg9BLL07jhCDlZTp73uajb0fRev2E/429.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who've grown so accustomed to wartime that the lives they've left behind no longer make sense. Including a US battalion going home on leave after 15 months of deployment, and an Iraqi translator's story of life after the gig is up.</description>
             <pubDate>Fri, 11 Mar 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">429: Will They Know Me Back Home? at https://www.thisamericanlife.org</guid>
@@ -3602,7 +3610,7 @@ Transcript. Press Release.</description>
         <item>
             <title>427: Original Recipe</title>
             <link>https://www.thisamericanlife.org/427/original-recipe</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/427/Rr2ScfmydlDaTBkhyfS0NOqJ-V4EnNwC2o2_LhBnDmo/427.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/427/AIh-X26SM1YbAN0AdJ_t-liGtMwvzN39D1YVS_XpMW8/427.mp3" length="5000" type="audio/mpeg"/>
             <description>The formula for Coca-Cola is one of the most jealously guarded trade secrets in the world. Locked in a vault in Atlanta. Supposedly unreplicable. But we think we may have found the original recipe. And to see if the formula actually might be Coke, we made a batch. Or, anyway, we asked the folks at Jones Soda and Sovereign Flavors to whip up some up, to see if it tastes like Coke.</description>
             <pubDate>Fri, 11 Feb 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">427: Original Recipe at https://www.thisamericanlife.org</guid>
@@ -3618,7 +3626,7 @@ Transcript. Press Release.</description>
         <item>
             <title>425: Slow To React</title>
             <link>https://www.thisamericanlife.org/425/slow-to-react</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/425/8zMquto2X_7a2rc5VTe_aJi-xkKf5EJvMBlmhidrsxo/425.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/425/MjEY9tZxiuMc-okIq2Mxr41xDk_7rSl3R8L3mqdrB4A/425.mp3" length="5000" type="audio/mpeg"/>
             <description>This week we have stories where people's reactions move very slowly, including the story of a wedding 17 years in the making, and what it's like when you have a terminal illness that's supposed to kill you in a year or two, and it decides to take its time. Note: The story in Act One isn’t suitable for children, and we’d like to note a trigger warning to survivors of abuse.</description>
             <pubDate>Fri, 21 Jan 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">425: Slow To React at https://www.thisamericanlife.org</guid>
@@ -4734,7 +4742,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>286: Mind Games</title>
             <link>https://www.thisamericanlife.org/286/mind-games</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/286-extended-1758933057.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/286/Chgh_17U7wh52q00ptQtE6TtGyr5LPkbdVX07GfTYPQ/286.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people who try simple mind games on others, and then find themselves way in over their heads.</description>
             <pubDate>Fri, 08 Apr 2005 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">286: Mind Games at https://www.thisamericanlife.org</guid>
