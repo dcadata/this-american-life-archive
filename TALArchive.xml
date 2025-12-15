@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2025-12-15 06:11:54. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -20,7 +20,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>876: Bigger Than Me</title>
             <link>https://www.thisamericanlife.org/876/bigger-than-me</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3" length="5000" type="audio/mpeg"/>
             <description>When history comes knocking, you have to figure out what to do.</description>
             <pubDate>Fri, 05 Dec 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">876: Bigger Than Me at https://www.thisamericanlife.org</guid>
@@ -28,7 +28,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>875: I Hate Mysteries</title>
             <link>https://www.thisamericanlife.org/875/i-hate-mysteries</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6726342547.mp3" length="5000" type="audio/mpeg"/>
             <description>What’s in the box? What’s in the $%&amp;ing box?!?</description>
             <pubDate>Fri, 21 Nov 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">875: I Hate Mysteries at https://www.thisamericanlife.org</guid>
@@ -36,7 +36,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>874: Under One Roof</title>
             <link>https://www.thisamericanlife.org/874/under-one-roof</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3" length="5000" type="audio/mpeg"/>
             <description>What’s great about living in a family is that everyone sees everything differently. Also, that’s what’s awful about living in a family. We go behind closed doors with two families.</description>
             <pubDate>Fri, 14 Nov 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">874: Under One Roof at https://www.thisamericanlife.org</guid>
@@ -44,7 +44,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>873: Got You Pegged</title>
             <link>https://www.thisamericanlife.org/873/got-you-pegged</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3" length="5000" type="audio/mpeg"/>
             <description>Shalom Auslander goes on vacation with his family, suspects the beloved, chatty old man in the room next door is an imposter, and sets out to prove it. This and other stories about the pitfalls of making snap judgments about others.</description>
             <pubDate>Fri, 07 Nov 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">873: Got You Pegged at https://www.thisamericanlife.org</guid>
@@ -52,7 +52,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>872: Winners</title>
             <link>https://www.thisamericanlife.org/872/winners</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6970061584.mp3" length="5000" type="audio/mpeg"/>
             <description>America loves winners—now more than ever. But how do you get to a win in 2025 America? We watch someone trying to score a win in a game whose rules are being made up as she plays.</description>
             <pubDate>Fri, 31 Oct 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">872: Winners at https://www.thisamericanlife.org</guid>
@@ -60,7 +60,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>871: The Thing About Things</title>
             <link>https://www.thisamericanlife.org/871/the-thing-about-things</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7025895016.mp3" length="5000" type="audio/mpeg"/>
             <description>Three stories about the strange power inanimate objects can hold over us.</description>
             <pubDate>Fri, 24 Oct 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">871: The Thing About Things at https://www.thisamericanlife.org</guid>
@@ -68,7 +68,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>870: My Other Self</title>
             <link>https://www.thisamericanlife.org/870/my-other-self</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9417124313.mp3" length="5000" type="audio/mpeg"/>
             <description>What happens when people create alternate versions of themselves and release them into the wild?</description>
             <pubDate>Fri, 10 Oct 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">870: My Other Self at https://www.thisamericanlife.org</guid>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>869: Harold</title>
             <link>https://www.thisamericanlife.org/869/harold</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8814052881.mp3" length="5000" type="audio/mpeg"/>
             <description>When Zohran Mamdani won the primary race for New York mayor, the Democratic establishment's lukewarm response echoed the treatment of another charismatic, unconventional candidate decades earlier. This week, we bring you the story of Harold Washington, the greatest politician you've probably never heard of, and the backlash that ensued when he became Chicago's first Black mayor.</description>
             <pubDate>Fri, 03 Oct 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">869: Harold at https://www.thisamericanlife.org</guid>
@@ -84,7 +84,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2025-12-08 06:08:51. Known missing e
         <item>
             <title>868: The Hand That Rocks The Gavel</title>
             <link>https://www.thisamericanlife.org/868/the-hand-that-rocks-the-gavel</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/868/r7-nqc3mwQ0XwSliBg3Stva-TohnchzPRvapsbGaRfM/868.mp3" length="5000" type="audio/mpeg"/>
             <description>A group of immigration judges, who almost never speak to the press, describes the dismantling of our immigration court system from the inside.</description>
             <pubDate>Fri, 19 Sep 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">868: The Hand That Rocks The Gavel at https://www.thisamericanlife.org</guid>
@@ -2929,7 +2929,7 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>513: 129 Cars</title>
             <link>https://www.thisamericanlife.org/513/129-cars</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3" length="5000" type="audio/mpeg"/>
             <description>We spend a month at a Jeep dealership on Long Island as they try to make their monthly sales goal: 129 cars. If they make it, they'll get a huge bonus from the manufacturer, possibly as high as $85,000 — enough to put them in the black for the month. If they don't make it, it'll be the second month in a row. So they pull out all the stops.</description>
             <pubDate>Fri, 13 Dec 2013 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">513: 129 Cars at https://www.thisamericanlife.org</guid>
@@ -3634,7 +3634,7 @@ Transcript. Press Release.</description>
         <item>
             <title>424: Kid Politics</title>
             <link>https://www.thisamericanlife.org/424/kid-politics</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/424/4eZij-Jaws3QAtCwHFQ87YpTnDxno0zLsRij3icHzj0/424.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/424/hOGcrsF8W_j49KXUAo8J_BewWKuvfZEwQwFM6mOq4Qs/424.mp3" length="5000" type="audio/mpeg"/>
             <description>What if, say, the U.S.-led invasion of Grenada in 1983 had been decided, not by Ronald Reagan, but by a bunch of middle-schoolers? And what if every rule at your high school had been determined, not by teachers and administrators, but entirely by teenagers? This week, stories about whether, when it comes to governing, kids do any better than grown-ups.</description>
             <pubDate>Fri, 14 Jan 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">424: Kid Politics at https://www.thisamericanlife.org</guid>
@@ -4990,7 +4990,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>255: Our Holiday Gift-Giving Guide</title>
             <link>https://www.thisamericanlife.org/255/our-holiday-gift-giving-guide</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/255/-Fj6DistkW17E-YwkjERs_rltLrkZsflWJ5VtIdomuk/255.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3" length="5000" type="audio/mpeg"/>
             <description>The vexing difficulty of finding the perfect gift.</description>
             <pubDate>Fri, 19 Dec 2003 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">255: Our Holiday Gift-Giving Guide at https://www.thisamericanlife.org</guid>
