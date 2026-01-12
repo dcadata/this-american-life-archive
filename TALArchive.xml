@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-01-05 06:20:08. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-01-12 06:17:03. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-01-05 06:20:08. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>878: New Lore Drop</title>
+            <link>https://www.thisamericanlife.org/878/new-lore-drop</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3" length="5000" type="audio/mpeg"/>
+            <description>People discovering information about their own lives that they did not know, and suddenly everything looks very different.</description>
+            <pubDate>Fri, 09 Jan 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">878: New Lore Drop at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>877: The Making Of</title>
             <link>https://www.thisamericanlife.org/877/the-making-of</link>
@@ -92,7 +100,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-01-05 06:20:08. Known missing e
         <item>
             <title>868: The Hand That Rocks The Gavel</title>
             <link>https://www.thisamericanlife.org/868/the-hand-that-rocks-the-gavel</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/868/r7-nqc3mwQ0XwSliBg3Stva-TohnchzPRvapsbGaRfM/868.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/868.mp3" length="5000" type="audio/mpeg"/>
             <description>A group of immigration judges, who almost never speak to the press, describes the dismantling of our immigration court system from the inside.</description>
             <pubDate>Fri, 19 Sep 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">868: The Hand That Rocks The Gavel at https://www.thisamericanlife.org</guid>
@@ -4998,7 +5006,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>255: Our Holiday Gift-Giving Guide</title>
             <link>https://www.thisamericanlife.org/255/our-holiday-gift-giving-guide</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/255-extended-1765582099.mp3" length="5000" type="audio/mpeg"/>
             <description>The vexing difficulty of finding the perfect gift.</description>
             <pubDate>Fri, 19 Dec 2003 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">255: Our Holiday Gift-Giving Guide at https://www.thisamericanlife.org</guid>
@@ -6366,7 +6374,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>84: Harold (1997)</title>
             <link>https://www.thisamericanlife.org/84/harold-1997</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/84/34IqYKwmTddi_rMn78cUq23pSG97YDFQ0oe03qyUTFg/84.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/84.mp3" length="5000" type="audio/mpeg"/>
             <description>The story of Harold Washington, the greatest politician you've probably never heard of, and the white backlash that was set off when he became Chicago's first Black mayor.</description>
             <pubDate>Fri, 21 Nov 1997 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">84: Harold (1997) at https://www.thisamericanlife.org</guid>
