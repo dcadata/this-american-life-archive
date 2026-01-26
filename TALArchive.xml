@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-01-19 06:18:30. Known missing episodes: 851.
+Feed URL: tal.ankar.io. Feed last refreshed 2026-01-26 06:17:35. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -244,7 +244,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-01-19 06:18:30. Known missing e
         <item>
             <title>851: Try a Little Tenderness</title>
             <link>https://www.thisamericanlife.org/851/try-a-little-tenderness</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/851/IJgReGTNzRi_o-skNRwZZee4vWzmx9SXXH3Rg5msDNs/851.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3" length="5000" type="audio/mpeg"/>
             <description>In the new year, stories of people trying a radical approach to solving their problems.</description>
             <pubDate>Fri, 10 Jan 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">851: Try a Little Tenderness at https://www.thisamericanlife.org</guid>
@@ -645,7 +645,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>801: Must Be Rats on the Brain</title>
             <link>https://www.thisamericanlife.org/801/must-be-rats-on-the-brain</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/801-extended-1766763886.mp3" length="5000" type="audio/mpeg"/>
             <description>The one animal we can’t seem to live without, even when we really, really want to.</description>
             <pubDate>Fri, 09 Jun 2023 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">801: Must Be Rats on the Brain at https://www.thisamericanlife.org</guid>
@@ -3602,7 +3602,7 @@ Transcript. Press Release.</description>
         <item>
             <title>431: See No Evil</title>
             <link>https://www.thisamericanlife.org/431/see-no-evil</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/431/qxaVxrC4ETpdDQIfB5Ejkb_KgCK7A7ogJWKO7fvs0pk/431.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/431/p2yC2d-t79Mlgb51bMwiZBcJbVD3RytOAMjmkpb5Mzs/431.mp3" length="5000" type="audio/mpeg"/>
             <description>When things are awkward or uncomfortable or distressing, a lot of times it's easier to not think about it. This week we have stories of people pretending that everything is okay and ignoring the awful stuff that's staring them straight in the face. Including a story of deceit and intrigue involving commemorative spoons from the Kennedy Center.</description>
             <pubDate>Fri, 01 Apr 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">431: See No Evil at https://www.thisamericanlife.org</guid>
