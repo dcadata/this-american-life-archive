@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-02-09 07:05:05. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-02-16 07:04:37. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-02-09 07:05:05. Known missing e
         <item>
             <title>873: Got You Pegged</title>
             <link>https://www.thisamericanlife.org/873/got-you-pegged</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/873/qM5tZ9ccHTHZlMV0Ln0FBdnaih5OOprPvJbClJCxJLA/873.mp3" length="5000" type="audio/mpeg"/>
             <description>Shalom Auslander goes on vacation with his family, suspects the beloved, chatty old man in the room next door is an imposter, and sets out to prove it. This and other stories about the pitfalls of making snap judgments about others.</description>
             <pubDate>Fri, 07 Nov 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">873: Got You Pegged at https://www.thisamericanlife.org</guid>
@@ -2221,9 +2221,9 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         </item>
         <item>
             <title>605: Kid Logic</title>
-            <link>https://www.thisamericanlife.org/605/kid-logic</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/605/yywgdqSNbNljH9WZenFwkMzCQ--0uvjZRUsHsxs8Voo/605.mp3" length="5000" type="audio/mpeg"/>
-            <description>Kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.</description>
+            <link>https://www.thisamericanlife.org/kid-logic</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3" length="5000" type="audio/mpeg"/>
+            <description>Kids using perfectly logical arguments and arriving at perfectly wrong conclusions.</description>
             <pubDate>Fri, 16 Dec 2016 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">605: Kid Logic at https://www.thisamericanlife.org</guid>
         </item>
@@ -5557,9 +5557,9 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         </item>
         <item>
             <title>188: Kid Logic (2001)</title>
-            <link>https://www.thisamericanlife.org/188/kid-logic-2001</link>
+            <link>https://www.thisamericanlife.org/kid-logic-2001</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/188/WFrvUIl9u8aRvHikmGLfTE327uWQqEm6J_p88XihU9A/188.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.</description>
+            <description>Stories of kids using perfectly logical arguments and arriving at perfectly wrong conclusions.</description>
             <pubDate>Fri, 22 Jun 2001 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">188: Kid Logic (2001) at https://www.thisamericanlife.org</guid>
         </item>
