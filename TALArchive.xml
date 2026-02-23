@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-02-16 07:04:37. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-02-23 07:05:25. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-02-16 07:04:37. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>881: I Want What I Want</title>
+            <link>https://www.thisamericanlife.org/i-want-what-i-want</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3" length="5000" type="audio/mpeg"/>
+            <description>People deciding to do things that most of us do NOT choose to do.</description>
+            <pubDate>Fri, 20 Feb 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">881: I Want What I Want at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>880: What Is Your Emergency?</title>
             <link>https://www.thisamericanlife.org/880/what-is-your-emergency</link>
@@ -163,8 +171,8 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-02-16 07:04:37. Known missing e
         </item>
         <item>
             <title>862: Some Things We Don't Do Anymore</title>
-            <link>https://www.thisamericanlife.org/862/some-things-we-dont-do-anymore</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/862/7S3DAAmXKxlrwLydU4ktF23n-gISlUKO-sOG7xCSrSA/862.mp3" length="5000" type="audio/mpeg"/>
+            <link>https://www.thisamericanlife.org/some-things-we-dont-do-anymore</link>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/862.mp3" length="5000" type="audio/mpeg"/>
             <description>On his first day in office, President Trump decided to freeze all U.S. foreign aid. Soon after, his administration effectively dissolved USAID—the federal agency that delivers billions in food, medicine, and other aid worldwide. Many of its programs have been canceled. Now, as USAID officially winds down, we try to assess its impact. What was good? What was not so good? We meet people around the world wrestling with these questions and trying to navigate this chaotic moment.</description>
             <pubDate>Fri, 20 Jun 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">862: Some Things We Don't Do Anymore at https://www.thisamericanlife.org</guid>
@@ -252,7 +260,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-02-16 07:04:37. Known missing e
         <item>
             <title>851: Try a Little Tenderness</title>
             <link>https://www.thisamericanlife.org/851/try-a-little-tenderness</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/851-extended-1769212414.mp3" length="5000" type="audio/mpeg"/>
             <description>In the new year, stories of people trying a radical approach to solving their problems.</description>
             <pubDate>Fri, 10 Jan 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">851: Try a Little Tenderness at https://www.thisamericanlife.org</guid>
@@ -1084,7 +1092,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         </item>
         <item>
             <title>747: Suitable for Children</title>
-            <link>https://www.thisamericanlife.org/747/suitable-for-children</link>
+            <link>https://www.thisamericanlife.org/suitable-for-children</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/747/qBhMBycWyKI6EHT6j_DplHaLZx0W--bh57Bz3NizdPU/747.mp3" length="5000" type="audio/mpeg"/>
             <description>Who thought that would be good for a kid?</description>
             <pubDate>Fri, 10 Sep 2021 18:00:00 -0400</pubDate>
@@ -5022,7 +5030,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>255: Our Holiday Gift-Giving Guide</title>
             <link>https://www.thisamericanlife.org/255/our-holiday-gift-giving-guide</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/255-extended-1765582099.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/255/-Fj6DistkW17E-YwkjERs_rltLrkZsflWJ5VtIdomuk/255.mp3" length="5000" type="audio/mpeg"/>
             <description>The vexing difficulty of finding the perfect gift.</description>
             <pubDate>Fri, 19 Dec 2003 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">255: Our Holiday Gift-Giving Guide at https://www.thisamericanlife.org</guid>
