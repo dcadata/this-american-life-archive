@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-02-23 07:05:25. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-03-02 06:36:00. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-02-23 07:05:25. Known missing e
         <item>
             <title>874: Under One Roof</title>
             <link>https://www.thisamericanlife.org/874/under-one-roof</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1170536702.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/874.mp3" length="5000" type="audio/mpeg"/>
             <description>What’s great about living in a family is that everyone sees everything differently. Also, that’s what’s awful about living in a family. We go behind closed doors with two families.</description>
             <pubDate>Fri, 14 Nov 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">874: Under One Roof at https://www.thisamericanlife.org</guid>
@@ -3681,8 +3681,8 @@ Transcript. Press Release.</description>
         </item>
         <item>
             <title>423: The Invention of Money</title>
-            <link>https://www.thisamericanlife.org/423/the-invention-of-money</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/423/B4VCrF8HFeG6fUzmApVPWClG0tRmqQTv1qRdnzNWj54/423.mp3" length="5000" type="audio/mpeg"/>
+            <link>https://www.thisamericanlife.org/the-invention-of-money</link>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/423/lMMop2SpyHNlgBT3HLhP-kggqFTwym4klrRzXtKi1WI/423.mp3" length="5000" type="audio/mpeg"/>
             <description>Five reporters stumbled on what seems like a basic question: What is money? The unsettling answer they found: Money is fiction. Photo: Stone money on the island of Yap.</description>
             <pubDate>Fri, 07 Jan 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">423: The Invention of Money at https://www.thisamericanlife.org</guid>
@@ -5406,8 +5406,8 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>208: Office Politics</title>
             <link>https://www.thisamericanlife.org/208/office-politics</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/208/PNi8drkd57s0fWZFooG-ZaVXGWvZez4hylvUE8gcDwo/208.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of high drama from our nation's workplaces. They turn out to be surprising, emotional places, with all the greed, jealousy, and ambition of real politics.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7530396505.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories of high drama from America's workplaces — surprising, emotional places full of the greed, jealousy, and ambition of real politics.</description>
             <pubDate>Fri, 15 Mar 2002 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">208: Office Politics at https://www.thisamericanlife.org</guid>
         </item>
