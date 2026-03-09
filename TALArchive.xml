@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-03-02 06:36:00. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-03-09 07:00:29. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-03-02 06:36:00. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>882: Give a Little Whistle</title>
+            <link>https://www.thisamericanlife.org/give-a-little-whistle</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3" length="5000" type="audio/mpeg"/>
+            <description>Two lawyers who work for ICE step forward and lift the curtain on what is really happening inside our immigration system right now.</description>
+            <pubDate>Fri, 06 Mar 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">882: Give a Little Whistle at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>881: I Want What I Want</title>
             <link>https://www.thisamericanlife.org/i-want-what-i-want</link>
@@ -661,7 +669,7 @@ The Retrievals, a new five-part series from Serial Productions, is hosted and r
         <item>
             <title>801: Must Be Rats on the Brain</title>
             <link>https://www.thisamericanlife.org/801/must-be-rats-on-the-brain</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/801-extended-1766763886.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/801/CE6igqsXaA7O_I3oBbBJot_UPCkSbARGWdwkLp5BWUA/801.mp3" length="5000" type="audio/mpeg"/>
             <description>The one animal we can’t seem to live without, even when we really, really want to.</description>
             <pubDate>Fri, 09 Jun 2023 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">801: Must Be Rats on the Brain at https://www.thisamericanlife.org</guid>
@@ -3697,8 +3705,8 @@ Transcript. Press Release.</description>
         </item>
         <item>
             <title>421: Last Man Standing</title>
-            <link>https://www.thisamericanlife.org/421/last-man-standing</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/421/TcUKWH8U5d9zBG7SrnX4cMe63ghAFMa92nDTKb_xhDw/421.mp3" length="5000" type="audio/mpeg"/>
+            <link>https://www.thisamericanlife.org/last-man-standing</link>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/421/N_0ZuOOaDkOWuaasRAc3Klpn0AEmHFIdlp-aKjMNjAI/421.mp3" length="5000" type="audio/mpeg"/>
             <description>Is it stubbornness? Tenacity? Survival of the fittest? This week, stories about people who feel compelled to keep going, especially when everyone else has given up.</description>
             <pubDate>Fri, 03 Dec 2010 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">421: Last Man Standing at https://www.thisamericanlife.org</guid>
@@ -6470,7 +6478,7 @@ really effective tactic. We have stories of crybabies in sports, in politics, on
         <item>
             <title>75: Kindness of Strangers</title>
             <link>https://www.thisamericanlife.org/kindness-of-strangers</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/75-extended-1770471242.mp3" length="5000" type="audio/mpeg"/>
             <description>An episode from our show's early days: Stories about what happens when strangers are kind — and when they're not.</description>
             <pubDate>Fri, 12 Sep 1997 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">75: Kindness of Strangers at https://www.thisamericanlife.org</guid>
