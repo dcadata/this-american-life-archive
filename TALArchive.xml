@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-03-16 07:17:28. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-03-23 07:12:39. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-03-16 07:17:28. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>883: Call Your Parents</title>
+            <link>https://www.thisamericanlife.org/call-your-parents</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>In the early days of the radio show, Ira did a series of interviews with his parents that completely changed his relationship with them. This week, he returns to those interviews.</description>
+            <pubDate>Fri, 20 Mar 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">883: Call Your Parents at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>882: Give a Little Whistle</title>
             <link>https://www.thisamericanlife.org/give-a-little-whistle</link>
@@ -76,7 +84,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-03-16 07:17:28. Known missing e
         <item>
             <title>875: I Hate Mysteries</title>
             <link>https://www.thisamericanlife.org/875/i-hate-mysteries</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/3e89cc3d-be3a-449d-bc04-078dd5cecae3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/875.mp3" length="5000" type="audio/mpeg"/>
             <description>What’s in the box? What’s in the $%&amp;ing box?!?</description>
             <pubDate>Fri, 21 Nov 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">875: I Hate Mysteries at https://www.thisamericanlife.org</guid>
@@ -3713,8 +3721,8 @@ Transcript. Press Release.</description>
         </item>
         <item>
             <title>420: Neighborhood Watch</title>
-            <link>https://www.thisamericanlife.org/420/neighborhood-watch</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/420/0Zatnkyla_UIjEspvusUsSDKkMBILwJE21DI3MiPLdo/420.mp3" length="5000" type="audio/mpeg"/>
+            <link>https://www.thisamericanlife.org/neighborhood-watch</link>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/420/XnFofh5k5R-B_87vwHWwK0Cb0pyRMty6GGx0RZ2-HPU/420.mp3" length="5000" type="audio/mpeg"/>
             <description>It’s amazing just how much drama can take place in the mini-universe of a neighborhood. This week we bring you stories of neighbors watching out for each other, for better and worse, including a story from CBC's WireTap.</description>
             <pubDate>Fri, 19 Nov 2010 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">420: Neighborhood Watch at https://www.thisamericanlife.org</guid>
