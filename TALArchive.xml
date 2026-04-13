@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-04-06 07:33:34. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-04-13 07:51:15. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-04-06 07:33:34. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>885: Bless This Mess</title>
+            <link>https://www.thisamericanlife.org/bless-this-mess</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>At a time when the U.S. government is trying to make American history tidier, we try to learn from the mess. Including the untold, messy story of Paul and Essie Robeson.</description>
+            <pubDate>Fri, 10 Apr 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">885: Bless This Mess at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>884: The Idiot</title>
             <link>https://www.thisamericanlife.org/the-idiot</link>
@@ -2070,7 +2078,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>628: In the Shadow of the City</title>
             <link>https://www.thisamericanlife.org/in-the-shadow-of-the-city</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/628-extended-1773435342.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories that take place on the edge of civilization, just out of sight.</description>
             <pubDate>Fri, 13 Oct 2017 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">628: In the Shadow of the City at https://www.thisamericanlife.org</guid>
