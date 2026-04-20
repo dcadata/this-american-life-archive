@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-04-13 07:51:15. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-04-20 07:52:56. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -84,7 +84,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-04-13 07:51:15. Known missing e
         <item>
             <title>877: The Making Of</title>
             <link>https://www.thisamericanlife.org/877/the-making-of</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/c6db5e9e-6c04-4f20-9e0e-5cca2c4e9366/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/877.mp3" length="5000" type="audio/mpeg"/>
             <description>How one block in Portland, Oregon became a movie-set war zone that lots of people think is a real war zone.</description>
             <pubDate>Fri, 19 Dec 2025 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">877: The Making Of at https://www.thisamericanlife.org</guid>
@@ -507,7 +507,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-04-13 07:51:15. Known missing e
         </item>
         <item>
             <title>824: Family Meeting</title>
-            <link>https://www.thisamericanlife.org/824/family-meeting</link>
+            <link>https://www.thisamericanlife.org/family-meeting</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/824/tgucbMVKDrwcKDR3fmDD7YWsOnYv1hnH7CKkQVNrKdU/824.mp3" length="5000" type="audio/mpeg"/>
             <description>Your mother and I have something we want to talk with you about.</description>
             <pubDate>Fri, 23 Feb 2024 18:00:00 -0400</pubDate>
@@ -3786,8 +3786,8 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         </item>
         <item>
             <title>414: Right to Remain Silent</title>
-            <link>https://www.thisamericanlife.org/414/right-to-remain-silent</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/414/9LnhmPDfZBX3RoRoN9l0MBDjE9o17h1V-NuG-T_l79U/414.mp3" length="5000" type="audio/mpeg"/>
+            <link>https://www.thisamericanlife.org/right-to-remain-silent</link>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/414/o5EqBihplGOlN5OrMqUy2OLsDnxkcoyQu-S29-RnJh8/414.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about people who have the right to remain silent, but choose not to exercise that right—including police officer Adrian Schoolcraft, who secretly recorded his supervisors telling officers to manipulate crime statistics and make illegal arrests. The Village Voice series that broke Schoolcraft's story, written by Graham Rayman, is here.</description>
             <pubDate>Fri, 10 Sep 2010 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">414: Right to Remain Silent at https://www.thisamericanlife.org</guid>
@@ -3955,8 +3955,8 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>393: Infidelity</title>
             <link>https://www.thisamericanlife.org/393/infidelity</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/393/DJd4cURisOoHRF6w4T9rSzfOFdEBXGfVueuQ5PjaLXU/393.mp3" length="5000" type="audio/mpeg"/>
-            <description>Stories of cheating, cheaters and the cheated. Writer James Braly with a story about temptation (performed and recorded at The Moth), Dani Shapiro on being the mistress, and more.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Stories of cheating, cheaters, and the cheated.</description>
             <pubDate>Fri, 30 Oct 2009 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">393: Infidelity at https://www.thisamericanlife.org</guid>
         </item>
@@ -4098,7 +4098,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         </item>
         <item>
             <title>375: Bad Bank</title>
-            <link>https://www.thisamericanlife.org/375/bad-bank</link>
+            <link>https://www.thisamericanlife.org/bad-bank</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/375/4lwNrUdtVvsPEKMc6D3sgr0lv7fuAMZ48wOL6kiai3E/375.mp3" length="5000" type="audio/mpeg"/>
             <description>The collapse of the banking system explained, in just 59 minutes. Alex Blumberg and Adam Davidson are back to help all of us understand the news. For instance, when we talk about an insolvent bank, what does it actually mean, and why are we giving hundreds of billions of dollars to rich bankers who screwed up their own businesses? Also, two guys go to New Jersey to look at a toxic asset.</description>
             <pubDate>Fri, 27 Feb 2009 18:00:00 -0400</pubDate>
@@ -6468,7 +6468,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         </item>
         <item>
             <title>79: Stuck in the Wrong Decade</title>
-            <link>https://www.thisamericanlife.org/79/stuck-in-the-wrong-decade</link>
+            <link>https://www.thisamericanlife.org/stuck-in-the-wrong-decade</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/79/a4mPDiOWxE3rRPJkmf8K77zXT7mq9KL4Lo4QaRguSJI/79.mp3" length="5000" type="audio/mpeg"/>
             <description>People stuck in the wrong decade, or simply carrying a lot of the props from another decade.</description>
             <pubDate>Fri, 10 Oct 1997 18:00:00 -0400</pubDate>
@@ -6501,7 +6501,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>75: Kindness of Strangers</title>
             <link>https://www.thisamericanlife.org/kindness-of-strangers</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/75-extended-1770471242.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/75.mp3" length="5000" type="audio/mpeg"/>
             <description>An episode from our show's early days: Stories about what happens when strangers are kind — and when they're not.</description>
             <pubDate>Fri, 12 Sep 1997 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">75: Kindness of Strangers at https://www.thisamericanlife.org</guid>
@@ -6644,7 +6644,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         </item>
         <item>
             <title>57: Delivery</title>
-            <link>https://www.thisamericanlife.org/57/delivery</link>
+            <link>https://www.thisamericanlife.org/delivery</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/57/XB0LJ7bLI_L8uQ9iHLKul7IaZfrnlDlqmptdVZpKsFg/57.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories about the delivery business and the people in it. UPS men, bike messengers, FedEx dispatchers.</description>
             <pubDate>Fri, 14 Mar 1997 18:00:00 -0400</pubDate>
