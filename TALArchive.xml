@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-04-27 08:09:18. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-05-04 08:30:23. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-04-27 08:09:18. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>886: Blackout</title>
+            <link>https://www.thisamericanlife.org/886/blackout</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Since the war began in Iran, we've heard very little from people inside the country — and there's a reason for that. The entire country has been under an internet blackout. We worked with reporters Roxana Saberi and Fatemeh Jamalpour to get voice memos out of the country. Even though it was dangerous and difficult, people wanted to be heard.</description>
+            <pubDate>Fri, 01 May 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">886: Blackout at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>885: Bless This Mess</title>
             <link>https://www.thisamericanlife.org/bless-this-mess</link>
@@ -5405,7 +5413,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>212: The Other Man</title>
             <link>https://www.thisamericanlife.org/212/the-other-man</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/212-extended-1775253725.mp3" length="5000" type="audio/mpeg"/>
             <description>What happens when a new guy comes on the scene and changes the way everyone relates to each other?</description>
             <pubDate>Fri, 10 May 2002 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">212: The Other Man at https://www.thisamericanlife.org</guid>
