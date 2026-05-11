@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-05-04 08:30:23. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-05-11 09:05:51. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-05-04 08:30:23. Known missing e
         <item>
             <title>879: A Christian and a Muslim Walk Into a Bar</title>
             <link>https://www.thisamericanlife.org/879/a-christian-and-a-muslim-walk-into-a-bar</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a1001cfd-5dc2-4bcb-94dd-82c9868a0ad9/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/879.mp3" length="5000" type="audio/mpeg"/>
             <description>When a joke could get you killed, should you say it anyway? A group of Syrian comedians test the limits of their newfound freedom, a year after the fall of the brutal Assad regime.</description>
             <pubDate>Fri, 16 Jan 2026 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">879: A Christian and a Muslim Walk Into a Bar at https://www.thisamericanlife.org</guid>
@@ -4565,8 +4565,8 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>318: With Great Power</title>
             <link>https://www.thisamericanlife.org/318/with-great-power</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/318/5qxFM2EQ8IsMSfGMDT9O1-vDsg8z2n7mGua20I4Z5T0/318.mp3" length="5000" type="audio/mpeg"/>
-            <description>A family wishes for years that they could do something to stop their neighbor's shocking behavior. Suddenly they get the power to decisively change things forever...and they have to decide whether they will. This, and other stories of everyday people who get saddled with great power—and the great sense of responsibility that goes with it.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People who end up with far more power than they bargained for, and everything that comes with it.</description>
             <pubDate>Fri, 06 Oct 2006 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">318: With Great Power at https://www.thisamericanlife.org</guid>
         </item>
@@ -5445,7 +5445,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>208: Office Politics</title>
             <link>https://www.thisamericanlife.org/208/office-politics</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/208-extended-1772245887.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/208/jKsoxnTcGPnVjwPmgStxzOeoXtdvbmKq3L7ncsaJm54/208.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of high drama from America's workplaces — surprising, emotional places full of the greed, jealousy, and ambition of real politics.</description>
             <pubDate>Fri, 15 Mar 2002 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">208: Office Politics at https://www.thisamericanlife.org</guid>
