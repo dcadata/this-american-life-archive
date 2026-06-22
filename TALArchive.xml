@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-06-15 11:53:37. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-06-22 11:38:59. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-06-15 11:53:37. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>889: There’s Something About Hail Mary</title>
+            <link>https://www.thisamericanlife.org/889/theres-something-about-hail-mary</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>We spend an hour in the last two minutes of the fourth quarter, behind and desperate, with people trying any damn thing they can think of.</description>
+            <pubDate>Fri, 19 Jun 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">889: There’s Something About Hail Mary at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>888: Not Today, Hades!</title>
             <link>https://www.thisamericanlife.org/888/not-today-hades</link>
@@ -1718,7 +1726,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>676: Here’s Looking at You, Kid</title>
             <link>https://www.thisamericanlife.org/676/heres-looking-at-you-kid</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/676-extended-1779541738.mp3" length="5000" type="audio/mpeg"/>
             <description>Adults telling kids who they are, and kids wondering — are they right?</description>
             <pubDate>Fri, 31 May 2019 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">676: Here’s Looking at You, Kid at https://www.thisamericanlife.org</guid>
