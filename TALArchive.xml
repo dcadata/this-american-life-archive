@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-06-22 11:38:59. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-06-29 10:32:04. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -3987,7 +3987,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>393: Infidelity</title>
             <link>https://www.thisamericanlife.org/393/infidelity</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/393-extended-1776517096.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/393.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of cheating, cheaters, and the cheated.</description>
             <pubDate>Fri, 30 Oct 2009 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">393: Infidelity at https://www.thisamericanlife.org</guid>
@@ -6037,7 +6037,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>137: The Book That Changed Your Life</title>
             <link>https://www.thisamericanlife.org/137/the-book-that-changed-your-life</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/137-extended-1780143825.mp3" length="5000" type="audio/mpeg"/>
             <description>We want to believe our lives can be changed by the ideas contained in a book.</description>
             <pubDate>Fri, 20 Aug 1999 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">137: The Book That Changed Your Life at https://www.thisamericanlife.org</guid>
@@ -6109,8 +6109,8 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>128: Four Corners</title>
             <link>https://www.thisamericanlife.org/128/four-corners</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/128/M9wLKbW5-NLd3aysWyyg5izz5GaO9S9goPlfjX4VZTM/128.mp3" length="5000" type="audio/mpeg"/>
-            <description>There's a tourist monument called Four Corners, where Arizona, Colorado, Utah and New Mexico meet. In this episode, we try to tell the story of life in America through portraits of life on four different corners, in four different states across the nation.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>We try to tell the story of life in America through portraits of life on four different corners, in four different states across the nation.</description>
             <pubDate>Fri, 30 Apr 1999 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">128: Four Corners at https://www.thisamericanlife.org</guid>
         </item>
