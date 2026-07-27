@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-07-20 08:47:12. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-07-27 09:18:00. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -18,10 +18,18 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-07-20 08:47:12. Known missing e
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
         <item>
+            <title>893: Testosterone</title>
+            <link>https://www.thisamericanlife.org/893/testosterone</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Defense Secretary Pete Hegseth has ordered everyone over 30 in the military to have their testosterone tested. That inspired us to rerun this classic episode where everyone at This American Life tested their testosterone and compared results. It did not lead to workplace harmony.</description>
+            <pubDate>Fri, 24 Jul 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">893: Testosterone at https://www.thisamericanlife.org</guid>
+        </item>
+        <item>
             <title>892: Trapped on a Bus</title>
             <link>https://www.thisamericanlife.org/892/trapped-on-a-bus</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>People on journeys they did not intend! Or agree to!</description>
+            <description>People on journeys they did not intend — or agree to.</description>
             <pubDate>Fri, 17 Jul 2026 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">892: Trapped on a Bus at https://www.thisamericanlife.org</guid>
         </item>
@@ -5395,12 +5403,12 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
             <guid isPermaLink="false">221: Fake I.D. at https://www.thisamericanlife.org</guid>
         </item>
         <item>
-            <title>220: Testosterone</title>
-            <link>https://www.thisamericanlife.org/220/testosterone</link>
+            <title>220: Testosterone (2002)</title>
+            <link>https://www.thisamericanlife.org/220/testosterone-2002</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/220/Khtix35j6Ptd4W7Bm98nL5pmaRi8XutKr2VnH4Anq1w/220.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people getting more testosterone and coming to regret it. And of people losing it and coming to appreciate life without it. The pros and cons of the hormone of desire. And we get our testosterone measured, as a staff.</description>
             <pubDate>Fri, 30 Aug 2002 18:00:00 -0400</pubDate>
-            <guid isPermaLink="false">220: Testosterone at https://www.thisamericanlife.org</guid>
+            <guid isPermaLink="false">220: Testosterone (2002) at https://www.thisamericanlife.org</guid>
         </item>
         <item>
             <title>219: High Speed Chase</title>
@@ -6133,7 +6141,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>128: Four Corners</title>
             <link>https://www.thisamericanlife.org/128/four-corners</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/128-extended-1782505801.mp3" length="5000" type="audio/mpeg"/>
             <description>We try to tell the story of life in America through portraits of life on four different corners, in four different states across the nation.</description>
             <pubDate>Fri, 30 Apr 1999 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">128: Four Corners at https://www.thisamericanlife.org</guid>
