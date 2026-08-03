@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-07-27 09:18:00. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-08-03 09:12:16. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-07-27 09:18:00. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>894: I Couldn't Help but Notice</title>
+            <link>https://www.thisamericanlife.org/894/i-couldnt-help-but-notice</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People dealing with new, glaring, massive changes happening right where they live.</description>
+            <pubDate>Fri, 31 Jul 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">894: I Couldn't Help but Notice at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>893: Testosterone</title>
             <link>https://www.thisamericanlife.org/893/testosterone</link>
@@ -92,7 +100,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-07-27 09:18:00. Known missing e
         <item>
             <title>884: The Idiot</title>
             <link>https://www.thisamericanlife.org/the-idiot</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/884.mp3" length="5000" type="audio/mpeg"/>
             <description>M. Gessen returns to our show with a true-crime story that takes place entirely within their own family. This story comes to us from the producers at Serial Productions—who invented the true-crime podcast more than a decade ago—and from The New York Times.</description>
             <pubDate>Fri, 27 Mar 2026 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">884: The Idiot at https://www.thisamericanlife.org</guid>
@@ -1758,7 +1766,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>676: Here’s Looking at You, Kid</title>
             <link>https://www.thisamericanlife.org/676/heres-looking-at-you-kid</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/676-extended-1779541738.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/676.mp3" length="5000" type="audio/mpeg"/>
             <description>Adults telling kids who they are, and kids wondering — are they right?</description>
             <pubDate>Fri, 31 May 2019 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">676: Here’s Looking at You, Kid at https://www.thisamericanlife.org</guid>
@@ -5405,7 +5413,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>220: Testosterone (2002)</title>
             <link>https://www.thisamericanlife.org/220/testosterone-2002</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/220/Khtix35j6Ptd4W7Bm98nL5pmaRi8XutKr2VnH4Anq1w/220.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/220.mp3" length="5000" type="audio/mpeg"/>
             <description>Stories of people getting more testosterone and coming to regret it. And of people losing it and coming to appreciate life without it. The pros and cons of the hormone of desire. And we get our testosterone measured, as a staff.</description>
             <pubDate>Fri, 30 Aug 2002 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">220: Testosterone (2002) at https://www.thisamericanlife.org</guid>
