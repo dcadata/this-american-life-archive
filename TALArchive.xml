@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-08-17 06:23:26. Known missing episodes: 206.
+Feed URL: tal.ankar.io. Feed last refreshed 2026-08-24 06:26:38. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -84,7 +84,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-08-17 06:23:26. Known missing e
         <item>
             <title>887: Two Is One, One Is None!</title>
             <link>https://www.thisamericanlife.org/887/two-is-one-one-is-none</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/887.mp3" length="5000" type="audio/mpeg"/>
             <description>One family faces the Trump administration’s ban on trans people serving in the military, and responds with a surprising secret weapon.</description>
             <pubDate>Fri, 15 May 2026 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">887: Two Is One, One Is None! at https://www.thisamericanlife.org</guid>
@@ -4347,7 +4347,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>354: Mistakes Were Made</title>
             <link>https://www.thisamericanlife.org/354/mistakes-were-made</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/354-extended-1781302618.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/354.mp3" length="5000" type="audio/mpeg"/>
             <description>It’s the late 1960s, and a California TV repairman named Bob sees an opportunity to help people cheat death with the new science of cryonics. But freezing dead people isn’t easy. And apologizing for the mistakes you make along the way? Even harder.</description>
             <pubDate>Fri, 18 Apr 2008 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">354: Mistakes Were Made at https://www.thisamericanlife.org</guid>
@@ -5533,8 +5533,8 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>206: Somewhere in the Arabian Sea</title>
             <link>https://www.thisamericanlife.org/206/somewhere-in-the-arabian-sea</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/206/vEnQyx8eK5ZhMfpgOYoCcasvEzZQYzuZjkj9zqT0Xa4/206.mp3" length="5000" type="audio/mpeg"/>
-            <description>Life aboard the USS John C. Stennis, an aircraft carrier that was stationed in the Arabian Sea and supported bombing missions over Afghanistan. Only a few dozen people on board actually fly jets. It takes the rest of the crew — over 5,000 people — to keep them in the air. This American Life producers visited the Stennis in 2002, about six weeks into its deployment. The hour is devoted to this one story.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The aircraft carrier USS Abraham Lincoln has been in the news over an extra-long deployment that's taking a toll on its crew. Back in 2002, we explored life aboard another aircraft carrier, the USS John C. Stennis, stationed in the Arabian Sea and supporting bombing missions over Afghanistan. Only a few dozen people on board actually fly jets. The rest of the crew — over 5,000 people — keeps them in the air.</description>
             <pubDate>Fri, 01 Mar 2002 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">206: Somewhere in the Arabian Sea at https://www.thisamericanlife.org</guid>
         </item>
