@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-09-07 11:03:33. Known missing episodes: 646.
+Feed URL: tal.ankar.io. Feed last refreshed 2026-09-14 11:19:43. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -76,7 +76,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-09-07 11:03:33. Known missing e
         <item>
             <title>889: There’s Something About Hail Mary</title>
             <link>https://www.thisamericanlife.org/889/theres-something-about-hail-mary</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/889.mp3" length="5000" type="audio/mpeg"/>
             <description>We spend an hour in the last two minutes of the fourth quarter, behind and desperate, with people trying any damn thing they can think of.</description>
             <pubDate>Fri, 19 Jun 2026 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">889: There’s Something About Hail Mary at https://www.thisamericanlife.org</guid>
@@ -2022,8 +2022,8 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>646: The Secret of My Death</title>
             <link>https://www.thisamericanlife.org/646/the-secret-of-my-death</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/646/prbsjYoLGjhPiyq9t-a2LHuLEuRmSb1LghhJQo0N-60/646.mp3" length="5000" type="audio/mpeg"/>
-            <description>Cryptic messages on a cell phone and a teeter totter at a construction site: these are clues people found, trying to make sense of a death.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Cryptic messages on a cell phone and a teeter-totter at a construction site: these are clues people found, trying to make sense of a death.</description>
             <pubDate>Fri, 18 May 2018 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">646: The Secret of My Death at https://www.thisamericanlife.org</guid>
         </item>
@@ -3595,7 +3595,7 @@ Transcript. Press Release.</description>
             <title>449: Middle School</title>
             <link>https://www.thisamericanlife.org/449/middle-school</link>
             <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
-            <description>As the new school year begins, we have stories today from all over the country about people lurching their way through their middle school years – the years when you're figuring out so, so much. We go to school dances and classrooms, and down to the Mexican border.</description>
+            <description>As the new school year begins, we have stories from all over the country about people lurching their way through their middle school years – the years when you're figuring out so much. We go to school dances, classrooms, and down to the Mexican border.</description>
             <pubDate>Fri, 28 Oct 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">449: Middle School at https://www.thisamericanlife.org</guid>
         </item>
