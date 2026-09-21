@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-09-14 11:19:43. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-09-21 11:24:07. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-09-14 11:19:43. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>897: Intergenerational Space Travel</title>
+            <link>https://www.thisamericanlife.org/897/intergenerational-space-travel</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>People braving the true final frontier — the gap between people born at slightly different times.</description>
+            <pubDate>Fri, 18 Sep 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">897: Intergenerational Space Travel at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>896: I Know What You Need</title>
             <link>https://www.thisamericanlife.org/896/i-know-what-you-need</link>
@@ -5541,7 +5549,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
         <item>
             <title>206: Somewhere in the Arabian Sea</title>
             <link>https://www.thisamericanlife.org/206/somewhere-in-the-arabian-sea</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/206-extended-1787409038.mp3" length="5000" type="audio/mpeg"/>
             <description>The aircraft carrier USS Abraham Lincoln has been in the news thanks to an extra-long deployment that's taken a toll on its crew. What's life on an aircraft carrier at war really like? Back in 2002, we spent a few days on the USS John C. Stennis, which was sending bombing missions into Afghanistan.</description>
             <pubDate>Fri, 01 Mar 2002 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">206: Somewhere in the Arabian Sea at https://www.thisamericanlife.org</guid>
