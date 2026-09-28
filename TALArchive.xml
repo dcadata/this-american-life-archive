@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-09-21 11:24:07. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-09-28 12:18:36. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,15 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-09-21 11:24:07. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>898: An Argument</title>
+            <link>https://www.thisamericanlife.org/898/an-argument</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Nikole Hannah-Jones made an argument 10 years ago in The New York Times Magazine that became famous. She wrote about choosing a public school for her daughter, Najya, in one of the most racially and economically segregated school systems in the country: New York City. Nikole chose a regular public school, one that most wealthy and middle-class parents wouldn’t consider, and she challenged other parents to do the same. 
+She revisits that argument, and that choice, in a series of conversations with producer Chana Joffe-Walt and with her daughter, Najya, who’s now 16 and has her own very different views.</description>
+            <pubDate>Fri, 25 Sep 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">898: An Argument at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>897: Intergenerational Space Travel</title>
             <link>https://www.thisamericanlife.org/897/intergenerational-space-travel</link>
@@ -76,7 +85,7 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-09-21 11:24:07. Known missing e
         <item>
             <title>890: Maximal Americanness</title>
             <link>https://www.thisamericanlife.org/890/maximal-americanness</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/890.mp3" length="5000" type="audio/mpeg"/>
             <description>On this country's 250th birthday, we bring you stories about the most American people, places, objects, and social norms that make this country what it is.</description>
             <pubDate>Fri, 03 Jul 2026 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">890: Maximal Americanness at https://www.thisamericanlife.org</guid>
@@ -2698,7 +2707,7 @@ An updated version of an episode originally broadcast back in 1997.</description
             <title>563: The Problem We All Live With - Part Two</title>
             <link>https://www.thisamericanlife.org/563/the-problem-we-all-live-with-part-two</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/563/_xXud9VyupHW92nK_7RfGSMBYddI8WUetTj1_WCNtoo/563.mp3" length="5000" type="audio/mpeg"/>
-            <description>Last week we looked at a school district integrating by accident. This week: a city going all out to integrate its schools. Plus, a girl who comes up with her own one-woman integration plan.</description>
+            <description>In part one, we looked at a school district integrating by accident. This episode looks at a city going all out to integrate its schools. Plus, a girl who comes up with her own one-woman integration plan.</description>
             <pubDate>Fri, 07 Aug 2015 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">563: The Problem We All Live With - Part Two at https://www.thisamericanlife.org</guid>
         </item>
@@ -2706,7 +2715,7 @@ An updated version of an episode originally broadcast back in 1997.</description
             <title>562: The Problem We All Live With - Part One</title>
             <link>https://www.thisamericanlife.org/562/the-problem-we-all-live-with-part-one</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/562/anIle8TSL8wg6TD3_GChwBCy6gOwbxp5wtYw9JQa0pM/562.mp3" length="5000" type="audio/mpeg"/>
-            <description>Right now, all sorts of people are trying to rethink and reinvent education, to get poor minority kids performing as well as white kids. But there's one thing nobody tries anymore, despite lots of evidence that it works: desegregation. Nikole Hannah-Jones looks at a district that, not long ago, accidentally launched a desegregation program.</description>
+            <description>All sorts of people are trying to rethink and reinvent education, to get poor Black kids performing as well as white kids. But there's one thing nobody tries anymore, despite lots of evidence that it works: desegregation. Nikole Hannah-Jones looks at a district that, not long ago, accidentally launched a desegregation program.</description>
             <pubDate>Fri, 31 Jul 2015 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">562: The Problem We All Live With - Part One at https://www.thisamericanlife.org</guid>
         </item>
