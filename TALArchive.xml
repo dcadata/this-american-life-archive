@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-09-28 12:18:36. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-10-05 12:55:40. Known missing episodes: 427.
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-09-28 12:18:36. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>899: Reaching Out</title>
+            <link>https://www.thisamericanlife.org/899/reaching-out</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>Sayre Quevedo’s invented a way to do a podcast that feels completely new. He’s been recording nearly all his conversations for years, and the result is something that captures a person’s life in a raw and complicated way that’s rarely heard. His new show Reaching Out also documents his mutually judge-y relationship with his twin brother as they set out to find their long-lost birth father.</description>
+            <pubDate>Fri, 02 Oct 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">899: Reaching Out at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>898: An Argument</title>
             <link>https://www.thisamericanlife.org/898/an-argument</link>
@@ -3611,7 +3619,7 @@ Transcript. Press Release.</description>
         <item>
             <title>449: Middle School</title>
             <link>https://www.thisamericanlife.org/449/middle-school</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/449-extended-1788612927.mp3" length="5000" type="audio/mpeg"/>
             <description>As the new school year begins, we have stories from all over the country about people lurching their way through their middle school years – the years when you're figuring out so much. We go to school dances, classrooms, and down to the Mexican border.</description>
             <pubDate>Fri, 28 Oct 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">449: Middle School at https://www.thisamericanlife.org</guid>
