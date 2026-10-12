@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-10-05 12:55:40. Known missing episodes: 427.
+Feed URL: tal.ankar.io. Feed last refreshed 2026-10-12 13:51:13. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -2047,7 +2047,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>646: The Secret of My Death</title>
             <link>https://www.thisamericanlife.org/646/the-secret-of-my-death</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/646-extended-1789215776.mp3" length="5000" type="audio/mpeg"/>
             <description>Cryptic messages on a cell phone and a teeter-totter at a construction site: these are clues people found, trying to make sense of a death.</description>
             <pubDate>Fri, 18 May 2018 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">646: The Secret of My Death at https://www.thisamericanlife.org</guid>
@@ -3795,8 +3795,8 @@ Transcript. Press Release.</description>
         <item>
             <title>427: Original Recipe</title>
             <link>https://www.thisamericanlife.org/427/original-recipe</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/427/AIh-X26SM1YbAN0AdJ_t-liGtMwvzN39D1YVS_XpMW8/427.mp3" length="5000" type="audio/mpeg"/>
-            <description>The formula for Coca-Cola is one of the most jealously guarded trade secrets in the world. Locked in a vault in Atlanta. Supposedly unreplicable. But we think we may have found the original recipe. And to see if the formula actually might be Coke, we made a batch. Or, anyway, we asked the folks at Jones Soda and Sovereign Flavors to whip up some up, to see if it tastes like Coke.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>We discover what we believe might be the original recipe for Coca-Cola…and share it with you! When this episode first aired in 2011, it made international headlines. This, and another story about telling copies from originals.</description>
             <pubDate>Fri, 11 Feb 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">427: Original Recipe at https://www.thisamericanlife.org</guid>
         </item>
@@ -5567,7 +5567,7 @@ Ten years after his arrest, Steve Raucci broke his silence and gave an interview
             <title>206: Somewhere in the Arabian Sea</title>
             <link>https://www.thisamericanlife.org/206/somewhere-in-the-arabian-sea</link>
             <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/206-extended-1787409038.mp3" length="5000" type="audio/mpeg"/>
-            <description>The aircraft carrier USS Abraham Lincoln has been in the news thanks to an extra-long deployment that's taken a toll on its crew. What's life on an aircraft carrier at war really like? Back in 2002, we spent a few days on the USS John C. Stennis, which was sending bombing missions into Afghanistan.</description>
+            <description>Life aboard the USS John C. Stennis, an aircraft carrier stationed in the Arabian Sea and supporting bombing missions over Afghanistan. Only a few dozen people on board actually fly jets. It takes the rest of the crew — over 5,000 people — to keep them in the air.</description>
             <pubDate>Fri, 01 Mar 2002 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">206: Somewhere in the Arabian Sea at https://www.thisamericanlife.org</guid>
         </item>
