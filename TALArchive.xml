@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-10-12 13:51:13. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-10-19 11:28:55. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -85,7 +85,7 @@ She revisits that argument, and that choice, in a series of conversations with p
         <item>
             <title>891: The Test Case</title>
             <link>https://www.thisamericanlife.org/891/the-test-case</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/891/YgDDDAbSQFeYPwFZngGfeJNlA-Smxf-PxIXv6PSlP7A/891.mp3" length="5000" type="audio/mpeg"/>
             <description>Some people in this country think Antifa is a dangerous domestic terror organization. Some think that’s a complete myth. This week, we go to the federal trial where, for the first time, the government sets out to prove that Antifa is real. Zoe Chace reports.</description>
             <pubDate>Fri, 10 Jul 2026 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">891: The Test Case at https://www.thisamericanlife.org</guid>
@@ -3306,8 +3306,8 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>489: No Coincidence, No Story!</title>
             <link>https://www.thisamericanlife.org/489/no-coincidence-no-story</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/489/CMMUoWOxRZGvX8MTIXxyuv7UC-Talc7URQpqgCICsXY/489.mp3" length="5000" type="audio/mpeg"/>
-            <description>We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions! There were so many good ones we decided to make a whole show about them. From a chance encounter at a bus station to a romantic dollar bill to a baffling apparition in a college shower stall.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions! There were so many good ones that we decided to make a whole show about them. From a chance encounter at a bus station to a romantic dollar bill to a baffling apparition in a college shower stall.</description>
             <pubDate>Fri, 01 Mar 2013 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">489: No Coincidence, No Story! at https://www.thisamericanlife.org</guid>
         </item>
@@ -3667,7 +3667,7 @@ Transcript. Press Release.</description>
         <item>
             <title>443: Amusement Park</title>
             <link>https://www.thisamericanlife.org/443/amusement-park</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/443-extended-1786200218.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/443/9-Ct8t_PSGkAMqTUhg3M4cDyfH1GjMTueaWsL9QzrV8/443.mp3" length="5000" type="audio/mpeg"/>
             <description>We head to some of the happiest places on earth: amusement parks! Ira Glass takes us behind the scenes at Worlds of Fun in Kansas City, where the young staff – coached by a funny, fun-loving boss just a little older than they are – truly seem to love their jobs.</description>
             <pubDate>Fri, 12 Aug 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">443: Amusement Park at https://www.thisamericanlife.org</guid>
