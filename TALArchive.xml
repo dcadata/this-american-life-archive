@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-10-19 11:28:55. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-10-26 11:47:51. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -77,7 +77,7 @@ She revisits that argument, and that choice, in a series of conversations with p
         <item>
             <title>892: Trapped on a Bus</title>
             <link>https://www.thisamericanlife.org/892/trapped-on-a-bus</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/892/UdzDQI_-cSy0lHIJEx9YCg0BYiKSfOQBA6xLQ_dRNhw/892.mp3" length="5000" type="audio/mpeg"/>
             <description>People on journeys they did not intend — or agree to.</description>
             <pubDate>Fri, 17 Jul 2026 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">892: Trapped on a Bus at https://www.thisamericanlife.org</guid>
@@ -3170,8 +3170,8 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>506: Secret Identity</title>
             <link>https://www.thisamericanlife.org/506/secret-identity</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/506/jucB3OF5OgPo0uQ9Elp5AfpiOxvC2iK049ePoibogc4/506.mp3" length="5000" type="audio/mpeg"/>
-            <description>A bank robber on an undercover mission. A teenage girl with the powers of a tiger. A vigilante seeking vengeance in Ciudad Juarez. All have secret identities. But not all of them chose those identities for themselves.</description>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>A bank robber on an undercover mission. A teenage girl with the powers of a tiger. A vigilante seeking vengeance in Ciudad Juárez. All have secret identities — but not all of them chose those identities for themselves.</description>
             <pubDate>Fri, 04 Oct 2013 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">506: Secret Identity at https://www.thisamericanlife.org</guid>
         </item>
