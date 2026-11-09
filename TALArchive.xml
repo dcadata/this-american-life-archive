@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-11-02 14:10:38. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-11-09 14:39:24. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-11-02 14:10:38. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>901: Is Your Blue My Blue?</title>
+            <link>https://www.thisamericanlife.org/901/is-your-blue-my-blue</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>The doomed project of trying to translate what’s in your head into someone else’s head.</description>
+            <pubDate>Fri, 06 Nov 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">901: Is Your Blue My Blue? at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>900: Talk Me Into It</title>
             <link>https://www.thisamericanlife.org/900/talk-me-into-it</link>
@@ -3803,7 +3811,7 @@ Transcript. Press Release.</description>
         <item>
             <title>427: Original Recipe</title>
             <link>https://www.thisamericanlife.org/427/original-recipe</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/427-extended-1791733142.mp3" length="5000" type="audio/mpeg"/>
             <description>We discover what we believe might be the original recipe for Coca-Cola…and share it with you! When this episode first aired in 2011, it made international headlines. This, and another story about telling copies from originals.</description>
             <pubDate>Fri, 11 Feb 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">427: Original Recipe at https://www.thisamericanlife.org</guid>
