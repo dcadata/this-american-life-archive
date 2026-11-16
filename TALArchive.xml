@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-11-09 14:39:24. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-11-16 14:21:06. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -17,6 +17,14 @@ Feed URL: tal.ankar.io. Feed last refreshed 2026-11-09 14:39:24. Known missing e
         <language>en</language>
         <copyright>Copyright 1995-2019 Ira Glass</copyright>
 
+        <item>
+            <title>902: The Missing Minutes</title>
+            <link>https://www.thisamericanlife.org/902/the-missing-minutes</link>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <description>A woman secretly records a conversation at a hotel bar, hoping to fill a gap in her memory that has bothered her for nearly 15 years.</description>
+            <pubDate>Fri, 13 Nov 2026 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">902: The Missing Minutes at https://www.thisamericanlife.org</guid>
+        </item>
         <item>
             <title>901: Is Your Blue My Blue?</title>
             <link>https://www.thisamericanlife.org/901/is-your-blue-my-blue</link>
@@ -3322,7 +3330,7 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>489: No Coincidence, No Story!</title>
             <link>https://www.thisamericanlife.org/489/no-coincidence-no-story</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/489-extended-1792170557.mp3" length="5000" type="audio/mpeg"/>
             <description>We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions! There were so many good ones that we decided to make a whole show about them. From a chance encounter at a bus station to a romantic dollar bill to a baffling apparition in a college shower stall.</description>
             <pubDate>Fri, 01 Mar 2013 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">489: No Coincidence, No Story! at https://www.thisamericanlife.org</guid>
@@ -3635,7 +3643,7 @@ Transcript. Press Release.</description>
         <item>
             <title>449: Middle School</title>
             <link>https://www.thisamericanlife.org/449/middle-school</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/449-extended-1788612927.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/449.mp3" length="5000" type="audio/mpeg"/>
             <description>As the new school year begins, we have stories from all over the country about people lurching their way through their middle school years – the years when you're figuring out so much. We go to school dances, classrooms, and down to the Mexican border.</description>
             <pubDate>Fri, 28 Oct 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">449: Middle School at https://www.thisamericanlife.org</guid>
