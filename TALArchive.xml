@@ -7,7 +7,7 @@
         <link>https://www.thisamericanlife.org</link>
         <description>Unofficial RSS feed for the "This American Life" podcast. Episodes 1 through current. Updated late Sunday night Eastern / early Monday morning UTC. Visit https://www.thisamericanlife.org for more information about the podcast.
 
-Feed URL: tal.ankar.io. Feed last refreshed 2026-11-16 14:21:06. Known missing episodes: .
+Feed URL: tal.ankar.io. Feed last refreshed 2026-11-23 16:47:17. Known missing episodes: .
         </description>
         <image>
             <url>https://dcadata.github.io/this-american-life-archive/templates/tal_official_image.png</url>
@@ -2071,7 +2071,7 @@ This episode won the 2020 Pulitzer Prize for audio reporting, the first ever gi
         <item>
             <title>646: The Secret of My Death</title>
             <link>https://www.thisamericanlife.org/646/the-secret-of-my-death</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/646-extended-1789215776.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/archive/646.mp3" length="5000" type="audio/mpeg"/>
             <description>Cryptic messages on a cell phone and a teeter-totter at a construction site: these are clues people found, trying to make sense of a death.</description>
             <pubDate>Fri, 18 May 2018 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">646: The Secret of My Death at https://www.thisamericanlife.org</guid>
@@ -3194,7 +3194,7 @@ An updated version of an episode originally broadcast back in 1997.</description
         <item>
             <title>506: Secret Identity</title>
             <link>https://www.thisamericanlife.org/506/secret-identity</link>
-            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/506-extended-1792789585.mp3" length="5000" type="audio/mpeg"/>
             <description>A bank robber on an undercover mission. A teenage girl with the powers of a tiger. A vigilante seeking vengeance in Ciudad Juárez. All have secret identities — but not all of them chose those identities for themselves.</description>
             <pubDate>Fri, 04 Oct 2013 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">506: Secret Identity at https://www.thisamericanlife.org</guid>
@@ -3747,7 +3747,7 @@ Transcript. Press Release.</description>
         <item>
             <title>436: The Psychopath Test</title>
             <link>https://www.thisamericanlife.org/436/the-psychopath-test</link>
-            <enclosure url="https://www.thisamericanlife.org/sites/default/files/audio/436/skm6CBw0vYaZsn465bfSaNuBe9xSgsLZ5jKP0auvXGE/436.mp3" length="5000" type="audio/mpeg"/>
+            <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3" length="5000" type="audio/mpeg"/>
             <description>We heard about a test that could determine if someone was a psychopath. So, naturally, our staff decided to take it.</description>
             <pubDate>Fri, 27 May 2011 18:00:00 -0400</pubDate>
             <guid isPermaLink="false">436: The Psychopath Test at https://www.thisamericanlife.org</guid>
